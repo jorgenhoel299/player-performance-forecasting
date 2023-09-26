@@ -1,3 +1,5 @@
+import os
+
 import requests, re
 from bs4 import BeautifulSoup, Comment
 import pandas as pd
@@ -11,7 +13,13 @@ import time
 #saving to csv. Then we can work on data pre-preprocessing like eliminating rows and columns in a seperate file.
 
 players_and_stats = [] # list with dictionairies of name and dataframe
-seasons = ['2023-2024'] # Add more sesons to list when we are ready
+players_in_this_season = []
+seasons = ['2023-2024','2019-2020','2020-2021','2021-2022','2022-2023'] # Add more sesons to list when we are ready, start with the last season
+                                                                        #bcs if the players are not anymore in epl or they retired we should not take them into account
+
+table_columns = []
+extracted_table_columns = 0
+
 for season in seasons:
     URL_season = 'https://fbref.com/en/comps/9/' + season + '/stats/' + season +'-Premier-League-Stats'
     page = requests.get(URL_season).content
@@ -19,14 +27,15 @@ for season in seasons:
 
     # Until you scroll down on the page the tables are commented in the html, so needs to be extracted like this
     comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+
     tables = []
-    for each in comments:
-        if 'table' in each:
-            try:
-                tables.append(pd.read_html(each)[0])
-            except:
-                continue
-    data = tables[0]
+#     for each in comments:
+#         if 'table' in each:
+#             try:
+#                 tables.append(pd.read_html(each)[0])
+#             except:
+#                 continue
+# #    data = tables[0]
 
     # ELEGANTLY getting all the links that are related to the players in the table.
     links = []
@@ -43,6 +52,13 @@ for season in seasons:
     for i, player in enumerate(player_cards[:5]): # when getting all players remove ':5'
         print('season:{0}, progress in season:{1}/{2}'.format(season, i+1, len(player_cards)))
         name = player.rsplit('/', 1)[1].split('"')[0] # Getting name of player as str
+        if season == seasons[0]:
+            players_in_this_season.append(name)
+        else:
+            if name not in players_in_this_season: #retired on transferred
+                continue
+
+
         URL_player = 'https://fbref.com/' + cleaned_match_logs[i]
 
         data_player = requests.get(URL_player).text
@@ -55,14 +71,30 @@ for season in seasons:
             row_data = []
             for cell in row.find_all('td'):
                 row_data.append(cell.text)
+
+            if extracted_table_columns == 1: #get column headers but on second iteration
+                for cell in row.find_all('th'):
+                    table_columns.append(cell.text)
+                extracted_table_columns += 1
+                table_columns.remove('Date')
+            elif extracted_table_columns == 0:
+                extracted_table_columns += 1
+
             data.append(row_data)
         df = pd.DataFrame(data)
-        print(df.head(3))
+        df = df.iloc[2:] #drop first two columns that are empty
+        df = df.reset_index(drop=True)
+        df.columns = table_columns
+
+        if not os.path.isdir(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name):
+            os.makedirs(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name)
+
+        df.to_csv(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name +"\\" + season + ".csv", encoding='utf-8')
+ #      print('Extracted info for player {0}, season {1}'.format(name, season))
 
         # instead of making silly list with name in data, lets just write the frames to .csv :D
         # maybe filename should be name+season.csv.
         # And maybe we should add the column names before writing to file, for some reason they arent in the table
-        players_and_stats.append({'Name': name, 'Data' + season: df.copy()})
-        time.sleep(5) # probably can be shorter i guess
+        #players_and_stats.append({'Name': name, 'Data' + season: df.copy()})
+        time.sleep(2.5) # probably can be shorter i guess
 
-#print(players_and_stats)
