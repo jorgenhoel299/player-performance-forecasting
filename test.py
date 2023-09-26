@@ -49,9 +49,9 @@ for season in seasons:
     cleaned_match_logs = [link.split('"')[0] for link in match_logs] # Getting just the link
 
     # iterate over each player in the given season
-    for i, player in enumerate(player_cards[:5]): # when getting all players remove ':5'
+    for i, player in enumerate(player_cards): # when getting all players remove ':5'
         print('season:{0}, progress in season:{1}/{2}'.format(season, i+1, len(player_cards)))
-        name = player.rsplit('/', 1)[1].split('"')[0] # Getting name of player as str
+        name = player.split("\"")[0].split('/')[-1]
         if season == seasons[0]:
             players_in_this_season.append(name)
         else:
