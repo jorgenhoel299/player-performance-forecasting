@@ -82,7 +82,7 @@ for season in seasons:
 
             data.append(row_data)
         df = pd.DataFrame(data)
-        df = df.iloc[2:] #drop first two columns that are empty
+        df = df.iloc[2:] #drop first two rows that are empty
         df = df.reset_index(drop=True)
         df.columns = table_columns
 
