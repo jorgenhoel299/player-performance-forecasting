@@ -1,0 +1,43 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Home,W 3–2,Watford,Aston Villa,Y,FW,65,1,1,0,0,5,3,0,0,27,2,0,0,0.6,0.6,0.2,7,2,12,15,80.0,2,20,3,3,1,Match Report
+1,Sat,Premier League,Matchweek 2,Away,L 0–2,Watford,Brighton,Y,"FW,RW",90,0,0,0,0,1,0,0,0,31,3,0,1,0.1,0.1,0.0,1,0,13,24,54.2,0,14,2,3,2,Match Report
+2,Tue,EFL Cup,Second round,Home,W 1–0,Watford,Crystal Palace,N,,45,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+3,Sun,Premier League,Matchweek 3,Away,L 0–1,Watford,Tottenham,Y,"LM,FW",90,0,0,0,0,2,0,1,0,29,3,0,1,0.1,0.1,0.0,2,0,15,19,78.9,1,10,4,5,4,Match Report
+4,Sat,Premier League,Matchweek 4,Home,L 0–2,Watford,Wolves,Y,"LM,FW,CM",90,0,0,0,0,1,0,1,0,38,3,1,1,0.0,0.0,0.0,0,0,16,27,59.3,1,18,3,3,2,Match Report
+5,Sat,Premier League,Matchweek 5,Away,W 3–1,Watford,Norwich City,Y,LW,72,1,0,0,0,2,2,0,0,33,1,0,2,0.2,0.2,0.0,0,0,10,19,52.6,1,11,3,3,0,Match Report
+6,Tue,EFL Cup,Third round,Home,L 1–3,Watford,Stoke City,N,,11,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+7,Sat,Premier League,Matchweek 6,Home,D 1–1,Watford,Newcastle Utd,Y,LW,74,0,0,0,0,4,1,1,0,25,2,2,0,0.3,0.3,0.0,1,0,9,13,69.2,1,16,4,4,2,Match Report
+8,Sat,Premier League,Matchweek 7,Away,L 0–1,Watford,Leeds United,Y,"LW,FW",90,0,0,0,0,1,1,1,0,28,1,0,2,0.1,0.1,0.1,2,0,10,15,66.7,1,7,0,1,0,Match Report
+9,Sat,Premier League,Matchweek 8,Home,L 0–5,Watford,Liverpool,Y,"RM,RW",68,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,0,0,9,14,64.3,2,13,1,2,1,Match Report
+10,Sat,Premier League,Matchweek 9,Away,W 5–2,Watford,Everton,N,"RW,RM",27,1,2,0,0,2,2,1,0,16,1,0,2,0.5,0.5,1.3,4,2,3,6,50.0,1,6,0,2,1,Match Report
+11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Sun,Premier League,Matchweek 11,Away,L 0–1,Watford,Arsenal,Y,"LM,LW",73,0,0,0,0,1,0,0,0,41,3,1,3,0.0,0.0,0.0,0,0,9,19,47.4,2,21,1,5,3,Match Report
+13,Sat,Premier League,Matchweek 12,Home,W 4–1,Watford,Manchester Utd,Y,LM,90,1,2,0,0,4,1,1,0,38,2,0,1,0.2,0.2,0.5,4,2,12,24,50.0,2,21,6,6,2,Match Report
+14,Sun,Premier League,Matchweek 13,Away,L 2–4,Watford,Leicester City,Y,"FW,LW,AM",70,1,0,0,0,3,2,0,0,23,1,1,0,0.7,0.7,0.1,4,2,11,15,73.3,1,20,3,3,1,Match Report
+15,Wed,Premier League,Matchweek 14,Home,L 1–2,Watford,Chelsea,Y,RM,90,1,0,0,0,1,1,0,0,58,2,1,2,0.1,0.1,0.5,6,0,24,36,66.7,4,38,5,7,3,Match Report
+16,Sat,Premier League,Matchweek 15,Home,L 1–3,Watford,Manchester City,Y,"RW,RM",90,0,0,0,0,2,2,0,0,34,1,0,1,0.1,0.1,0.0,3,0,13,18,72.2,4,21,1,5,1,Match Report
+17,Fri,Premier League,Matchweek 16,Away,L 1–2,Watford,Brentford,Y,FW,89,1,0,0,0,2,1,0,0,33,0,1,1,0.2,0.2,0.1,1,0,9,17,52.9,1,23,1,4,0,Match Report
+18,Tue,Premier League,Matchweek 20,Home,L 1–4,Watford,West Ham,Y,"FW,RW,RM",90,1,0,0,0,2,2,0,0,37,2,0,2,0.6,0.6,0.0,3,0,13,22,59.1,1,26,3,3,1,Match Report
+19,Sat,Premier League,Matchweek 21,Home,L 0–1,Watford,Tottenham,Y,FW,45,0,0,0,0,1,1,0,0,18,0,0,0,0.1,0.1,0.0,2,0,5,10,50.0,0,9,1,4,1,Match Report
+20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Sat,Premier League,Matchweek 22,Away,D 1–1,Watford,Newcastle Utd,Y,RW,83,0,0,0,0,2,0,0,0,35,1,0,0,0.1,0.1,0.4,5,0,15,23,65.2,3,21,3,10,6,Match Report
+22,Fri,Premier League,Matchweek 23,Home,L 0–3,Watford,Norwich City,Y,"RW,FW",77,0,0,0,0,1,0,2,1,34,1,0,0,0.0,0.0,0.0,2,0,18,26,69.2,3,27,1,4,3,Match Report
+23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,Tue,Premier League,Matchweek 24,Away,L 0–1,Watford,West Ham,Y,FW,90,0,0,0,0,1,0,0,0,39,2,0,2,0.0,0.0,0.0,2,0,15,21,71.4,4,23,5,5,3,Match Report
+25,Sat,Premier League,Matchweek 25,Home,L 0–2,Watford,Brighton,Y,"FW,LM",90,0,0,0,0,2,0,1,0,36,1,1,2,0.2,0.2,0.0,3,0,13,23,56.5,1,23,3,4,3,Match Report
+26,Sat,Premier League,Matchweek 26,Away,W 1–0,Watford,Aston Villa,Y,LW,85,1,0,0,0,2,2,0,0,52,5,0,1,0.6,0.6,0.1,4,0,23,30,76.7,3,38,6,6,2,Match Report
+27,Wed,Premier League,Matchweek 18,Home,L 1–4,Watford,Crystal Palace,Y,"LW,FW",90,0,0,0,0,4,0,0,0,28,0,0,2,0.9,0.9,0.0,2,1,9,11,81.8,1,16,1,5,1,Match Report
+28,Sat,Premier League,Matchweek 27,Away,D 0–0,Watford,Manchester Utd,Y,FW,90,0,0,0,0,1,1,0,0,33,1,0,1,0.2,0.2,0.0,1,0,9,18,50.0,0,22,2,7,4,Match Report
+29,Sun,Premier League,Matchweek 28,Home,L 2–3,Watford,Arsenal,Y,FW,90,0,0,0,0,4,1,0,0,34,0,0,0,0.4,0.4,0.0,3,1,10,21,47.6,3,21,4,5,1,Match Report
+30,Thu,Premier League,Matchweek 19,Away,L 0–4,Watford,Wolves,Y,FW,90,0,0,0,0,1,0,0,0,33,0,1,0,0.2,0.2,0.0,6,0,15,19,78.9,2,25,2,8,6,Match Report
+31,Sun,Premier League,Matchweek 29,Away,W 2–1,Watford,Southampton,Y,LW,86,0,0,0,0,1,0,0,0,36,2,3,2,0.1,0.1,0.2,4,1,14,22,63.6,3,20,6,4,3,Match Report
+32,Fri,WCQ,Third round,Away,D 0–0,ng Nigeria,gh Ghana,N,,33,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+33,Tue,WCQ,Third round,Home,D 1–1,ng Nigeria,gh Ghana,Y,FW,77,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+34,Sat,Premier League,Matchweek 31,Away,L 0–2,Watford,Liverpool,N,FW,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,2,0,Match Report
+35,Sat,Premier League,Matchweek 32,Home,L 0–3,Watford,Leeds United,N,LW,52,0,0,0,0,0,0,0,0,36,2,0,1,0.0,0.0,0.0,4,0,14,21,66.7,1,24,5,13,5,Match Report
+36,Sat,Premier League,Matchweek 33,Home,L 1–2,Watford,Brentford,Y,LW,90,1,0,0,0,3,2,0,0,44,2,0,2,0.2,0.2,0.0,2,0,18,21,85.7,4,25,2,6,1,Match Report
+37,Sat,Premier League,Matchweek 34,Away,L 1–5,Watford,Manchester City,Y,LW,90,0,1,0,0,1,1,0,0,40,2,2,1,0.3,0.3,0.1,4,1,13,19,68.4,1,26,4,13,5,Match Report
+38,Sat,Premier League,Matchweek 35,Home,L 1–2,Watford,Burnley,Y,LW,90,0,0,0,0,3,0,0,0,36,2,0,1,0.2,0.2,0.4,3,0,18,24,75.0,3,24,4,0,0,Match Report
+39,Sat,Premier League,Matchweek 36,Away,L 0–1,Watford,Crystal Palace,Y,LW,72,0,0,0,0,0,0,0,0,22,2,1,1,0.0,0.0,0.0,0,0,11,13,84.6,4,12,1,1,0,Match Report
+40,Thu,Friendlies (M),Friendlies (M),Neutral,L 0–1,ng Nigeria,ec Ecuador,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+41,,,,,7-5-26,,,31/38,,"2,792",10,6,0,0,61,26,9,1,1078,51,15,36,7.3,7.3,4.1,85,12,411,628,65.4,61,644,90,156,68,

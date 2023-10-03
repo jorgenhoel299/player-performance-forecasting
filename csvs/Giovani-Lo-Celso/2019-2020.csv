@@ -1,0 +1,50 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Tue,Copa América,Semi-finals,Neutral,L 0–2,ar Argentina,br Brazil,N,"DM,CM",24,0,0,0,0,1,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,10,0,2,0,Match Report
+1,Sat,Copa América,Third-place match,Neutral,W 2–1,ar Argentina,cl Chile,Y,LM,89,0,1,0,0,2,1,0,0,53,1,2,0,0.4,0.4,0.4,5,1,35,43,81.4,3,34,3,3,2,Match Report
+2,Sat,Premier League,Matchweek 2,Away,D 2–2,Tottenham,Manchester City,N,"RW,AM",6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+3,Sun,Premier League,Matchweek 3,Home,L 0–1,Tottenham,Newcastle Utd,N,RW,29,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.1,5,0,16,18,88.9,0,16,0,0,0,Match Report
+4,Sun,Premier League,Matchweek 4,Away,D 2–2,Tottenham,Arsenal,N,RW,12,0,0,0,0,0,0,0,0,5,1,0,1,0.0,0.0,0.0,0,0,4,4,100.0,0,3,1,0,0,Match Report
+5,Thu,Friendlies (M),Friendlies (M),Neutral,D 0–0,ar Argentina,cl Chile,Y,CM,52,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+6,Tue,Champions Lg,Group stage,Home,W 5–0,eng Tottenham,rs Red Star,N,LW,12,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,11,15,73.3,0,12,1,0,0,Match Report
+7,Sun,Premier League,Matchweek 10,Away,L 1–2,Tottenham,Liverpool,N,DM,3,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,6,0,0,0,Match Report
+8,Sun,Premier League,Matchweek 11,Away,D 1–1,Tottenham,Everton,N,"AM,DM",18,0,0,0,0,0,0,0,0,17,1,1,0,0.0,0.0,0.0,0,0,6,7,85.7,0,10,0,1,0,Match Report
+9,Wed,Champions Lg,Group stage,Away,W 4–0,eng Tottenham,rs Red Star,Y,RW,85,1,0,0,0,3,1,0,0,100,5,0,2,0.3,0.3,0.5,4,0,71,83,85.5,9,71,0,2,0,Match Report
+10,Sat,Premier League,Matchweek 12,Home,D 1–1,Tottenham,Sheffield Utd,Y,"RW,AM,CM",90,0,0,0,0,2,0,0,0,78,2,0,0,0.1,0.1,0.1,5,1,51,64,79.7,8,56,4,3,2,Match Report
+11,Fri,Friendlies (M),Friendlies (M),Away,W 1–0,ar Argentina,br Brazil,Y,CM,58,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+12,Mon,Friendlies (M),Friendlies (M),Home,D 2–2,ar Argentina,uy Uruguay,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Sat,Premier League,Matchweek 13,Away,W 3–2,Tottenham,West Ham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Tue,Champions Lg,Group stage,Home,W 4–2,eng Tottenham,gr Olympiacos,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Sat,Premier League,Matchweek 14,Home,W 3–2,Tottenham,Bournemouth,N,"RW,FW",3,0,0,0,0,0,0,0,0,4,1,1,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+16,Wed,Premier League,Matchweek 15,Away,L 1–2,Tottenham,Manchester Utd,N,RW,6,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,7,0,1,0,Match Report
+17,Sat,Premier League,Matchweek 16,Home,W 5–0,Tottenham,Burnley,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Wed,Champions Lg,Group stage,Away,L 1–3,eng Tottenham,de Bayern Munich,Y,RW,64,0,0,0,0,1,0,1,0,30,2,2,1,0.0,0.0,0.0,1,0,16,21,76.2,4,20,2,3,1,Match Report
+19,Sun,Premier League,Matchweek 17,Away,W 2–1,Tottenham,Wolves,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Sun,Premier League,Matchweek 18,Home,L 0–2,Tottenham,Chelsea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Thu,Premier League,Matchweek 19,Home,W 2–1,Tottenham,Brighton,N,"AM,RW",35,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.0,0,0,15,20,75.0,3,18,2,3,1,Match Report
+22,Sat,Premier League,Matchweek 20,Away,D 2–2,Tottenham,Norwich City,Y,"CM,RW",73,0,0,0,0,2,1,0,0,39,2,0,0,0.1,0.1,0.0,1,0,26,32,81.3,1,28,0,1,1,Match Report
+23,Wed,Premier League,Matchweek 21,Away,L 0–1,Tottenham,Southampton,N,RM,66,0,0,0,0,1,0,1,0,29,3,0,1,0.1,0.1,0.1,4,0,17,21,81.0,2,24,2,0,0,Match Report
+24,Sun,FA Cup,Third round,Away,D 1–1,Tottenham,Middlesbrough,N,,35,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+25,Sat,Premier League,Matchweek 22,Home,L 0–1,Tottenham,Liverpool,N,CM,22,0,0,0,0,1,0,0,0,16,0,0,2,0.6,0.6,0.0,0,0,8,12,66.7,1,9,2,1,1,Match Report
+26,Tue,FA Cup,Third round,Home,W 2–1,Tottenham,Middlesbrough,Y,AM,90,1,0,0,0,3,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+27,Sat,Premier League,Matchweek 23,Away,D 0–0,Tottenham,Watford,Y,RM,79,0,0,0,0,0,0,0,0,70,2,0,1,0.0,0.0,0.0,1,0,47,55,85.5,6,55,5,3,2,Match Report
+28,Wed,Premier League,Matchweek 24,Home,W 2–1,Tottenham,Norwich City,Y,"DM,RW",90,0,0,0,0,0,0,0,0,74,4,1,2,0.0,0.0,0.2,9,0,47,57,82.5,11,48,2,6,5,Match Report
+29,Sat,FA Cup,Fourth round,Away,D 1–1,Tottenham,Southampton,Y,FW,90,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+30,Sun,Premier League,Matchweek 25,Home,W 2–0,Tottenham,Manchester City,Y,"DM,AM,RW",90,0,0,0,0,0,0,1,0,65,2,0,1,0.0,0.0,0.0,2,0,46,55,83.6,7,43,0,2,1,Match Report
+31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,Sun,Premier League,Matchweek 26,Away,W 3–2,Tottenham,Aston Villa,N,DM,31,0,0,0,0,2,1,0,0,32,0,1,0,0.1,0.1,0.1,3,0,18,22,81.8,5,20,1,1,0,Match Report
+33,Wed,Champions Lg,Round of 16,Home,L 0–1,eng Tottenham,de RB Leipzig,Y,"CM,RM",90,0,0,0,0,3,2,1,0,68,0,2,1,0.2,0.2,0.4,7,0,38,54,70.4,6,43,3,6,4,Match Report
+34,Sat,Premier League,Matchweek 27,Away,L 1–2,Tottenham,Chelsea,Y,"RM,CM",90,0,0,0,0,0,0,1,0,83,8,0,1,0.0,0.0,0.0,2,0,52,69,75.4,3,56,5,5,5,Match Report
+35,Sun,Premier League,Matchweek 28,Home,L 2–3,Tottenham,Wolves,Y,"CM,RM",90,0,0,0,0,1,0,1,0,90,2,0,0,0.1,0.1,0.1,5,0,68,81,84.0,11,68,3,6,3,Match Report
+36,Wed,FA Cup,Fifth round,Home,D 1 (2)–1 (3),Tottenham,Norwich City,Y,AM,120,0,1,0,0,3,2,0,0,,,1,,,,,,,,,,,,,,,Match Report
+37,Sat,Premier League,Matchweek 29,Away,D 1–1,Tottenham,Burnley,N,DM,45,0,0,0,0,2,0,1,0,52,1,0,0,0.1,0.1,0.0,5,1,33,48,68.8,4,33,4,1,0,Match Report
+38,Tue,Champions Lg,Round of 16,Away,L 0–3,eng Tottenham,de RB Leipzig,Y,CM,79,0,0,0,0,1,1,0,0,79,2,1,1,0.1,0.1,0.0,2,0,50,64,78.1,7,45,2,11,9,Match Report
+39,Fri,Premier League,Matchweek 30,Home,D 1–1,Tottenham,Manchester Utd,N,"RM,RW",21,0,0,0,0,0,0,0,0,16,3,0,0,0.0,0.0,0.0,3,0,9,12,75.0,3,10,0,0,0,Match Report
+40,Tue,Premier League,Matchweek 31,Home,W 2–0,Tottenham,West Ham,Y,"DM,AM",90,0,0,0,0,0,0,0,0,113,1,2,1,0.0,0.0,0.3,7,0,88,104,84.6,11,82,8,4,3,Match Report
+41,Thu,Premier League,Matchweek 32,Away,L 1–3,Tottenham,Sheffield Utd,Y,DM,90,0,0,0,0,2,0,0,0,119,2,1,1,0.1,0.1,0.0,1,0,88,102,86.3,13,85,6,1,1,Match Report
+42,Mon,Premier League,Matchweek 33,Home,W 1–0,Tottenham,Everton,Y,LM,89,0,0,0,0,1,0,0,0,54,4,0,1,0.1,0.1,0.0,3,0,34,45,75.6,2,41,2,0,0,Match Report
+43,Thu,Premier League,Matchweek 34,Away,D 0–0,Tottenham,Bournemouth,Y,LM,45,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,1,0,23,33,69.7,4,15,3,2,1,Match Report
+44,Sun,Premier League,Matchweek 35,Home,W 2–1,Tottenham,Arsenal,Y,CM,83,0,0,0,0,1,0,1,0,55,2,0,0,0.1,0.1,0.1,2,0,41,49,83.7,4,37,3,2,1,Match Report
+45,Wed,Premier League,Matchweek 36,Away,W 3–1,Tottenham,Newcastle Utd,Y,LM,61,0,1,0,0,1,0,0,0,55,1,1,1,0.0,0.0,0.2,2,1,39,43,90.7,6,40,4,2,2,Match Report
+46,Sun,Premier League,Matchweek 37,Home,W 3–0,Tottenham,Leicester City,Y,AM,76,0,0,0,0,0,0,0,0,42,5,1,3,0.0,0.0,0.0,3,1,16,28,57.1,2,24,3,3,2,Match Report
+47,Sun,Premier League,Matchweek 38,Away,D 1–1,Tottenham,Crystal Palace,Y,AM,59,0,1,0,0,1,1,0,0,55,3,0,2,0.0,0.0,0.2,5,2,35,41,85.4,5,39,2,3,1,Match Report
+48,,,,,15-14-12,,,25/41,,"2,380",2,4,0,0,38,11,8,0,1625,62,18,25,2.3,2.3,3.0,89,7,1067,1322,80.7,141,1110,73,78,48,

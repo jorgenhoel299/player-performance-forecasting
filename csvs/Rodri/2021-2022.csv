@@ -1,0 +1,73 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Fri,UEFA Euro,Quarter-finals,Away,D 1 (3)–1 (1),es Spain,ch Switzerland,N,LM,2,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,1,4,0,0,0,Match Report
+1,Tue,UEFA Euro,Semi-finals,Away,D 1 (2)–1 (4),es Spain,it Italy,N,RM,51,0,0,0,0,0,0,0,0,45,1,0,0,0.0,0.0,0.0,2,0,43,45,95.6,8,34,1,0,0,Match Report
+2,Sat,Community Shield,FA Community Shield,Neutral,L 0–1,Manchester City,Leicester City,N,,26,0,,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+3,Sun,Premier League,Matchweek 1,Away,L 0–1,Manchester City,Tottenham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Sat,Premier League,Matchweek 2,Home,W 5–0,Manchester City,Norwich City,Y,CM,90,0,0,0,0,2,0,0,0,84,1,0,0,0.0,0.0,0.1,2,0,71,80,88.8,6,51,0,0,0,Match Report
+5,Sat,Premier League,Matchweek 3,Home,W 5–0,Manchester City,Arsenal,Y,CM,90,1,0,0,0,2,1,1,0,112,4,1,0,0.1,0.1,0.1,4,0,101,105,96.2,14,79,1,2,1,Match Report
+6,Thu,WCQ,First round,Away,L 1–2,es Spain,se Sweden,N,,6,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+7,Sun,WCQ,First round,Home,W 4–0,es Spain,ge Georgia,Y,CM,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+8,Wed,WCQ,First round,Away,W 2–0,es Spain,xk Kosovo,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Sat,Premier League,Matchweek 4,Away,W 1–0,Manchester City,Leicester City,Y,CM,90,0,0,0,0,0,0,1,0,59,0,1,1,0.0,0.0,0.0,5,0,50,53,94.3,6,30,1,1,0,Match Report
+10,Wed,Champions Lg,Group stage,Home,W 6–3,eng Manchester City,de RB Leipzig,Y,CM,58,0,0,0,0,0,0,0,0,39,2,5,1,0.0,0.0,0.0,1,0,29,31,93.5,3,18,1,0,0,Match Report
+11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Sat,Premier League,Matchweek 6,Away,W 1–0,Manchester City,Chelsea,Y,CM,90,0,0,0,0,1,0,0,0,89,3,1,1,0.0,0.0,0.0,4,0,75,79,94.9,7,42,3,0,0,Match Report
+13,Tue,Champions Lg,Group stage,Away,L 0–2,eng Manchester City,fr Paris S-G,Y,CM,90,0,0,0,0,0,0,0,0,83,6,0,1,0.0,0.0,0.1,4,0,73,78,93.6,17,60,5,0,0,Match Report
+14,Sun,Premier League,Matchweek 7,Away,D 2–2,Manchester City,Liverpool,Y,CM,90,0,0,0,0,1,0,0,0,72,2,1,2,0.0,0.0,0.0,1,0,52,62,83.9,5,44,1,1,1,Match Report
+15,Wed,UEFA Nations League,Semi-finals,Neutral,W 2–1,es Spain,it Italy,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Sun,UEFA Nations League,Final,Neutral,L 1–2,es Spain,fr France,Y,CM,83,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+17,Sat,Premier League,Matchweek 8,Home,W 2–0,Manchester City,Burnley,Y,"CM,RM",90,0,0,0,0,0,0,0,0,107,3,1,0,0.0,0.0,0.0,2,1,92,97,94.8,9,47,0,0,0,Match Report
+18,Tue,Champions Lg,Group stage,Away,W 5–1,eng Manchester City,be Club Brugge,Y,CM,70,0,0,0,0,0,0,0,0,66,1,1,0,0.0,0.0,0.0,0,0,61,64,95.3,4,45,1,0,0,Match Report
+19,Sat,Premier League,Matchweek 9,Away,W 4–1,Manchester City,Brighton,Y,"CM,DM",90,0,0,0,0,1,0,0,0,67,1,0,2,0.0,0.0,0.0,1,0,53,59,89.8,7,31,0,0,0,Match Report
+20,Wed,EFL Cup,Fourth round,Away,D 0 (3)–0 (5),Manchester City,West Ham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Sat,Premier League,Matchweek 10,Home,L 0–2,Manchester City,Crystal Palace,Y,CM,90,0,0,0,0,2,1,0,0,118,3,0,3,0.2,0.2,0.1,6,0,91,105,86.7,17,59,1,1,1,Match Report
+22,Wed,Champions Lg,Group stage,Home,W 4–1,eng Manchester City,be Club Brugge,Y,CM,90,0,0,0,0,1,0,0,0,110,2,2,1,0.0,0.0,0.0,2,0,99,105,94.3,9,91,1,2,1,Match Report
+23,Sat,Premier League,Matchweek 11,Away,W 2–0,Manchester City,Manchester Utd,Y,CM,90,0,0,0,0,1,0,0,0,109,0,0,2,0.1,0.1,0.1,2,0,100,106,94.3,11,78,0,2,2,Match Report
+24,Thu,WCQ,First round,Away,W 1–0,es Spain,gr Greece,Y,CM,90,0,0,0,0,2,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+25,Sun,WCQ,First round,Home,W 1–0,es Spain,se Sweden,N,,2,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+26,Sun,Premier League,Matchweek 12,Home,W 3–0,Manchester City,Everton,Y,CM,90,1,0,0,0,1,1,0,0,123,2,0,1,0.0,0.0,0.0,3,1,111,118,94.1,17,63,0,1,1,Match Report
+27,Wed,Champions Lg,Group stage,Home,W 2–1,eng Manchester City,fr Paris S-G,Y,CM,90,0,0,0,0,2,0,1,0,98,1,0,0,0.1,0.1,0.0,3,1,87,93,93.5,10,79,1,0,0,Match Report
+28,Sun,Premier League,Matchweek 13,Home,W 2–1,Manchester City,West Ham,Y,CM,90,0,0,0,0,0,0,0,0,87,4,1,0,0.0,0.0,0.0,2,0,76,80,95.0,10,61,0,2,1,Match Report
+29,Wed,Premier League,Matchweek 14,Away,W 2–1,Manchester City,Aston Villa,Y,DM,90,0,0,0,0,2,1,0,0,95,4,2,2,0.0,0.0,0.0,2,0,71,83,85.5,7,59,0,1,0,Match Report
+30,Sat,Premier League,Matchweek 15,Away,W 3–1,Manchester City,Watford,Y,CM,90,0,0,0,0,0,0,0,0,103,5,0,1,0.0,0.0,0.0,4,0,89,96,92.7,5,69,0,1,0,Match Report
+31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,Sat,Premier League,Matchweek 16,Home,W 1–0,Manchester City,Wolves,Y,CM,90,0,0,0,0,2,1,1,0,97,3,3,1,0.1,0.1,0.0,5,0,81,85,95.3,19,50,1,1,1,Match Report
+33,Tue,Premier League,Matchweek 17,Home,W 7–0,Manchester City,Leeds United,Y,DM,55,0,1,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.4,4,1,32,32,100.0,7,30,4,2,0,Match Report
+34,Sun,Premier League,Matchweek 18,Away,W 4–0,Manchester City,Newcastle Utd,Y,DM,67,0,0,0,0,1,0,1,0,95,3,0,0,0.0,0.0,0.0,1,0,81,90,90.0,6,56,0,1,1,Match Report
+35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,Sat,Premier League,Matchweek 21,Away,W 2–1,Manchester City,Arsenal,Y,"DM,CM",90,1,0,0,0,1,1,1,0,86,2,0,0,0.1,0.1,0.0,3,0,71,79,89.9,5,60,4,0,0,Match Report
+37,Fri,FA Cup,Third round proper,Away,W 4–1,Manchester City,Swindon Town,Y,CM,90,0,0,0,0,2,1,1,0,,,1,,,,,,,,,,,,,,,Match Report
+38,Sat,Premier League,Matchweek 22,Home,W 1–0,Manchester City,Chelsea,Y,"DM,CM",90,0,0,0,0,1,0,0,0,78,1,0,0,0.0,0.0,0.0,2,0,67,74,90.5,6,55,1,0,0,Match Report
+39,Sat,Premier League,Matchweek 23,Away,D 1–1,Manchester City,Southampton,Y,CM,90,0,0,0,0,3,1,0,0,121,2,1,2,0.1,0.1,0.0,3,0,99,109,90.8,14,89,3,1,1,Match Report
+40,Sat,FA Cup,Fourth round proper,Home,W 4–1,Manchester City,Fulham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,Wed,Premier League,Matchweek 24,Home,W 2–0,Manchester City,Brentford,Y,CM,90,0,0,0,0,2,1,0,0,104,1,0,1,0.0,0.0,0.0,3,0,86,94,91.5,3,83,0,2,0,Match Report
+42,Sat,Premier League,Matchweek 25,Away,W 4–0,Manchester City,Norwich City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,Tue,Champions Lg,Round of 16,Away,W 5–0,eng Manchester City,pt Sporting CP,Y,CM,72,0,0,0,0,1,0,0,0,88,1,1,1,0.0,0.0,0.0,4,2,79,83,95.2,6,75,0,1,1,Match Report
+44,Sat,Premier League,Matchweek 26,Home,L 2–3,Manchester City,Tottenham,Y,CM,90,0,0,0,0,0,0,0,0,95,2,3,1,0.0,0.0,0.1,4,1,75,86,87.2,15,48,3,0,0,Match Report
+45,Sat,Premier League,Matchweek 27,Away,W 1–0,Manchester City,Everton,Y,CM,90,0,0,0,0,2,0,0,0,117,2,3,0,0.1,0.1,0.0,2,0,89,103,86.4,13,68,3,0,0,Match Report
+46,Tue,FA Cup,Fifth round proper,Away,W 2–0,Manchester City,P'borough Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,Sun,Premier League,Matchweek 28,Home,W 4–1,Manchester City,Manchester Utd,Y,CM,90,0,0,0,0,0,0,0,0,111,1,1,1,0.0,0.0,0.0,4,0,97,101,96.0,7,85,1,0,0,Match Report
+48,Wed,Champions Lg,Round of 16,Home,D 0–0,eng Manchester City,pt Sporting CP,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,Mon,Premier League,Matchweek 29,Away,D 0–0,Manchester City,Crystal Palace,Y,CM,90,0,0,0,0,2,0,0,0,137,4,1,1,0.1,0.1,0.0,4,0,108,128,84.4,12,107,6,1,1,Match Report
+50,Sun,FA Cup,Quarter-finals,Away,W 4–1,Manchester City,Southampton,Y,CM,82,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+51,Sat,Friendlies (M),Friendlies (M),Neutral,W 2–1,es Spain,al Albania,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+52,Tue,Friendlies (M),Friendlies (M),Neutral,W 5–0,es Spain,is Iceland,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,Sat,Premier League,Matchweek 31,Away,W 2–0,Manchester City,Burnley,Y,CM,90,0,0,0,0,3,1,0,0,121,2,0,1,0.1,0.1,0.0,5,1,105,114,92.1,11,95,1,0,0,Match Report
+54,Tue,Champions Lg,Quarter-finals,Home,W 1–0,eng Manchester City,es Atlético Madrid,Y,CM,90,0,0,0,0,1,0,0,0,116,2,2,0,0.1,0.1,0.0,3,1,95,109,87.2,13,99,5,1,0,Match Report
+55,Sun,Premier League,Matchweek 32,Home,D 2–2,Manchester City,Liverpool,Y,"DM,CM",90,0,0,0,0,1,0,0,0,84,1,1,1,0.0,0.0,0.0,0,0,65,77,84.4,2,66,1,0,0,Match Report
+56,Wed,Champions Lg,Quarter-finals,Away,D 0–0,eng Manchester City,es Atlético Madrid,Y,"CM,RM",90,0,0,0,0,0,0,1,0,100,4,0,1,0.0,0.0,0.0,2,0,82,89,92.1,4,51,0,1,1,Match Report
+57,Sat,FA Cup,Semi-finals,Home,L 2–3,Manchester City,Liverpool,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,Wed,Premier League,Matchweek 30,Home,W 3–0,Manchester City,Brighton,Y,CM,90,0,0,0,0,1,0,0,0,84,1,1,0,0.0,0.0,0.0,1,0,71,81,87.7,7,59,1,0,0,Match Report
+59,Sat,Premier League,Matchweek 34,Home,W 5–1,Manchester City,Watford,Y,DM,70,1,0,0,0,3,1,0,0,78,2,0,2,0.2,0.2,0.0,3,0,64,68,94.1,9,43,1,0,0,Match Report
+60,Tue,Champions Lg,Semi-finals,Home,W 4–3,eng Manchester City,es Real Madrid,Y,CM,90,0,0,0,0,1,0,0,0,103,3,1,0,0.0,0.0,0.0,2,1,85,92,92.4,3,81,1,3,3,Match Report
+61,Sat,Premier League,Matchweek 35,Away,W 4–0,Manchester City,Leeds United,Y,DM,82,1,0,0,0,1,1,0,0,71,2,2,0,0.3,0.3,0.0,2,0,59,61,96.7,1,25,0,0,0,Match Report
+62,Wed,Champions Lg,Semi-finals,Away,L 1–3,eng Manchester City,es Real Madrid,Y,"CM,DM",98,0,0,0,0,0,0,0,0,77,4,2,3,0.0,0.0,0.0,2,0,63,66,95.5,4,53,1,1,0,Match Report
+63,Sun,Premier League,Matchweek 36,Home,W 5–0,Manchester City,Newcastle Utd,Y,"DM,CM,LM",90,1,0,0,0,1,1,0,0,116,2,1,0,0.1,0.1,0.1,2,0,99,107,92.5,5,69,3,0,0,Match Report
+64,Wed,Premier League,Matchweek 33,Away,W 5–1,Manchester City,Wolves,Y,"DM,CB",90,0,0,0,0,1,0,0,0,115,3,0,1,0.0,0.0,0.0,0,0,105,107,98.1,2,62,0,0,0,Match Report
+65,Sun,Premier League,Matchweek 37,Away,D 2–2,Manchester City,West Ham,Y,CM,90,0,1,0,0,4,1,0,0,118,3,2,0,0.2,0.2,0.1,4,1,93,100,93.0,13,88,2,1,1,Match Report
+66,Sun,Premier League,Matchweek 38,Home,W 3–2,Manchester City,Aston Villa,Y,CM,90,1,0,0,0,3,1,0,0,77,2,1,0,0.1,0.1,0.1,3,0,61,68,89.7,7,52,1,1,0,Match Report
+67,Thu,UEFA Nations League,League A,Home,D 1–1,es Spain,pt Portugal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,Sun,UEFA Nations League,League A,Away,D 2–2,es Spain,cz Czech Republic,Y,CM,60,0,1,0,0,1,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+69,Thu,UEFA Nations League,League A,Away,W 1–0,es Spain,ch Switzerland,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,Sun,UEFA Nations League,League A,Home,W 2–0,es Spain,cz Czech Republic,Y,CM,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+71,,,,,40-9-7,,,51/56,,"4,484",7,3,0,0,60,15,9,0,4100,99,46,36,2.6,2.6,1.6,118,11,3439,3745,91.8,367,2693,60,31,18,

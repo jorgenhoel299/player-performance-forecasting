@@ -1,0 +1,40 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sun,Premier League,Matchweek 4,Away,L 0–2,West Brom,Southampton,N,"AM,DM",27,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,2,6,0,0,0,Match Report
+1,Mon,Premier League,Matchweek 5,Home,D 0–0,West Brom,Burnley,Y,CM,78,0,0,0,0,1,0,0,0,66,2,0,0,0.0,0.0,0.0,2,0,55,63,87.3,6,36,0,0,0,Match Report
+2,Mon,Premier League,Matchweek 6,Away,D 1–1,West Brom,Brighton,Y,"CM,DM",90,0,0,0,0,2,2,0,0,75,3,2,0,0.1,0.1,0.0,2,0,58,68,85.3,8,26,2,0,0,Match Report
+3,Mon,Premier League,Matchweek 7,Away,L 0–2,West Brom,Fulham,Y,DM,69,0,0,0,0,1,0,0,0,57,4,0,0,0.0,0.0,0.0,2,0,36,44,81.8,5,38,4,1,1,Match Report
+4,Sun,Premier League,Matchweek 8,Home,L 0–1,West Brom,Tottenham,Y,CM,90,0,0,0,0,1,0,0,0,74,3,2,0,0.0,0.0,0.1,7,0,44,65,67.7,7,21,1,2,2,Match Report
+5,Sat,Premier League,Matchweek 9,Away,L 0–1,West Brom,Manchester Utd,N,CM,12,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,10,12,83.3,3,6,1,0,0,Match Report
+6,Sat,Premier League,Matchweek 10,Home,W 1–0,West Brom,Sheffield Utd,N,DM,16,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,2,0,10,11,90.9,2,6,1,0,0,Match Report
+7,Sun,Premier League,Matchweek 11,Home,L 1–5,West Brom,Crystal Palace,N,DM,45,0,0,0,0,2,0,0,0,43,0,0,1,0.1,0.1,0.0,0,0,31,37,83.8,3,25,1,1,1,Match Report
+8,Sat,Premier League,Matchweek 12,Away,L 1–2,West Brom,Newcastle Utd,Y,"CM,AM",90,0,0,0,0,1,0,0,0,66,1,0,1,0.0,0.0,0.0,5,0,50,59,84.7,5,44,5,5,4,Match Report
+9,Tue,Premier League,Matchweek 13,Away,D 1–1,West Brom,Manchester City,N,"RM,CM",11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,Match Report
+10,Sun,Premier League,Matchweek 14,Home,L 0–3,West Brom,Aston Villa,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Sun,Premier League,Matchweek 15,Away,D 1–1,West Brom,Liverpool,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Tue,Premier League,Matchweek 16,Home,L 0–5,West Brom,Leeds United,N,FW,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,Match Report
+13,Sat,Premier League,Matchweek 17,Home,L 0–4,West Brom,Arsenal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Sat,FA Cup,Third round proper,Away,D 2 (2)–2 (3),West Brom,Blackpool,Y,RW,120,0,0,0,0,3,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+15,Sat,Premier League,Matchweek 19,Away,W 3–2,West Brom,Wolves,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Tue,Premier League,Matchweek 18,Away,L 1–2,West Brom,West Ham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Sat,Championship,Matchweek 27,Home,D 0–0,Nott'ham Forest,Barnsley,Y,AM,90,0,0,0,0,1,0,0,0,42,1,0,0,0.0,0.0,0.0,3,0,24,34,70.6,2,19,0,2,1,Match Report
+18,Tue,Championship,Matchweek 26,Away,W 2–1,Nott'ham Forest,Coventry City,Y,AM,83,0,0,0,0,0,0,1,0,46,1,3,2,0.0,0.0,0.0,1,0,27,40,67.5,4,25,1,4,3,Match Report
+19,Sat,Championship,Matchweek 28,Away,W 3–0,Nott'ham Forest,Wycombe,Y,AM,90,0,0,0,0,1,0,0,0,53,1,0,1,0.0,0.0,0.1,4,0,39,46,84.8,9,45,2,0,0,Match Report
+20,Sat,Championship,Matchweek 29,Home,D 0–0,Nott'ham Forest,Bournemouth,Y,AM,90,0,0,0,0,3,1,0,0,43,1,1,3,0.1,0.1,0.1,3,0,20,28,71.4,0,26,1,2,2,Match Report
+21,Wed,Championship,Matchweek 30,Away,L 0–1,Nott'ham Forest,Swansea City,Y,AM,87,0,0,0,0,3,0,0,0,58,2,1,2,0.1,0.1,0.1,2,0,32,43,74.4,0,30,2,0,0,Match Report
+22,Sat,Championship,Matchweek 31,Home,W 1–0,Nott'ham Forest,Blackburn,Y,AM,90,0,0,0,0,2,0,0,0,53,4,2,0,0.1,0.1,0.1,5,1,32,42,76.2,4,35,0,0,0,Match Report
+23,Tue,Championship,Matchweek 32,Away,W 1–0,Nott'ham Forest,Rotherham Utd,Y,AM,87,0,0,0,0,2,0,0,0,34,2,1,0,0.1,0.1,0.2,4,0,16,23,69.6,3,16,3,3,2,Match Report
+24,Fri,Championship,Matchweek 33,Away,D 1–1,Nott'ham Forest,Derby County,Y,AM,90,0,0,0,0,1,0,0,0,47,1,1,1,0.1,0.1,0.0,2,0,27,37,73.0,2,20,2,3,2,Match Report
+25,Tue,Championship,Matchweek 34,Home,L 0–1,Nott'ham Forest,Luton Town,Y,AM,67,0,0,0,0,1,0,0,0,40,2,0,0,0.0,0.0,0.1,4,0,27,31,87.1,3,23,3,1,1,Match Report
+26,Sat,Championship,Matchweek 35,Away,L 0–1,Nott'ham Forest,Watford,Y,AM,80,0,0,0,0,2,0,0,0,37,1,0,1,0.1,0.1,0.0,1,0,19,26,73.1,3,14,2,1,0,Match Report
+27,Sat,Championship,Matchweek 36,Home,D 1–1,Nott'ham Forest,Reading,Y,AM,79,0,0,0,0,3,1,0,0,44,0,0,0,0.1,0.1,0.1,3,0,28,37,75.7,4,26,0,1,1,Match Report
+28,Wed,Championship,Matchweek 37,Home,L 0–2,Nott'ham Forest,Norwich City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,Sat,Championship,Matchweek 38,Away,D 1–1,Nott'ham Forest,Brentford,Y,AM,90,1,0,0,0,1,1,0,0,48,0,2,0,0.3,0.3,0.0,4,0,37,41,90.2,3,33,0,2,0,Match Report
+30,Fri,Championship,Matchweek 39,Away,W 1–0,Nott'ham Forest,Cardiff City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Mon,Championship,Matchweek 40,Home,W 3–1,Nott'ham Forest,QPR,Y,AM,90,0,1,0,0,4,1,1,0,42,3,3,1,0.2,0.2,0.2,5,1,23,28,82.1,6,26,2,0,0,Match Report
+32,Sat,Championship,Matchweek 41,Away,D 0–0,Nott'ham Forest,Bristol City,Y,AM,83,0,0,0,0,1,0,0,0,51,1,0,0,0.0,0.0,0.1,5,0,34,43,79.1,10,37,6,4,3,Match Report
+33,Sat,Championship,Matchweek 42,Home,L 0–2,Nott'ham Forest,Huddersfield,Y,AM,63,0,0,0,0,3,1,0,0,34,0,0,0,0.1,0.1,0.0,1,0,23,28,82.1,3,19,2,1,0,Match Report
+34,Wed,Championship,Matchweek 43,Away,D 1–1,Nott'ham Forest,Birmingham City,Y,AM,63,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,13,19,68.4,1,9,1,0,0,Match Report
+35,Sat,Championship,Matchweek 44,Home,D 1–1,Nott'ham Forest,Stoke City,Y,"LW,AM",90,0,0,0,0,0,0,0,0,43,3,0,1,0.0,0.0,0.0,1,0,25,32,78.1,1,24,0,1,1,Match Report
+36,Sat,Championship,Matchweek 45,Away,D 0–0,Nott'ham Forest,Sheffield Weds,Y,"LW,AM",90,0,0,0,0,2,0,0,0,49,1,1,0,0.3,0.3,0.0,1,0,40,42,95.2,6,39,1,0,0,Match Report
+37,Sat,Championship,Matchweek 46,Home,L 1–2,Nott'ham Forest,Preston,Y,LW,73,0,1,0,0,3,0,0,0,43,1,0,5,0.2,0.2,0.1,2,1,29,31,93.5,6,28,7,0,0,Match Report
+38,,,,,6-13-12,,,25/31,,"2,241",1,2,0,0,44,8,2,0,1251,38,20,19,2.1,2.1,1.3,71,3,821,1025,80.1,111,706,50,34,24,

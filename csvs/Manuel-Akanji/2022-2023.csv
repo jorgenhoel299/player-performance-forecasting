@@ -1,0 +1,67 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Thu,UEFA Nations League,League A,Home,L 0–1,ch Switzerland,es Spain,Y,CB,78,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,Match Report
+1,Sun,UEFA Nations League,League A,Home,W 1–0,ch Switzerland,pt Portugal,Y,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+2,Tue,Champions Lg,Group stage,Away,W 4–0,eng Manchester City,es Sevilla,Y,CB,90,0,0,0,0,0,0,0,0,86,1,1,0,0.0,0.0,0.2,2,0,71,79,89.9,4,49,1,0,0,Match Report
+3,Wed,Champions Lg,Group stage,Home,W 2–1,eng Manchester City,de Dortmund,Y,CB,90,0,0,0,0,0,0,0,0,100,4,0,1,0.0,0.0,0.0,1,0,87,90,96.7,2,75,2,0,0,Match Report
+4,Sat,Premier League,Matchweek 8,Away,W 3–0,Manchester City,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,96,3,1,1,0.0,0.0,0.0,2,0,88,91,96.7,4,79,0,0,0,Match Report
+5,Sat,UEFA Nations League,League A,Away,W 2–1,ch Switzerland,es Spain,Y,CB,90,1,1,0,0,2,1,1,0,,,1,,,,,,,,,,,,,,,Match Report
+6,Sun,Premier League,Matchweek 9,Home,W 6–3,Manchester City,Manchester Utd,Y,CB,90,0,0,0,0,1,0,0,0,79,2,0,1,0.0,0.0,0.0,0,0,71,73,97.3,3,61,1,2,2,Match Report
+7,Wed,Champions Lg,Group stage,Home,W 5–0,eng Manchester City,dk FC Copenhagen,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Sat,Premier League,Matchweek 10,Home,W 4–0,Manchester City,Southampton,Y,RB,90,0,0,0,0,2,0,0,0,96,4,1,1,0.1,0.1,0.0,1,0,76,84,90.5,5,56,3,0,0,Match Report
+9,Tue,Champions Lg,Group stage,Away,D 0–0,eng Manchester City,dk FC Copenhagen,Y,"WB,CB",90,0,0,0,0,1,0,0,0,78,3,1,3,0.0,0.0,0.0,2,0,60,64,93.8,2,46,0,0,0,Match Report
+10,Sun,Premier League,Matchweek 11,Away,L 0–1,Manchester City,Liverpool,Y,CB,90,0,0,0,0,0,0,1,0,66,1,0,2,0.0,0.0,0.0,0,0,48,54,88.9,6,31,1,1,0,Match Report
+11,Sat,Premier League,Matchweek 13,Home,W 3–1,Manchester City,Brighton,Y,RB,90,0,0,0,0,0,0,0,0,60,1,3,1,0.0,0.0,0.0,1,0,45,50,90.0,5,31,0,1,1,Match Report
+12,Tue,Champions Lg,Group stage,Away,D 0–0,eng Manchester City,de Dortmund,N,LB,45,0,0,0,0,0,0,1,0,52,2,0,0,0.0,0.0,0.0,1,0,47,49,95.9,4,45,0,0,0,Match Report
+13,Sat,Premier League,Matchweek 14,Away,W 1–0,Manchester City,Leicester City,Y,CB,71,0,0,0,0,2,0,0,0,104,1,0,0,0.2,0.2,0.0,2,0,96,97,99.0,6,73,3,0,0,Match Report
+14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Sat,Premier League,Matchweek 15,Home,W 2–1,Manchester City,Fulham,Y,CB,90,0,0,0,0,3,1,0,0,104,1,0,3,0.2,0.2,0.0,0,0,90,93,96.8,4,82,0,0,0,Match Report
+16,Wed,EFL Cup,Third round,Home,W 2–0,Manchester City,Chelsea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Sat,Premier League,Matchweek 16,Home,L 1–2,Manchester City,Brentford,Y,CB,90,0,1,0,0,1,0,0,0,73,0,0,0,0.0,0.0,0.1,4,0,61,67,91.0,5,55,3,0,0,Match Report
+18,Thu,Friendlies (M),Friendlies (M),Neutral,L 0–2,ch Switzerland,gh Ghana,Y,CB,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+19,Thu,World Cup,Group stage,Neutral,W 1–0,ch Switzerland,cm Cameroon,Y,CB,90,0,0,0,0,1,0,1,0,69,1,1,0,0.3,0.3,0.0,0,0,57,65,87.7,4,50,2,0,0,Match Report
+20,Mon,World Cup,Group stage,Neutral,L 0–1,ch Switzerland,br Brazil,Y,CB,90,0,0,0,0,1,0,0,0,87,2,1,1,0.0,0.0,0.0,0,0,67,78,85.9,3,54,2,0,0,Match Report
+21,Fri,World Cup,Group stage,Neutral,W 3–2,ch Switzerland,rs Serbia,Y,CB,90,0,0,0,0,1,0,0,0,63,0,1,1,0.1,0.1,0.1,2,0,47,52,90.4,2,38,0,0,0,Match Report
+22,Tue,World Cup,Round of 16,Neutral,L 1–6,ch Switzerland,pt Portugal,Y,CB,90,1,0,0,0,1,1,0,0,71,1,0,2,0.5,0.5,0.0,0,0,58,64,90.6,7,53,0,0,0,Match Report
+23,Thu,EFL Cup,Fourth round,Home,W 3–2,Manchester City,Liverpool,Y,CB,60,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+24,Wed,Premier League,Matchweek 17,Away,W 3–1,Manchester City,Leeds United,Y,CB,90,0,0,0,0,0,0,0,0,122,1,0,0,0.0,0.0,0.0,1,0,111,119,93.3,5,101,2,0,0,Match Report
+25,Sat,Premier League,Matchweek 18,Home,D 1–1,Manchester City,Everton,Y,CB,90,0,0,0,0,0,0,0,0,85,1,0,1,0.0,0.0,0.0,2,0,82,82,100.0,5,60,1,0,0,Match Report
+26,Thu,Premier League,Matchweek 19,Away,W 1–0,Manchester City,Chelsea,N,CB,45,0,0,0,0,0,0,0,0,40,1,1,0,0.0,0.0,0.0,0,0,34,38,89.5,4,26,0,0,0,Match Report
+27,Sun,FA Cup,Third round proper,Home,W 4–0,Manchester City,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+28,Wed,EFL Cup,Quarter-finals,Away,L 0–2,Manchester City,Southampton,N,,45,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+29,Sat,Premier League,Matchweek 20,Away,L 1–2,Manchester City,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,117,0,2,3,0.0,0.0,0.0,1,0,101,110,91.8,4,85,2,0,0,Match Report
+30,Thu,Premier League,Matchweek 7,Home,W 4–2,Manchester City,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,67,2,1,0,0.0,0.0,0.0,1,0,55,61,90.2,1,52,0,0,0,Match Report
+31,Sun,Premier League,Matchweek 21,Home,W 3–0,Manchester City,Wolves,Y,"RB,CB",90,0,0,0,0,0,0,0,0,78,1,0,4,0.0,0.0,0.0,1,0,66,71,93.0,9,60,1,0,0,Match Report
+32,Fri,FA Cup,Fourth round proper,Home,W 1–0,Manchester City,Arsenal,Y,DM,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+33,Sun,Premier League,Matchweek 22,Away,L 0–1,Manchester City,Tottenham,Y,CB,90,0,0,0,0,2,1,0,0,80,3,2,2,0.2,0.2,0.1,2,0,66,67,98.5,2,57,1,0,0,Match Report
+34,Sun,Premier League,Matchweek 23,Home,W 3–1,Manchester City,Aston Villa,N,CB,45,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,28,30,93.3,3,24,0,0,0,Match Report
+35,Wed,Premier League,Matchweek 12,Away,W 3–1,Manchester City,Arsenal,N,CB,30,0,0,0,0,1,0,0,0,8,0,0,0,0.4,0.4,0.0,0,0,2,4,50.0,0,1,0,0,0,Match Report
+36,Sat,Premier League,Matchweek 24,Away,D 1–1,Manchester City,Nott'ham Forest,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,Wed,Champions Lg,Round of 16,Away,D 1–1,eng Manchester City,de RB Leipzig,Y,RB,90,0,0,0,0,0,0,0,0,116,1,0,3,0.0,0.0,0.0,1,0,105,111,94.6,6,82,0,0,0,Match Report
+38,Sat,Premier League,Matchweek 25,Away,W 4–1,Manchester City,Bournemouth,Y,"RB,CB",90,0,0,0,0,0,0,1,0,106,2,0,0,0.0,0.0,0.0,0,0,94,101,93.1,6,62,0,0,0,Match Report
+39,Tue,FA Cup,Fifth round proper,Away,W 3–0,Manchester City,Bristol City,Y,DM,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+40,Sat,Premier League,Matchweek 26,Home,W 2–0,Manchester City,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,0,0,58,0,0,1,0.0,0.0,0.0,0,0,48,55,87.3,1,38,1,0,0,Match Report
+41,Sat,Premier League,Matchweek 27,Away,W 1–0,Manchester City,Crystal Palace,Y,CB,90,0,0,0,0,1,0,0,0,97,1,3,1,0.0,0.0,0.1,1,0,77,87,88.5,6,73,1,1,0,Match Report
+42,Tue,Champions Lg,Round of 16,Home,W 7–0,eng Manchester City,de RB Leipzig,Y,RB,90,0,0,0,0,3,3,1,0,108,1,2,1,0.6,0.6,0.0,4,2,89,102,87.3,7,65,1,2,1,Match Report
+43,Sat,FA Cup,Quarter-finals,Home,W 6–0,Manchester City,Burnley,N,,28,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+44,Sat,Euro Qualifying,Group stage,Away,W 5–0,ch Switzerland,by Belarus,Y,CB,81,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+45,Tue,Euro Qualifying,Group stage,Home,W 3–0,ch Switzerland,il Israel,Y,CB,90,0,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+46,Sat,Premier League,Matchweek 29,Home,W 4–1,Manchester City,Liverpool,Y,RB,90,0,0,0,0,0,0,0,0,88,1,0,2,0.0,0.0,0.0,1,0,75,82,91.5,5,57,1,0,0,Match Report
+47,Sat,Premier League,Matchweek 30,Away,W 4–1,Manchester City,Southampton,Y,"RB,CB",90,0,0,0,0,0,0,0,0,86,1,0,2,0.0,0.0,0.0,0,0,78,82,95.1,1,60,0,0,0,Match Report
+48,Tue,Champions Lg,Quarter-finals,Home,W 3–0,eng Manchester City,de Bayern Munich,Y,RB,90,0,0,0,0,0,0,0,0,68,7,2,1,0.0,0.0,0.0,2,0,45,59,76.3,8,36,3,0,0,Match Report
+49,Sat,Premier League,Matchweek 31,Home,W 3–1,Manchester City,Leicester City,N,RB,45,0,0,0,0,0,0,0,0,52,2,0,0,0.0,0.0,0.0,0,0,45,49,91.8,1,36,0,1,1,Match Report
+50,Wed,Champions Lg,Quarter-finals,Away,D 1–1,eng Manchester City,de Bayern Munich,Y,"RB,CB",90,0,0,0,0,0,0,0,0,56,1,1,3,0.0,0.0,0.0,0,0,47,51,92.2,2,40,0,0,0,Match Report
+51,Sat,FA Cup,Semi-finals,Neutral,W 3–0,Manchester City,Sheffield Utd,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+52,Wed,Premier League,Matchweek 33,Home,W 4–1,Manchester City,Arsenal,Y,LB,90,0,0,0,0,0,0,0,0,61,3,0,0,0.0,0.0,0.0,0,0,50,55,90.9,2,23,1,1,1,Match Report
+53,Sun,Premier League,Matchweek 34,Away,W 2–1,Manchester City,Fulham,Y,LB,90,0,0,0,0,0,0,0,0,99,1,0,2,0.0,0.0,0.2,2,0,78,90,86.7,3,68,0,2,1,Match Report
+54,Wed,Premier League,Matchweek 28,Home,W 3–0,Manchester City,West Ham,N,LB,15,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,16,18,88.9,1,8,0,1,0,Match Report
+55,Sat,Premier League,Matchweek 35,Home,W 2–1,Manchester City,Leeds United,Y,"RB,CB",90,0,0,0,0,2,0,0,0,100,1,0,0,0.1,0.1,0.0,1,0,90,94,95.7,6,78,1,0,0,Match Report
+56,Tue,Champions Lg,Semi-finals,Away,D 1–1,eng Manchester City,es Real Madrid,Y,LB,90,0,0,0,0,0,0,0,0,86,3,0,0,0.0,0.0,0.0,3,0,75,80,93.8,3,52,1,0,0,Match Report
+57,Sun,Premier League,Matchweek 36,Away,W 3–0,Manchester City,Everton,Y,"LB,CB",90,0,0,0,0,0,0,0,0,93,1,2,0,0.0,0.0,0.0,0,0,82,87,94.3,9,53,1,2,0,Match Report
+58,Wed,Champions Lg,Semi-finals,Home,W 4–0,eng Manchester City,es Real Madrid,Y,LB,90,1,0,0,0,2,1,0,0,97,2,0,1,0.2,0.2,0.2,3,0,83,87,95.4,1,58,2,0,0,Match Report
+59,Sun,Premier League,Matchweek 37,Home,W 1–0,Manchester City,Chelsea,Y,CB,56,0,0,0,0,0,0,0,0,68,1,0,0,0.0,0.0,0.0,0,0,59,65,90.8,4,54,0,0,0,Match Report
+60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61,Sat,FA Cup,Final,Neutral,W 2–1,Manchester City,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+62,Sat,Champions Lg,Final,Neutral,W 1–0,eng Manchester City,it Inter,Y,RB,90,0,0,0,0,1,0,0,0,68,2,2,1,0.0,0.0,0.0,1,1,54,59,91.5,5,39,0,0,0,Match Report
+63,Fri,Euro Qualifying,Group stage,Away,W 2–1,ch Switzerland,ad Andorra,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+64,Mon,Euro Qualifying,Group stage,Home,D 2–2,ch Switzerland,ro Romania,Y,CB,90,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,Match Report
+65,,,,,44-7-9,,,52/60,,"4,829",3,2,0,0,29,9,8,0,3436,67,36,45,3.2,3.2,0.9,45,3,2904,3146,92.3,176,2326,38,14,7,

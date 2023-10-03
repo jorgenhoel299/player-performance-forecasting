@@ -1,0 +1,21 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Serie A,Matchweek 10,Away,L 1–2,Sassuolo,Atalanta,N,LM,26,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.1,1,0,7,11,63.6,1,14,1,1,0,Match Report
+1,Mon,Serie A,Matchweek 11,Home,W 2–1,Sassuolo,Hellas Verona,N,RW,30,0,1,0,0,2,0,0,0,17,0,0,0,0.2,0.2,0.1,3,1,11,15,73.3,0,14,2,0,0,Match Report
+2,Sat,Serie A,Matchweek 12,Away,L 0–4,Sassuolo,Napoli,N,LW,45,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,6,11,54.5,0,9,1,3,1,Match Report
+3,Sat,Serie A,Matchweek 13,Away,L 0–1,Sassuolo,Empoli,Y,LW,60,0,0,0,0,1,1,0,0,32,0,0,1,0.0,0.0,0.0,0,0,19,24,79.2,2,19,2,1,0,Match Report
+4,Wed,Serie A,Matchweek 14,Home,D 1–1,Sassuolo,Roma,N,"RW,LW",25,0,0,0,0,1,1,0,0,16,1,0,1,0.4,0.4,0.0,1,0,7,10,70.0,0,13,0,1,0,Match Report
+5,Sat,Serie A,Matchweek 15,Away,L 0–3,Sassuolo,Bologna,Y,RW,53,0,0,0,0,1,0,0,0,18,1,0,1,0.2,0.2,0.0,0,0,9,14,64.3,0,11,1,0,0,Match Report
+6,Wed,Serie A,Matchweek 16,Home,L 1–2,Sassuolo,Sampdoria,N,LM,45,0,0,0,0,1,1,0,0,48,1,0,0,0.1,0.1,0.5,7,0,39,43,90.7,3,26,0,1,1,Match Report
+7,Sat,Serie A,Matchweek 17,Away,L 1–2,Sassuolo,Fiorentina,Y,LM,89,0,0,0,0,0,0,1,0,34,4,0,0,0.0,0.0,0.2,5,0,21,26,80.8,8,12,0,1,0,Match Report
+8,Sun,Serie A,Matchweek 18,Home,L 0–2,Sassuolo,Lazio,Y,AM,68,0,0,0,0,0,0,0,0,46,3,2,1,0.0,0.0,0.0,2,0,27,36,75.0,2,22,2,2,0,Match Report
+9,Sun,Serie A,Matchweek 19,Away,D 1–1,Sassuolo,Monza,Y,AM,60,0,1,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.6,1,1,14,18,77.8,4,14,1,2,1,Match Report
+10,Sun,Serie A,Matchweek 20,Away,W 5–2,Sassuolo,Milan,Y,"AM,CM",90,0,1,0,0,1,1,0,0,45,1,0,0,0.0,0.0,0.2,6,4,24,37,64.9,6,40,4,3,1,Match Report
+11,Sat,Premier League,Matchweek 22,Away,L 0–1,Bournemouth,Brighton,Y,FW,60,0,0,0,0,0,0,0,0,31,3,1,1,0.0,0.0,0.0,2,0,12,20,60.0,3,18,5,3,2,Match Report
+12,Sat,Premier League,Matchweek 23,Home,D 1–1,Bournemouth,Newcastle Utd,Y,FW,90,0,0,0,0,1,0,0,0,52,1,0,2,0.0,0.0,0.5,4,0,23,37,62.2,5,24,2,4,3,Match Report
+13,Sat,Premier League,Matchweek 24,Away,W 1–0,Bournemouth,Wolves,Y,AM,80,0,0,0,0,1,0,0,0,43,1,1,3,0.0,0.0,0.1,2,1,17,32,53.1,6,30,4,5,4,Match Report
+14,Sat,Premier League,Matchweek 25,Home,L 1–4,Bournemouth,Manchester City,Y,LM,75,0,0,0,0,1,0,0,0,46,5,0,3,0.1,0.1,0.2,5,0,24,36,66.7,2,24,4,5,4,Match Report
+15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Sat,Premier League,Matchweek 28,Away,L 0–3,Bournemouth,Aston Villa,N,CM,32,0,0,0,0,0,0,0,0,19,5,0,0,0.0,0.0,0.2,4,0,9,13,69.2,3,7,0,1,0,Match Report
+17,Sat,Premier League,Matchweek 29,Home,W 2–1,Bournemouth,Fulham,N,CM,19,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,2,12,2,2,1,Match Report
+18,Tue,Premier League,Matchweek 7,Home,L 0–2,Bournemouth,Brighton,Y,FW,71,0,0,0,0,3,0,0,0,44,2,0,0,0.7,0.7,0.1,3,0,18,32,56.3,5,28,2,5,2,Match Report
+19,,,,,4-3-11,,,11/18,,"1,018",0,3,0,0,14,4,1,0,554,28,4,13,1.9,1.9,2.9,46,7,293,423,69.3,52,337,33,40,20,

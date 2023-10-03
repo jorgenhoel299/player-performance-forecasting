@@ -1,0 +1,44 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Fri,Premier League,Matchweek 1,Home,W 2–0,Brentford,Arsenal,Y,CM,79,0,0,0,0,1,0,0,0,26,2,0,0,0.1,0.1,0.1,2,0,14,17,82.4,2,10,2,2,1,Match Report
+1,Sat,Premier League,Matchweek 2,Away,D 0–0,Brentford,Crystal Palace,Y,CM,69,0,0,0,0,2,1,0,0,37,4,0,2,0.1,0.1,0.0,4,0,19,24,79.2,3,21,2,3,2,Match Report
+2,Tue,EFL Cup,Second round,Home,W 3–1,Brentford,FG Rovers,N,,45,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Sat,Premier League,Matchweek 4,Home,L 0–1,Brentford,Brighton,N,CM,16,0,0,0,0,0,0,0,0,7,1,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,0,0,Match Report
+5,Sat,Premier League,Matchweek 5,Away,W 2–0,Brentford,Wolves,N,RM,23,0,0,0,0,1,0,0,0,5,0,0,1,0.0,0.0,0.0,1,0,0,2,0.0,0,2,1,0,0,Match Report
+6,Tue,EFL Cup,Third round,Home,W 7–0,Brentford,Oldham Athletic,Y,CM,70,0,0,0,0,1,1,0,0,,,3,,,,,,,,,,,,,,,Match Report
+7,Sat,Premier League,Matchweek 6,Home,D 3–3,Brentford,Liverpool,Y,CM,67,0,0,0,0,2,0,1,0,22,2,0,2,0.1,0.1,0.0,0,0,8,11,72.7,1,8,0,1,1,Match Report
+8,Sun,Premier League,Matchweek 7,Away,W 2–1,Brentford,West Ham,Y,CM,80,0,0,0,0,0,0,0,0,26,1,3,1,0.0,0.0,0.0,1,0,14,17,82.4,4,12,0,2,0,Match Report
+9,Thu,WCQ,Second round,Home,L 0–1,ng Nigeria,cf CAR,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+10,Sun,WCQ,Second round,Away,W 2–0,ng Nigeria,cf CAR,Y,LM,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+11,Sat,Premier League,Matchweek 8,Home,L 0–1,Brentford,Chelsea,Y,CM,66,0,0,0,0,0,0,0,0,30,2,0,0,0.0,0.0,0.0,0,0,15,18,83.3,2,9,1,1,1,Match Report
+12,Sun,Premier League,Matchweek 9,Home,L 1–2,Brentford,Leicester City,Y,CM,75,0,0,0,0,1,0,0,0,48,3,2,1,0.0,0.0,0.1,2,0,34,40,85.0,5,36,4,1,1,Match Report
+13,Wed,EFL Cup,Fourth round,Away,W 2–1,Brentford,Stoke City,N,,19,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+14,Sat,Premier League,Matchweek 10,Away,L 1–3,Brentford,Burnley,Y,CM,57,0,0,0,0,1,0,0,0,35,1,1,0,0.0,0.0,0.0,2,0,27,31,87.1,1,22,0,1,1,Match Report
+15,Sat,Premier League,Matchweek 11,Home,L 1–2,Brentford,Norwich City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Sat,WCQ,Second round,Away,W 2–0,ng Nigeria,lr Liberia,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Tue,WCQ,Second round,Home,D 1–1,ng Nigeria,cv Cape Verde,N,,13,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+18,Sat,Premier League,Matchweek 12,Away,D 3–3,Brentford,Newcastle Utd,N,CM,32,0,0,0,0,1,0,0,0,15,1,0,1,0.0,0.0,0.0,0,0,8,11,72.7,1,7,0,0,0,Match Report
+19,Sun,Premier League,Matchweek 13,Home,W 1–0,Brentford,Everton,Y,CM,90,0,0,0,0,0,0,1,0,38,1,2,1,0.0,0.0,0.0,1,1,21,28,75.0,2,17,1,3,1,Match Report
+20,Thu,Premier League,Matchweek 14,Away,L 0–2,Brentford,Tottenham,Y,CM,55,0,0,0,0,0,0,0,0,21,0,2,1,0.0,0.0,0.0,0,0,11,14,78.6,3,10,1,1,1,Match Report
+21,Sun,Premier League,Matchweek 15,Away,D 2–2,Brentford,Leeds United,N,CM,22,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,1,0,3,5,60.0,2,3,0,0,0,Match Report
+22,Fri,Premier League,Matchweek 16,Home,W 2–1,Brentford,Watford,N,WB,14,0,0,0,0,1,0,1,0,11,0,0,0,0.1,0.1,0.0,0,0,8,10,80.0,1,7,1,0,0,Match Report
+23,Wed,EFL Cup,Quarter-finals,Home,L 0–2,Brentford,Chelsea,N,,17,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+24,Sun,Premier League,Matchweek 19,Away,L 0–2,Brentford,Brighton,N,CM,45,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,3,0,29,35,82.9,3,25,3,2,2,Match Report
+25,Wed,Premier League,Matchweek 20,Home,L 0–1,Brentford,Manchester City,Y,CM,74,0,0,0,0,2,1,0,0,27,2,2,2,0.2,0.2,0.0,0,0,12,16,75.0,2,14,1,0,0,Match Report
+26,Sun,Premier League,Matchweek 21,Home,W 2–1,Brentford,Aston Villa,Y,CM,79,0,0,0,0,1,1,1,0,41,2,1,3,0.0,0.0,0.0,0,0,22,31,71.0,3,25,1,0,0,Match Report
+27,Tue,Africa Cup of Nations,Group stage,Neutral,W 1–0,ng Nigeria,eg Egypt,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,Sat,Africa Cup of Nations,Group stage,Neutral,W 3–1,ng Nigeria,sd Sudan,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,Wed,Africa Cup of Nations,Group stage,Neutral,W 2–0,ng Nigeria,gw Guinea-Bissau,N,,15,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+30,Sun,Africa Cup of Nations,Round of 16,Neutral,L 0–1,ng Nigeria,tn Tunisia,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Sat,FA Cup,Fourth round proper,Away,L 1–4,Brentford,Everton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,Wed,Premier League,Matchweek 24,Away,L 0–2,Brentford,Manchester City,Y,CM,69,0,0,0,0,3,2,0,0,23,1,0,0,0.2,0.2,0.0,0,0,9,12,75.0,0,8,0,0,0,Match Report
+33,Sat,Premier League,Matchweek 25,Home,D 0–0,Brentford,Crystal Palace,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Sat,Premier League,Matchweek 26,Away,L 1–2,Brentford,Arsenal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,Sat,Premier League,Matchweek 27,Home,L 0–2,Brentford,Newcastle Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,Sat,Premier League,Matchweek 28,Away,W 3–1,Brentford,Norwich City,N,CM,32,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,4,0,0,0,Match Report
+37,Sat,Premier League,Matchweek 29,Home,W 2–0,Brentford,Burnley,N,"LW,RW",1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+38,Sun,Premier League,Matchweek 30,Away,L 1–2,Brentford,Leicester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,Fri,WCQ,Third round,Away,D 0–0,ng Nigeria,gh Ghana,N,,32,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+40,Tue,WCQ,Third round,Home,D 1–1,ng Nigeria,gh Ghana,Y,CM,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+41,Sun,Premier League,Matchweek 38,Home,L 1–2,Brentford,Leeds United,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,,,,,13-7-10,,,16/30,,"1,481",0,0,0,0,20,6,5,0,470,25,17,16,0.8,0.8,0.2,17,1,259,332,78.0,35,245,18,17,11,

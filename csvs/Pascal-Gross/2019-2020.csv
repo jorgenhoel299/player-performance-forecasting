@@ -1,0 +1,43 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Away,W 3–0,Brighton,Watford,Y,"RW,RM",90,0,0,0,0,0,0,0,0,53,2,0,1,0.0,0.0,0.0,1,0,30,44,68.2,7,26,2,0,0,Match Report
+1,Sat,Premier League,Matchweek 2,Home,D 1–1,Brighton,West Ham,Y,RW,66,0,0,0,0,1,0,0,0,53,3,0,1,0.1,0.1,0.6,8,1,34,41,82.9,6,16,2,0,0,Match Report
+2,Sat,Premier League,Matchweek 3,Home,L 0–2,Brighton,Southampton,N,CM,13,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.1,1,0,15,19,78.9,1,15,2,2,1,Match Report
+3,Tue,EFL Cup,Second round,Away,W 2–1,Brighton,Bristol Rovers,Y,CM,90,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+4,Sat,Premier League,Matchweek 4,Away,L 0–4,Brighton,Manchester City,N,RW,17,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,7,12,58.3,1,8,0,0,0,Match Report
+5,Sat,Premier League,Matchweek 5,Home,D 1–1,Brighton,Burnley,Y,RW,90,0,0,0,0,2,0,0,0,70,2,0,0,0.1,0.1,0.3,8,0,43,61,70.5,12,37,4,1,0,Match Report
+6,Sat,Premier League,Matchweek 6,Away,D 0–0,Brighton,Newcastle Utd,Y,RW,80,0,0,0,0,2,0,0,0,68,0,0,2,0.1,0.1,0.6,5,0,45,63,71.4,5,31,0,0,0,Match Report
+7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Sat,Premier League,Matchweek 7,Away,L 0–2,Brighton,Chelsea,Y,"DM,CM,FW",90,0,0,0,0,2,0,0,0,57,3,1,0,0.2,0.2,0.3,3,0,29,43,67.4,3,23,5,0,0,Match Report
+9,Sat,Premier League,Matchweek 8,Home,W 3–0,Brighton,Tottenham,Y,"RM,RW,CM",90,0,0,0,0,3,1,0,0,65,1,0,1,0.2,0.2,0.1,5,0,49,61,80.3,17,39,4,0,0,Match Report
+10,Sat,Premier League,Matchweek 9,Away,L 1–2,Brighton,Aston Villa,Y,RM,90,0,1,0,0,3,0,0,0,66,3,2,3,0.1,0.1,0.6,10,1,41,53,77.4,9,31,6,3,3,Match Report
+11,Sat,Premier League,Matchweek 10,Home,W 3–2,Brighton,Everton,Y,LM,64,1,0,0,0,1,1,0,0,39,0,0,1,0.1,0.1,0.0,2,1,19,32,59.4,4,18,0,2,0,Match Report
+12,Sat,Premier League,Matchweek 11,Home,W 2–0,Brighton,Norwich City,Y,RM,58,0,0,0,0,1,0,0,0,53,3,0,2,0.1,0.1,0.1,4,0,31,44,70.5,3,24,1,0,0,Match Report
+13,Sun,Premier League,Matchweek 12,Away,L 1–3,Brighton,Manchester Utd,N,AM,32,0,1,0,0,1,1,0,0,33,1,0,1,0.1,0.1,0.2,1,1,18,26,69.2,3,16,1,0,0,Match Report
+14,Sat,Premier League,Matchweek 13,Home,L 0–2,Brighton,Leicester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Sat,Premier League,Matchweek 14,Away,L 1–2,Brighton,Liverpool,Y,"AM,RW",90,0,0,0,0,1,1,0,0,66,1,1,0,0.0,0.0,0.2,3,0,41,56,73.2,7,27,0,0,0,Match Report
+16,Thu,Premier League,Matchweek 15,Away,W 2–1,Brighton,Arsenal,Y,AM,79,0,0,0,0,1,0,1,0,50,1,0,1,0.1,0.1,0.5,10,1,31,45,68.9,2,17,2,0,0,Match Report
+17,Sun,Premier League,Matchweek 16,Home,D 2–2,Brighton,Wolves,Y,RW,67,0,0,0,0,1,1,0,0,37,1,0,1,0.1,0.1,0.1,2,0,20,32,62.5,2,15,1,0,0,Match Report
+18,Mon,Premier League,Matchweek 17,Away,D 1–1,Brighton,Crystal Palace,Y,"AM,CM",89,0,1,0,0,1,1,0,0,55,1,0,1,0.0,0.0,0.5,5,1,40,51,78.4,4,27,1,0,0,Match Report
+19,Sat,Premier League,Matchweek 18,Home,L 0–1,Brighton,Sheffield Utd,Y,"AM,RW",45,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,2,0,17,24,70.8,2,16,0,0,0,Match Report
+20,Thu,Premier League,Matchweek 19,Away,L 1–2,Brighton,Tottenham,Y,AM,90,0,1,0,0,3,2,1,0,59,0,1,3,0.2,0.2,0.3,5,1,32,46,69.6,5,34,1,2,0,Match Report
+21,Sat,Premier League,Matchweek 20,Home,W 2–0,Brighton,Bournemouth,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,Wed,Premier League,Matchweek 21,Home,D 1–1,Brighton,Chelsea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Sat,FA Cup,Third round,Home,L 0–1,Brighton,Sheffield Weds,Y,FW,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+24,Sat,Premier League,Matchweek 22,Away,L 0–1,Brighton,Everton,N,"RM,RW",29,0,0,0,0,0,0,0,0,18,1,0,1,0.0,0.0,0.1,2,0,10,15,66.7,2,6,0,1,1,Match Report
+25,Sat,Premier League,Matchweek 23,Home,D 1–1,Brighton,Aston Villa,N,RM,10,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.1,2,0,7,8,87.5,1,5,0,0,0,Match Report
+26,Tue,Premier League,Matchweek 24,Away,L 1–3,Brighton,Bournemouth,Y,FW,59,0,0,0,0,2,0,0,0,43,0,0,0,0.1,0.1,0.0,4,0,26,37,70.3,9,26,0,0,0,Match Report
+27,Sat,Premier League,Matchweek 25,Away,D 3–3,Brighton,West Ham,Y,"RW,LW",90,1,0,0,0,2,1,0,0,71,3,0,1,0.2,0.2,0.4,9,0,51,64,79.7,10,34,0,1,1,Match Report
+28,Sat,Premier League,Matchweek 26,Home,D 1–1,Brighton,Watford,Y,"AM,RM",60,0,0,0,0,0,0,0,0,52,1,0,0,0.0,0.0,0.0,0,0,41,48,85.4,7,30,0,0,0,Match Report
+29,Sat,Premier League,Matchweek 27,Away,D 1–1,Brighton,Sheffield Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,Sat,Premier League,Matchweek 28,Home,L 0–1,Brighton,Crystal Palace,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Sat,Premier League,Matchweek 29,Away,D 0–0,Brighton,Wolves,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,Sat,Premier League,Matchweek 30,Home,W 2–1,Brighton,Arsenal,Y,RW,70,0,0,0,0,0,0,0,0,37,5,1,0,0.0,0.0,0.0,1,0,18,28,64.3,3,12,0,1,0,Match Report
+33,Tue,Premier League,Matchweek 31,Away,D 0–0,Brighton,Leicester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Tue,Premier League,Matchweek 32,Home,L 0–3,Brighton,Manchester Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,Sat,Premier League,Matchweek 33,Away,W 1–0,Brighton,Norwich City,N,AM,19,0,0,0,0,0,0,1,0,19,0,1,0,0.0,0.0,0.0,2,0,9,15,60.0,2,10,1,0,0,Match Report
+36,Wed,Premier League,Matchweek 34,Home,L 1–3,Brighton,Liverpool,Y,AM,70,0,0,0,0,0,0,0,0,41,1,0,2,0.0,0.0,0.0,2,1,19,32,59.4,2,21,0,0,0,Match Report
+37,Sat,Premier League,Matchweek 35,Home,L 0–5,Brighton,Manchester City,Y,FW,77,0,0,0,0,0,0,0,0,30,2,2,2,0.0,0.0,0.1,2,0,14,21,66.7,2,15,2,1,0,Match Report
+38,Thu,Premier League,Matchweek 36,Away,D 1–1,Brighton,Southampton,N,FW,15,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,4,0,0,0,Match Report
+39,Mon,Premier League,Matchweek 37,Home,D 0–0,Brighton,Newcastle Utd,Y,RW,57,0,0,0,0,2,0,1,0,38,0,0,1,0.0,0.0,0.1,3,0,24,32,75.0,3,18,1,0,0,Match Report
+40,Sun,Premier League,Matchweek 38,Away,W 2–1,Brighton,Burnley,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,,,,,8-10-13,,,24/31,,"1,976",2,4,0,0,32,9,4,0,1244,36,9,25,1.6,1.6,5.3,102,8,765,1059,72.2,135,601,36,14,6,

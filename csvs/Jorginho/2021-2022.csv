@@ -1,0 +1,73 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Fri,UEFA Euro,Quarter-finals,Away,W 2–1,it Italy,be Belgium,Y,CM,90,0,0,0,0,0,0,0,0,79,1,2,2,0.0,0.0,0.0,3,0,71,72,98.6,6,48,0,1,1,Match Report
+1,Tue,UEFA Euro,Semi-finals,Home,D 1 (4)–1 (2),it Italy,es Spain,Y,CM,120,0,0,0,0,0,0,0,0,46,2,8,0,0.0,0.0,0.0,0,0,26,33,78.8,0,15,0,0,0,Match Report
+2,Sun,UEFA Euro,Final,Neutral,D 1 (3)–1 (2),it Italy,eng England,Y,CM,120,0,0,0,0,0,0,1,0,113,3,4,0,0.0,0.0,0.0,6,0,94,99,94.9,8,78,3,1,1,Match Report
+3,Wed,Super Cup,UEFA Super Cup,Home,D 1 (6)–1 (5),eng Chelsea,es Villarreal,N,,56,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+4,Sat,Premier League,Matchweek 1,Home,W 3–0,Chelsea,Crystal Palace,Y,CM,90,0,0,0,0,0,0,0,0,99,5,2,2,0.0,0.0,0.0,4,1,82,88,93.2,14,46,0,0,0,Match Report
+5,Sun,Premier League,Matchweek 2,Away,W 2–0,Chelsea,Arsenal,Y,CM,90,0,0,0,0,0,0,0,0,75,2,1,1,0.0,0.0,0.1,1,0,60,69,87.0,3,46,0,0,0,Match Report
+6,Sat,Premier League,Matchweek 3,Away,D 1–1,Chelsea,Liverpool,Y,CM,86,0,0,0,0,0,0,0,0,47,3,4,1,0.0,0.0,0.0,1,1,24,29,82.8,0,21,0,2,1,Match Report
+7,Thu,WCQ,First round,Home,D 1–1,it Italy,bg Bulgaria,Y,CM,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+8,Sun,WCQ,First round,Away,D 0–0,it Italy,ch Switzerland,Y,CM,90,0,0,0,1,1,1,0,0,,,2,,,,,,,,,,,,,,,Match Report
+9,Wed,WCQ,First round,Home,W 5–0,it Italy,lt Lithuania,Y*,CM,60,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+10,Sat,Premier League,Matchweek 4,Home,W 3–0,Chelsea,Aston Villa,N,CM,45,0,0,0,0,0,0,0,0,35,1,1,2,0.0,0.0,0.0,1,0,28,30,93.3,2,14,0,1,1,Match Report
+11,Tue,Champions Lg,Group stage,Home,W 1–0,eng Chelsea,ru Zenit,Y,CM,90,0,0,0,0,0,0,0,0,135,2,2,3,0.0,0.0,0.0,1,0,119,128,93.0,19,95,3,0,0,Match Report
+12,Sun,Premier League,Matchweek 5,Away,W 3–0,Chelsea,Tottenham,Y,CM,90,0,0,0,0,0,0,0,0,76,2,1,0,0.0,0.0,0.1,2,0,59,68,86.8,4,43,0,1,1,Match Report
+13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Sat,Premier League,Matchweek 6,Home,L 0–1,Chelsea,Manchester City,Y,CM,75,0,0,0,0,0,0,0,0,42,1,0,2,0.0,0.0,0.0,1,0,32,34,94.1,1,27,0,0,0,Match Report
+15,Wed,Champions Lg,Group stage,Away,L 0–1,eng Chelsea,it Juventus,Y,CM,61,0,0,0,0,0,0,0,0,61,1,1,0,0.0,0.0,0.0,2,0,52,58,89.7,6,35,0,0,0,Match Report
+16,Sat,Premier League,Matchweek 7,Home,W 3–1,Chelsea,Southampton,N,CM,18,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,1,0,14,15,93.3,2,5,0,0,0,Match Report
+17,Wed,UEFA Nations League,Semi-finals,Neutral,L 1–2,it Italy,es Spain,Y,CM,63,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+18,Sun,UEFA Nations League,Third-place match,Neutral,W 2–1,it Italy,be Belgium,N,,21,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+19,Sat,Premier League,Matchweek 8,Away,W 1–0,Chelsea,Brentford,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Wed,Champions Lg,Group stage,Home,W 4–0,eng Chelsea,se Malmö,Y,CM,90,2,0,2,2,0,0,0,0,102,8,3,1,1.6,0.0,0.0,2,0,74,84,88.1,11,52,1,0,0,Match Report
+21,Sat,Premier League,Matchweek 9,Home,W 7–0,Chelsea,Norwich City,Y*,CM,63,0,1,0,0,0,0,0,0,81,2,1,0,0.0,0.0,0.1,4,3,64,75,85.3,6,58,0,0,0,Match Report
+22,Tue,EFL Cup,Fourth round,Home,D 1 (4)–1 (3),Chelsea,Southampton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Sat,Premier League,Matchweek 10,Away,W 3–0,Chelsea,Newcastle Utd,Y*,CM,90,1,0,1,1,1,0,0,0,97,2,0,1,0.8,0.0,0.0,4,0,79,88,89.8,4,46,4,1,0,Match Report
+24,Tue,Champions Lg,Group stage,Away,W 1–0,eng Chelsea,se Malmö,Y,CM,90,0,0,0,0,0,0,0,0,67,2,1,0,0.0,0.0,0.0,3,0,55,60,91.7,5,24,0,1,0,Match Report
+25,Sat,Premier League,Matchweek 11,Home,D 1–1,Chelsea,Burnley,Y*,CM,90,0,0,0,0,2,1,0,0,87,1,0,4,0.1,0.1,0.0,2,0,72,78,92.3,10,36,2,1,0,Match Report
+26,Fri,WCQ,First round,Home,D 1–1,it Italy,ch Switzerland,Y,CM,90,0,0,0,1,3,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+27,Mon,WCQ,First round,Away,D 0–0,it Italy,nir Northern Ireland,Y,CM,67,0,0,0,0,0,0,0,0,,,3,,,,,,,,,,,,,,,Match Report
+28,Sat,Premier League,Matchweek 12,Away,W 3–0,Chelsea,Leicester City,Y*,CM,76,0,0,0,0,0,0,0,0,66,2,1,0,0.0,0.0,0.3,4,0,53,61,86.9,4,24,0,0,0,Match Report
+29,Tue,Champions Lg,Group stage,Home,W 4–0,eng Chelsea,it Juventus,Y*,CM,75,0,0,0,0,0,0,0,0,70,4,5,1,0.0,0.0,0.6,2,1,54,61,88.5,4,25,1,1,0,Match Report
+30,Sun,Premier League,Matchweek 13,Home,D 1–1,Chelsea,Manchester Utd,Y*,CM,90,1,0,1,1,0,0,1,0,76,2,3,0,0.8,0.0,0.0,2,0,59,68,86.8,10,60,1,1,1,Match Report
+31,Wed,Premier League,Matchweek 14,Away,W 2–1,Chelsea,Watford,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,Sat,Premier League,Matchweek 15,Away,L 2–3,Chelsea,West Ham,Y*,CM,90,0,0,0,0,2,0,1,0,86,1,0,1,0.1,0.1,0.0,5,0,74,80,92.5,8,56,1,1,1,Match Report
+33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Sat,Premier League,Matchweek 16,Home,W 3–2,Chelsea,Leeds United,Y,CM,90,2,0,2,2,0,0,0,0,62,1,2,2,1.6,0.0,0.2,1,0,46,54,85.2,6,23,1,1,1,Match Report
+35,Thu,Premier League,Matchweek 17,Home,D 1–1,Chelsea,Everton,Y,CM,90,0,0,0,0,1,1,1,0,123,3,0,2,0.1,0.1,0.5,3,0,105,117,89.7,10,75,2,0,0,Match Report
+36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,Wed,EFL Cup,Quarter-finals,Away,W 2–0,Chelsea,Brentford,N,,45,1,0,1,1,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+38,Sun,Premier League,Matchweek 19,Away,W 3–1,Chelsea,Aston Villa,Y*,CM,90,2,0,2,2,0,0,0,0,72,1,0,2,1.6,0.0,0.1,2,1,55,62,88.7,8,37,0,1,1,Match Report
+39,Wed,Premier League,Matchweek 20,Home,D 1–1,Chelsea,Brighton,Y,CM,90,0,0,0,0,0,0,0,0,69,7,0,0,0.0,0.0,0.0,0,0,45,57,78.9,6,39,0,0,0,Match Report
+40,Sun,Premier League,Matchweek 21,Home,D 2–2,Chelsea,Liverpool,N,CM,21,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,1,9,0,0,0,Match Report
+41,Wed,EFL Cup,Semi-finals,Home,W 2–0,Chelsea,Tottenham,Y,DM,90,0,0,0,0,0,0,0,0,,,3,,,,,,,,,,,,,,,Match Report
+42,Sat,FA Cup,Third round proper,Home,W 5–1,Chelsea,Chesterfield,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,Wed,EFL Cup,Semi-finals,Away,W 1–0,Chelsea,Tottenham,Y,CM,81,0,0,0,0,1,0,0,0,,,4,,,,,,,,,,,,,,,Match Report
+44,Sat,Premier League,Matchweek 22,Away,L 0–1,Chelsea,Manchester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,Tue,Premier League,Matchweek 24,Away,D 1–1,Chelsea,Brighton,Y,DM,79,0,0,0,0,1,0,0,0,78,3,2,2,0.0,0.0,0.0,1,0,58,64,90.6,4,42,1,0,0,Match Report
+46,Sun,Premier League,Matchweek 23,Home,W 2–0,Chelsea,Tottenham,Y,CM,72,0,0,0,0,0,0,1,0,56,3,4,0,0.0,0.0,0.0,2,0,44,51,86.3,8,44,0,0,0,Match Report
+47,Sat,FA Cup,Fourth round proper,Home,W 2–1,Chelsea,Plymouth Argyle,Y,CM,120,0,0,0,0,2,0,1,0,,,4,,,,,,,,,,,,,,,Match Report
+48,Sat,Premier League,Matchweek 26,Away,W 1–0,Chelsea,Crystal Palace,Y*,CM,73,0,0,0,0,0,0,0,0,49,5,1,2,0.0,0.0,0.0,1,0,28,37,75.7,4,16,0,1,0,Match Report
+49,Tue,Champions Lg,Round of 16,Home,W 2–0,eng Chelsea,fr Lille,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,Sun,EFL Cup,Final,Home,D 0 (10)–0 (11),Chelsea,Liverpool,N,,15,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+51,Wed,FA Cup,Fifth round proper,Away,W 3–2,Chelsea,Luton Town,Y*,CM,75,0,0,0,0,1,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+52,Sat,Premier League,Matchweek 28,Away,W 4–0,Chelsea,Burnley,Y*,CM,90,0,0,0,0,1,0,0,0,95,0,1,0,0.0,0.0,0.0,3,0,85,93,91.4,4,39,1,1,1,Match Report
+53,Thu,Premier League,Matchweek 30,Away,W 3–1,Chelsea,Norwich City,Y,CM,90,0,0,0,0,0,0,0,0,79,0,1,0,0.0,0.0,0.0,1,0,71,76,93.4,7,43,0,3,2,Match Report
+54,Sun,Premier League,Matchweek 29,Home,W 1–0,Chelsea,Newcastle Utd,Y*,CM,90,0,1,0,0,0,0,0,0,74,2,2,1,0.0,0.0,0.8,1,1,55,65,84.6,4,41,1,1,1,Match Report
+55,Wed,Champions Lg,Round of 16,Away,W 2–1,eng Chelsea,fr Lille,Y,CM,73,0,0,0,0,0,0,0,0,55,4,1,1,0.0,0.0,0.1,1,1,40,43,93.0,7,42,0,3,1,Match Report
+56,Thu,WCQ,Semi-finals,Home,L 0–1,it Italy,mk N. Macedonia,Y,CM,90,0,0,0,0,0,0,0,0,,,4,,,,,,,,,,,,,,,Match Report
+57,Sat,Premier League,Matchweek 31,Home,L 1–4,Chelsea,Brentford,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,Wed,Champions Lg,Quarter-finals,Home,L 1–3,eng Chelsea,es Real Madrid,Y,CM,63,0,1,0,0,0,0,0,0,82,1,0,1,0.0,0.0,0.3,4,1,70,78,89.7,5,44,3,2,2,Match Report
+59,Sat,Premier League,Matchweek 32,Away,W 6–0,Chelsea,Southampton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,Tue,Champions Lg,Quarter-finals,Away,W 3–2,eng Chelsea,es Real Madrid,N,DM,15,0,0,0,0,2,0,0,0,21,0,0,1,0.3,0.3,0.0,2,0,17,18,94.4,4,10,1,0,0,Match Report
+61,Sun,FA Cup,Semi-finals,Home,W 2–0,Chelsea,Crystal Palace,Y,DM,76,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+62,Wed,Premier League,Matchweek 25,Home,L 2–4,Chelsea,Arsenal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,Sun,Premier League,Matchweek 34,Home,W 1–0,Chelsea,West Ham,Y,CM,90,0,0,0,1,0,0,0,0,90,1,4,0,0.8,0.0,0.1,8,0,78,84,92.9,16,69,2,2,2,Match Report
+64,Thu,Premier League,Matchweek 37,Away,D 1–1,Chelsea,Manchester Utd,Y,CM,90,0,0,0,0,1,0,0,0,89,2,3,1,0.0,0.0,0.1,6,0,76,81,93.8,10,53,2,1,1,Match Report
+65,Sun,Premier League,Matchweek 35,Away,L 0–1,Chelsea,Everton,Y,CM,45,0,0,0,0,0,0,0,0,58,5,0,0,0.0,0.0,0.0,0,0,46,51,90.2,2,29,0,1,1,Match Report
+66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,Wed,Premier League,Matchweek 33,Away,W 3–0,Chelsea,Leeds United,Y*,CM,90,0,0,0,0,0,0,0,0,109,4,0,0,0.0,0.0,0.1,5,1,88,101,87.1,10,56,0,0,0,Match Report
+68,Sat,FA Cup,Final,Home,D 0 (5)–0 (6),Chelsea,Liverpool,Y*,DM,120,0,0,0,0,0,0,0,0,,,4,,,,,,,,,,,,,,,Match Report
+69,Thu,Premier League,Matchweek 27,Home,D 1–1,Chelsea,Leicester City,Y*,"CM,DM",90,0,0,0,0,0,0,1,0,109,3,2,0,0.0,0.0,0.1,4,0,92,100,92.0,10,78,0,1,1,Match Report
+70,Sun,Premier League,Matchweek 38,Home,W 2–1,Chelsea,Watford,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+71,,,,,32-18-7,,,49/57,,"4,409",9,3,9,12,21,4,7,0,2937,92,92,37,7.7,0.6,3.8,96,11,2353,2621,89.8,253,1643,30,30,21,

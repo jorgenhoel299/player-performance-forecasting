@@ -1,0 +1,51 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sun,Premier League,Matchweek 1,Home,D 2–2,Leicester City,Brentford,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Sat,Premier League,Matchweek 2,Away,L 2–4,Leicester City,Arsenal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Sat,Premier League,Matchweek 3,Home,L 1–2,Leicester City,Southampton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Tue,EFL Cup,Second round,Away,D 0 (3)–0 (1),Leicester City,Stockport,Y,DM,60,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+4,Sat,Premier League,Matchweek 4,Away,L 1–2,Leicester City,Chelsea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Sun,Premier League,Matchweek 6,Away,L 2–5,Leicester City,Brighton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Sat,Friendlies (M),Friendlies (M),Neutral,W 2–0,sn Senegal,bo Bolivia,N,,27,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+8,Tue,Friendlies (M),Friendlies (M),Neutral,D 1–1,sn Senegal,ir IR Iran,Y,DM,75,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+9,Sat,Premier League,Matchweek 11,Home,D 0–0,Leicester City,Crystal Palace,N,DM,26,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,21,22,95.5,0,16,0,0,0,Match Report
+10,Thu,Premier League,Matchweek 12,Home,W 2–0,Leicester City,Leeds United,N,"DM,CM",27,0,0,0,0,0,0,0,0,9,0,0,2,0.0,0.0,0.0,0,0,6,7,85.7,1,2,0,0,0,Match Report
+11,Sun,Premier League,Matchweek 13,Away,W 4–0,Leicester City,Wolves,N,DM,30,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,0,0,12,17,70.6,1,10,0,0,0,Match Report
+12,Sat,Premier League,Matchweek 14,Home,L 0–1,Leicester City,Manchester City,N,CM,45,0,0,0,0,0,0,0,0,19,0,0,1,0.0,0.0,0.0,0,0,16,18,88.9,0,11,0,1,1,Match Report
+13,Sat,Premier League,Matchweek 15,Away,W 2–0,Leicester City,Everton,N,CM,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Match Report
+14,Tue,EFL Cup,Third round,Home,W 3–0,Leicester City,Newport County,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Sat,Premier League,Matchweek 16,Away,W 2–0,Leicester City,West Ham,N,DM,23,0,0,0,0,1,0,0,0,19,0,3,0,0.1,0.1,0.0,1,0,11,14,78.6,1,12,0,0,0,Match Report
+16,Mon,World Cup,Group stage,Neutral,L 0–2,sn Senegal,nl Netherlands,Y,DM,90,0,0,0,0,0,0,1,0,60,3,1,0,0.0,0.0,0.0,3,0,37,49,75.5,1,35,1,0,0,Match Report
+17,Fri,World Cup,Group stage,Neutral,W 3–1,sn Senegal,qa Qatar,Y,"CM,DM",76,0,0,0,0,2,0,0,0,53,0,0,0,0.1,0.1,0.0,0,0,46,50,92.0,2,36,2,1,1,Match Report
+18,Tue,World Cup,Group stage,Neutral,W 2–1,sn Senegal,ec Ecuador,N,DM,16,0,0,0,0,0,0,0,0,12,1,1,1,0.0,0.0,0.0,1,0,9,10,90.0,3,6,1,0,0,Match Report
+19,Sun,World Cup,Round of 16,Neutral,L 0–3,sn Senegal,eng England,Y,DM,90,0,0,0,0,0,0,0,0,57,0,1,3,0.0,0.0,0.0,2,0,49,50,98.0,3,39,1,0,0,Match Report
+20,Tue,EFL Cup,Fourth round,Away,W 3–0,Leicester City,MK Dons,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Mon,Premier League,Matchweek 17,Home,L 0–3,Leicester City,Newcastle Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,Fri,Premier League,Matchweek 18,Away,L 1–2,Leicester City,Liverpool,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Tue,Premier League,Matchweek 19,Home,L 0–1,Leicester City,Fulham,N,DM,19,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,19,21,90.5,0,16,1,0,0,Match Report
+24,Sat,FA Cup,Third round proper,Away,W 1–0,Leicester City,Gillingham,Y,CM,80,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+25,Tue,EFL Cup,Quarter-finals,Away,L 0–2,Leicester City,Newcastle Utd,N,,7,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+26,Sat,Premier League,Matchweek 20,Away,L 0–2,Leicester City,Nott'ham Forest,Y,DM,67,0,0,0,0,0,0,0,0,47,1,1,3,0.0,0.0,0.0,2,0,37,41,90.2,6,19,0,0,0,Match Report
+27,Sat,Premier League,Matchweek 21,Home,D 2–2,Leicester City,Brighton,Y,CM,90,0,0,0,0,0,0,0,0,46,2,0,0,0.0,0.0,0.0,0,0,33,40,82.5,0,28,0,0,0,Match Report
+28,Sat,FA Cup,Fourth round proper,Away,W 1–0,Leicester City,Walsall,Y,DM,90,0,1,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+29,Sat,Premier League,Matchweek 22,Away,W 4–2,Leicester City,Aston Villa,N,"DM,CM",24,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,1,0,1,1,Match Report
+30,Sat,Premier League,Matchweek 23,Home,W 4–1,Leicester City,Tottenham,Y,DM,68,1,0,0,0,1,1,0,0,67,3,2,1,0.0,0.0,0.0,1,0,50,56,89.3,5,39,0,1,0,Match Report
+31,Sun,Premier League,Matchweek 24,Away,L 0–3,Leicester City,Manchester Utd,Y,DM,58,0,0,0,0,0,0,1,0,37,1,2,1,0.0,0.0,0.0,2,0,25,29,86.2,3,17,0,1,0,Match Report
+32,Sat,Premier League,Matchweek 25,Home,L 0–1,Leicester City,Arsenal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,Tue,FA Cup,Fifth round proper,Home,L 1–2,Leicester City,Blackburn,N,,17,0,0,0,0,1,0,1,0,,,1,,,,,,,,,,,,,,,Match Report
+34,Sat,Premier League,Matchweek 26,Away,L 0–1,Leicester City,Southampton,Y,DM,67,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.0,1,0,30,33,90.9,2,24,1,1,1,Match Report
+35,Sat,Premier League,Matchweek 27,Home,L 1–3,Leicester City,Chelsea,Y,CM,65,0,0,0,0,0,0,0,0,63,2,2,5,0.0,0.0,0.0,0,0,51,52,98.1,5,43,0,2,2,Match Report
+36,Sat,Premier League,Matchweek 28,Away,D 1–1,Leicester City,Brentford,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,Sat,Premier League,Matchweek 29,Away,L 1–2,Leicester City,Crystal Palace,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,Tue,Premier League,Matchweek 7,Home,L 1–2,Leicester City,Aston Villa,Y,RM,90,0,0,0,0,0,0,0,0,47,2,2,3,0.0,0.0,0.0,2,0,24,35,68.6,3,24,0,2,1,Match Report
+39,Sat,Premier League,Matchweek 30,Home,L 0–1,Leicester City,Bournemouth,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,Sat,Premier League,Matchweek 31,Away,L 1–3,Leicester City,Manchester City,N,CM,29,0,0,0,0,0,0,0,0,21,1,0,2,0.0,0.0,0.0,0,0,16,16,100.0,0,15,0,2,1,Match Report
+41,Sat,Premier League,Matchweek 32,Home,W 2–1,Leicester City,Wolves,N,AM,6,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+42,Tue,Premier League,Matchweek 33,Away,D 1–1,Leicester City,Leeds United,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,Mon,Premier League,Matchweek 34,Home,D 2–2,Leicester City,Everton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,Mon,Premier League,Matchweek 36,Home,L 0–3,Leicester City,Liverpool,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,Mon,Premier League,Matchweek 37,Away,D 0–0,Leicester City,Newcastle Utd,N,RM,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+47,Sun,Premier League,Matchweek 38,Home,W 2–1,Leicester City,West Ham,N,DM,20,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0,Match Report
+48,Tue,Friendlies (M),Friendlies (M),Neutral,W 4–2,sn Senegal,br Brazil,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+49,,,,,14-5-12,,,15/31,,"1,475",1,1,0,0,6,1,3,0,672,17,19,24,0.2,0.2,0.1,15,0,503,572,87.9,37,399,7,12,8,

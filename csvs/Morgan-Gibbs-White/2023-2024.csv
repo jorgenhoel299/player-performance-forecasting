@@ -1,0 +1,9 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Away,L 1–2,Nott'ham Forest,Arsenal,Y,"LW,LM",90,0,0,0,0,1,0,0,0,34,1,1,0,0.1,0.1,0.2,1,0,12,20,60.0,2,19,2,7,3,Match Report
+1,Fri,Premier League,Matchweek 2,Home,W 2–1,Nott'ham Forest,Sheffield Utd,Y,"LW,AM",90,0,0,0,0,2,1,0,0,62,2,0,0,0.1,0.1,0.3,10,0,34,51,66.7,10,41,4,7,3,Match Report
+2,Sat,Premier League,Matchweek 3,Away,L 2–3,Nott'ham Forest,Manchester Utd,Y,AM,90,0,1,0,0,2,0,1,0,50,0,3,0,0.3,0.3,0.7,5,1,25,38,65.8,2,21,2,4,1,Match Report
+3,Wed,EFL Cup,Second round,Home,L 0–1,Nott'ham Forest,Burnley,N,,20,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+4,Sat,Premier League,Matchweek 4,Away,W 1–0,Nott'ham Forest,Chelsea,Y,AM,90,0,0,0,0,0,0,0,0,37,2,1,1,0.0,0.0,0.0,2,0,14,24,58.3,0,14,1,2,1,Match Report
+5,Mon,Premier League,Matchweek 5,Home,D 1–1,Nott'ham Forest,Burnley,Y,AM,90,0,0,0,0,4,1,0,0,62,1,0,1,0.3,0.3,0.1,5,0,33,48,68.8,7,29,6,6,4,Match Report
+6,Sat,Premier League,Matchweek 6,Away,L 0–2,Nott'ham Forest,Manchester City,Y,"RM,AM",90,0,0,0,0,3,0,1,0,62,1,1,0,0.3,0.3,0.0,2,0,37,49,75.5,6,43,1,1,0,Match Report
+7,,,,,2-1-4,,,6/7,,560,0,1,0,0,12,2,2,0,307,7,7,2,0.9,0.9,1.2,25,1,155,230,67.4,27,167,16,27,12,

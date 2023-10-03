@@ -1,0 +1,39 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Away,L 1–3,Southampton,Everton,Y,RB,90,0,0,0,0,0,0,0,0,74,4,0,2,0.0,0.0,0.0,0,0,40,55,72.7,2,38,4,3,1,Match Report
+1,Sun,Premier League,Matchweek 2,Home,D 1–1,Southampton,Manchester Utd,Y,"RB,RM",90,0,0,0,0,1,0,0,0,48,1,6,0,0.0,0.0,0.0,0,0,25,31,80.6,2,20,4,3,3,Match Report
+2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Sat,Premier League,Matchweek 3,Away,D 2–2,Southampton,Newcastle Utd,Y,RB,90,0,0,0,0,0,0,0,0,61,2,0,0,0.0,0.0,0.8,4,0,38,52,73.1,3,34,6,2,1,Match Report
+4,Sat,Premier League,Matchweek 4,Home,D 0–0,Southampton,West Ham,Y,RB,90,0,0,0,0,0,0,0,0,57,0,0,1,0.0,0.0,0.1,2,0,38,46,82.6,5,40,5,2,0,Match Report
+5,Sat,Premier League,Matchweek 5,Away,D 0–0,Southampton,Manchester City,Y,RB,85,0,0,0,0,0,0,1,0,41,3,3,1,0.0,0.0,0.0,0,0,18,29,62.1,4,25,4,6,3,Match Report
+6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Sun,Premier League,Matchweek 6,Home,L 0–1,Southampton,Wolves,Y,"RB,WB",90,0,0,0,0,1,1,0,0,69,1,0,1,0.0,0.0,0.0,4,0,53,65,81.5,4,35,3,1,1,Match Report
+8,Sat,Premier League,Matchweek 7,Away,L 1–3,Southampton,Chelsea,Y,"RM,RB",90,0,0,0,0,0,0,0,0,39,3,0,1,0.0,0.0,0.0,1,1,19,29,65.5,0,19,2,1,1,Match Report
+9,Sat,Premier League,Matchweek 8,Home,W 1–0,Southampton,Leeds United,Y,RB,90,0,0,0,0,1,0,0,0,52,5,0,0,0.0,0.0,0.0,2,0,35,42,83.3,5,20,1,2,2,Match Report
+10,Sat,Premier League,Matchweek 9,Home,D 2–2,Southampton,Burnley,Y,RB,90,1,0,0,0,3,1,0,0,93,2,2,0,0.3,0.3,0.2,5,0,58,78,74.4,4,52,6,5,2,Match Report
+11,Tue,EFL Cup,Fourth round,Away,D 1 (3)–1 (4),Southampton,Chelsea,N,,8,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+12,Sat,Premier League,Matchweek 10,Away,W 1–0,Southampton,Watford,Y,RB,90,0,0,0,0,0,0,0,0,52,3,2,0,0.0,0.0,0.0,0,0,27,40,67.5,1,25,4,5,2,Match Report
+13,Fri,Premier League,Matchweek 11,Home,W 1–0,Southampton,Aston Villa,Y,"RB,WB",90,0,0,0,0,0,0,0,0,73,4,4,3,0.0,0.0,0.0,2,0,40,47,85.1,4,30,5,1,0,Match Report
+14,Sat,Premier League,Matchweek 12,Away,L 1–2,Southampton,Norwich City,Y,"RB,WB",90,0,0,0,0,0,0,0,0,61,2,3,0,0.0,0.0,0.0,0,0,36,47,76.6,3,32,5,3,1,Match Report
+15,Sat,Premier League,Matchweek 13,Away,L 0–4,Southampton,Liverpool,Y,"RB,RM",90,0,0,0,0,0,0,0,0,58,2,5,3,0.0,0.0,0.2,1,0,27,42,64.3,2,25,2,0,0,Match Report
+16,Wed,Premier League,Matchweek 14,Home,D 2–2,Southampton,Leicester City,Y,RB,90,0,0,0,0,0,0,0,0,54,2,3,1,0.0,0.0,0.0,0,0,29,44,65.9,1,18,3,3,3,Match Report
+17,Sat,Premier League,Matchweek 15,Home,D 1–1,Southampton,Brighton,Y,RB,90,0,0,0,0,2,0,0,0,61,1,1,2,0.1,0.1,0.2,2,0,31,46,67.4,3,32,5,0,0,Match Report
+18,Sat,Premier League,Matchweek 16,Away,L 0–3,Southampton,Arsenal,Y,RB,90,0,0,0,0,0,0,0,0,49,1,0,0,0.0,0.0,0.0,0,0,25,37,67.6,3,22,1,2,0,Match Report
+19,Wed,Premier League,Matchweek 17,Away,D 2–2,Southampton,Crystal Palace,Y,RB,90,0,0,0,0,0,0,1,0,59,3,4,0,0.0,0.0,0.0,1,0,24,41,58.5,1,14,4,1,0,Match Report
+20,Sun,Premier League,Matchweek 19,Away,W 3–2,Southampton,West Ham,Y,RB,90,0,0,0,0,0,0,0,0,57,0,0,2,0.0,0.0,0.0,0,0,36,46,78.3,2,23,2,2,1,Match Report
+21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,Sat,FA Cup,Fourth round proper,Home,W 2–1,Southampton,Coventry City,Y,RM,89,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,Sat,Premier League,Matchweek 25,Away,D 1–1,Southampton,Manchester Utd,N,RB,20,0,0,0,0,0,0,0,0,12,1,1,0,0.0,0.0,0.0,0,0,9,9,100.0,1,7,0,0,0,Match Report
+25,Sat,Premier League,Matchweek 26,Home,W 2–0,Southampton,Everton,Y,RB,90,0,1,0,0,1,1,0,0,63,4,2,2,0.8,0.8,0.2,4,1,36,48,75.0,6,27,2,1,1,Match Report
+26,Fri,Premier League,Matchweek 27,Home,W 2–0,Southampton,Norwich City,Y,"RB,WB",90,0,0,0,0,0,0,0,0,72,0,3,1,0.0,0.0,0.1,6,1,48,62,77.4,2,34,4,1,1,Match Report
+27,Wed,FA Cup,Fifth round proper,Home,W 3–1,Southampton,West Ham,N,,33,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+28,Sat,Premier League,Matchweek 28,Away,L 0–4,Southampton,Aston Villa,Y,"WB,RB",90,0,0,0,0,0,0,0,0,77,4,3,1,0.0,0.0,0.7,4,0,54,68,79.4,4,52,0,2,1,Match Report
+29,Thu,Premier League,Matchweek 21,Home,L 1–2,Southampton,Newcastle Utd,Y,RB,90,0,0,0,0,1,0,0,0,79,4,1,1,0.1,0.1,0.0,1,0,51,63,81.0,3,53,2,5,3,Match Report
+30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Sun,FA Cup,Quarter-finals,Home,L 1–4,Southampton,Manchester City,Y,RB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+32,Sat,Premier League,Matchweek 31,Away,D 1–1,Southampton,Leeds United,Y,RB,90,0,0,0,0,1,0,0,0,61,1,1,1,0.0,0.0,0.2,2,0,26,46,56.5,10,20,2,2,2,Match Report
+33,Sat,Premier League,Matchweek 32,Home,L 0–6,Southampton,Chelsea,Y,"RB,RW,RM",72,0,0,0,0,0,0,0,0,38,0,1,0,0.0,0.0,0.0,0,0,22,31,71.0,1,27,1,1,0,Match Report
+34,Sat,Premier League,Matchweek 33,Home,W 1–0,Southampton,Arsenal,N,RM,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+35,Thu,Premier League,Matchweek 30,Away,L 0–2,Southampton,Burnley,N,RM,8,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,5,5,100.0,1,4,0,0,0,Match Report
+36,Sun,Premier League,Matchweek 34,Away,D 2–2,Southampton,Brighton,Y,RB,36,0,0,0,0,1,0,0,0,20,1,1,0,0.0,0.0,0.0,3,0,14,17,82.4,3,14,2,1,1,Match Report
+37,,,,,9-12-11,,,27/32,,"2,422",1,1,0,0,12,3,2,0,1486,54,49,23,1.4,1.4,2.7,44,3,864,1166,74.1,80,742,79,55,30,

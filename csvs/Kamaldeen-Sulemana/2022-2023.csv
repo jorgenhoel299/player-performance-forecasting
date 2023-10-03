@@ -1,0 +1,51 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sun,Ligue 1,Matchweek 1,Home,L 0–1,Rennes,Lorient,N,"LW,RW",18,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,1,0,8,9,88.9,2,8,1,1,0,Match Report
+1,Sat,Ligue 1,Matchweek 2,Away,D 1–1,Rennes,Monaco,N,RW,11,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.1,2,0,7,7,100.0,0,8,0,1,0,Match Report
+2,Sun,Ligue 1,Matchweek 3,Home,W 2–1,Rennes,Ajaccio,N,FW,18,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,1,7,1,3,3,Match Report
+3,Sat,Ligue 1,Matchweek 4,Away,L 1–2,Rennes,Lens,N,RW,20,0,0,0,0,1,0,0,0,18,1,1,0,0.1,0.1,0.0,0,0,7,10,70.0,2,11,3,2,1,Match Report
+4,Wed,Ligue 1,Matchweek 5,Home,W 3–1,Rennes,Brest,Y,RW,59,0,0,0,0,2,1,0,0,46,0,1,0,0.1,0.1,0.0,1,0,25,31,80.6,5,40,3,8,3,Match Report
+5,Sun,Ligue 1,Matchweek 6,Away,D 1–1,Rennes,Troyes,N,LM,45,0,0,0,0,1,0,0,0,25,1,0,1,0.2,0.2,0.2,3,0,17,18,94.4,1,19,2,4,2,Match Report
+6,Thu,Europa Lg,Group stage,Away,W 2–1,fr Rennes,cy AÉK Lárnaka,Y,"RW,LW",90,0,2,0,0,5,2,0,0,38,1,0,0,0.2,0.2,0.2,5,2,11,22,50.0,2,28,5,5,2,Match Report
+7,Sun,Ligue 1,Matchweek 7,Home,W 5–0,Rennes,Auxerre,Y,LM,45,1,0,0,0,2,1,0,0,33,2,0,1,0.6,0.6,0.0,1,0,20,25,80.0,3,26,3,4,3,Match Report
+8,Thu,Europa Lg,Group stage,Home,D 2–2,fr Rennes,tr Fenerbahçe,Y,LM,63,0,0,0,0,0,0,0,0,20,2,3,1,0.0,0.0,0.0,0,0,12,12,100.0,0,17,0,3,1,Match Report
+9,Sun,Ligue 1,Matchweek 8,Away,D 1–1,Rennes,Marseille,N,LW,30,0,0,0,0,0,0,1,0,13,1,1,0,0.0,0.0,0.1,1,0,5,7,71.4,1,13,0,2,0,Match Report
+10,Fri,Friendlies (M),Friendlies (M),Neutral,L 0–3,gh Ghana,br Brazil,Y,RW,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+11,Sun,Ligue 1,Matchweek 10,Home,W 3–0,Rennes,Nantes,N,LM,3,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,4,1,0,0,Match Report
+12,Thu,Europa Lg,Group stage,Away,W 1–0,fr Rennes,ua Dynamo Kyiv,N,LM,25,0,0,0,0,1,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,8,12,66.7,0,12,0,1,0,Match Report
+13,Sun,Ligue 1,Matchweek 11,Home,W 3–2,Rennes,Lyon,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Sun,Ligue 1,Matchweek 12,Away,W 2–1,Rennes,Angers,N,LM,14,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,4,0,1,1,Match Report
+15,Thu,Europa Lg,Group stage,Away,D 3–3,fr Rennes,tr Fenerbahçe,N,LW,7,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,6,1,6,3,Match Report
+16,Sun,Ligue 1,Matchweek 13,Home,W 3–0,Rennes,Montpellier,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Sat,Ligue 1,Matchweek 15,Home,W 2–1,Rennes,Toulouse,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Thu,Friendlies (M),Friendlies (M),Neutral,W 2–0,gh Ghana,ch Switzerland,N,,29,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+20,Thu,World Cup,Group stage,Neutral,L 2–3,gh Ghana,pt Portugal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Mon,World Cup,Group stage,Neutral,W 3–2,gh Ghana,kr Korea Republic,N,LW,13,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,Match Report
+22,Fri,World Cup,Group stage,Neutral,L 0–2,gh Ghana,uy Uruguay,N,LW,45,0,0,0,0,1,1,1,0,24,0,0,0,0.1,0.1,0.0,0,0,8,15,53.3,1,18,3,5,1,Match Report
+23,Thu,Ligue 1,Matchweek 16,Away,L 1–3,Rennes,Reims,N,CM,9,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,5,1,2,1,Match Report
+24,Mon,Ligue 1,Matchweek 17,Home,W 2–1,Rennes,Nice,N,FW,7,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,6,0,1,0,Match Report
+25,Sat,Coupe de France,Round of 64,Away,W 2–1,Rennes,Bordeaux,N,,17,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+26,Wed,Ligue 1,Matchweek 18,Away,L 1–2,Rennes,Clermont Foot,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Sun,Ligue 1,Matchweek 19,Home,W 1–0,Rennes,Paris S-G,N,FW,2,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.2,1,0,1,4,25.0,1,6,0,0,0,Match Report
+28,Fri,Coupe de France,Round of 32,Away,L 0–1,Rennes,Marseille,N,,21,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+29,Fri,Ligue 1,Matchweek 20,Away,L 1–2,Rennes,Lorient,N,"FW,LM",45,0,0,0,0,4,1,0,0,35,0,0,0,0.3,0.3,0.0,1,0,25,28,89.3,2,32,2,3,1,Match Report
+30,Sat,Premier League,Matchweek 22,Away,L 0–3,Southampton,Brentford,N,LM,45,0,0,0,0,1,1,0,0,23,0,0,0,0.0,0.0,0.0,3,0,7,15,46.7,1,17,1,4,2,Match Report
+31,Sat,Premier League,Matchweek 23,Home,L 1–2,Southampton,Wolves,Y,FW,90,0,0,0,0,6,0,0,0,49,0,0,0,0.2,0.2,0.1,6,0,24,32,75.0,4,32,3,13,8,Match Report
+32,Sat,Premier League,Matchweek 24,Away,W 1–0,Southampton,Chelsea,Y,FW,58,0,0,0,0,1,1,0,0,19,2,0,0,0.2,0.2,0.0,4,0,7,9,77.8,0,15,1,2,0,Match Report
+33,Sat,Premier League,Matchweek 25,Away,L 0–1,Southampton,Leeds United,Y,FW,62,0,0,0,0,1,0,0,0,20,0,0,1,0.0,0.0,0.1,4,0,7,10,70.0,3,12,1,6,3,Match Report
+34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,Sat,Premier League,Matchweek 26,Home,W 1–0,Southampton,Leicester City,Y,LW,79,0,0,0,0,2,1,0,0,41,3,0,7,0.1,0.1,0.0,0,0,12,20,60.0,1,22,2,5,1,Match Report
+36,Sun,Premier League,Matchweek 27,Away,D 0–0,Southampton,Manchester Utd,Y,LW,75,0,0,0,0,1,0,0,0,34,0,0,2,0.1,0.1,0.0,2,0,16,21,76.2,5,24,2,4,0,Match Report
+37,Wed,Premier League,Matchweek 7,Home,L 0–2,Southampton,Brentford,Y,LW,90,0,0,0,0,1,0,0,0,49,1,1,2,0.1,0.1,0.0,2,0,30,39,76.9,6,35,4,6,4,Match Report
+38,Sat,Premier League,Matchweek 28,Home,D 3–3,Southampton,Tottenham,N,LM,21,0,0,0,0,0,0,1,0,15,1,0,0,0.0,0.0,0.1,3,0,10,11,90.9,2,8,1,5,4,Match Report
+39,Sun,Premier League,Matchweek 29,Away,L 0–1,Southampton,West Ham,N,LM,37,0,0,0,0,1,0,0,0,22,3,0,0,0.0,0.0,0.0,2,0,7,10,70.0,3,17,2,4,1,Match Report
+40,Sat,Premier League,Matchweek 30,Home,L 1–4,Southampton,Manchester City,Y,FW,68,0,0,0,0,1,0,0,0,17,0,1,1,0.1,0.1,0.0,0,0,5,9,55.6,0,12,2,2,1,Match Report
+41,Sat,Premier League,Matchweek 31,Home,L 0–2,Southampton,Crystal Palace,Y,"LM,RW",79,0,0,0,0,2,0,0,0,40,0,0,1,0.2,0.2,0.1,4,0,23,28,82.1,7,27,3,7,4,Match Report
+42,Fri,Premier League,Matchweek 32,Away,D 3–3,Southampton,Arsenal,N,RM,14,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,1,0,0,Match Report
+43,Thu,Premier League,Matchweek 33,Home,L 0–1,Southampton,Bournemouth,N,CM,15,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,5,1,0,0,Match Report
+44,Sun,Premier League,Matchweek 34,Away,L 1–3,Southampton,Newcastle Utd,Y,FW,69,0,1,0,0,0,0,0,0,31,3,1,0,0.0,0.0,0.7,2,1,8,14,57.1,0,15,3,5,4,Match Report
+45,Mon,Premier League,Matchweek 35,Away,L 3–4,Southampton,Nott'ham Forest,N,RW,30,0,0,0,0,1,1,0,0,16,0,1,2,0.0,0.0,0.0,3,0,7,9,77.8,0,9,1,2,2,Match Report
+46,Sat,Premier League,Matchweek 36,Home,L 0–2,Southampton,Fulham,N,RW,29,0,0,0,0,1,0,0,0,18,1,1,0,0.1,0.1,0.0,0,0,11,15,73.3,2,12,1,0,0,Match Report
+47,Sun,Premier League,Matchweek 37,Away,L 1–3,Southampton,Brighton,N,LM,20,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Match Report
+48,Sun,Premier League,Matchweek 38,Home,D 4–4,Southampton,Liverpool,Y,FW,85,2,0,0,0,5,3,0,0,23,1,1,0,0.6,0.6,0.1,5,2,6,12,50.0,1,11,3,3,2,Match Report
+49,,,,,14-9-19,,,15/42,,"1,647",3,3,0,0,46,13,4,0,774,25,13,19,3.4,3.4,2.0,58,5,360,488,73.8,58,550,58,120,58,

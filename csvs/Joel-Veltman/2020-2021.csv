@@ -1,0 +1,59 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Fri,UEFA Nations League,League A,Home,W 1–0,nl Netherlands,pl Poland,Y,CB,90,0,0,0,0,0,0,0,0,,,4,,,,,,,,,,,,,,,Match Report
+1,Mon,UEFA Nations League,League A,Home,L 0–1,nl Netherlands,it Italy,Y,CB,90,0,0,0,0,0,0,1,0,,,3,,,,,,,,,,,,,,,Match Report
+2,Mon,Premier League,Matchweek 1,Home,L 1–3,Brighton,Chelsea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Thu,EFL Cup,Second round,Home,W 4–0,Brighton,Portsmouth,Y,CB,67,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+4,Sun,Premier League,Matchweek 2,Away,W 3–0,Brighton,Newcastle Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Wed,EFL Cup,Third round,Away,W 2–0,Brighton,Preston,Y,RB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+6,Sat,Premier League,Matchweek 3,Home,L 2–3,Brighton,Manchester Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Wed,EFL Cup,Fourth round,Home,L 0–3,Brighton,Manchester Utd,Y,RM,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+8,Sat,Premier League,Matchweek 4,Away,L 2–4,Brighton,Everton,N,"WB,RB",45,0,0,0,0,0,0,0,0,66,5,0,1,0.0,0.0,0.0,1,0,42,56,75.0,3,32,2,2,1,Match Report
+9,Wed,Friendlies (M),Friendlies (M),Home,L 0–1,nl Netherlands,mx Mexico,N,,45,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+10,Sun,UEFA Nations League,League A,Away,D 0–0,nl Netherlands,ba Bosnia & Herz'na,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Wed,UEFA Nations League,League A,Away,D 1–1,nl Netherlands,it Italy,N,,14,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+12,Sun,Premier League,Matchweek 5,Away,D 1–1,Brighton,Crystal Palace,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Mon,Premier League,Matchweek 6,Home,D 1–1,Brighton,West Brom,Y,"CB,RB",90,0,0,0,0,0,0,0,0,61,2,0,1,0.0,0.0,0.0,0,0,44,53,83.0,1,31,0,1,0,Match Report
+14,Sun,Premier League,Matchweek 7,Away,L 1–2,Brighton,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,89,0,1,0,0.0,0.0,0.0,0,0,71,80,88.8,2,54,0,1,0,Match Report
+15,Fri,Premier League,Matchweek 8,Home,D 0–0,Brighton,Burnley,Y,CB,82,0,0,0,0,0,0,0,0,76,1,1,0,0.0,0.0,0.1,4,0,56,72,77.8,8,44,1,1,1,Match Report
+16,Wed,Friendlies (M),Friendlies (M),Home,D 1–1,nl Netherlands,es Spain,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+17,Sun,UEFA Nations League,League A,Home,W 3–1,nl Netherlands,ba Bosnia & Herz'na,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Wed,UEFA Nations League,League A,Away,W 2–1,nl Netherlands,pl Poland,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Sat,Premier League,Matchweek 9,Away,W 2–1,Brighton,Aston Villa,N,"CB,RB",45,0,0,0,0,0,0,0,0,29,3,2,1,0.0,0.0,0.0,0,0,10,17,58.8,0,11,0,0,0,Match Report
+20,Sat,Premier League,Matchweek 10,Home,D 1–1,Brighton,Liverpool,Y,WB,90,0,0,0,0,0,0,1,0,68,1,0,3,0.0,0.0,0.0,2,0,43,57,75.4,7,36,1,1,1,Match Report
+21,Mon,Premier League,Matchweek 11,Home,L 1–2,Brighton,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,66,2,0,1,0.0,0.0,0.0,1,0,39,56,69.6,5,33,0,0,0,Match Report
+22,Sun,Premier League,Matchweek 12,Away,L 0–3,Brighton,Leicester City,Y,RB,90,0,0,0,0,0,0,0,0,85,7,2,1,0.0,0.0,0.0,2,0,52,70,74.3,9,41,5,2,0,Match Report
+23,Wed,Premier League,Matchweek 13,Away,D 0–0,Brighton,Fulham,N,WB,13,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,8,12,66.7,0,4,0,0,0,Match Report
+24,Sun,Premier League,Matchweek 14,Home,D 1–1,Brighton,Sheffield Utd,Y,WB,45,0,0,0,0,0,0,0,0,45,0,1,0,0.0,0.0,0.0,0,0,26,42,61.9,4,17,1,0,0,Match Report
+25,Sun,Premier League,Matchweek 15,Away,D 2–2,Brighton,West Ham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Tue,Premier League,Matchweek 16,Home,L 0–1,Brighton,Arsenal,Y,"WB,RB",90,0,0,0,0,0,0,0,0,61,2,4,1,0.0,0.0,0.1,3,0,42,56,75.0,4,45,2,0,0,Match Report
+27,Sat,Premier League,Matchweek 17,Home,D 3–3,Brighton,Wolves,Y,WB,90,0,0,0,0,0,0,0,0,66,6,0,1,0.0,0.0,0.1,3,0,44,58,75.9,4,36,2,0,0,Match Report
+28,Sun,FA Cup,Third round proper,Away,D 1 (4)–1 (3),Brighton,Newport County,N,,13,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+29,Wed,Premier League,Matchweek 18,Away,L 0–1,Brighton,Manchester City,Y,"RB,WB",90,0,0,0,0,1,0,1,0,58,3,1,1,0.0,0.0,0.0,1,0,38,44,86.4,6,26,1,2,0,Match Report
+30,Sat,Premier League,Matchweek 19,Away,W 1–0,Brighton,Leeds United,Y,"WB,RB",90,0,0,0,0,0,0,0,0,54,3,3,2,0.0,0.0,0.0,0,0,28,37,75.7,2,20,3,2,2,Match Report
+31,Sat,FA Cup,Fourth round proper,Home,W 2–1,Brighton,Blackpool,Y,DM,90,0,0,0,0,0,0,0,0,,,3,,,,,,,,,,,,,,,Match Report
+32,Wed,Premier League,Matchweek 20,Home,D 0–0,Brighton,Fulham,Y,WB,90,0,0,0,0,0,0,0,0,67,0,3,1,0.0,0.0,0.2,6,0,39,58,67.2,6,35,0,1,1,Match Report
+33,Sun,Premier League,Matchweek 21,Home,W 1–0,Brighton,Tottenham,Y,WB,71,0,0,0,0,1,0,0,0,49,2,2,1,0.1,0.1,0.0,2,0,27,39,69.2,7,34,1,1,0,Match Report
+34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,Sat,Premier League,Matchweek 23,Away,D 1–1,Brighton,Burnley,Y,"WB,RB",90,0,0,0,0,0,0,0,0,61,0,1,0,0.0,0.0,0.1,2,0,39,48,81.3,7,35,1,2,2,Match Report
+36,Wed,FA Cup,Fifth round proper,Away,L 0–1,Brighton,Leicester City,N,,20,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+37,Sat,Premier League,Matchweek 24,Home,D 0–0,Brighton,Aston Villa,Y,RB,90,0,0,0,0,2,2,0,0,78,2,2,1,0.1,0.1,0.3,5,0,43,65,66.2,7,32,1,3,2,Match Report
+38,Mon,Premier League,Matchweek 25,Home,L 1–2,Brighton,Crystal Palace,Y,RB,90,1,0,0,0,4,1,1,0,93,2,2,2,0.5,0.5,0.5,8,0,65,82,79.3,8,52,4,5,2,Match Report
+39,Sat,Premier League,Matchweek 26,Away,L 0–1,Brighton,West Brom,Y,RB,90,0,0,0,0,2,1,0,0,80,4,0,1,0.2,0.2,0.0,2,0,51,69,73.9,11,50,3,1,1,Match Report
+40,Sat,Premier League,Matchweek 27,Home,L 1–2,Brighton,Leicester City,Y,RB,90,0,0,0,0,1,0,0,0,54,4,0,2,0.1,0.1,0.0,0,0,23,43,53.5,4,15,0,1,0,Match Report
+41,Sun,Premier League,Matchweek 28,Away,W 2–1,Brighton,Southampton,Y,"CB,RB",90,0,0,0,0,1,0,0,0,58,4,0,0,0.0,0.0,0.1,2,0,39,49,79.6,3,21,0,0,0,Match Report
+42,Sat,Premier League,Matchweek 29,Home,W 3–0,Brighton,Newcastle Utd,Y,CB,90,0,1,0,0,0,0,0,0,83,5,1,0,0.0,0.0,0.0,1,1,59,70,84.3,3,47,2,2,1,Match Report
+43,Wed,WCQ,First round,Away,L 2–4,nl Netherlands,tr Türkiye,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,Sat,WCQ,First round,Home,W 2–0,nl Netherlands,lv Latvia,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,Tue,WCQ,First round,Away,W 7–0,nl Netherlands,gi Gibraltar,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,Sun,Premier League,Matchweek 30,Away,L 1–2,Brighton,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,61,0,2,0,0.0,0.0,0.0,0,0,34,50,68.0,3,23,0,0,0,Match Report
+47,Mon,Premier League,Matchweek 31,Home,D 0–0,Brighton,Everton,Y,"CB,RB",90,0,0,0,0,0,0,0,0,85,0,2,0,0.0,0.0,0.0,1,0,62,79,78.5,11,45,4,0,0,Match Report
+48,Tue,Premier League,Matchweek 32,Away,D 0–0,Brighton,Chelsea,Y,"RW,WB",90,0,0,0,0,0,0,0,0,45,7,1,0,0.0,0.0,0.1,1,0,27,35,77.1,1,9,1,1,0,Match Report
+49,Sat,Premier League,Matchweek 33,Away,L 0–1,Brighton,Sheffield Utd,Y,CB,90,0,0,0,0,0,0,0,0,109,2,1,0,0.0,0.0,0.1,3,0,83,100,83.0,8,72,3,4,3,Match Report
+50,Sat,Premier League,Matchweek 34,Home,W 2–0,Brighton,Leeds United,Y,WB,90,0,0,0,0,2,0,0,0,51,0,1,2,0.1,0.1,0.0,1,0,32,40,80.0,2,27,1,3,1,Match Report
+51,Wed,Friendlies (M),Friendlies (M),Home,D 2–2,nl Netherlands,sct Scotland,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,Sun,Friendlies (M),Friendlies (M),Home,W 3–0,nl Netherlands,ge Georgia,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,Sun,UEFA Euro,Group stage,Neutral,W 3–2,nl Netherlands,ua Ukraine,N,CB,3,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,3,0,0,0,Match Report
+54,Thu,UEFA Euro,Group stage,Neutral,W 2–0,nl Netherlands,at Austria,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,Mon,UEFA Euro,Group stage,Neutral,W 3–0,nl Netherlands,mk N. Macedonia,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,Sun,UEFA Euro,Round of 16,Neutral,L 0–2,nl Netherlands,cz Czech Republic,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,,,,,11-14-15,,,32/40,,"2,983",1,1,0,0,14,4,6,0,1820,67,45,24,1.1,1.1,1.7,51,1,1172,1544,75.9,136,930,39,36,18,

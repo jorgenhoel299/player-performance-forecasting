@@ -1,0 +1,40 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sun,Premier League,Matchweek 1,Away,W 2–1,Brighton,Manchester Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Sun,Premier League,Matchweek 3,Away,W 2–0,Brighton,West Ham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Sat,Premier League,Matchweek 6,Home,D 0–0,Everton,Liverpool,Y,FW,90,0,0,0,0,5,1,0,0,22,0,0,0,1.1,1.1,0.4,3,0,9,13,69.2,2,11,2,0,0,Match Report
+4,Sun,Premier League,Matchweek 8,Home,W 1–0,Everton,West Ham,Y,FW,88,1,0,0,0,2,1,0,0,38,1,0,0,0.1,0.1,0.0,1,0,27,29,93.1,2,27,2,1,0,Match Report
+5,Sat,Premier League,Matchweek 9,Away,W 2–1,Everton,Southampton,Y,FW,88,0,0,0,0,3,1,0,0,32,2,0,0,0.5,0.5,0.0,1,0,15,19,78.9,0,15,0,1,0,Match Report
+6,Sun,Premier League,Matchweek 10,Home,L 1–2,Everton,Manchester Utd,Y,FW,83,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.0,0,0,11,15,73.3,0,8,0,2,0,Match Report
+7,Sat,Premier League,Matchweek 11,Away,L 0–2,Everton,Tottenham,Y,FW,65,0,0,0,0,0,0,1,0,13,0,0,0,0.0,0.0,0.0,1,0,9,11,81.8,0,10,0,0,0,Match Report
+8,Wed,Premier League,Matchweek 12,Away,L 0–1,Everton,Newcastle Utd,N,FW,18,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,2,0,1,0,Match Report
+9,Sat,Premier League,Matchweek 13,Home,W 3–0,Everton,Crystal Palace,N,FW,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,1,1,Match Report
+10,Sat,Premier League,Matchweek 14,Away,D 0–0,Everton,Fulham,N,RW,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Match Report
+11,Sat,Premier League,Matchweek 15,Home,L 0–2,Everton,Leicester City,N,FW,30,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,0,0,6,7,85.7,0,7,0,0,0,Match Report
+12,Tue,EFL Cup,Third round,Away,L 1–4,Everton,Bournemouth,Y,FW,80,0,1,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+13,Sat,Premier League,Matchweek 16,Away,L 0–3,Everton,Bournemouth,Y,FW,73,0,0,0,0,2,1,0,0,20,1,0,0,0.3,0.3,0.0,1,0,8,12,66.7,0,13,0,0,0,Match Report
+14,Mon,Premier League,Matchweek 17,Home,L 1–2,Everton,Wolves,Y,FW,82,0,0,0,0,2,2,0,0,27,1,0,2,0.1,0.1,0.0,2,0,11,18,61.1,2,16,2,2,1,Match Report
+15,Sat,Premier League,Matchweek 18,Away,D 1–1,Everton,Manchester City,N,FW,21,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,6,1,0,0,Match Report
+16,Tue,Premier League,Matchweek 19,Home,L 1–4,Everton,Brighton,N,FW,27,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,8,12,66.7,0,7,0,1,1,Match Report
+17,Fri,FA Cup,Third round proper,Away,L 1–3,Everton,Manchester Utd,Y,FW,68,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+18,Sat,Premier League,Matchweek 20,Home,L 1–2,Everton,Southampton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Sat,Premier League,Matchweek 21,Away,L 0–2,Everton,West Ham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Sat,Premier League,Matchweek 22,Home,W 1–0,Everton,Arsenal,N,FW,29,0,0,0,0,1,1,1,0,9,0,1,1,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,0,0,Match Report
+21,Mon,Premier League,Matchweek 23,Away,L 0–2,Everton,Liverpool,N,RW,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,1,0,Match Report
+22,Sat,Premier League,Matchweek 24,Home,W 1–0,Everton,Leeds United,Y,FW,80,0,0,0,0,3,1,0,0,29,1,0,0,0.4,0.4,0.0,1,0,13,19,68.4,1,20,0,2,1,Match Report
+23,Sat,Premier League,Matchweek 25,Home,L 0–2,Everton,Aston Villa,Y,FW,75,0,0,0,0,3,1,0,0,27,1,0,0,0.6,0.6,0.1,3,0,11,16,68.8,0,12,0,0,0,Match Report
+24,Wed,Premier League,Matchweek 7,Away,L 0–4,Everton,Arsenal,Y,FW,60,0,0,0,0,5,2,0,0,29,2,1,0,0.7,0.7,0.0,0,0,13,17,76.5,0,13,0,0,0,Match Report
+25,Sun,Premier League,Matchweek 26,Away,D 2–2,Everton,Nott'ham Forest,N,FW,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,Match Report
+26,Sat,Premier League,Matchweek 27,Home,W 1–0,Everton,Brentford,N,FW,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,Match Report
+27,Sat,Premier League,Matchweek 28,Away,D 2–2,Everton,Chelsea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,Mon,Premier League,Matchweek 29,Home,D 1–1,Everton,Tottenham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,Sat,Premier League,Matchweek 30,Away,L 0–2,Everton,Manchester Utd,N,FW,21,0,0,0,0,1,0,0,0,12,0,2,1,0.1,0.1,0.0,0,0,3,5,60.0,1,7,0,3,1,Match Report
+30,Sat,Premier League,Matchweek 31,Home,L 1–3,Everton,Fulham,Y,FW,73,0,0,0,0,2,2,0,0,17,0,0,0,0.5,0.5,0.0,4,0,14,14,100.0,0,16,0,2,1,Match Report
+31,Sat,Premier League,Matchweek 32,Away,D 0–0,Everton,Crystal Palace,N,FW,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,0,0,Match Report
+32,Thu,Premier League,Matchweek 33,Home,L 1–4,Everton,Newcastle Utd,N,RM,18,0,0,0,0,0,0,1,0,11,1,0,2,0.0,0.0,0.0,1,1,5,6,83.3,0,3,0,0,0,Match Report
+33,Mon,Premier League,Matchweek 34,Away,D 2–2,Everton,Leicester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Mon,Premier League,Matchweek 35,Away,W 5–1,Everton,Brighton,N,FW,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,1,0,0,0,Match Report
+35,Sun,Premier League,Matchweek 36,Home,L 0–3,Everton,Manchester City,N,FW,45,0,0,0,0,1,0,0,0,11,0,0,1,0.4,0.4,0.0,0,0,8,9,88.9,0,3,0,0,0,Match Report
+36,Sat,Premier League,Matchweek 37,Away,D 1–1,Everton,Wolves,N,RW,9,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.0,0,0,2,3,66.7,1,3,1,2,1,Match Report
+37,Sun,Premier League,Matchweek 38,Home,W 1–0,Everton,Bournemouth,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,,,,,7-6-16,,,13/29,,"1,266",1,1,0,0,34,14,4,0,387,11,5,8,4.8,4.8,0.6,18,1,190,253,75.1,11,219,8,19,7,

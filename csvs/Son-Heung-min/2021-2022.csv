@@ -1,0 +1,62 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sun,Premier League,Matchweek 1,Home,W 1–0,Tottenham,Manchester City,Y,FW,90,1,0,0,0,5,1,0,0,44,0,0,1,0.3,0.3,0.1,2,0,26,35,74.3,3,31,1,1,1,Match Report
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Sun,Premier League,Matchweek 2,Away,W 1–0,Tottenham,Wolves,Y,FW,71,0,0,0,0,2,1,0,0,24,0,0,0,0.2,0.2,0.0,1,0,10,17,58.8,0,12,1,2,2,Match Report
+3,Thu,Conf Lg,Play-off round,Home,W 3–0,eng Tottenham,pt Paços,N,,19,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+4,Sun,Premier League,Matchweek 3,Home,W 1–0,Tottenham,Watford,Y,"RW,LW",87,1,0,0,0,3,2,0,0,58,0,0,0,0.1,0.1,0.2,4,0,32,48,66.7,4,24,4,5,3,Match Report
+5,Thu,WCQ,Third round,Home,D 0–0,kr Korea Republic,iq Iraq,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+6,Sun,Premier League,Matchweek 5,Home,L 0–3,Tottenham,Chelsea,Y,FW,90,0,0,0,0,2,1,0,0,43,0,1,1,0.1,0.1,0.0,3,0,26,34,76.5,1,22,1,2,1,Match Report
+7,Wed,EFL Cup,Third round,Away,D 2 (3)–2 (2),Tottenham,Wolves,N,,59,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+8,Sun,Premier League,Matchweek 6,Away,L 1–3,Tottenham,Arsenal,Y,"LW,AM",90,1,0,0,0,2,2,0,0,40,1,0,1,0.5,0.5,0.2,6,0,28,33,84.8,2,24,3,2,0,Match Report
+9,Thu,Conf Lg,Group stage,Home,W 5–1,eng Tottenham,si NŠ Mura,N,RW,32,0,1,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.5,3,3,21,23,91.3,0,21,3,1,1,Match Report
+10,Sun,Premier League,Matchweek 7,Home,W 2–1,Tottenham,Aston Villa,Y,LW,90,0,1,0,0,5,1,0,0,54,0,0,1,0.4,0.4,0.1,7,1,34,40,85.0,5,31,6,4,3,Match Report
+11,Thu,WCQ,Third round,Home,W 2–1,kr Korea Republic,sy Syria,Y*,AM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+12,Tue,WCQ,Third round,Away,D 1–1,kr Korea Republic,ir IR Iran,Y*,LW,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+13,Sun,Premier League,Matchweek 8,Away,W 3–2,Tottenham,Newcastle Utd,Y,LW,90,1,0,0,0,1,1,0,0,56,0,0,0,0.7,0.7,0.2,6,0,37,48,77.1,3,33,7,2,0,Match Report
+14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,West Ham,Y,LW,90,0,0,0,0,1,1,0,0,51,0,0,1,0.2,0.2,0.3,4,0,37,47,78.7,1,22,0,0,0,Match Report
+16,Wed,EFL Cup,Fourth round,Away,W 1–0,Tottenham,Burnley,N,,25,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+17,Sat,Premier League,Matchweek 10,Home,L 0–3,Tottenham,Manchester Utd,Y,LW,90,0,0,0,0,3,0,0,0,65,1,0,2,0.4,0.4,0.1,3,0,38,55,69.1,2,36,2,3,2,Match Report
+18,Thu,Conf Lg,Group stage,Home,W 3–2,eng Tottenham,nl Vitesse,Y,LW,71,1,0,0,0,3,2,0,0,24,0,0,0,0.5,0.5,0.0,3,0,17,20,85.0,3,14,2,2,2,Match Report
+19,Sun,Premier League,Matchweek 11,Away,D 0–0,Tottenham,Everton,Y,AM,84,0,0,0,0,0,0,0,0,36,0,0,1,0.0,0.0,0.0,2,0,23,29,79.3,3,15,2,4,3,Match Report
+20,Thu,WCQ,Third round,Home,W 1–0,kr Korea Republic,ae UAE,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+21,Tue,WCQ,Third round,Away,W 3–0,kr Korea Republic,iq Iraq,Y*,AM,86,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+22,Sun,Premier League,Matchweek 12,Home,W 2–1,Tottenham,Leeds United,Y,AM,90,0,0,0,0,2,0,0,0,52,1,0,0,0.0,0.0,0.0,3,0,33,42,78.6,3,36,3,5,3,Match Report
+23,Thu,Conf Lg,Group stage,Away,L 1–2,eng Tottenham,si NŠ Mura,N,LM,37,0,0,0,0,2,1,0,0,30,1,0,1,0.2,0.2,0.2,5,0,15,21,71.4,0,20,2,1,1,Match Report
+24,Thu,Premier League,Matchweek 14,Home,W 2–0,Tottenham,Brentford,Y,"AM,FW",86,1,0,0,0,2,2,0,0,40,0,1,2,0.9,0.9,0.3,2,0,17,30,56.7,1,20,3,2,1,Match Report
+25,Sun,Premier League,Matchweek 15,Home,W 3–0,Tottenham,Norwich City,Y,AM,90,1,1,0,0,3,1,0,0,56,0,1,0,0.2,0.2,0.3,8,2,38,48,79.2,1,42,2,3,1,Match Report
+26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Sun,Premier League,Matchweek 18,Home,D 2–2,Tottenham,Liverpool,Y,FW,90,1,0,0,0,2,1,0,0,41,0,0,0,1.2,1.2,0.8,4,0,20,29,69.0,2,16,3,2,0,Match Report
+28,Wed,EFL Cup,Quarter-finals,Home,W 2–1,Tottenham,West Ham,N,,30,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+29,Sun,Premier League,Matchweek 19,Home,W 3–0,Tottenham,Crystal Palace,Y,AM,75,1,0,0,0,2,2,0,0,40,1,2,0,0.4,0.4,0.1,4,0,30,34,88.2,6,26,4,2,2,Match Report
+30,Tue,Premier League,Matchweek 20,Away,D 1–1,Tottenham,Southampton,Y,AM,90,0,0,0,0,5,3,0,0,53,0,0,2,0.3,0.3,0.4,4,1,30,43,69.8,4,30,5,2,0,Match Report
+31,Sat,Premier League,Matchweek 21,Away,W 1–0,Tottenham,Watford,Y,LW,90,0,1,0,0,4,1,0,0,69,1,1,0,0.9,0.9,0.7,4,2,41,57,71.9,6,43,4,9,6,Match Report
+32,Wed,EFL Cup,Semi-finals,Away,L 0–2,Tottenham,Chelsea,Y,FW,78,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Sat,FA Cup,Fourth round proper,Home,W 3–1,Tottenham,Brighton,Y,FW,68,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+35,Wed,Premier League,Matchweek 24,Home,L 2–3,Tottenham,Southampton,Y,"AM,LW",90,1,0,0,0,1,1,0,0,42,1,0,2,0.5,0.5,0.0,1,0,22,26,84.6,1,26,3,8,2,Match Report
+36,Sun,Premier League,Matchweek 25,Home,L 0–2,Tottenham,Wolves,Y,"LW,AM,RW",90,0,0,0,0,3,2,0,0,57,0,1,0,0.2,0.2,0.5,6,0,33,44,75.0,4,33,8,2,1,Match Report
+37,Sat,Premier League,Matchweek 26,Away,W 3–2,Tottenham,Manchester City,Y,AM,79,0,2,0,0,1,1,0,0,27,0,0,0,0.1,0.1,0.9,4,2,16,17,94.1,1,16,1,1,0,Match Report
+38,Wed,Premier League,Matchweek 13,Away,L 0–1,Tottenham,Burnley,Y,AM,90,0,0,0,0,0,0,0,0,35,0,0,1,0.0,0.0,0.4,5,0,27,31,87.1,5,21,5,2,2,Match Report
+39,Sat,Premier League,Matchweek 27,Away,W 4–0,Tottenham,Leeds United,Y,AM,86,1,0,0,0,4,3,0,0,54,0,2,3,0.7,0.7,0.1,5,0,33,40,82.5,2,34,6,5,4,Match Report
+40,Tue,FA Cup,Fifth round proper,Away,L 0–1,Tottenham,Middlesbrough,Y,AM,120,0,0,0,0,4,4,0,0,,,1,,,,,,,,,,,,,,,Match Report
+41,Mon,Premier League,Matchweek 28,Home,W 5–0,Tottenham,Everton,Y,AM,66,1,0,0,0,2,2,1,0,33,4,0,0,0.5,0.5,0.2,4,1,16,22,72.7,1,21,3,0,0,Match Report
+42,Sat,Premier League,Matchweek 29,Away,L 2–3,Tottenham,Manchester Utd,Y,"AM,LW",90,0,0,0,0,2,0,0,0,49,0,1,1,0.3,0.3,0.0,3,0,32,41,78.0,4,32,3,4,3,Match Report
+43,Wed,Premier League,Matchweek 16,Away,W 2–0,Tottenham,Brighton,Y,AM,79,0,0,0,0,1,0,0,0,31,0,0,0,0.0,0.0,0.1,4,0,22,26,84.6,0,19,0,0,0,Match Report
+44,Sun,Premier League,Matchweek 30,Home,W 3–1,Tottenham,West Ham,Y,AM,89,2,0,0,0,3,2,0,0,49,1,0,0,1.2,1.2,0.3,6,0,34,43,79.1,4,36,7,1,1,Match Report
+45,Thu,WCQ,Third round,Home,W 2–0,kr Korea Republic,ir IR Iran,Y*,FW,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+46,Tue,WCQ,Third round,Away,L 0–1,kr Korea Republic,ae UAE,Y*,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+47,Sun,Premier League,Matchweek 31,Home,W 5–1,Tottenham,Newcastle Utd,Y,"AM,LM",90,1,1,0,0,4,2,0,0,43,0,0,1,0.7,0.7,0.5,5,1,30,34,88.2,1,27,6,1,0,Match Report
+48,Sat,Premier League,Matchweek 32,Away,W 4–0,Tottenham,Aston Villa,Y,LW,77,3,0,0,0,3,3,0,0,24,1,0,1,0.8,0.8,0.0,1,1,6,13,46.2,2,12,1,1,1,Match Report
+49,Sat,Premier League,Matchweek 33,Home,L 0–1,Tottenham,Brighton,Y,LW,86,0,0,0,0,2,0,0,0,20,0,1,0,0.2,0.2,0.0,2,0,11,16,68.8,1,13,1,2,1,Match Report
+50,Sat,Premier League,Matchweek 34,Away,D 0–0,Tottenham,Brentford,Y,LW,90,0,0,0,0,0,0,0,0,57,0,1,0,0.0,0.0,0.2,4,0,37,51,72.5,7,36,6,5,5,Match Report
+51,Sun,Premier League,Matchweek 35,Home,W 3–1,Tottenham,Leicester City,Y,LW,81,2,1,0,0,3,3,0,0,46,0,0,1,0.2,0.2,0.2,4,1,26,36,72.2,1,24,3,2,1,Match Report
+52,Sat,Premier League,Matchweek 36,Away,D 1–1,Tottenham,Liverpool,Y,"LW,LM,FW",89,1,0,0,0,2,1,0,0,39,2,1,2,0.6,0.6,0.1,2,0,12,20,60.0,3,20,4,4,0,Match Report
+53,Thu,Premier League,Matchweek 22,Home,W 3–0,Tottenham,Arsenal,Y,AM,71,1,0,0,0,2,1,0,0,25,0,0,1,0.6,0.6,0.2,4,1,19,21,90.5,1,15,1,0,0,Match Report
+54,Sun,Premier League,Matchweek 37,Home,W 1–0,Tottenham,Burnley,Y,AM,90,0,0,0,0,2,2,0,0,52,1,0,0,0.7,0.7,0.2,6,0,29,44,65.9,1,31,1,2,1,Match Report
+55,Sun,Premier League,Matchweek 38,Away,W 5–0,Tottenham,Norwich City,Y,AM,90,2,0,0,0,7,5,1,0,40,0,0,2,1.6,1.6,0.1,2,0,23,25,92.0,4,33,6,2,1,Match Report
+56,Thu,Friendlies (M),Friendlies (M),Neutral,L 1–5,kr Korea Republic,br Brazil,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+57,Mon,Friendlies (M),Friendlies (M),Neutral,W 2–0,kr Korea Republic,cl Chile,Y*,FW,89,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+58,Fri,Friendlies (M),Friendlies (M),Neutral,D 2–2,kr Korea Republic,py Paraguay,Y*,LW,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+59,Tue,Friendlies (M),Friendlies (M),Neutral,W 4–1,kr Korea Republic,eg Egypt,Y*,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+60,,,,,33-9-14,,,50/56,,"4,530",30,8,1,1,96,56,3,0,1622,16,14,28,16.7,16.7,8.2,146,16,981,1283,76.5,93,967,123,96,55,

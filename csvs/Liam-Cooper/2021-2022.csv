@@ -1,0 +1,38 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Away,L 1–5,Leeds United,Manchester Utd,Y*,CB,90,0,0,0,0,0,0,1,0,64,7,2,2,0.0,0.0,0.0,1,0,46,52,88.5,0,39,0,0,0,Match Report
+1,Sat,Premier League,Matchweek 2,Home,D 2–2,Leeds United,Everton,Y*,CB,90,0,1,0,0,1,0,1,0,90,2,1,2,0.0,0.0,0.0,1,1,75,81,92.6,1,60,1,0,0,Match Report
+2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Sun,Premier League,Matchweek 3,Away,D 1–1,Leeds United,Burnley,Y*,CB,90,0,0,0,0,1,0,0,0,88,0,2,0,0.0,0.0,0.0,2,0,67,80,83.8,5,48,0,0,0,Match Report
+4,Wed,WCQ,First round,Away,L 0–2,sct Scotland,dk Denmark,Y,CB,90,0,0,0,0,0,0,0,0,,,3,,,,,,,,,,,,,,,Match Report
+5,Sat,WCQ,First round,Home,W 1–0,sct Scotland,md Moldova,N,,18,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+6,Tue,WCQ,First round,Away,W 1–0,sct Scotland,at Austria,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Sun,Premier League,Matchweek 4,Home,L 0–3,Leeds United,Liverpool,Y*,CB,90,0,0,0,0,0,0,1,0,70,2,1,5,0.0,0.0,0.0,0,0,53,59,89.8,2,51,0,1,1,Match Report
+8,Fri,Premier League,Matchweek 5,Away,D 1–1,Leeds United,Newcastle Utd,Y*,CB,90,0,0,0,0,0,0,0,0,90,4,3,2,0.0,0.0,0.0,0,0,69,75,92.0,4,48,0,0,0,Match Report
+9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,Sat,Premier League,Matchweek 6,Home,L 1–2,Leeds United,West Ham,Y*,CB,90,0,0,0,0,0,0,0,0,73,3,2,3,0.0,0.0,0.0,0,0,49,62,79.0,4,37,2,0,0,Match Report
+11,Sat,Premier League,Matchweek 7,Home,W 1–0,Leeds United,Watford,Y*,CB,90,0,0,0,0,0,0,0,0,77,1,1,2,0.0,0.0,0.0,2,0,64,71,90.1,4,54,0,1,1,Match Report
+12,Sat,WCQ,First round,Home,W 3–2,sct Scotland,il Israel,N,,1,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+13,Tue,WCQ,First round,Away,W 1–0,sct Scotland,fo Faroe Islands,N,,2,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+14,Sat,Premier League,Matchweek 8,Away,L 0–1,Leeds United,Southampton,Y*,CB,90,0,0,0,0,0,0,0,0,72,2,4,2,0.0,0.0,0.0,0,0,49,63,77.8,1,32,0,0,0,Match Report
+15,Sat,Premier League,Matchweek 9,Home,D 1–1,Leeds United,Wolves,Y*,CB,90,0,0,0,0,1,0,0,0,76,1,0,1,0.2,0.2,0.0,1,0,64,69,92.8,2,48,1,0,0,Match Report
+16,Tue,EFL Cup,Fourth round,Away,L 0–2,Leeds United,Arsenal,N,,32,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+17,Sun,Premier League,Matchweek 10,Away,W 2–1,Leeds United,Norwich City,Y*,CB,90,0,0,0,0,0,0,0,0,46,0,2,0,0.0,0.0,0.0,1,0,22,37,59.5,0,11,0,1,1,Match Report
+18,Sun,Premier League,Matchweek 11,Home,D 1–1,Leeds United,Leicester City,Y*,CB,90,0,0,0,0,0,0,0,0,68,3,3,0,0.0,0.0,0.0,1,0,42,51,82.4,2,43,0,1,0,Match Report
+19,Fri,WCQ,First round,Away,W 2–0,sct Scotland,md Moldova,Y,CB,90,0,0,0,0,1,1,0,0,,,3,,,,,,,,,,,,,,,Match Report
+20,Mon,WCQ,First round,Home,W 2–0,sct Scotland,dk Denmark,Y,CB,90,0,1,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+21,Sun,Premier League,Matchweek 12,Away,L 1–2,Leeds United,Tottenham,Y*,CB,90,0,0,0,0,0,0,1,0,76,3,2,0,0.0,0.0,0.0,0,0,60,67,89.6,1,48,1,0,0,Match Report
+22,Sat,Premier League,Matchweek 13,Away,D 0–0,Leeds United,Brighton,Y*,CB,90,0,0,0,0,0,0,0,0,62,2,4,2,0.0,0.0,0.0,0,0,33,46,71.7,2,29,0,0,0,Match Report
+23,Tue,Premier League,Matchweek 14,Home,W 1–0,Leeds United,Crystal Palace,Y*,CB,90,0,0,0,0,1,0,0,0,95,2,1,2,0.0,0.0,0.0,2,1,71,81,87.7,7,56,2,0,0,Match Report
+24,Sun,Premier League,Matchweek 15,Home,D 2–2,Leeds United,Brentford,Y*,CB,14,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,7,8,87.5,0,8,0,0,0,Match Report
+25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Fri,Premier League,Matchweek 30,Away,W 3–2,Leeds United,Wolves,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Sat,Premier League,Matchweek 31,Home,D 1–1,Leeds United,Southampton,Y*,CB,90,0,0,0,0,0,0,0,0,55,0,4,1,0.0,0.0,0.0,0,0,31,39,79.5,3,7,0,0,0,Match Report
+28,Sat,Premier League,Matchweek 32,Away,W 3–0,Leeds United,Watford,Y*,CB,90,0,0,0,0,0,0,0,0,67,3,5,0,0.0,0.0,0.0,0,0,38,55,69.1,1,28,0,0,0,Match Report
+29,Mon,Premier League,Matchweek 34,Away,D 0–0,Leeds United,Crystal Palace,Y*,CB,90,0,0,0,0,1,1,0,0,66,2,1,1,0.1,0.1,0.0,1,0,35,53,66.0,3,30,0,0,0,Match Report
+30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Wed,Premier League,Matchweek 33,Home,L 0–3,Leeds United,Chelsea,Y*,CB,90,0,0,0,0,0,0,0,0,52,3,2,2,0.0,0.0,0.0,0,0,31,38,81.6,1,21,0,0,0,Match Report
+32,Sun,Premier League,Matchweek 37,Home,D 1–1,Leeds United,Brighton,Y*,CB,90,0,0,0,0,1,0,1,0,58,0,1,1,0.0,0.0,0.0,0,0,43,52,82.7,1,25,0,0,0,Match Report
+33,Sun,Premier League,Matchweek 38,Away,W 2–1,Leeds United,Brentford,Y*,CB,90,0,0,0,0,0,0,0,0,50,1,2,0,0.0,0.0,0.0,1,0,32,44,72.7,2,25,0,0,0,Match Report
+34,Wed,WCQ,Semi-finals,Home,L 1–3,sct Scotland,ua Ukraine,Y,CB,67,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+35,Wed,UEFA Nations League,League B,Home,W 2–0,sct Scotland,am Armenia,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,,,,,10-10-9,,,25/29,,"2,204",0,2,0,0,7,2,5,0,1405,41,52,29,0.4,0.4,0.1,13,2,981,1183,82.9,46,748,7,4,3,

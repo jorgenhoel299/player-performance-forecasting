@@ -1,0 +1,74 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,UEFA Nations League,League A,Away,L 0–1,eng England,hu Hungary,Y,CM,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+1,Tue,UEFA Nations League,League A,Away,D 1–1,eng England,de Germany,Y,DM,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+2,Sat,UEFA Nations League,League A,Home,D 0–0,eng England,it Italy,Y,DM,64,0,0,0,0,1,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+3,Tue,UEFA Nations League,League A,Home,L 0–4,eng England,hu Hungary,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Sun,Premier League,Matchweek 1,Home,L 0–2,West Ham,Manchester City,Y*,"DM,CM",90,0,0,0,0,1,0,0,0,46,7,0,1,0.1,0.1,0.0,0,0,33,37,89.2,5,21,2,0,0,Match Report
+5,Sun,Premier League,Matchweek 2,Away,L 0–1,West Ham,Nott'ham Forest,Y*,"CM,DM",90,0,0,0,1,0,0,1,0,62,3,1,0,0.8,0.0,0.0,1,0,46,54,85.2,4,29,6,1,1,Match Report
+6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Sun,Premier League,Matchweek 3,Home,L 0–2,West Ham,Brighton,Y*,DM,90,0,0,0,0,1,0,0,0,80,0,3,1,0.0,0.0,0.1,4,0,55,67,82.1,7,46,1,1,0,Match Report
+8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Sun,Premier League,Matchweek 4,Away,W 1–0,West Ham,Aston Villa,Y*,CM,90,0,1,0,0,1,0,0,0,66,1,1,4,0.0,0.0,0.1,3,1,47,55,85.5,2,27,1,1,0,Match Report
+10,Wed,Premier League,Matchweek 5,Home,D 1–1,West Ham,Tottenham,Y*,DM,90,0,0,0,0,2,1,0,0,74,4,1,0,0.1,0.1,0.2,4,0,62,66,93.9,12,55,1,1,0,Match Report
+11,Sat,Premier League,Matchweek 6,Away,L 1–2,West Ham,Chelsea,Y*,CM,90,0,0,0,0,0,0,0,0,49,3,5,1,0.0,0.0,0.9,1,0,31,37,83.8,3,24,1,4,2,Match Report
+12,Thu,Conf Lg,Group stage,Home,W 3–1,eng West Ham,ro FCSB,Y*,CM,90,0,0,0,0,1,0,0,0,97,1,2,0,0.0,0.0,0.1,3,0,77,88,87.5,9,42,4,2,1,Match Report
+13,Thu,Conf Lg,Group stage,Away,W 3–2,eng West Ham,dk Silkeborg,Y*,CM,62,0,0,0,0,0,0,0,0,72,3,0,1,0.0,0.0,0.0,0,0,62,66,93.9,6,31,7,0,0,Match Report
+14,Sun,Premier League,Matchweek 8,Away,L 0–1,West Ham,Everton,Y*,DM,90,0,0,0,0,0,0,0,0,61,3,1,1,0.0,0.0,0.1,2,0,51,56,91.1,14,41,5,0,0,Match Report
+15,Fri,UEFA Nations League,League A,Away,L 0–1,eng England,it Italy,Y,DM,90,0,0,0,0,1,1,0,0,,,2,,,,,,,,,,,,,,,Match Report
+16,Mon,UEFA Nations League,League A,Home,D 3–3,eng England,de Germany,Y,CM,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+17,Sat,Premier League,Matchweek 9,Home,W 2–0,West Ham,Wolves,Y*,DM,90,0,0,0,0,1,0,1,0,66,2,2,1,0.0,0.0,0.1,4,0,50,59,84.7,3,35,2,2,2,Match Report
+18,Thu,Conf Lg,Group stage,Away,W 1–0,eng West Ham,be Anderlecht,N,CM,22,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,2,16,2,0,0,Match Report
+19,Sun,Premier League,Matchweek 10,Home,W 3–1,West Ham,Fulham,Y*,DM,90,0,0,0,0,0,0,0,0,81,2,3,0,0.0,0.0,0.0,3,1,63,71,88.7,10,49,5,0,0,Match Report
+20,Thu,Conf Lg,Group stage,Home,W 2–1,eng West Ham,be Anderlecht,N,CB,27,0,0,0,0,0,0,0,0,18,1,1,1,0.0,0.0,0.0,0,0,13,14,92.9,1,9,0,0,0,Match Report
+21,Sun,Premier League,Matchweek 11,Away,D 1–1,West Ham,Southampton,Y*,CM,90,1,0,0,0,2,1,0,0,82,3,1,2,0.1,0.1,0.0,4,1,67,70,95.7,7,48,1,1,1,Match Report
+22,Wed,Premier League,Matchweek 12,Away,L 0–1,West Ham,Liverpool,Y*,CM,90,0,0,0,0,0,0,0,0,90,1,1,4,0.0,0.0,0.1,3,0,76,81,93.8,7,49,1,1,1,Match Report
+23,Mon,Premier League,Matchweek 13,Home,W 2–0,West Ham,Bournemouth,Y*,DM,90,0,0,0,0,3,1,0,0,82,2,1,0,0.1,0.1,0.2,7,0,72,74,97.3,13,60,2,0,0,Match Report
+24,Thu,Conf Lg,Group stage,Home,W 1–0,eng West Ham,dk Silkeborg,N,CM,8,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,10,12,83.3,0,10,1,0,0,Match Report
+25,Sun,Premier League,Matchweek 14,Away,L 0–1,West Ham,Manchester Utd,Y*,DM,90,0,0,0,0,2,1,0,0,79,2,2,2,0.0,0.0,0.0,3,0,57,69,82.6,6,47,7,3,1,Match Report
+26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Sun,Premier League,Matchweek 15,Home,L 1–2,West Ham,Crystal Palace,Y*,DM,90,0,0,0,0,1,0,0,0,72,0,1,1,0.0,0.0,0.0,1,0,60,69,87.0,6,49,1,0,0,Match Report
+28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,Sat,Premier League,Matchweek 16,Home,L 0–2,West Ham,Leicester City,Y*,DM,90,0,0,0,0,3,0,0,0,87,3,1,2,0.2,0.2,0.0,5,0,65,72,90.3,11,58,2,3,0,Match Report
+30,Mon,World Cup,Group stage,Neutral,W 6–2,eng England,ir IR Iran,Y,DM,90,0,0,0,0,0,0,0,0,103,1,3,1,0.0,0.0,0.0,0,0,90,96,93.8,3,88,2,1,0,Match Report
+31,Fri,World Cup,Group stage,Neutral,D 0–0,eng England,us United States,Y,"DM,CM",90,0,0,0,0,0,0,0,0,69,1,3,1,0.0,0.0,0.0,0,0,56,61,91.8,6,49,0,0,0,Match Report
+32,Tue,World Cup,Group stage,Neutral,W 3–0,eng England,wls Wales,Y,CM,57,0,0,0,0,0,0,0,0,50,0,1,1,0.0,0.0,0.0,1,0,44,46,95.7,6,33,0,0,0,Match Report
+33,Sun,World Cup,Round of 16,Neutral,W 3–0,eng England,sn Senegal,Y,CM,90,0,0,0,0,0,0,0,0,63,1,1,0,0.0,0.0,0.0,1,0,52,57,91.2,4,51,2,1,0,Match Report
+34,Sat,World Cup,Quarter-finals,Neutral,L 1–2,eng England,fr France,Y,"CM,CB",90,0,0,0,0,0,0,0,0,75,3,3,1,0.0,0.0,0.0,3,0,58,62,93.5,3,58,4,1,0,Match Report
+35,Mon,Premier League,Matchweek 17,Away,L 1–3,West Ham,Arsenal,Y*,DM,90,0,0,0,0,0,0,0,0,60,3,1,0,0.0,0.0,0.0,2,0,43,50,86.0,3,34,1,0,0,Match Report
+36,Fri,Premier League,Matchweek 18,Home,L 0–2,West Ham,Brentford,Y*,CM,90,0,0,0,0,1,0,0,0,111,2,0,0,0.0,0.0,0.0,8,0,102,107,95.3,20,68,8,1,1,Match Report
+37,Wed,Premier League,Matchweek 19,Away,D 2–2,West Ham,Leeds United,Y*,"CM,DM",90,0,0,0,0,3,0,0,0,39,0,3,1,0.1,0.1,0.0,1,0,23,30,76.7,3,18,0,1,1,Match Report
+38,Sat,FA Cup,Third round proper,Away,W 1–0,West Ham,Brentford,Y*,CM,90,0,1,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+39,Sat,Premier League,Matchweek 20,Away,L 0–1,West Ham,Wolves,Y*,"CM,DM",90,0,0,0,0,2,0,1,0,72,4,1,0,0.1,0.1,0.2,3,0,50,64,78.1,6,41,1,1,1,Match Report
+40,Sat,Premier League,Matchweek 21,Home,W 2–0,West Ham,Everton,Y*,CM,90,0,0,0,0,1,0,0,0,72,1,3,1,0.1,0.1,0.0,3,0,48,60,80.0,5,36,3,4,1,Match Report
+41,Mon,FA Cup,Fourth round proper,Away,W 2–0,West Ham,Derby County,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,Sat,Premier League,Matchweek 22,Away,D 1–1,West Ham,Newcastle Utd,Y*,CM,90,0,0,0,0,0,0,0,0,52,3,3,0,0.0,0.0,0.1,4,0,39,49,79.6,6,28,2,0,0,Match Report
+43,Sat,Premier League,Matchweek 23,Home,D 1–1,West Ham,Chelsea,Y*,CM,90,0,0,0,0,1,0,0,0,41,2,0,3,0.0,0.0,0.0,0,0,24,29,82.8,3,24,2,3,2,Match Report
+44,Sun,Premier League,Matchweek 24,Away,L 0–2,West Ham,Tottenham,Y*,"CM,DM",90,0,0,0,0,0,0,0,0,84,0,2,1,0.0,0.0,0.0,0,0,65,76,85.5,8,41,5,5,3,Match Report
+45,Sat,Premier League,Matchweek 25,Home,W 4–0,West Ham,Nott'ham Forest,Y*,CM,90,1,0,0,0,1,1,0,0,71,0,0,1,0.0,0.0,0.2,7,1,60,65,92.3,8,44,5,1,1,Match Report
+46,Wed,FA Cup,Fifth round proper,Away,L 1–3,West Ham,Manchester Utd,Y*,CM,90,0,0,0,0,0,0,0,0,,,3,,,,,,,,,,,,,,,Match Report
+47,Sat,Premier League,Matchweek 26,Away,L 0–4,West Ham,Brighton,Y*,DM,90,0,0,0,0,0,0,1,0,63,0,1,0,0.0,0.0,0.0,1,0,44,56,78.6,1,35,1,2,1,Match Report
+48,Thu,Conf Lg,Round of 16,Away,W 2–0,eng West Ham,cy AÉK Lárnaka,Y*,DM,59,0,1,0,0,0,0,0,0,50,2,0,0,0.0,0.0,0.1,1,1,40,41,97.6,3,25,1,1,1,Match Report
+49,Sun,Premier League,Matchweek 27,Home,D 1–1,West Ham,Aston Villa,Y*,DM,90,0,0,0,0,0,0,0,0,61,7,2,1,0.0,0.0,0.5,2,0,43,50,86.0,1,36,0,1,0,Match Report
+50,Thu,Conf Lg,Round of 16,Home,W 4–0,eng West Ham,cy AÉK Lárnaka,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,Thu,Euro Qualifying,Group stage,Away,W 2–1,eng England,it Italy,Y,CM,90,1,0,0,0,1,1,1,0,,,1,,,,,,,,,,,,,,,Match Report
+52,Sun,Euro Qualifying,Group stage,Home,W 2–0,eng England,ua Ukraine,Y,CM,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+53,Sun,Premier League,Matchweek 29,Home,W 1–0,West Ham,Southampton,Y*,CM,90,0,0,0,0,0,0,0,0,69,4,3,3,0.0,0.0,0.0,1,0,45,56,80.4,5,31,1,2,1,Match Report
+54,Wed,Premier League,Matchweek 7,Home,L 1–5,West Ham,Newcastle Utd,Y*,DM,90,0,0,0,0,1,0,0,0,77,1,1,2,0.1,0.1,0.1,2,0,56,64,87.5,7,54,4,5,5,Match Report
+55,Sat,Premier League,Matchweek 30,Away,W 1–0,West Ham,Fulham,Y*,CM,90,0,0,0,0,1,1,1,0,44,1,3,2,0.0,0.0,0.0,1,0,16,26,61.5,1,16,2,2,0,Match Report
+56,Thu,Conf Lg,Quarter-finals,Away,D 1–1,eng West Ham,be Gent,Y*,CM,90,0,0,0,0,0,0,0,0,58,0,0,2,0.0,0.0,0.0,0,0,42,48,87.5,10,31,2,2,2,Match Report
+57,Sun,Premier League,Matchweek 31,Home,D 2–2,West Ham,Arsenal,Y*,CM,90,0,0,0,0,1,0,0,0,49,4,4,2,0.0,0.0,0.0,4,1,26,38,68.4,4,26,1,1,0,Match Report
+58,Thu,Conf Lg,Quarter-finals,Home,W 4–1,eng West Ham,be Gent,Y*,DM,68,1,0,0,0,4,1,0,0,45,4,1,0,0.4,0.4,0.0,3,1,31,35,88.6,5,27,3,2,2,Match Report
+59,Sun,Premier League,Matchweek 32,Away,W 4–0,West Ham,Bournemouth,Y*,CM,90,1,0,0,0,2,1,0,0,53,4,1,0,0.1,0.1,0.1,4,1,37,42,88.1,6,37,4,1,1,Match Report
+60,Wed,Premier League,Matchweek 33,Home,L 1–2,West Ham,Liverpool,Y*,DM,90,0,0,0,0,0,0,0,0,64,1,4,3,0.0,0.0,0.1,3,0,46,54,85.2,7,34,2,7,3,Match Report
+61,Sat,Premier League,Matchweek 34,Away,L 3–4,West Ham,Crystal Palace,Y*,"DM,CM",90,0,0,0,0,0,0,0,0,62,3,2,1,0.0,0.0,0.0,2,0,39,53,73.6,5,37,1,0,0,Match Report
+62,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,Sun,Premier League,Matchweek 35,Home,W 1–0,West Ham,Manchester Utd,Y*,DM,90,0,0,0,0,1,0,0,0,52,2,4,2,0.0,0.0,0.0,3,0,35,43,81.4,6,24,1,5,4,Match Report
+64,Thu,Conf Lg,Semi-finals,Home,W 2–1,eng West Ham,nl AZ Alkmaar,Y*,DM,90,0,0,0,0,0,0,0,0,68,4,1,2,0.0,0.0,0.5,2,0,52,56,92.9,7,48,2,2,1,Match Report
+65,Sun,Premier League,Matchweek 36,Away,L 0–2,West Ham,Brentford,N,"CM,DM",33,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,26,29,89.7,5,20,1,0,0,Match Report
+66,Thu,Conf Lg,Semi-finals,Away,W 1–0,eng West Ham,nl AZ Alkmaar,Y*,CM,90,0,0,0,0,1,1,0,0,52,1,2,1,0.0,0.0,0.1,2,0,41,45,91.1,7,34,2,3,2,Match Report
+67,Sun,Premier League,Matchweek 37,Home,W 3–1,West Ham,Leeds United,Y*,DM,90,1,0,0,0,3,1,0,0,81,0,0,1,0.3,0.3,0.0,2,0,65,72,90.3,6,59,1,3,2,Match Report
+68,Sun,Premier League,Matchweek 38,Away,L 1–2,West Ham,Leicester City,Y*,DM,90,0,0,0,0,0,0,0,0,90,0,1,1,0.0,0.0,0.0,2,0,79,85,92.9,14,73,4,0,0,Match Report
+69,Wed,Conf Lg,Final,Neutral,W 2–1,eng West Ham,it Fiorentina,Y*,DM,90,0,0,0,0,2,0,0,0,37,3,0,0,0.1,0.1,0.0,1,0,23,30,76.7,2,17,1,1,1,Match Report
+70,Fri,Euro Qualifying,Group stage,Away,W 4–0,eng England,mt Malta,Y,CM,90,0,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+71,Mon,Euro Qualifying,Group stage,Home,W 7–0,eng England,mk N. Macedonia,Y,CM,58,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,Match Report
+72,,,,,29-12-23,,,60/64,,"5,318",6,3,0,1,48,13,7,0,3372,104,99,57,2.9,2.2,4.0,117,8,2559,2916,87.8,314,2023,121,79,45,

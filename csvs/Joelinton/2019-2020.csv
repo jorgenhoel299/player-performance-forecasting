@@ -1,0 +1,47 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sun,Premier League,Matchweek 1,Home,L 0–1,Newcastle Utd,Arsenal,Y,FW,90,0,0,0,0,3,1,0,0,49,1,1,0,0.2,0.2,0.0,3,0,29,36,80.6,2,24,1,2,2,Match Report
+1,Sat,Premier League,Matchweek 2,Away,L 1–3,Newcastle Utd,Norwich City,Y,FW,66,0,0,0,0,2,0,1,0,26,3,0,3,0.3,0.3,0.0,3,0,11,14,78.6,0,17,0,0,0,Match Report
+2,Sun,Premier League,Matchweek 3,Away,W 1–0,Newcastle Utd,Tottenham,Y,FW,87,1,0,0,0,2,2,1,0,37,0,0,0,0.5,0.5,0.1,3,0,23,26,88.5,1,21,0,1,0,Match Report
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Sat,Premier League,Matchweek 4,Home,D 1–1,Newcastle Utd,Watford,Y,FW,90,0,0,0,0,2,0,0,0,47,0,1,1,0.1,0.1,0.1,4,1,31,35,88.6,2,26,1,2,1,Match Report
+5,Sat,Premier League,Matchweek 5,Away,L 1–3,Newcastle Utd,Liverpool,Y,FW,90,0,0,0,0,1,0,0,0,37,1,0,0,0.1,0.1,0.1,2,0,23,27,85.2,1,19,0,2,1,Match Report
+6,Sat,Premier League,Matchweek 6,Home,D 0–0,Newcastle Utd,Brighton,Y,FW,90,0,0,0,0,3,0,0,0,25,1,0,0,0.2,0.2,0.1,4,0,11,14,78.6,0,18,2,1,1,Match Report
+7,Sun,Premier League,Matchweek 7,Away,L 0–5,Newcastle Utd,Leicester City,Y,FW,62,0,0,0,0,0,0,0,0,35,0,1,1,0.0,0.0,0.0,1,0,16,23,69.6,2,23,2,2,2,Match Report
+8,Sun,Premier League,Matchweek 8,Home,W 1–0,Newcastle Utd,Manchester Utd,Y,FW,55,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,3,0,14,20,70.0,0,15,1,0,0,Match Report
+9,Sat,Premier League,Matchweek 9,Away,L 0–1,Newcastle Utd,Chelsea,Y,"FW,LM",82,0,0,0,0,1,0,0,0,34,1,0,0,0.1,0.1,0.0,1,0,16,20,80.0,2,19,2,3,0,Match Report
+10,Sun,Premier League,Matchweek 10,Home,D 1–1,Newcastle Utd,Wolves,Y,FW,84,0,0,0,0,1,0,0,0,37,0,0,1,0.1,0.1,0.0,4,0,20,30,66.7,1,16,0,2,1,Match Report
+11,Sat,Premier League,Matchweek 11,Away,W 3–2,Newcastle Utd,West Ham,Y,FW,88,0,1,0,0,1,0,0,0,38,1,0,1,0.0,0.0,0.2,2,1,22,28,78.6,1,27,1,4,3,Match Report
+12,Sat,Premier League,Matchweek 12,Home,W 2–1,Newcastle Utd,Bournemouth,Y,FW,82,0,0,0,0,4,3,0,0,36,0,2,0,0.3,0.3,0.1,5,0,17,22,77.3,3,26,2,2,1,Match Report
+13,Mon,Premier League,Matchweek 13,Away,L 0–2,Newcastle Utd,Aston Villa,Y,FW,71,0,0,0,0,3,0,0,0,29,2,1,0,0.2,0.2,0.1,2,0,11,18,61.1,1,15,5,2,2,Match Report
+14,Sat,Premier League,Matchweek 14,Home,D 2–2,Newcastle Utd,Manchester City,Y,FW,68,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,2,0,12,22,54.5,1,13,0,3,2,Match Report
+15,Thu,Premier League,Matchweek 15,Away,W 2–0,Newcastle Utd,Sheffield Utd,N,FW,19,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,9,1,2,2,Match Report
+16,Sun,Premier League,Matchweek 16,Home,W 2–1,Newcastle Utd,Southampton,Y,FW,58,0,0,0,0,1,0,0,0,31,0,1,0,0.1,0.1,0.0,1,0,12,20,60.0,2,14,1,2,1,Match Report
+17,Sat,Premier League,Matchweek 17,Away,L 0–1,Newcastle Utd,Burnley,Y,LM,90,0,0,0,0,2,0,1,0,41,0,0,1,0.1,0.1,0.5,2,0,28,31,90.3,0,26,1,1,1,Match Report
+18,Sat,Premier League,Matchweek 18,Home,W 1–0,Newcastle Utd,Crystal Palace,Y,FW,76,0,0,0,0,1,0,0,0,39,1,1,2,0.1,0.1,0.0,1,0,22,25,88.0,2,30,2,3,0,Match Report
+19,Thu,Premier League,Matchweek 19,Away,L 1–4,Newcastle Utd,Manchester Utd,Y,FW,90,0,1,0,0,1,1,0,0,47,0,0,3,0.0,0.0,0.5,4,1,27,35,77.1,5,24,2,5,3,Match Report
+20,Sat,Premier League,Matchweek 20,Home,L 1–2,Newcastle Utd,Everton,Y,FW,73,0,0,0,0,2,2,1,0,27,0,0,1,0.2,0.2,0.5,3,0,15,20,75.0,2,18,3,8,5,Match Report
+21,Wed,Premier League,Matchweek 21,Home,L 0–3,Newcastle Utd,Leicester City,Y,FW,90,0,0,0,0,2,1,0,0,39,3,0,2,0.6,0.6,0.0,0,0,12,19,63.2,2,14,2,3,2,Match Report
+22,Sat,FA Cup,Third round,Away,D 1–1,Newcastle Utd,Rochdale,Y,FW,90,0,0,0,0,6,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+23,Sat,Premier League,Matchweek 22,Away,D 1–1,Newcastle Utd,Wolves,Y,"FW,RM",78,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,2,13,0,1,1,Match Report
+24,Tue,FA Cup,Third round,Home,W 4–1,Newcastle Utd,Rochdale,Y,FW,90,1,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+25,Sat,Premier League,Matchweek 23,Home,W 1–0,Newcastle Utd,Chelsea,Y,FW,90,0,0,0,0,2,0,0,0,49,3,0,5,0.3,0.3,0.0,1,0,19,23,82.6,0,18,1,3,0,Match Report
+26,Tue,Premier League,Matchweek 24,Away,D 2–2,Newcastle Utd,Everton,Y,FW,77,0,0,0,0,1,0,0,0,32,1,0,1,0.0,0.0,0.0,0,0,18,24,75.0,3,21,1,1,0,Match Report
+27,Sat,FA Cup,Fourth round,Home,D 0–0,Newcastle Utd,Oxford United,Y,FW,90,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+28,Sat,Premier League,Matchweek 25,Home,D 0–0,Newcastle Utd,Norwich City,Y,FW,90,0,0,0,0,3,1,0,0,45,1,0,1,0.2,0.2,0.0,2,0,21,30,70.0,0,21,0,2,0,Match Report
+29,Tue,FA Cup,Fourth round,Away,W 3–2,Newcastle Utd,Oxford United,Y,FW,36,1,1,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+30,Sun,Premier League,Matchweek 26,Away,L 0–4,Newcastle Utd,Arsenal,Y,FW,90,0,0,0,0,2,0,0,0,38,2,0,1,0.3,0.3,0.1,1,0,19,26,73.1,1,21,2,2,2,Match Report
+31,Sat,Premier League,Matchweek 27,Away,L 0–1,Newcastle Utd,Crystal Palace,Y,FW,90,0,0,0,0,1,1,1,0,43,2,0,2,0.0,0.0,0.0,0,0,19,25,76.0,4,26,4,3,0,Match Report
+32,Sat,Premier League,Matchweek 28,Home,D 0–0,Newcastle Utd,Burnley,Y,LM,77,0,0,0,0,0,0,0,0,39,2,1,1,0.0,0.0,0.0,2,0,18,25,72.0,3,27,2,3,1,Match Report
+33,Tue,FA Cup,Fifth round,Away,W 3–2,Newcastle Utd,West Brom,Y,FW,90,0,1,0,0,4,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+34,Sat,Premier League,Matchweek 29,Away,W 1–0,Newcastle Utd,Southampton,N,LM,30,0,0,0,0,1,0,1,0,20,0,0,0,0.1,0.1,0.0,1,0,11,14,78.6,2,15,1,4,2,Match Report
+35,Sun,Premier League,Matchweek 30,Home,W 3–0,Newcastle Utd,Sheffield Utd,Y,FW,78,1,0,0,0,4,3,1,0,23,1,0,0,1.2,1.2,0.0,3,1,12,15,80.0,1,13,2,1,0,Match Report
+36,Wed,Premier League,Matchweek 31,Home,D 1–1,Newcastle Utd,Aston Villa,Y,FW,63,0,0,0,0,1,0,0,0,26,0,0,1,0.1,0.1,0.0,2,0,15,18,83.3,0,15,1,1,0,Match Report
+37,Sun,FA Cup,Quarter-finals,Home,L 0–2,Newcastle Utd,Manchester City,N,,26,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+38,Wed,Premier League,Matchweek 32,Away,W 4–1,Newcastle Utd,Bournemouth,Y,LW,71,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,2,1,25,33,75.8,1,21,1,6,3,Match Report
+39,Sun,Premier League,Matchweek 33,Home,D 2–2,Newcastle Utd,West Ham,Y,"LW,FW",80,0,0,0,0,0,0,0,0,50,3,0,1,0.0,0.0,0.0,3,0,29,38,76.3,6,27,0,1,1,Match Report
+40,Wed,Premier League,Matchweek 34,Away,L 0–5,Newcastle Utd,Manchester City,Y,FW,65,0,0,0,0,1,0,0,0,22,2,0,2,0.1,0.1,0.0,0,0,8,9,88.9,1,14,0,1,1,Match Report
+41,Sat,Premier League,Matchweek 35,Away,L 1–2,Newcastle Utd,Watford,N,"FW,LM",19,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,6,13,46.2,0,7,2,0,0,Match Report
+42,Wed,Premier League,Matchweek 36,Home,L 1–3,Newcastle Utd,Tottenham,N,FW,22,0,0,0,0,2,0,0,0,10,0,1,0,0.1,0.1,0.1,2,0,5,6,83.3,1,7,0,0,0,Match Report
+43,Mon,Premier League,Matchweek 37,Away,D 0–0,Newcastle Utd,Brighton,N,FW,17,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,9,9,100.0,1,8,0,1,0,Match Report
+44,Sun,Premier League,Matchweek 38,Home,L 1–3,Newcastle Utd,Liverpool,N,FW,45,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.0,1,0,7,13,53.8,0,11,1,0,0,Match Report
+45,,,,,14-13-17,,,37/44,,"3,105",4,4,0,0,66,19,8,0,1235,34,11,32,5.5,5.5,2.9,71,5,637,835,76.3,56,699,47,80,41,

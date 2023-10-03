@@ -1,0 +1,51 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,UEFA Euro,Quarter-finals,Away,W 4–0,eng England,ua Ukraine,Y,RW,90,0,0,0,0,0,0,0,0,54,1,1,0,0.0,0.0,0.0,0,0,41,45,91.1,2,39,2,6,4,Match Report
+1,Wed,UEFA Euro,Semi-finals,Home,W 2–1,eng England,dk Denmark,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Sun,UEFA Euro,Final,Neutral,D 1 (2)–1 (3),eng England,it Italy,N,"RW,RB",1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,Match Report
+3,Sat,Premier League,Matchweek 1,Home,W 5–1,Manchester Utd,Leeds United,N,LW,16,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,10,14,71.4,0,8,1,2,1,Match Report
+4,Sun,Premier League,Matchweek 2,Away,D 1–1,Manchester Utd,Southampton,N,RW,32,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,3,0,17,21,81.0,2,12,2,1,1,Match Report
+5,Sun,Premier League,Matchweek 3,Away,W 1–0,Manchester Utd,Wolves,Y,LW,71,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,32,37,86.5,7,22,0,1,0,Match Report
+6,Sat,Premier League,Matchweek 4,Home,W 4–1,Manchester Utd,Newcastle Utd,Y,LW,65,0,0,0,0,2,0,0,0,49,0,0,1,0.6,0.6,0.0,6,0,34,40,85.0,2,30,6,4,1,Match Report
+7,Tue,Champions Lg,Group stage,Away,L 1–2,eng Manchester Utd,ch Young Boys,Y,RW,36,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,1,0,12,14,85.7,1,13,0,2,0,Match Report
+8,Sun,Premier League,Matchweek 5,Away,W 2–1,Manchester Utd,West Ham,N,LW,18,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,17,21,81.0,3,15,1,0,0,Match Report
+9,Wed,EFL Cup,Third round,Home,L 0–1,Manchester Utd,West Ham,Y,FW,90,0,0,0,0,5,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+10,Sat,Premier League,Matchweek 6,Home,L 0–1,Manchester Utd,Aston Villa,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Wed,Champions Lg,Group stage,Home,W 2–1,eng Manchester Utd,es Villarreal,Y,LW,74,0,0,0,0,1,1,0,0,52,2,1,2,0.1,0.1,0.0,2,0,39,44,88.6,6,24,5,2,1,Match Report
+12,Sat,Premier League,Matchweek 7,Home,D 1–1,Manchester Utd,Everton,N,LW,34,0,0,0,0,1,1,0,0,29,1,1,0,0.0,0.0,0.1,5,0,19,22,86.4,3,19,2,5,2,Match Report
+13,Sat,WCQ,First round,Away,W 5–0,eng England,ad Andorra,Y,FW,72,0,2,0,0,1,1,1,0,,,0,,,,,,,,,,,,,,,Match Report
+14,Tue,WCQ,First round,Home,D 1–1,eng England,hu Hungary,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Sat,Premier League,Matchweek 8,Away,L 2–4,Manchester Utd,Leicester City,Y,LW,64,0,0,0,0,0,0,0,0,37,0,2,0,0.0,0.0,0.2,4,0,27,31,87.1,2,29,3,1,1,Match Report
+16,Wed,Champions Lg,Group stage,Home,W 3–2,eng Manchester Utd,it Atalanta,N,RW,18,0,0,0,0,0,0,0,0,17,2,0,2,0.0,0.0,0.0,0,0,10,11,90.9,1,5,0,0,0,Match Report
+17,Sun,Premier League,Matchweek 9,Home,L 0–5,Manchester Utd,Liverpool,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Sat,Premier League,Matchweek 10,Away,W 3–0,Manchester Utd,Tottenham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Tue,Champions Lg,Group stage,Away,D 2–2,eng Manchester Utd,it Atalanta,N,DM,4,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,1,0,3,4,75.0,2,1,0,0,0,Match Report
+20,Sat,Premier League,Matchweek 11,Home,L 0–2,Manchester Utd,Manchester City,N,LW,45,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,0,0,15,18,83.3,0,11,1,3,2,Match Report
+21,Sat,Premier League,Matchweek 12,Away,L 1–4,Manchester Utd,Watford,Y,RW,89,0,0,0,0,0,0,0,0,52,0,1,1,0.0,0.0,0.2,5,1,37,46,80.4,2,34,4,4,3,Match Report
+22,Tue,Champions Lg,Group stage,Away,W 2–0,eng Manchester Utd,es Villarreal,Y,RW,89,1,0,0,0,2,2,0,0,53,4,1,0,0.4,0.4,0.0,1,0,38,43,88.4,3,26,6,1,0,Match Report
+23,Sun,Premier League,Matchweek 13,Away,D 1–1,Manchester Utd,Chelsea,Y,FW,63,1,0,0,0,1,1,0,0,25,0,0,0,0.8,0.8,0.0,2,1,16,21,76.2,2,12,1,1,1,Match Report
+24,Thu,Premier League,Matchweek 14,Home,W 3–2,Manchester Utd,Arsenal,Y,"LW,RW",90,0,0,0,0,0,0,0,0,53,3,0,2,0.0,0.0,0.1,4,2,35,42,83.3,4,32,5,1,0,Match Report
+25,Sun,Premier League,Matchweek 15,Home,W 1–0,Manchester Utd,Crystal Palace,Y,"AM,LM",61,0,0,0,0,1,0,0,0,46,0,0,0,0.0,0.0,0.1,5,0,30,40,75.0,1,32,6,3,2,Match Report
+26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Sat,Premier League,Matchweek 16,Away,W 1–0,Manchester Utd,Norwich City,Y,AM,66,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,5,0,33,38,86.8,6,26,3,1,1,Match Report
+28,Mon,Premier League,Matchweek 19,Away,D 1–1,Manchester Utd,Newcastle Utd,N,AM,45,0,0,0,0,0,0,0,0,37,0,0,1,0.0,0.0,0.3,2,0,22,30,73.3,0,24,2,5,4,Match Report
+29,Thu,Premier League,Matchweek 20,Home,W 3–1,Manchester Utd,Burnley,Y,AM,90,0,0,0,0,1,0,0,0,61,2,0,1,0.1,0.1,0.0,4,0,46,51,90.2,6,38,7,3,0,Match Report
+30,Mon,Premier League,Matchweek 21,Home,L 0–1,Manchester Utd,Wolves,Y,"AM,WB",75,0,0,0,0,2,0,0,0,51,0,0,0,0.2,0.2,0.0,2,0,33,43,76.7,1,26,3,4,1,Match Report
+31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,Sat,Premier League,Matchweek 22,Away,D 2–2,Manchester Utd,Aston Villa,N,LW,13,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,1,0,7,8,87.5,1,9,0,1,1,Match Report
+33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Fri,FA Cup,Fourth round proper,Home,D 1 (7)–1 (8),Manchester Utd,Middlesbrough,Y,AM,99,1,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+35,Tue,Premier League,Matchweek 24,Away,D 1–1,Manchester Utd,Burnley,Y,LW,90,0,0,0,0,3,0,0,0,76,0,0,2,0.1,0.1,0.1,7,0,54,63,85.7,6,47,12,3,1,Match Report
+36,Sat,Premier League,Matchweek 25,Home,D 1–1,Manchester Utd,Southampton,Y,"LW,AM",90,1,0,0,0,2,2,0,0,42,0,2,1,0.7,0.7,0.6,1,0,25,32,78.1,3,23,3,4,1,Match Report
+37,Tue,Premier League,Matchweek 18,Home,W 2–0,Manchester Utd,Brighton,Y,LW,79,0,0,0,0,1,1,0,0,36,1,0,0,0.2,0.2,0.0,2,0,17,28,60.7,1,22,5,8,5,Match Report
+38,Sun,Premier League,Matchweek 26,Away,W 4–2,Manchester Utd,Leeds United,Y,"LW,LM",90,0,2,0,0,3,1,0,0,51,1,0,2,0.2,0.2,0.7,5,2,30,40,75.0,5,27,3,7,3,Match Report
+39,Wed,Champions Lg,Round of 16,Away,D 1–1,eng Manchester Utd,es Atlético Madrid,Y,LW,81,0,0,0,0,1,0,0,0,31,0,0,0,0.1,0.1,0.0,1,0,25,28,89.3,2,19,1,1,0,Match Report
+40,Sat,Premier League,Matchweek 27,Home,D 0–0,Manchester Utd,Watford,N,LW,29,0,0,0,0,1,0,0,0,21,1,0,1,0.0,0.0,0.0,1,0,15,18,83.3,3,15,3,1,1,Match Report
+41,Sun,Premier League,Matchweek 28,Away,L 1–4,Manchester Utd,Manchester City,Y,LW,90,1,0,0,0,2,1,0,0,33,1,0,1,0.2,0.2,0.0,3,1,19,22,86.4,1,25,3,2,1,Match Report
+42,Sat,Premier League,Matchweek 29,Home,W 3–2,Manchester Utd,Tottenham,Y,"LW,RW,RM",90,0,1,0,0,1,1,0,0,51,1,2,0,0.0,0.0,0.8,5,1,38,43,88.4,3,37,5,3,2,Match Report
+43,Tue,Champions Lg,Round of 16,Home,L 0–1,eng Manchester Utd,es Atlético Madrid,Y,"LW,LM",90,0,0,0,0,1,0,0,0,74,0,1,1,0.1,0.1,0.0,1,0,48,58,82.8,5,53,5,11,5,Match Report
+44,Sat,Premier League,Matchweek 31,Home,D 1–1,Manchester Utd,Leicester City,Y,LW,90,0,0,0,0,1,0,0,0,59,0,0,1,0.1,0.1,0.1,2,0,41,51,80.4,6,44,7,2,1,Match Report
+45,Sat,Premier League,Matchweek 32,Away,L 0–1,Manchester Utd,Everton,Y,RW,90,0,0,0,0,0,0,0,0,58,0,1,1,0.0,0.0,0.3,6,0,48,53,90.6,7,45,9,2,2,Match Report
+46,Sat,Premier League,Matchweek 33,Home,W 3–2,Manchester Utd,Norwich City,Y,LW,90,0,0,0,0,3,0,0,0,76,2,2,1,0.2,0.2,0.1,5,0,46,59,78.0,7,55,7,5,4,Match Report
+47,Tue,Premier League,Matchweek 30,Away,L 0–4,Manchester Utd,Liverpool,N,LW,45,0,0,0,0,1,1,0,0,33,0,1,1,0.0,0.0,0.0,1,0,21,25,84.0,0,23,4,3,2,Match Report
+48,Sat,Premier League,Matchweek 34,Away,L 1–3,Manchester Utd,Arsenal,Y,"LW,RW",90,0,0,0,0,0,0,0,0,39,1,3,1,0.0,0.0,0.0,2,1,21,27,77.8,4,28,3,5,3,Match Report
+49,,,,,17-13-11,,,29/41,,"2,644",5,5,0,0,39,14,1,0,1497,23,20,24,4.3,4.3,4.2,95,9,1022,1233,82.9,110,951,130,108,57,

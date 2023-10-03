@@ -1,0 +1,35 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Home,W 3–2,Watford,Aston Villa,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Sat,Premier League,Matchweek 2,Away,L 0–2,Watford,Brighton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Tue,EFL Cup,Second round,Home,W 1–0,Watford,Crystal Palace,Y,FW,90,1,0,0,0,4,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+3,Sun,Premier League,Matchweek 3,Away,L 0–1,Watford,Tottenham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Sat,Premier League,Matchweek 5,Away,W 3–1,Watford,Norwich City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Tue,EFL Cup,Third round,Home,L 1–3,Watford,Stoke City,Y,FW,90,1,0,0,0,5,3,0,0,,,0,,,,,,,,,,,,,,,Match Report
+7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Sat,Premier League,Matchweek 8,Home,L 0–5,Watford,Liverpool,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Sat,Premier League,Matchweek 9,Away,W 5–2,Watford,Everton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,Sat,Premier League,Matchweek 10,Home,L 0–1,Watford,Southampton,N,FW,9,0,0,0,0,1,1,0,0,2,0,0,0,0.6,0.6,0.0,1,0,0,1,0.0,0,1,0,0,0,Match Report
+11,Sun,Premier League,Matchweek 11,Away,L 0–1,Watford,Arsenal,N,FW,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+12,Sat,Premier League,Matchweek 12,Home,W 4–1,Watford,Manchester Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Sun,Premier League,Matchweek 13,Away,L 2–4,Watford,Leicester City,N,FW,20,0,0,0,0,1,0,0,0,11,1,0,1,0.0,0.0,0.0,1,0,3,6,50.0,0,9,1,0,0,Match Report
+14,Wed,Premier League,Matchweek 14,Home,L 1–2,Watford,Chelsea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Sat,Premier League,Matchweek 15,Home,L 1–3,Watford,Manchester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Fri,Premier League,Matchweek 16,Away,L 1–2,Watford,Brentford,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Tue,Premier League,Matchweek 20,Home,L 1–4,Watford,West Ham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Sat,Premier League,Matchweek 21,Home,L 0–1,Watford,Tottenham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Sat,FA Cup,Third round proper,Away,L 1–4,Watford,Leicester City,Y,AM,57,0,1,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Fri,Premier League,Matchweek 23,Home,L 0–3,Watford,Norwich City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,Sat,Premier League,Matchweek 17,Away,D 0–0,Watford,Burnley,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Sun,MLS,Regular Season,Home,D 1–1,NY Red Bulls,Columbus Crew,N,FW,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+24,Sat,MLS,Regular Season,Away,W 1–0,NY Red Bulls,New England,N,FW,13,0,0,0,0,1,0,0,0,13,1,0,2,0.1,0.1,0.0,0,0,2,5,40.0,0,3,0,1,1,Match Report
+25,Sat,MLS,Regular Season,Home,L 1–2,NY Red Bulls,CF Montréal,N,"RB,RW",7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,1,0,Match Report
+26,Sat,MLS,Regular Season,Home,D 0–0,NY Red Bulls,FC Dallas,Y,FW,71,0,0,0,0,2,0,0,0,33,1,0,2,0.2,0.2,0.0,2,0,17,23,73.9,3,18,1,5,3,Match Report
+27,Sun,MLS,Regular Season,Away,W 3–0,NY Red Bulls,Orlando City,Y,FW,57,0,0,0,0,4,2,1,0,20,0,1,1,0.2,0.2,0.3,3,0,4,8,50.0,1,6,0,0,0,Match Report
+28,Sat,MLS,Regular Season,Away,W 2–1,NY Red Bulls,Chicago Fire,Y,FW,55,0,0,0,0,2,1,1,0,19,0,0,0,0.2,0.2,0.0,0,0,5,11,45.5,0,9,0,0,0,Match Report
+29,Sat,MLS,Regular Season,Home,D 1–1,NY Red Bulls,Portland Timbers,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Sat,MLS,Regular Season,Away,L 0–2,NY Red Bulls,Charlotte,N,"FW,AM",45,0,0,0,0,1,0,0,0,18,0,1,0,0.0,0.0,0.3,2,0,8,10,80.0,1,11,0,1,0,Match Report
+32,Sat,MLS,Regular Season,Home,W 2–0,NY Red Bulls,Toronto FC,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,,,,,4-2-7,,,6/13,,516,2,1,0,0,22,8,2,0,123,4,2,6,1.3,1.3,0.7,9,0,42,68,61.8,5,61,2,8,4,

@@ -1,0 +1,38 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Home,L 0–2,West Ham,Newcastle Utd,N,RW,2,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,3,2,0,0,Match Report
+1,Tue,EFL Cup,Second round,Home,W 3–0,West Ham,Charlton Ath,Y,AM,90,1,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+2,Sat,Premier League,Matchweek 2,Away,L 1–2,West Ham,Arsenal,N,"LM,LB",1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,Match Report
+3,Tue,EFL Cup,Third round,Home,W 5–1,West Ham,Hull City,Y,AM,90,0,1,0,0,3,0,0,0,,,5,,,,,,,,,,,,,,,Match Report
+4,Sun,Premier League,Matchweek 3,Home,W 4–0,West Ham,Wolves,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Wed,EFL Cup,Fourth round,Away,L 1–4,West Ham,Everton,Y,AM,90,0,1,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+6,Sun,Premier League,Matchweek 4,Away,W 3–0,West Ham,Leicester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Sat,Primeira Liga,Matchweek 4,Away,D 2–2,Porto,Sporting CP,N,LM,32,0,0,0,0,0,0,0,0,14,1,2,0,0.0,0.0,0.0,1,0,7,8,87.5,1,6,0,2,0,Match Report
+8,Wed,Champions Lg,Group stage,Away,L 1–3,pt Porto,eng Manchester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Sat,Primeira Liga,Matchweek 5,Home,W 1–0,Porto,Gil Vicente FC,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,Tue,Champions Lg,Group stage,Home,W 2–0,pt Porto,gr Olympiacos,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Fri,Primeira Liga,Matchweek 6,Away,L 2–3,Porto,Paços,N,FW,19,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,8,1,0,0,Match Report
+12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Wed,Champions Lg,Group stage,Away,W 2–0,pt Porto,fr Marseille,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Tue,Champions Lg,Group stage,Home,D 0–0,pt Porto,eng Manchester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Wed,Champions Lg,Group stage,Away,W 2–0,pt Porto,gr Olympiacos,Y,LW,62,0,0,0,0,0,0,0,0,28,1,4,1,0.0,0.0,0.1,3,0,16,18,88.9,2,16,1,0,0,Match Report
+18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Fri,Primeira Liga,Matchweek 13,Away,W 4–1,Porto,Famalicão,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Fri,Primeira Liga,Matchweek 14,Home,D 1–1,Porto,Benfica,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Mon,Primeira Liga,Matchweek 15,Away,W 1–0,Porto,Farense,N,"LM,FW",15,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,7,0,1,0,Match Report
+22,Mon,Primeira Liga,Matchweek 16,Home,W 2–0,Porto,Rio Ave,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Thu,Primeira Liga,Matchweek 17,Away,D 0–0,Porto,B-SAD,Y,LM,56,0,0,0,0,1,1,0,0,36,0,0,3,0.1,0.1,0.0,4,0,17,25,68.0,3,19,3,2,1,Match Report
+24,Sun,Primeira Liga,Matchweek 18,Away,D 2–2,Porto,Braga,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,Sat,Primeira Liga,Matchweek 19,Home,D 2–2,Porto,Boavista,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Wed,Champions Lg,Round of 16,Home,W 2–1,pt Porto,it Juventus,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Mon,Primeira Liga,Matchweek 20,Away,W 2–1,Porto,Marítimo,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,Tue,Champions Lg,Round of 16,Away,L 2–3,pt Porto,it Juventus,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Wed,Champions Lg,Quarter-finals,Home,L 0–2,pt Porto,eng Chelsea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,Mon,Primeira Liga,Matchweek 32,Home,W 5–1,Porto,Farense,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Sat,Primeira Liga,Matchweek 33,Away,W 3–0,Porto,Rio Ave,N,LM,9,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.1,1,0,7,7,100.0,1,8,2,1,0,Match Report
+35,Wed,Primeira Liga,Matchweek 34,Home,W 4–0,Porto,B-SAD,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,,,,,5-2-4,,,5/11,,466,1,2,0,0,6,3,0,0,117,4,12,5,0.1,0.1,0.2,9,0,62,80,77.5,10,70,9,6,1,

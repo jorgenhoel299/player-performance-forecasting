@@ -1,0 +1,52 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Away,L 1–5,Leeds United,Manchester Utd,Y,"FW,CM",90,0,0,0,0,2,1,0,0,49,2,0,0,0.1,0.1,0.0,2,0,34,46,73.9,3,31,2,1,1,Match Report
+1,Sat,Premier League,Matchweek 2,Home,D 2–2,Leeds United,Everton,Y,AM,59,1,0,0,0,3,2,0,0,39,1,0,0,0.5,0.5,0.1,4,0,28,33,84.8,2,20,2,0,0,Match Report
+2,Tue,EFL Cup,Second round,Home,W 3–0,Leeds United,Crewe Alexandra,N,,30,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Sun,Premier League,Matchweek 4,Home,L 0–3,Leeds United,Liverpool,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Fri,Premier League,Matchweek 5,Away,D 1–1,Leeds United,Newcastle Utd,Y,CM,90,0,0,0,0,5,4,0,0,64,1,0,0,0.2,0.2,0.1,5,0,45,53,84.9,9,42,6,2,1,Match Report
+6,Tue,EFL Cup,Third round,Away,D 0 (6)–0 (5),Leeds United,Fulham,Y,DM,68,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+7,Sat,Premier League,Matchweek 6,Home,L 1–2,Leeds United,West Ham,Y,CM,90,0,1,0,0,2,0,0,0,38,2,0,2,0.4,0.4,0.2,6,1,23,30,76.7,6,22,1,0,0,Match Report
+8,Sat,Premier League,Matchweek 7,Home,W 1–0,Leeds United,Watford,Y,CM,89,0,0,0,0,2,1,0,0,54,1,0,0,0.1,0.1,0.2,7,1,32,46,69.6,6,34,4,1,0,Match Report
+9,Sat,WCQ,First round,Home,W 5–0,pl Poland,sm San Marino,Y,CM,45,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+10,Tue,WCQ,First round,Away,W 1–0,pl Poland,al Albania,N,,45,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+11,Sat,Premier League,Matchweek 8,Away,L 0–1,Leeds United,Southampton,Y,"CM,AM",76,0,0,0,0,0,0,0,0,49,3,0,2,0.0,0.0,0.0,1,0,31,41,75.6,5,16,2,1,1,Match Report
+12,Sat,Premier League,Matchweek 9,Home,D 1–1,Leeds United,Wolves,Y,CM,61,0,0,0,0,1,1,0,0,31,0,0,0,0.0,0.0,0.0,2,0,21,30,70.0,1,23,0,2,2,Match Report
+13,Tue,EFL Cup,Fourth round,Away,L 0–2,Leeds United,Arsenal,N,,45,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+14,Sun,Premier League,Matchweek 10,Away,W 2–1,Leeds United,Norwich City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Sun,Premier League,Matchweek 11,Home,D 1–1,Leeds United,Leicester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Fri,WCQ,First round,Away,W 4–1,pl Poland,ad Andorra,Y,DM,63,0,0,0,0,1,1,1,0,,,1,,,,,,,,,,,,,,,Match Report
+17,Mon,WCQ,First round,Home,L 1–2,pl Poland,hu Hungary,Y,CM,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+18,Sun,Premier League,Matchweek 12,Away,L 1–2,Leeds United,Tottenham,Y,AM,58,0,0,0,0,0,0,0,0,34,0,0,1,0.0,0.0,0.0,3,0,26,30,86.7,3,21,2,1,0,Match Report
+19,Sat,Premier League,Matchweek 13,Away,D 0–0,Leeds United,Brighton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Tue,Premier League,Matchweek 14,Home,W 1–0,Leeds United,Crystal Palace,Y,CM,45,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,0,0,5,10,50.0,0,9,0,1,1,Match Report
+21,Sun,Premier League,Matchweek 15,Home,D 2–2,Leeds United,Brentford,N,CM,36,0,0,0,0,1,0,1,0,21,0,0,0,0.1,0.1,0.0,0,0,15,20,75.0,4,16,2,0,0,Match Report
+22,Sat,Premier League,Matchweek 16,Away,L 2–3,Leeds United,Chelsea,N,"RM,CM",32,0,0,0,0,2,0,1,0,19,1,0,1,0.1,0.1,0.0,3,1,12,14,85.7,3,13,1,0,0,Match Report
+23,Tue,Premier League,Matchweek 17,Away,L 0–7,Leeds United,Manchester City,N,DM,53,0,0,0,0,1,0,0,0,31,2,1,1,0.0,0.0,0.0,1,0,19,23,82.6,3,17,2,1,1,Match Report
+24,Sat,Premier League,Matchweek 18,Home,L 1–4,Leeds United,Arsenal,Y,DM,77,0,0,0,0,0,0,0,0,51,1,0,1,0.0,0.0,0.3,4,1,34,41,82.9,1,27,3,4,2,Match Report
+25,Sun,Premier League,Matchweek 21,Home,W 3–1,Leeds United,Burnley,Y,"CM,AM",90,0,1,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.3,10,2,32,44,72.7,9,31,4,1,1,Match Report
+26,Sun,FA Cup,Third round proper,Away,L 0–2,Leeds United,West Ham,Y,AM,90,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+27,Sun,Premier League,Matchweek 22,Away,W 3–2,Leeds United,West Ham,Y,CM,90,0,0,0,0,2,1,0,0,52,2,2,1,0.4,0.4,0.1,3,1,33,42,78.6,3,34,2,1,0,Match Report
+28,Sat,Premier League,Matchweek 23,Home,L 0–1,Leeds United,Newcastle Utd,Y,DM,79,0,0,0,0,2,0,0,0,48,1,1,1,0.0,0.0,0.0,1,0,28,34,82.4,3,24,0,1,0,Match Report
+29,Wed,Premier League,Matchweek 24,Away,D 3–3,Leeds United,Aston Villa,Y,DM,84,0,0,0,0,4,2,0,0,33,0,1,0,0.2,0.2,0.0,3,1,19,26,73.1,4,24,0,1,0,Match Report
+30,Sat,Premier League,Matchweek 25,Away,L 0–3,Leeds United,Everton,Y,CM,45,0,0,0,0,0,0,0,0,24,1,0,1,0.0,0.0,0.0,1,0,15,21,71.4,4,16,0,1,0,Match Report
+31,Sun,Premier League,Matchweek 26,Home,L 2–4,Leeds United,Manchester Utd,Y,"CM,AM",90,0,0,0,0,7,2,1,0,57,3,1,0,0.3,0.3,0.4,3,0,30,41,73.2,5,36,5,3,2,Match Report
+32,Wed,Premier League,Matchweek 19,Away,L 0–6,Leeds United,Liverpool,Y,CM,45,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,12,17,70.6,2,14,0,1,1,Match Report
+33,Sat,Premier League,Matchweek 27,Home,L 0–4,Leeds United,Tottenham,N,CM,45,0,0,0,0,1,1,1,0,32,2,0,0,0.1,0.1,0.0,2,0,24,27,88.9,6,11,0,1,1,Match Report
+34,Sat,Premier League,Matchweek 28,Away,L 0–1,Leeds United,Leicester City,Y,DM,69,0,0,0,0,0,0,0,0,48,5,0,2,0.0,0.0,0.0,2,0,26,35,74.3,2,21,0,0,0,Match Report
+35,Thu,Premier League,Matchweek 20,Home,L 0–3,Leeds United,Aston Villa,N,DM,24,0,0,0,0,0,0,0,0,26,1,1,1,0.0,0.0,0.0,1,0,16,21,76.2,1,12,2,1,0,Match Report
+36,Sun,Premier League,Matchweek 29,Home,W 2–1,Leeds United,Norwich City,Y,"DM,AM",89,0,0,0,0,0,0,0,0,60,5,0,1,0.0,0.0,0.1,1,0,39,47,83.0,4,28,1,4,2,Match Report
+37,Fri,Premier League,Matchweek 30,Away,W 3–2,Leeds United,Wolves,Y,DM,44,0,0,0,0,0,0,0,0,32,0,2,1,0.0,0.0,0.0,1,0,24,28,85.7,2,19,0,0,0,Match Report
+38,Sat,Premier League,Matchweek 31,Home,D 1–1,Leeds United,Southampton,Y,DM,65,0,0,0,0,2,0,0,0,40,3,0,1,0.1,0.1,0.0,0,0,21,30,70.0,4,15,1,2,0,Match Report
+39,Sat,Premier League,Matchweek 32,Away,W 3–0,Leeds United,Watford,Y,DM,58,0,0,0,0,0,0,0,0,44,2,0,2,0.0,0.0,0.0,1,0,24,37,64.9,1,21,0,1,1,Match Report
+40,Mon,Premier League,Matchweek 34,Away,D 0–0,Leeds United,Crystal Palace,Y,DM,45,0,0,0,0,0,0,0,0,24,2,0,1,0.0,0.0,0.0,2,0,13,18,72.2,1,13,0,0,0,Match Report
+41,Sat,Premier League,Matchweek 35,Home,L 0–4,Leeds United,Manchester City,Y,CM,90,0,0,0,0,0,0,0,0,54,3,1,0,0.0,0.0,0.4,1,0,37,48,77.1,4,34,2,1,1,Match Report
+42,Sun,Premier League,Matchweek 36,Away,L 1–2,Leeds United,Arsenal,Y,"DM,CM",45,0,0,0,0,0,0,1,0,32,1,0,0,0.0,0.0,0.0,0,0,22,28,78.6,1,22,0,0,0,Match Report
+43,Wed,Premier League,Matchweek 33,Home,L 0–3,Leeds United,Chelsea,N,"CB,CM",32,0,0,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,17,18,94.4,1,13,0,0,0,Match Report
+44,Sun,Premier League,Matchweek 37,Home,D 1–1,Leeds United,Brighton,Y,DM,82,0,0,0,0,2,2,0,0,48,1,0,2,0.3,0.3,0.1,4,0,31,35,88.6,1,26,0,1,1,Match Report
+45,Sun,Premier League,Matchweek 38,Away,W 2–1,Leeds United,Brentford,N,CM,6,0,0,0,0,2,1,0,0,14,0,0,0,0.1,0.1,0.0,2,0,12,12,100.0,1,12,1,1,1,Match Report
+46,Wed,UEFA Nations League,League A,Home,W 2–1,pl Poland,wls Wales,Y,DM,59,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+47,Wed,UEFA Nations League,League A,Away,L 1–6,pl Poland,be Belgium,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,Sat,UEFA Nations League,League A,Away,D 2–2,pl Poland,nl Netherlands,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,Tue,UEFA Nations League,League A,Home,L 0–1,pl Poland,be Belgium,N,,21,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+50,,,,,13-9-21,,,32/43,,"2,629",1,2,0,0,49,19,7,0,1253,47,14,22,2.8,2.8,2.2,77,8,800,1026,78.0,105,717,45,35,20,

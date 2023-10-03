@@ -1,0 +1,11 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Mon,Premier League,Matchweek 1,Home,W 1–0,Manchester Utd,Wolves,Y,DM,90,0,0,0,0,0,0,0,0,81,2,1,4,0.0,0.0,0.1,3,0,51,63,81.0,10,44,0,0,0,Match Report
+1,Sat,Premier League,Matchweek 2,Away,L 0–2,Manchester Utd,Tottenham,Y,DM,90,0,0,0,0,5,2,0,0,53,3,1,1,0.4,0.4,0.0,2,0,29,36,80.6,5,27,1,1,0,Match Report
+2,Sat,Premier League,Matchweek 3,Home,W 3–2,Manchester Utd,Nott'ham Forest,Y,DM,90,1,0,0,0,4,2,0,0,108,5,1,0,1.0,1.0,0.0,2,0,77,91,84.6,16,70,2,2,1,Match Report
+3,Sun,Premier League,Matchweek 4,Away,L 1–3,Manchester Utd,Arsenal,Y,DM,90,0,0,0,0,0,0,0,0,71,1,0,4,0.0,0.0,0.0,0,0,54,63,85.7,4,47,1,1,0,Match Report
+4,Fri,WCQ,WCQ — CONMEBOL (M),Home,W 5–1,br Brazil,bo Bolivia,Y*,DM,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+5,Tue,WCQ,WCQ — CONMEBOL (M),Away,W 1–0,br Brazil,pe Peru,Y*,DM,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+6,Sat,Premier League,Matchweek 5,Home,L 1–3,Manchester Utd,Brighton,Y,DM,63,0,0,0,0,0,0,0,0,52,2,0,4,0.0,0.0,0.1,2,0,36,46,78.3,5,30,2,0,0,Match Report
+7,Wed,Champions Lg,Group stage,Away,L 3–4,eng Manchester Utd,de Bayern Munich,Y,DM,90,2,0,0,0,2,2,0,0,48,4,0,1,0.8,0.8,0.1,3,1,34,39,87.2,4,28,0,0,0,Match Report
+8,Sat,Premier League,Matchweek 6,Away,W 1–0,Manchester Utd,Burnley,Y,DM,90,0,0,0,0,1,0,0,0,49,3,1,6,0.1,0.1,0.1,2,0,30,38,78.9,5,16,1,0,0,Match Report
+9,,,,,5-0-4,,,9/9,,783,3,0,0,0,13,6,0,0,462,20,4,20,2.2,2.2,0.3,14,1,311,376,82.7,49,262,7,4,1,

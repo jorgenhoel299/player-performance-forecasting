@@ -1,0 +1,75 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,UEFA Euro,Quarter-finals,Away,W 4–0,eng England,ua Ukraine,N,DM,34,1,0,0,0,1,1,0,0,45,0,1,2,0.3,0.3,0.0,0,0,40,43,93.0,3,26,0,0,0,Match Report
+1,Wed,UEFA Euro,Semi-finals,Home,W 2–1,eng England,dk Denmark,N,"CM,DM",26,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,23,26,88.5,4,21,1,2,1,Match Report
+2,Sun,UEFA Euro,Final,Neutral,D 1 (2)–1 (3),eng England,it Italy,N,DM,46,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,1,0,13,18,72.2,3,10,0,1,1,Match Report
+3,Sat,Premier League,Matchweek 2,Home,W 2–0,Liverpool,Burnley,Y*,CM,90,0,0,0,0,1,0,0,0,79,0,0,0,0.0,0.0,0.1,3,0,66,76,86.8,10,48,1,1,1,Match Report
+4,Sat,Premier League,Matchweek 3,Home,D 1–1,Liverpool,Chelsea,Y*,LM,73,0,0,0,0,2,0,0,0,87,0,2,0,0.4,0.4,0.0,2,0,71,83,85.5,8,47,1,0,0,Match Report
+5,Thu,WCQ,First round,Away,W 4–0,eng England,hu Hungary,N,,3,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+6,Sun,WCQ,First round,Home,W 4–0,eng England,ad Andorra,Y*,CM,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+7,Wed,WCQ,First round,Away,D 1–1,eng England,pl Poland,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Sun,Premier League,Matchweek 4,Away,W 3–0,Liverpool,Leeds United,N,RM,28,0,0,0,0,1,1,0,0,30,1,0,0,0.1,0.1,0.1,3,1,23,26,88.5,3,20,0,0,0,Match Report
+9,Wed,Champions Lg,Group stage,Home,W 3–2,eng Liverpool,it Milan,Y*,RM,83,1,0,0,0,2,2,0,0,61,1,1,1,0.1,0.1,0.1,4,0,45,52,86.5,8,40,1,1,0,Match Report
+10,Sat,Premier League,Matchweek 5,Home,W 3–0,Liverpool,Crystal Palace,Y*,RM,87,0,0,0,0,2,1,1,0,65,3,0,1,0.1,0.1,0.2,6,0,42,53,79.2,8,36,2,4,1,Match Report
+11,Tue,EFL Cup,Third round,Away,W 3–0,Liverpool,Norwich City,N,,4,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+12,Sat,Premier League,Matchweek 6,Away,D 3–3,Liverpool,Brentford,Y*,"RM,CM",90,0,1,0,0,0,0,0,0,62,1,0,3,0.0,0.0,0.3,3,1,48,58,82.8,4,38,3,0,0,Match Report
+13,Tue,Champions Lg,Group stage,Away,W 5–1,eng Liverpool,pt Porto,Y*,RM,72,0,0,0,0,4,1,0,0,73,1,2,1,0.2,0.2,0.0,2,0,50,60,83.3,10,37,1,2,0,Match Report
+14,Sun,Premier League,Matchweek 7,Home,D 2–2,Liverpool,Manchester City,Y*,RM,90,0,0,0,0,0,0,0,0,51,3,2,1,0.0,0.0,0.0,1,0,31,45,68.9,5,24,1,1,1,Match Report
+15,Sat,WCQ,First round,Away,W 5–0,eng England,ad Andorra,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Tue,WCQ,First round,Home,D 1–1,eng England,hu Hungary,N,,15,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+17,Sat,Premier League,Matchweek 8,Away,W 5–0,Liverpool,Watford,Y*,CM,90,0,0,0,0,0,0,0,0,123,3,0,0,0.0,0.0,0.0,0,0,104,116,89.7,9,61,2,0,0,Match Report
+18,Tue,Champions Lg,Group stage,Away,W 3–2,eng Liverpool,es Atlético Madrid,Y*,CM,90,0,0,0,0,0,0,0,0,80,0,3,2,0.0,0.0,0.0,2,1,66,74,89.2,10,63,5,0,0,Match Report
+19,Sun,Premier League,Matchweek 9,Away,W 5–0,Liverpool,Manchester Utd,Y*,CM,90,0,1,0,0,1,0,0,0,143,2,3,2,0.0,0.0,0.4,7,1,128,134,95.5,5,102,1,0,0,Match Report
+20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Sat,Premier League,Matchweek 10,Home,D 2–2,Liverpool,Brighton,Y*,CM,90,1,0,0,0,3,1,0,0,82,1,0,3,0.1,0.1,0.0,1,0,61,71,85.9,2,31,0,0,0,Match Report
+22,Wed,Champions Lg,Group stage,Home,W 2–0,eng Liverpool,es Atlético Madrid,Y*,"RM,CM",90,0,0,0,0,2,1,0,0,105,1,2,1,0.1,0.1,0.0,4,1,92,96,95.8,11,74,0,0,0,Match Report
+23,Sun,Premier League,Matchweek 11,Away,L 2–3,Liverpool,West Ham,Y*,RM,90,0,0,0,0,1,0,0,0,105,1,0,1,0.0,0.0,0.2,5,1,88,98,89.8,14,73,2,1,1,Match Report
+24,Fri,WCQ,First round,Home,W 5–0,eng England,al Albania,Y,CM,90,1,1,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+25,Sat,Premier League,Matchweek 12,Home,W 4–0,Liverpool,Arsenal,N,RM,15,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,20,22,90.9,1,13,0,0,0,Match Report
+26,Wed,Champions Lg,Group stage,Home,W 2–0,eng Liverpool,pt Porto,N,LM,28,0,1,0,0,1,0,0,0,27,2,0,0,0.1,0.1,0.1,1,1,18,24,75.0,2,15,0,0,0,Match Report
+27,Sat,Premier League,Matchweek 13,Home,W 4–0,Liverpool,Southampton,Y*,RM,66,0,0,0,0,1,0,0,0,56,0,0,0,0.0,0.0,0.1,6,1,39,51,76.5,7,21,2,3,1,Match Report
+28,Wed,Premier League,Matchweek 14,Away,W 4–1,Liverpool,Everton,Y*,RM,82,1,1,0,0,1,1,0,0,74,0,0,2,0.1,0.1,0.4,4,1,46,67,68.7,14,38,2,1,1,Match Report
+29,Sat,Premier League,Matchweek 15,Away,W 1–0,Liverpool,Wolves,Y*,RM,67,0,0,0,0,0,0,0,0,57,1,0,0,0.0,0.0,0.0,0,0,42,54,77.8,6,21,3,0,0,Match Report
+30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Sat,Premier League,Matchweek 16,Home,W 1–0,Liverpool,Aston Villa,Y*,RM,90,0,0,0,0,0,0,0,0,52,0,3,0,0.0,0.0,0.1,4,1,38,46,82.6,11,34,4,1,1,Match Report
+32,Thu,Premier League,Matchweek 17,Home,W 3–1,Liverpool,Newcastle Utd,Y*,CM,90,0,0,0,0,2,0,1,0,126,0,1,0,0.1,0.1,0.1,6,0,111,123,90.2,17,89,2,0,0,Match Report
+33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Wed,EFL Cup,Quarter-finals,Home,D 3 (5)–3 (4),Liverpool,Leicester City,Y*,CM,58,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+35,Tue,Premier League,Matchweek 20,Away,L 0–1,Liverpool,Leicester City,Y*,RM,69,0,0,0,0,3,0,0,0,55,0,1,3,0.0,0.0,0.0,2,0,34,48,70.8,3,42,4,0,0,Match Report
+36,Sun,Premier League,Matchweek 21,Away,D 2–2,Liverpool,Chelsea,Y*,RM,90,0,0,0,0,0,0,0,0,53,2,1,0,0.0,0.0,0.0,0,0,33,45,73.3,4,28,2,0,0,Match Report
+37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,Thu,EFL Cup,Semi-finals,Home,D 0–0,Liverpool,Arsenal,Y*,CM,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+39,Sun,Premier League,Matchweek 22,Home,W 3–0,Liverpool,Brentford,Y*,RM,90,0,0,0,0,0,0,0,0,100,2,2,0,0.0,0.0,0.1,3,2,71,93,76.3,10,35,3,2,1,Match Report
+40,Thu,EFL Cup,Semi-finals,Away,W 2–0,Liverpool,Arsenal,Y*,CM,74,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+41,Sun,Premier League,Matchweek 23,Away,W 3–1,Liverpool,Crystal Palace,Y*,RM,90,0,0,0,0,4,1,0,0,72,0,2,2,0.3,0.3,0.0,3,0,49,62,79.0,12,47,1,0,0,Match Report
+42,Sun,FA Cup,Fourth round proper,Home,W 3–1,Liverpool,Cardiff City,Y*,CM,77,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+43,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,Sun,Premier League,Matchweek 25,Away,W 1–0,Liverpool,Burnley,Y*,RM,58,0,0,0,0,0,0,1,0,45,1,1,1,0.0,0.0,0.0,0,0,19,39,48.7,5,32,2,2,1,Match Report
+45,Wed,Champions Lg,Round of 16,Away,W 2–0,eng Liverpool,it Inter,N,CM,32,0,0,0,0,0,0,0,0,46,0,2,0,0.0,0.0,0.0,1,0,40,44,90.9,0,18,0,0,0,Match Report
+46,Sat,Premier League,Matchweek 26,Home,W 3–1,Liverpool,Norwich City,Y*,"CM,DM",90,0,1,0,0,2,0,0,0,124,0,0,1,0.1,0.1,0.5,6,2,106,112,94.6,16,77,4,2,2,Match Report
+47,Wed,Premier League,Matchweek 19,Home,W 6–0,Liverpool,Leeds United,N,LM,23,0,1,0,0,0,0,0,0,21,0,1,0,0.0,0.0,0.5,2,1,14,18,77.8,0,14,0,1,0,Match Report
+48,Sun,EFL Cup,Final,Away,D 0 (11)–0 (10),Liverpool,Chelsea,Y*,CM,78,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+49,Wed,FA Cup,Fifth round proper,Home,W 2–1,Liverpool,Norwich City,Y*,CM,60,0,0,0,0,2,0,1,0,,,1,,,,,,,,,,,,,,,Match Report
+50,Sat,Premier League,Matchweek 28,Home,W 1–0,Liverpool,West Ham,Y*,RM,90,0,0,0,0,0,0,0,0,75,1,1,0,0.0,0.0,0.1,2,0,63,70,90.0,9,41,1,1,1,Match Report
+51,Tue,Champions Lg,Round of 16,Home,L 0–1,eng Liverpool,it Inter,N,RM,26,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,33,36,91.7,4,21,0,0,0,Match Report
+52,Sat,Premier League,Matchweek 29,Away,W 2–0,Liverpool,Brighton,Y*,RM,85,0,0,0,0,1,1,0,0,44,2,1,0,0.1,0.1,0.0,4,0,25,37,67.6,0,28,2,0,0,Match Report
+53,Wed,Premier League,Matchweek 27,Away,W 2–0,Liverpool,Arsenal,Y*,RM,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,1,0,38,51,74.5,4,27,2,0,0,Match Report
+54,Sun,FA Cup,Quarter-finals,Away,W 1–0,Liverpool,Nott'ham Forest,N,,27,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+55,Sat,Friendlies (M),Friendlies (M),Neutral,W 2–1,eng England,ch Switzerland,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+56,Tue,Friendlies (M),Friendlies (M),Neutral,W 3–0,eng England,ci Côte d'Ivoire,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,Sat,Premier League,Matchweek 31,Home,W 2–0,Liverpool,Watford,Y*,CM,90,0,0,0,0,0,0,0,0,84,2,0,1,0.0,0.0,0.2,4,1,63,80,78.8,7,60,1,1,1,Match Report
+58,Tue,Champions Lg,Quarter-finals,Away,W 3–1,eng Liverpool,pt Benfica,N,RM,30,0,0,0,0,0,0,0,0,44,0,1,0,0.0,0.0,0.4,4,0,31,41,75.6,3,23,1,2,0,Match Report
+59,Sun,Premier League,Matchweek 32,Away,D 2–2,Liverpool,Manchester City,Y*,RM,77,0,0,0,0,1,0,0,0,46,2,0,0,0.0,0.0,0.0,1,0,34,41,82.9,5,16,0,0,0,Match Report
+60,Wed,Champions Lg,Quarter-finals,Home,D 3–3,eng Liverpool,pt Benfica,Y*,CM,56,0,0,0,0,0,0,0,0,70,1,1,2,0.0,0.0,0.0,1,0,51,64,79.7,3,44,1,0,0,Match Report
+61,Sat,FA Cup,Semi-finals,Away,W 3–2,Liverpool,Manchester City,N,,18,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+62,Tue,Premier League,Matchweek 30,Home,W 4–0,Liverpool,Manchester Utd,Y*,RM,90,0,0,0,0,2,0,0,0,106,1,2,1,0.0,0.0,0.0,1,0,86,96,89.6,10,53,3,0,0,Match Report
+63,Sun,Premier League,Matchweek 34,Home,W 2–0,Liverpool,Everton,N,RM,9,0,0,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.1,2,0,5,8,62.5,1,7,0,0,0,Match Report
+64,Wed,Champions Lg,Semi-finals,Home,W 2–0,eng Liverpool,es Villarreal,Y*,RM,71,0,0,0,0,0,0,0,0,68,4,1,2,0.0,0.0,0.0,0,0,49,59,83.1,8,33,3,0,0,Match Report
+65,Sat,Premier League,Matchweek 35,Away,W 1–0,Liverpool,Newcastle Utd,Y*,CM,68,0,0,0,0,1,0,0,0,68,1,0,1,0.0,0.0,0.0,1,0,58,63,92.1,5,41,0,1,1,Match Report
+66,Tue,Champions Lg,Semi-finals,Away,W 3–2,eng Liverpool,es Villarreal,N,"CM,RM",12,0,0,0,0,1,0,0,0,6,0,0,0,0.0,0.0,0.2,1,0,5,6,83.3,0,1,0,0,0,Match Report
+67,Sat,Premier League,Matchweek 36,Home,D 1–1,Liverpool,Tottenham,Y*,RM,64,0,0,0,0,2,0,0,0,67,0,0,1,0.0,0.0,0.0,2,0,51,63,81.0,10,36,1,1,1,Match Report
+68,Tue,Premier League,Matchweek 33,Away,W 2–1,Liverpool,Aston Villa,N,CM,61,0,0,0,0,0,0,0,0,50,2,0,0,0.0,0.0,0.0,3,0,42,47,89.4,6,22,0,1,1,Match Report
+69,Sat,FA Cup,Final,Away,D 0 (6)–0 (5),Liverpool,Chelsea,Y*,CM,120,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+70,Tue,Premier League,Matchweek 37,Away,W 2–1,Liverpool,Southampton,N,"CM,DM",45,0,0,0,0,0,0,0,0,62,2,0,0,0.0,0.0,0.0,2,1,54,59,91.5,5,39,0,1,0,Match Report
+71,Sun,Premier League,Matchweek 38,Home,W 3–1,Liverpool,Wolves,Y*,"CM,DM",90,0,0,0,0,0,0,0,0,92,1,0,0,0.0,0.0,0.0,6,0,83,91,91.2,9,64,2,0,0,Match Report
+72,Sat,Champions Lg,Final,Neutral,L 0–1,eng Liverpool,es Real Madrid,Y*,RM,76,0,0,0,0,1,0,0,0,74,2,0,0,0.0,0.0,0.0,4,0,58,69,84.1,10,40,2,0,0,Match Report
+73,,,,,47-14-4,,,46/65,,"4,263",5,7,0,0,49,12,4,0,3229,48,40,37,2.2,2.2,4.5,121,17,2500,2958,84.5,324,1871,69,33,18,

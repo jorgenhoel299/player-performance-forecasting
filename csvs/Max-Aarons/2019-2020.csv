@@ -1,0 +1,44 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Fri,Premier League,Matchweek 1,Away,L 1–4,Norwich City,Liverpool,Y,RB,90,0,0,0,0,0,0,0,0,52,3,1,1,0.0,0.0,0.0,1,0,28,36,77.8,1,24,1,5,3,Match Report
+1,Sat,Premier League,Matchweek 2,Home,W 3–1,Norwich City,Newcastle Utd,Y,RB,90,0,0,0,0,1,0,1,0,73,0,0,0,0.1,0.1,0.2,2,0,56,64,87.5,2,50,1,0,0,Match Report
+2,Sat,Premier League,Matchweek 3,Home,L 2–3,Norwich City,Chelsea,Y,"RB,LM",90,0,0,0,0,0,0,0,0,61,3,1,2,0.0,0.0,0.0,0,0,33,41,80.5,0,27,0,5,0,Match Report
+3,Tue,EFL Cup,Second round,Away,L 0–1,Norwich City,Crawley Town,N,,5,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+4,Sat,Premier League,Matchweek 4,Away,L 0–2,Norwich City,West Ham,Y,"RB,WB",90,0,0,0,0,1,0,1,0,57,1,0,0,0.0,0.0,0.6,2,0,33,43,76.7,0,38,2,10,6,Match Report
+5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Sat,Premier League,Matchweek 7,Away,L 0–2,Norwich City,Crystal Palace,Y,RB,90,0,0,0,0,1,0,0,0,62,3,0,1,0.0,0.0,0.0,0,0,48,53,90.6,2,40,2,0,0,Match Report
+7,Sat,Premier League,Matchweek 8,Home,L 1–5,Norwich City,Aston Villa,Y,RB,90,0,0,0,0,2,0,0,0,59,1,1,0,0.1,0.1,0.1,2,0,38,48,79.2,1,39,5,1,0,Match Report
+8,Sat,Premier League,Matchweek 9,Away,D 0–0,Norwich City,Bournemouth,Y,RB,90,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.0,1,0,25,34,73.5,1,25,3,2,1,Match Report
+9,Sun,Premier League,Matchweek 10,Home,L 1–3,Norwich City,Manchester Utd,Y,RB,90,0,0,0,0,0,0,1,0,50,3,1,0,0.0,0.0,0.5,6,0,34,38,89.5,3,31,3,5,4,Match Report
+10,Sat,Premier League,Matchweek 11,Away,L 0–2,Norwich City,Brighton,Y,"RB,CB",90,0,0,0,0,0,0,0,0,40,3,0,0,0.0,0.0,0.0,0,0,31,36,86.1,1,25,1,1,0,Match Report
+11,Fri,Premier League,Matchweek 12,Home,L 0–2,Norwich City,Watford,Y,RB,90,0,0,0,0,1,0,0,0,68,0,0,2,0.0,0.0,0.0,1,0,51,55,92.7,2,50,3,3,0,Match Report
+12,Sat,Premier League,Matchweek 13,Away,W 2–0,Norwich City,Everton,Y,"RB,RM",90,0,0,0,0,0,0,1,0,54,1,0,0,0.0,0.0,0.1,4,1,30,41,73.2,3,19,1,5,2,Match Report
+13,Sun,Premier League,Matchweek 14,Home,D 2–2,Norwich City,Arsenal,Y,RB,90,0,0,0,0,3,2,0,0,53,0,0,1,0.2,0.2,0.0,5,0,32,38,84.2,1,31,3,1,0,Match Report
+14,Wed,Premier League,Matchweek 15,Away,L 1–2,Norwich City,Southampton,Y,"RB,RM",90,0,0,0,0,0,0,0,0,89,0,1,3,0.0,0.0,0.3,3,0,50,73,68.5,2,52,4,2,1,Match Report
+15,Sun,Premier League,Matchweek 16,Home,L 1–2,Norwich City,Sheffield Utd,Y,RB,90,0,0,0,0,0,0,0,0,69,0,1,1,0.0,0.0,0.0,0,0,48,59,81.4,1,48,1,1,1,Match Report
+16,Sat,Premier League,Matchweek 17,Away,D 1–1,Norwich City,Leicester City,Y,RB,90,0,0,0,0,0,0,0,0,65,2,1,4,0.0,0.0,0.6,2,0,31,50,62.0,3,31,1,3,1,Match Report
+17,Sat,Premier League,Matchweek 18,Home,L 1–2,Norwich City,Wolves,Y,RB,90,0,0,0,0,0,0,0,0,54,1,1,2,0.0,0.0,0.0,2,0,31,46,67.4,1,29,2,3,2,Match Report
+18,Thu,Premier League,Matchweek 19,Away,L 0–1,Norwich City,Aston Villa,Y,RB,90,0,0,0,0,0,0,0,0,74,2,0,2,0.0,0.0,0.4,7,0,50,64,78.1,4,46,6,6,4,Match Report
+19,Sat,Premier League,Matchweek 20,Home,D 2–2,Norwich City,Tottenham,Y,RB,90,0,0,0,0,0,0,0,0,44,0,1,2,0.0,0.0,0.0,1,0,24,36,66.7,2,19,0,2,1,Match Report
+20,Wed,Premier League,Matchweek 21,Home,D 1–1,Norwich City,Crystal Palace,Y,RB,90,0,0,0,0,2,0,1,0,64,1,3,0,0.1,0.1,0.1,3,0,31,42,73.8,2,28,1,2,0,Match Report
+21,Sat,FA Cup,Third round,Away,W 4–2,Norwich City,Preston,N,,9,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+22,Sat,Premier League,Matchweek 22,Away,L 0–4,Norwich City,Manchester Utd,Y,"RB,WB",90,0,0,0,0,0,0,0,0,59,1,0,1,0.0,0.0,0.0,0,0,39,50,78.0,5,34,5,2,1,Match Report
+23,Sat,Premier League,Matchweek 23,Home,W 1–0,Norwich City,Bournemouth,Y,RB,90,0,0,0,0,0,0,0,0,74,0,1,0,0.0,0.0,0.1,4,0,44,65,67.7,1,46,4,3,1,Match Report
+24,Wed,Premier League,Matchweek 24,Away,L 1–2,Norwich City,Tottenham,Y,RB,90,0,0,0,0,0,0,0,0,83,3,1,3,0.0,0.0,0.0,4,1,53,69,76.8,4,51,4,6,4,Match Report
+25,Sat,FA Cup,Fourth round,Away,W 2–1,Norwich City,Burnley,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Sat,Premier League,Matchweek 25,Away,D 0–0,Norwich City,Newcastle Utd,Y,RB,90,0,0,0,0,1,0,0,0,61,0,2,1,0.0,0.0,0.7,3,0,42,49,85.7,4,43,8,2,0,Match Report
+27,Sat,Premier League,Matchweek 26,Home,L 0–1,Norwich City,Liverpool,Y,RB,90,0,0,0,0,0,0,0,0,43,0,3,1,0.0,0.0,0.0,1,0,26,31,83.9,2,26,2,1,0,Match Report
+28,Sun,Premier League,Matchweek 27,Away,L 0–3,Norwich City,Wolves,Y,"RB,LM,WB",90,0,0,0,0,1,1,1,0,66,1,0,1,0.1,0.1,0.0,1,0,45,54,83.3,4,43,5,1,0,Match Report
+29,Fri,Premier League,Matchweek 28,Home,W 1–0,Norwich City,Leicester City,Y,RB,90,0,1,0,0,0,0,0,0,46,3,1,1,0.0,0.0,0.0,1,1,19,31,61.3,2,29,4,5,2,Match Report
+30,Wed,FA Cup,Fifth round,Away,D 1 (3)–1 (2),Norwich City,Tottenham,Y,RB,120,0,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+31,Sat,Premier League,Matchweek 29,Away,L 0–1,Norwich City,Sheffield Utd,Y,RB,90,0,0,0,0,0,0,0,0,64,1,2,0,0.0,0.0,0.1,2,0,44,58,75.9,6,42,5,0,0,Match Report
+32,Fri,Premier League,Matchweek 30,Home,L 0–3,Norwich City,Southampton,Y,"RB,LM",90,0,0,0,0,0,0,1,0,56,3,0,3,0.0,0.0,0.0,0,0,28,43,65.1,0,26,2,6,2,Match Report
+33,Wed,Premier League,Matchweek 31,Home,L 0–1,Norwich City,Everton,Y,"RB,LB",90,0,0,0,0,0,0,0,0,65,4,4,2,0.0,0.0,0.0,1,0,37,48,77.1,2,27,2,3,2,Match Report
+34,Sat,FA Cup,Quarter-finals,Home,L 1–2,Norwich City,Manchester Utd,Y,CB,120,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+35,Wed,Premier League,Matchweek 32,Away,L 0–4,Norwich City,Arsenal,Y,"WB,RB",90,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,20,28,71.4,1,20,3,2,2,Match Report
+36,Sat,Premier League,Matchweek 33,Home,L 0–1,Norwich City,Brighton,Y,RB,90,0,0,0,0,0,0,0,0,85,1,1,3,0.0,0.0,0.1,2,0,58,69,84.1,6,47,4,3,2,Match Report
+37,Tue,Premier League,Matchweek 34,Away,L 1–2,Norwich City,Watford,Y,RB,90,0,0,0,0,1,1,0,0,85,3,3,1,0.0,0.0,0.0,1,0,53,67,79.1,2,54,1,4,3,Match Report
+38,Sat,Premier League,Matchweek 35,Home,L 0–4,Norwich City,West Ham,Y,RB,90,0,0,0,0,0,0,0,0,65,1,3,2,0.0,0.0,0.1,1,0,49,57,86.0,3,51,2,0,0,Match Report
+39,Tue,Premier League,Matchweek 36,Away,L 0–1,Norwich City,Chelsea,Y,RB,90,0,0,0,0,0,0,0,0,50,0,1,2,0.0,0.0,0.0,0,0,31,41,75.6,2,27,0,2,1,Match Report
+40,Sat,Premier League,Matchweek 37,Home,L 0–2,Norwich City,Burnley,Y,RB,90,0,0,0,0,0,0,0,0,46,0,1,2,0.0,0.0,0.0,0,0,24,34,70.6,1,28,1,1,1,Match Report
+41,Sun,Premier League,Matchweek 38,Away,L 0–5,Norwich City,Manchester City,Y,RB,90,0,0,0,0,0,0,0,0,33,1,2,2,0.0,0.0,0.0,1,0,16,20,80.0,1,13,0,1,1,Match Report
+42,,,,,5-7-28,,,38/40,,"3,494",0,1,0,0,16,5,7,0,2144,48,38,46,0.6,0.6,3.9,64,3,1332,1711,77.8,78,1259,92,99,48,

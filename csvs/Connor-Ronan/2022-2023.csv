@@ -1,0 +1,42 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Away,L 1–2,Wolves,Leeds United,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Sat,Premier League,Matchweek 2,Home,D 0–0,Wolves,Fulham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Sun,PL2 — Div. 1,Matchweek 2,Away,W 1–0,Wolverhampton Wanderers,Blackburn Rovers,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+3,Mon,PL2 — Div. 1,Matchweek 3,Home,W 2–0,Wolverhampton Wanderers,Brighton,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+4,Wed,Premier League,Matchweek 5,Away,D 0–0,Wolves,Bournemouth,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Sat,Premier League,Matchweek 6,Home,W 1–0,Wolves,Southampton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Mon,PL2 — Div. 1,Matchweek 5,Home,D 1–1,Wolverhampton Wanderers,Fulham,Y,AM,63,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+7,Sat,Premier League,Matchweek 8,Home,L 0–3,Wolves,Manchester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Sat,Premier League,Matchweek 9,Away,L 0–2,Wolves,West Ham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Sun,PL2 — Div. 1,Matchweek 8,Home,L 1–3,Wolverhampton Wanderers,Manchester City,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+10,Sat,Premier League,Matchweek 10,Away,L 0–3,Wolves,Chelsea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Tue,Premier League,Matchweek 12,Away,L 1–2,Wolves,Crystal Palace,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Mon,PL2 — Div. 1,Matchweek 12,Home,W 3–0,Wolverhampton Wanderers,Leicester City,Y,CM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+14,Sat,Premier League,Matchweek 15,Home,L 2–3,Wolves,Brighton,N,RM,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,1,0,1,1,Match Report
+15,Wed,EFL Cup,Third round,Home,W 1–0,Wolves,Leeds United,Y,CM,64,0,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+16,Sat,Premier League,Matchweek 16,Home,L 0–2,Wolves,Arsenal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Tue,EFL Cup,Fourth round,Home,W 2–0,Wolves,Gillingham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Mon,Premier League,Matchweek 17,Away,W 2–1,Wolves,Everton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Sat,FA Cup,Third round proper,Away,D 2–2,Wolves,Liverpool,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Sun,MLS,Regular Season,Away,L 0–4,Colorado Rapids,Seattle,Y,LM,90,0,0,0,0,1,0,0,0,72,1,1,1,0.0,0.0,0.2,3,0,47,59,79.7,7,44,1,3,3,Match Report
+22,Sat,MLS,Regular Season,Home,D 0–0,Colorado Rapids,Sporting KC,Y,LM,90,0,0,0,0,0,0,0,0,95,3,0,1,0.0,0.0,0.6,6,0,72,86,83.7,6,60,3,1,0,Match Report
+23,Sat,MLS,Regular Season,Away,L 0–1,Colorado Rapids,San Jose,Y,CM,63,0,0,0,0,0,0,0,0,44,2,1,0,0.0,0.0,0.0,1,0,36,41,87.8,4,21,1,0,0,Match Report
+24,Sat,MLS,Regular Season,Home,L 1–2,Colorado Rapids,Minnesota Utd,Y,LM,82,0,0,0,0,1,1,0,0,66,0,0,0,0.0,0.0,0.0,1,0,51,61,83.6,9,35,5,0,0,Match Report
+25,Sat,MLS,Regular Season,Away,D 1–1,Colorado Rapids,Austin,Y,CM,87,0,0,0,0,2,0,0,0,57,1,0,1,0.1,0.1,0.0,2,0,38,49,77.6,6,28,3,3,1,Match Report
+26,Sat,MLS,Regular Season,Home,D 0–0,Colorado Rapids,Los Angeles FC,Y,CM,85,0,0,0,0,3,1,0,0,68,1,1,0,0.1,0.1,0.3,5,0,55,62,88.7,9,29,1,1,1,Match Report
+27,Sat,MLS,Regular Season,Away,W 1–0,Colorado Rapids,Sporting KC,Y,CM,90,0,0,0,0,0,0,0,0,50,1,2,0,0.0,0.0,0.1,3,0,30,40,75.0,3,25,0,3,1,Match Report
+28,Sat,MLS,Regular Season,Away,D 2–2,Colorado Rapids,Charlotte,Y,CM,90,0,0,0,0,0,0,0,0,51,1,0,1,0.0,0.0,0.1,3,0,40,48,83.3,4,30,2,1,1,Match Report
+29,Sat,MLS,Regular Season,Home,D 1–1,Colorado Rapids,St. Louis,Y,CM,90,0,0,0,0,0,0,0,0,81,0,2,0,0.0,0.0,0.4,3,0,59,78,75.6,10,38,1,3,2,Match Report
+30,Sat,MLS,Regular Season,Away,D 0–0,Colorado Rapids,Vancouver,Y,CM,90,0,0,0,0,0,0,0,0,64,1,1,1,0.0,0.0,0.0,1,0,55,60,91.7,9,22,0,2,0,Match Report
+31,Sat,MLS,Regular Season,Away,W 3–1,Colorado Rapids,LA Galaxy,Y,CM,85,0,2,0,0,2,1,0,0,63,1,2,0,0.0,0.0,0.3,5,3,45,57,78.9,8,30,1,1,0,Match Report
+32,Sat,MLS,Regular Season,Home,L 1–2,Colorado Rapids,Philadelphia,Y,CM,90,1,0,1,1,2,0,0,0,84,2,1,0,0.9,0.1,0.0,3,0,51,74,68.9,9,35,3,2,2,Match Report
+33,Wed,MLS,Regular Season,Away,L 0–4,Colorado Rapids,Atlanta Utd,Y,"DM,CM",90,0,0,0,0,2,0,0,0,45,1,0,0,0.1,0.1,0.1,2,0,32,39,82.1,4,29,0,1,0,Match Report
+34,Sat,MLS,Regular Season,Home,L 2–3,Colorado Rapids,Real Salt Lake,Y,"CM,DM",90,0,1,0,0,0,0,0,0,91,0,0,2,0.0,0.0,0.2,4,2,70,88,79.5,10,62,0,0,0,Match Report
+35,Sat,MLS,Regular Season,Home,L 0–1,Colorado Rapids,FC Cincinnati,Y,CM,90,0,0,0,0,2,0,0,0,80,1,0,0,0.0,0.0,0.0,5,0,60,73,82.2,7,53,3,3,2,Match Report
+36,Wed,MLS,Regular Season,Away,L 2–3,Colorado Rapids,Columbus Crew,Y,CM,59,0,0,0,0,1,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,23,25,92.0,4,11,1,1,1,Match Report
+37,Sat,MLS,Regular Season,Home,D 0–0,Colorado Rapids,San Jose,Y,CM,78,0,0,0,1,0,0,0,0,68,1,0,0,0.8,0.0,0.2,6,0,52,64,81.3,3,39,2,3,2,Match Report
+38,Sat,MLS,Regular Season,Away,L 0–2,Colorado Rapids,Orlando City,Y,"DM,CM",79,0,0,0,0,0,0,0,0,56,5,0,2,0.0,0.0,0.0,1,0,37,48,77.1,2,34,1,0,0,Match Report
+39,Sat,MLS,Regular Season,Home,D 0–0,Colorado Rapids,LA Galaxy,Y,DM,90,0,0,0,0,1,0,0,0,92,0,0,1,0.0,0.0,0.4,3,0,70,84,83.3,12,68,2,2,0,Match Report
+40,,,,,6-9-11,,,25/26,,"2,096",2,3,1,2,18,4,0,0,1260,22,12,10,2.1,0.5,2.9,59,5,926,1140,81.2,126,694,30,31,17,

@@ -1,0 +1,46 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 2,Away,L 1–2,Everton,Aston Villa,N,FW,27,0,0,0,0,1,1,0,0,8,0,0,0,0.5,0.5,0.1,2,0,5,7,71.4,1,3,0,0,0,Match Report
+1,Sat,Premier League,Matchweek 3,Home,D 1–1,Everton,Nott'ham Forest,Y,FW,56,0,0,0,0,2,0,0,0,11,0,0,0,0.2,0.2,0.1,2,0,9,9,100.0,0,5,0,0,0,Match Report
+2,Tue,EFL Cup,Second round,Away,W 1–0,Everton,Fleetwood Town,Y,FW,90,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+3,Sat,Premier League,Matchweek 4,Away,D 1–1,Everton,Brentford,N,FW,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,1,0,0,0,Match Report
+4,Tue,Premier League,Matchweek 5,Away,D 1–1,Everton,Leeds United,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Sat,Premier League,Matchweek 6,Home,D 0–0,Everton,Liverpool,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Sun,Premier League,Matchweek 8,Home,W 1–0,Everton,West Ham,N,FW,2,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,1,1,Match Report
+7,Thu,Friendlies (M),Friendlies (M),Neutral,L 0–1,ve Venezuela,is Iceland,Y*,FW,75,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+8,Tue,Friendlies (M),Friendlies (M),Neutral,W 4–0,ve Venezuela,ae UAE,Y,FW,45,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+9,Sat,Premier League,Matchweek 9,Away,W 2–1,Everton,Southampton,N,FW,2,0,0,0,0,1,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0,Match Report
+10,Sun,Premier League,Matchweek 10,Home,L 1–2,Everton,Manchester Utd,N,FW,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+11,Sat,Premier League,Matchweek 11,Away,L 0–2,Everton,Tottenham,N,FW,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,Match Report
+12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Sat,Premier League,Matchweek 13,Home,W 3–0,Everton,Crystal Palace,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Tue,Friendlies (M),Friendlies (M),Neutral,D 2–2,ve Venezuela,pa Panama,Y,FW,90,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+15,Sat,Primera Div,Matchweek 2,Away,L 1–2,River Plate,Club Atlético Belgrano,N,FW,24,0,0,0,0,2,1,0,0,5,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+16,Sun,Primera Div,Matchweek 3,Home,W 2–1,River Plate,Argentinos Jun,N,FW,34,0,0,0,0,1,0,0,0,15,0,0,1,0.1,0.1,0.0,0,0,6,11,54.5,2,6,0,0,0,Match Report
+17,Sat,Primera Div,Matchweek 4,Away,W 1–0,River Plate,Tigre,N,FW,31,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,8,11,72.7,1,9,0,2,0,Match Report
+18,Sun,Primera Div,Matchweek 5,Home,L 1–2,River Plate,Arsenal,Y,FW,90,0,0,0,0,2,1,0,0,42,0,0,0,0.1,0.1,0.4,5,0,16,27,59.3,3,25,3,2,1,Match Report
+19,Sat,Primera Div,Matchweek 6,Away,W 2–0,River Plate,Lanús,Y,FW,66,0,0,0,0,0,0,0,0,18,2,0,1,0.0,0.0,0.0,0,0,4,8,50.0,1,5,0,0,0,Match Report
+20,Sun,Primera Div,Matchweek 7,Home,W 3–0,River Plate,Godoy Cruz,N,AM,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,2,0,0,0,Match Report
+21,Sun,Primera Div,Matchweek 8,Away,W 2–0,River Plate,Sarmiento,N,FW,21,0,0,0,0,2,0,0,0,22,0,0,0,0.3,0.3,0.1,2,1,15,15,100.0,1,15,0,0,0,Match Report
+22,Fri,Friendlies (M),Friendlies (M),Away,W 2–1,ve Venezuela,sa Saudi Arabia,Y,FW,90,1,1,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+23,Tue,Friendlies (M),Friendlies (M),Neutral,D 1–1,ve Venezuela,uz Uzbekistan,Y*,FW,64,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+24,Fri,Primera Div,Matchweek 9,Home,W 1–0,River Plate,CA Unión,N,AM,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Match Report
+25,Tue,Libertadores,Group stage,Away,L 1–3,ar River Plate,bo The Strongest,N,FW,10,0,0,0,0,1,0,0,0,2,0,0,0,0.5,0.5,0.0,0,0,1,1,100.0,1,2,0,0,0,Match Report
+26,Sun,Primera Div,Matchweek 10,Away,W 3–0,River Plate,CA Huracán,Y,FW,61,2,0,1,1,4,2,1,0,26,2,0,1,1.2,0.4,0.0,4,3,12,18,66.7,2,15,0,2,1,Match Report
+27,Thu,Primera Div,Matchweek 11,Home,W 3–0,River Plate,Gimnasia ELP,Y,FW,84,0,0,0,0,5,2,0,0,39,1,0,3,0.7,0.7,0.0,0,0,14,22,63.6,1,14,0,3,0,Match Report
+28,Sun,Primera Div,Matchweek 12,Away,W 1–0,River Plate,Newell's OB,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,Wed,Libertadores,Group stage,Home,W 4–2,ar River Plate,pe Sporting Cristal,Y,FW,45,0,0,0,0,3,0,0,0,17,0,0,1,0.1,0.1,0.0,0,0,6,8,75.0,0,8,0,1,1,Match Report
+30,Sun,Primera Div,Matchweek 13,Home,W 2–0,River Plate,Independiente,N,FW,23,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,7,0,1,0,Match Report
+31,Fri,Primera Div,Matchweek 14,Away,D 1–1,River Plate,Tucumán,Y,FW,70,0,0,0,0,1,0,0,0,30,1,0,1,0.0,0.0,0.0,2,0,15,22,68.2,0,18,1,2,1,Match Report
+32,Tue,Libertadores,Group stage,Away,L 1–5,ar River Plate,br Fluminense,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,Sun,Primera Div,Matchweek 15,Home,W 1–0,River Plate,Boca Juniors,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Sun,Primera Div,Matchweek 16,Away,L 1–2,River Plate,Talleres,Y,FW,69,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.0,1,0,8,10,80.0,0,6,0,1,0,Match Report
+35,Sun,Primera Div,Matchweek 17,Home,W 2–1,River Plate,Platense,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,Thu,Libertadores,Group stage,Away,D 1–1,ar River Plate,pe Sporting Cristal,N,,,0,0,0,0,0,0,0,1,,,0,,,,,,,,,,,,,,,Match Report
+37,Mon,Primera Div,Matchweek 18,Away,D 2–2,River Plate,Vélez Sarsf,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,Mon,Primera Div,Matchweek 20,Away,W 4–1,River Plate,Banfield,N,FW,18,1,0,0,0,2,2,0,0,12,0,0,0,0.9,0.9,0.0,1,0,4,6,66.7,0,8,2,1,1,Match Report
+40,Thu,Friendlies (M),Friendlies (M),Neutral,W 1–0,ve Venezuela,hn Honduras,Y*,FW,85,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+41,Sat,Primera Div,Matchweek 19,Home,W 1–0,River Plate,Defensa y Just,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,Sun,Friendlies (M),Friendlies (M),Neutral,W 1–0,ve Venezuela,gt Guatemala,Y,FW,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+43,Thu,Primera Div,Matchweek 21,Home,W 3–1,River Plate,Instituto Atlético Central Córdoba,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,,,,,18-6-8,,,16/32,,"1,355",6,2,2,2,31,9,2,1,306,6,0,9,5.0,4.3,0.7,21,4,137,196,69.9,14,158,6,16,6,

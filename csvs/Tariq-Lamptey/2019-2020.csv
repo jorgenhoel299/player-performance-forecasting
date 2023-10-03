@@ -1,0 +1,29 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Mon,PL2 — Div. 1,Matchweek 1,Away,W 1–0,Chelsea,Derby County,Y,RB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+1,Mon,PL2 — Div. 1,Matchweek 2,Home,W 3–0,Chelsea,Liverpool,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+2,Fri,PL2 — Div. 1,Matchweek 3,Away,D 2–2,Chelsea,Manchester City,Y,RB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+3,Fri,PL2 — Div. 1,Matchweek 4,Home,D 2–2,Chelsea,Tottenham,Y,RB,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+4,Fri,PL2 — Div. 1,Matchweek 5,Home,W 2–1,Chelsea,Brighton,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Sat,PL2 — Div. 1,Matchweek 7,Away,D 2–2,Chelsea,Leicester City,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+7,Fri,PL2 — Div. 1,Matchweek 8,Home,W 3–1,Chelsea,Arsenal,Y,RB,75,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+8,Wed,EFL Cup,Fourth round,Home,L 1–2,Chelsea,Manchester Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Sat,PL2 — Div. 1,Matchweek 10,Home,W 2–1,Chelsea,Blackburn,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+10,Sat,PL2 — Div. 1,Matchweek 11,Away,D 1–1,Chelsea,Wolves,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Sat,PL2 — Div. 1,Matchweek 13,Away,D 1–1,Chelsea,Liverpool,Y,RB,78,0,0,0,0,,,2,1,,,,,,,,,,,,,,,,,,Match Report
+13,Sun,Premier League,Matchweek 20,Away,W 2–1,Chelsea,Arsenal,N,RB,32,0,0,0,0,0,0,0,0,18,2,0,0,0.0,0.0,0.1,2,0,11,14,78.6,2,7,1,1,0,Match Report
+14,Wed,Premier League,Matchweek 21,Away,D 1–1,Chelsea,Brighton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Sun,FA Cup,Third round,Home,W 2–0,Chelsea,Nott'ham Forest,N,,15,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+16,Sat,PL2 — Div. 1,Matchweek 15,Home,W 2–1,Chelsea,Manchester City,Y,RB,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+17,Sat,FA Cup,Fourth round,Away,W 2–1,Chelsea,Hull City,N,,1,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+18,Sat,Premier League,Matchweek 30,Home,W 2–1,Brighton,Arsenal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Tue,Premier League,Matchweek 31,Away,D 0–0,Brighton,Leicester City,Y,RB,90,0,0,0,0,0,0,0,0,50,3,0,1,0.0,0.0,0.0,0,0,25,35,71.4,3,16,2,6,5,Match Report
+20,Tue,Premier League,Matchweek 32,Home,L 0–3,Brighton,Manchester Utd,Y,RM,45,0,0,0,0,0,0,0,0,16,0,0,2,0.0,0.0,0.0,1,0,6,10,60.0,1,10,3,0,0,Match Report
+21,Sat,Premier League,Matchweek 33,Away,W 1–0,Brighton,Norwich City,Y,RB,89,0,0,0,0,0,0,1,0,57,0,5,1,0.0,0.0,0.1,2,0,35,45,77.8,2,31,1,4,2,Match Report
+22,Wed,Premier League,Matchweek 34,Home,L 1–3,Brighton,Liverpool,Y,RB,90,0,1,0,0,1,0,1,0,52,0,4,0,0.0,0.0,0.3,1,1,33,42,78.6,1,36,3,4,3,Match Report
+23,Sat,Premier League,Matchweek 35,Home,L 0–5,Brighton,Manchester City,N,RB,32,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.0,0,0,5,8,62.5,0,7,1,1,0,Match Report
+24,Thu,Premier League,Matchweek 36,Away,D 1–1,Brighton,Southampton,Y,WB,67,0,0,0,0,0,0,0,0,32,2,1,0,0.0,0.0,0.0,1,1,16,24,66.7,4,8,0,2,2,Match Report
+25,Mon,Premier League,Matchweek 37,Home,D 0–0,Brighton,Newcastle Utd,Y,RB,85,0,0,0,0,0,0,0,0,52,0,3,1,0.0,0.0,0.0,2,0,34,40,85.0,1,27,2,0,0,Match Report
+26,Sun,Premier League,Matchweek 38,Away,W 2–1,Brighton,Burnley,Y,WB,90,0,0,0,0,1,0,0,0,49,1,3,0,0.0,0.0,0.6,6,0,23,31,74.2,3,36,5,5,3,Match Report
+27,,,,,11-8-3,,,18/22,,"1,599",1,2,0,0,2,0,6,1,340,9,16,6,0.1,0.1,1.1,15,2,188,249,75.5,17,178,18,23,15,

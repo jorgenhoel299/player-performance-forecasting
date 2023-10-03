@@ -1,0 +1,43 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 2,Home,W 2–0,Brighton,Watford,N,FW,45,0,0,0,0,1,0,0,0,8,0,0,1,0.3,0.3,0.0,1,0,1,2,50.0,0,5,2,0,0,Match Report
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Sat,Premier League,Matchweek 3,Home,L 0–2,Brighton,Everton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Wed,WCQ,First round,Away,L 1–2,ie Rep. of Ireland,pt Portugal,Y,FW,71,0,0,0,0,4,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+4,Sat,WCQ,First round,Home,D 1–1,ie Rep. of Ireland,az Azerbaijan,Y,LM,45,0,0,0,0,3,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+5,Sun,Premier League,Matchweek 5,Home,W 2–1,Brighton,Leicester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Wed,EFL Cup,Third round,Home,W 2–0,Brighton,Swansea City,Y,LM,75,2,0,0,0,3,2,0,0,,,0,,,,,,,,,,,,,,,Match Report
+7,Mon,Premier League,Matchweek 6,Away,D 1–1,Brighton,Crystal Palace,N,LM,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,1,0,Match Report
+8,Sat,Premier League,Matchweek 7,Home,D 0–0,Brighton,Arsenal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Sat,WCQ,First round,Away,W 3–0,ie Rep. of Ireland,az Azerbaijan,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,Tue,Friendlies (M),Friendlies (M),Home,W 4–0,ie Rep. of Ireland,qa Qatar,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Sat,Premier League,Matchweek 8,Away,D 0–0,Brighton,Norwich City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Sat,Premier League,Matchweek 9,Home,L 1–4,Brighton,Manchester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Wed,EFL Cup,Fourth round,Away,D 2 (2)–2 (4),Brighton,Leicester City,Y,FW,90,0,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Sat,Premier League,Matchweek 15,Away,D 1–1,Brighton,Southampton,N,FW,36,0,0,0,0,1,0,0,0,8,0,0,1,0.0,0.0,0.1,1,0,5,6,83.3,1,6,0,0,0,Match Report
+16,Wed,Premier League,Matchweek 17,Home,L 0–1,Brighton,Wolves,Y,FW,60,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,9,1,1,0,Match Report
+17,Sat,Championship,Matchweek 27,Home,W 2–1,Middlesbrough,Reading,Y,FW,66,0,0,0,0,3,1,0,0,14,1,0,1,0.5,0.5,0.0,0,0,5,5,100.0,1,10,1,1,0,Match Report
+18,Mon,Championship,Matchweek 28,Away,L 0–1,Middlesbrough,Blackburn,Y,FW,90,0,0,0,0,3,0,1,0,20,0,0,0,0.2,0.2,0.0,1,0,9,13,69.2,0,12,0,0,0,Match Report
+19,Sat,Championship,Matchweek 29,Home,W 1–0,Middlesbrough,Coventry City,Y,FW,55,0,0,0,0,3,1,0,0,14,1,0,0,0.3,0.3,0.0,0,0,5,7,71.4,2,9,1,0,0,Match Report
+20,Fri,FA Cup,Fourth round proper,Away,D 1 (8)–1 (7),Middlesbrough,Manchester Utd,N,,30,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+21,Wed,Championship,Matchweek 31,Away,D 2–2,Middlesbrough,QPR,N,FW,9,0,0,0,0,1,1,0,0,6,0,0,1,0.1,0.1,0.0,0,0,3,3,100.0,1,4,0,0,0,Match Report
+22,Sat,Championship,Matchweek 32,Home,W 4–1,Middlesbrough,Derby County,Y,FW,87,1,0,0,0,5,3,0,0,27,1,0,2,0.4,0.4,0.0,3,0,11,13,84.6,3,18,2,3,1,Match Report
+23,Sat,Championship,Matchweek 33,Away,L 1–2,Middlesbrough,Bristol City,Y,FW,90,0,0,0,0,8,3,0,0,27,0,0,0,1.1,1.1,0.1,5,0,10,14,71.4,3,18,4,3,3,Match Report
+24,Tue,Championship,Matchweek 34,Home,W 2–1,Middlesbrough,West Brom,Y,"FW,LW",82,0,0,0,0,3,0,0,0,19,0,0,1,0.3,0.3,0.0,2,0,9,11,81.8,1,12,0,1,1,Match Report
+25,Sat,Championship,Matchweek 35,Away,L 2–3,Middlesbrough,Barnsley,N,"AM,CM",45,0,0,0,0,1,0,0,0,13,0,0,1,0.1,0.1,0.1,2,0,4,7,57.1,1,8,0,0,0,Match Report
+26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Sat,Championship,Matchweek 36,Home,W 2–1,Middlesbrough,Luton Town,Y,FW,82,0,0,0,0,2,1,0,0,22,0,0,0,0.1,0.1,0.0,1,0,4,11,36.4,0,18,1,0,0,Match Report
+28,Tue,Championship,Matchweek 26,Away,L 1–4,Middlesbrough,Sheffield Utd,Y,FW,90,0,0,0,0,1,0,0,0,25,0,0,1,0.0,0.0,0.1,3,0,8,12,66.7,2,17,2,1,0,Match Report
+29,Sat,Championship,Matchweek 37,Away,D 0–0,Middlesbrough,Millwall,Y,FW,73,0,0,0,0,1,1,0,0,23,0,0,0,0.1,0.1,0.1,2,0,8,11,72.7,0,14,1,2,1,Match Report
+30,Tue,Championship,Matchweek 38,Away,W 2–0,Middlesbrough,Birmingham City,Y,FW,90,1,0,0,0,2,2,0,0,17,0,1,0,0.4,0.4,0.0,1,0,5,7,71.4,2,13,2,0,0,Match Report
+31,Sat,FA Cup,Quarter-finals,Home,L 0–2,Middlesbrough,Chelsea,Y,FW,57,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+32,Sat,Championship,Matchweek 40,Away,W 4–0,Middlesbrough,P'borough Utd,Y,FW,74,0,0,0,0,3,1,0,0,25,0,0,1,0.1,0.1,0.0,1,0,9,14,64.3,1,19,1,4,2,Match Report
+33,Wed,Championship,Matchweek 30,Home,L 0–1,Middlesbrough,Fulham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Sat,Championship,Matchweek 41,Home,L 0–1,Middlesbrough,Hull City,Y,FW,90,0,0,0,0,2,1,1,0,24,0,0,0,0.1,0.1,0.2,2,0,12,14,85.7,1,19,2,2,1,Match Report
+35,Fri,Championship,Matchweek 42,Away,D 0–0,Middlesbrough,Bournemouth,Y,FW,81,0,0,0,0,0,0,0,0,15,0,1,1,0.0,0.0,0.0,0,0,6,7,85.7,1,8,1,0,0,Match Report
+36,Mon,Championship,Matchweek 43,Home,L 0–2,Middlesbrough,Huddersfield,N,CM,13,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Match Report
+37,Sat,Championship,Matchweek 44,Away,D 1–1,Middlesbrough,Swansea City,N,FW,26,0,0,0,0,1,0,0,0,3,0,0,0,0.3,0.3,0.0,0,0,1,2,50.0,0,3,0,0,0,Match Report
+38,Wed,Championship,Matchweek 39,Home,W 2–0,Middlesbrough,Cardiff City,N,FW,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,3,1,0,0,Match Report
+39,Sat,Championship,Matchweek 45,Home,W 3–1,Middlesbrough,Stoke City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,Sat,Championship,Matchweek 46,Away,L 1–4,Middlesbrough,Preston,N,CB,25,0,0,0,0,1,1,0,0,3,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,2,0,0,0,Match Report
+41,,,,,10-9-10,,,19/29,,"1,707",4,0,0,0,56,21,3,0,337,3,2,11,4.8,4.8,0.7,25,0,125,176,71.0,20,231,22,19,9,

@@ -1,0 +1,36 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Mon,Premier League,Matchweek 1,Away,W 3–1,Chelsea,Brighton,N,FW,30,0,0,0,0,1,1,0,0,27,0,0,0,0.0,0.0,0.1,2,0,20,23,87.0,2,14,2,0,0,Match Report
+1,Sun,Premier League,Matchweek 2,Home,L 0–2,Chelsea,Liverpool,N,CM,12,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,1,1,Match Report
+2,Wed,EFL Cup,Third round,Home,W 6–0,Chelsea,Barnsley,Y,DM,90,1,0,0,0,3,1,0,0,,,1,,,,,,,,,,,,,,,Match Report
+3,Sat,Premier League,Matchweek 3,Away,D 3–3,Chelsea,West Brom,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Tue,EFL Cup,Fourth round,Away,D 1 (4)–1 (5),Chelsea,Tottenham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Sun,Premier League,Matchweek 4,Home,W 7–2,Aston Villa,Liverpool,Y,AM,90,1,0,0,0,6,2,0,0,46,0,0,2,0.6,0.6,0.0,4,3,26,34,76.5,1,20,4,4,3,Match Report
+6,Sun,Premier League,Matchweek 5,Away,W 1–0,Aston Villa,Leicester City,Y,AM,90,1,0,0,0,2,1,0,0,54,1,3,1,0.2,0.2,0.1,2,0,38,41,92.7,4,30,2,2,1,Match Report
+7,Fri,Premier League,Matchweek 6,Home,L 0–3,Aston Villa,Leeds United,Y,AM,90,0,0,0,0,3,1,0,0,50,1,0,4,0.1,0.1,0.4,6,0,28,39,71.8,7,24,1,2,2,Match Report
+8,Sun,Premier League,Matchweek 7,Home,L 3–4,Aston Villa,Southampton,Y,AM,90,0,0,0,0,2,0,0,0,55,0,0,0,0.1,0.1,0.2,8,0,37,47,78.7,4,19,1,3,2,Match Report
+9,Sun,Premier League,Matchweek 8,Away,W 3–0,Aston Villa,Arsenal,Y,AM,90,0,1,0,0,4,1,0,0,65,0,0,0,0.2,0.2,1.0,8,1,39,51,76.5,9,35,2,3,3,Match Report
+10,Sat,Premier League,Matchweek 9,Home,L 1–2,Aston Villa,Brighton,Y,AM,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Match Report
+11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Wed,Premier League,Matchweek 1,Away,L 0–2,Aston Villa,Manchester City,Y,AM,67,0,0,0,0,3,1,0,0,22,0,0,0,0.2,0.2,0.0,2,0,10,15,66.7,1,15,3,3,0,Match Report
+13,Sat,Premier League,Matchweek 11,Home,W 2–0,Aston Villa,Newcastle Utd,Y,AM,79,0,0,0,0,2,0,0,0,54,0,0,0,0.5,0.5,0.2,4,0,44,49,89.8,5,37,4,1,1,Match Report
+14,Wed,Premier League,Matchweek 20,Away,L 2–3,Aston Villa,Burnley,Y,AM,82,0,0,0,0,1,0,0,0,49,0,1,0,0.3,0.3,0.2,4,0,39,43,90.7,2,24,2,1,0,Match Report
+15,Sat,Premier League,Matchweek 21,Away,W 1–0,Aston Villa,Southampton,Y,AM,89,1,0,0,0,2,1,0,0,36,0,0,0,0.3,0.3,0.1,3,0,24,29,82.8,3,17,2,0,0,Match Report
+16,Wed,Premier League,Matchweek 22,Home,L 1–3,Aston Villa,West Ham,Y,AM,68,0,0,0,0,1,0,0,0,50,0,0,0,0.1,0.1,0.0,2,0,38,46,82.6,7,32,5,3,2,Match Report
+17,Sat,Premier League,Matchweek 23,Home,W 1–0,Aston Villa,Arsenal,Y,AM,77,0,0,0,0,3,1,0,0,36,0,0,0,0.2,0.2,0.6,6,0,22,31,71.0,1,22,1,5,4,Match Report
+18,Sat,Premier League,Matchweek 24,Away,D 0–0,Aston Villa,Brighton,Y,AM,75,0,0,0,0,2,1,0,0,32,0,0,0,0.1,0.1,0.1,2,0,19,26,73.1,0,27,0,1,1,Match Report
+19,Sun,Premier League,Matchweek 25,Home,L 1–2,Aston Villa,Leicester City,Y,AM,75,0,0,0,0,0,0,0,0,55,1,0,0,0.0,0.0,0.0,1,0,42,53,79.2,3,21,1,0,0,Match Report
+20,Sat,Premier League,Matchweek 26,Away,W 1–0,Aston Villa,Leeds United,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Wed,Premier League,Matchweek 29,Away,L 0–1,Aston Villa,Sheffield Utd,N,CM,23,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.1,1,0,20,22,90.9,8,17,0,1,1,Match Report
+22,Sat,Premier League,Matchweek 27,Home,D 0–0,Aston Villa,Wolves,N,"LM,AM",30,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,10,13,76.9,2,5,0,1,1,Match Report
+23,Fri,Premier League,Matchweek 28,Away,D 1–1,Aston Villa,Newcastle Utd,N,RM,23,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.3,3,0,16,19,84.2,2,13,2,1,1,Match Report
+24,Sun,Premier League,Matchweek 18,Home,L 0–2,Aston Villa,Tottenham,N,RW,25,0,0,0,0,1,0,0,0,16,0,0,1,0.1,0.1,0.0,1,0,8,12,66.7,4,9,1,1,0,Match Report
+25,Sun,Premier League,Matchweek 30,Home,W 3–1,Aston Villa,Fulham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Sat,Premier League,Matchweek 31,Away,L 1–2,Aston Villa,Liverpool,N,"CM,AM",25,0,0,0,0,1,1,0,0,13,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,9,1,0,0,Match Report
+27,Wed,Premier League,Matchweek 32,Home,L 1–2,Aston Villa,Manchester City,N,LM,28,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.1,2,0,16,19,84.2,2,15,0,0,0,Match Report
+28,Sun,Premier League,Matchweek 33,Home,D 2–2,Aston Villa,West Brom,Y,AM,81,0,0,0,0,2,1,0,0,59,1,0,0,0.1,0.1,0.2,8,1,42,49,85.7,9,35,3,2,2,Match Report
+29,Sat,Premier League,Matchweek 34,Away,W 2–1,Aston Villa,Everton,Y,AM,90,0,0,0,0,2,0,0,0,79,1,0,1,0.1,0.1,0.5,3,0,56,66,84.8,10,37,2,6,4,Match Report
+30,Sun,Premier League,Matchweek 35,Home,L 1–3,Aston Villa,Manchester Utd,Y,AM,76,0,0,0,0,1,0,0,0,46,1,1,0,0.0,0.0,0.1,3,0,26,38,68.4,2,22,2,1,1,Match Report
+31,Thu,Premier League,Matchweek 19,Home,D 0–0,Aston Villa,Everton,Y,AM,64,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,2,0,33,42,78.6,1,22,1,2,0,Match Report
+32,Sun,Premier League,Matchweek 36,Away,L 2–3,Aston Villa,Crystal Palace,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,Wed,Premier League,Matchweek 37,Away,W 2–1,Aston Villa,Tottenham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,,,,,9-5-13,,,19/27,,"1,663",4,1,0,0,42,13,0,0,977,6,6,9,3.2,3.2,4.3,78,5,663,822,80.7,90,525,42,44,30,

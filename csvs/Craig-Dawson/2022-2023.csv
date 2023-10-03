@@ -1,0 +1,37 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Thu,Conf Lg,Group stage,Home,W 3–1,eng West Ham,ro FCSB,N,CB,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Match Report
+1,Thu,Conf Lg,Group stage,Away,W 3–2,eng West Ham,dk Silkeborg,Y,CB,90,1,0,0,0,1,1,0,0,83,3,0,2,0.3,0.3,0.0,0,0,74,77,96.1,3,32,0,0,0,Match Report
+2,Sun,Premier League,Matchweek 8,Away,L 0–1,West Ham,Everton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Sat,Premier League,Matchweek 9,Home,W 2–0,West Ham,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.0,1,0,23,24,95.8,0,14,0,0,0,Match Report
+4,Thu,Conf Lg,Group stage,Away,W 1–0,eng West Ham,be Anderlecht,Y,CB,90,0,0,0,0,1,0,0,0,75,2,1,0,0.2,0.2,0.0,0,0,62,67,92.5,0,47,0,0,0,Match Report
+5,Sun,Premier League,Matchweek 10,Home,W 3–1,West Ham,Fulham,Y,CB,90,0,0,0,0,0,0,0,0,53,3,0,0,0.0,0.0,0.0,2,1,40,47,85.1,4,37,0,0,0,Match Report
+6,Thu,Conf Lg,Group stage,Home,W 2–1,eng West Ham,be Anderlecht,N,CB,53,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,28,30,93.3,1,22,0,0,0,Match Report
+7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Sun,Premier League,Matchweek 14,Away,L 0–1,West Ham,Manchester Utd,Y,CB,90,0,0,0,0,1,0,0,0,49,0,0,2,0.1,0.1,0.1,1,0,26,35,74.3,2,25,0,0,0,Match Report
+9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,Sun,Premier League,Matchweek 15,Home,L 1–2,West Ham,Crystal Palace,Y,CB,90,0,0,0,0,1,0,1,0,56,3,2,2,0.0,0.0,0.0,0,0,31,43,72.1,1,31,0,0,0,Match Report
+11,Wed,EFL Cup,Third round,Home,D 2 (9)–2 (10),West Ham,Blackburn,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Sat,Premier League,Matchweek 16,Home,L 0–2,West Ham,Leicester City,Y,CB,90,0,0,0,0,0,0,1,0,58,0,1,0,0.0,0.0,0.0,2,0,40,54,74.1,3,37,0,0,0,Match Report
+13,Mon,Premier League,Matchweek 17,Away,L 1–3,West Ham,Arsenal,Y,CB,90,0,0,0,0,0,0,0,0,45,0,1,3,0.0,0.0,0.0,1,0,32,35,91.4,3,14,0,0,0,Match Report
+14,Fri,Premier League,Matchweek 18,Home,L 0–2,West Ham,Brentford,Y,CB,90,0,0,0,0,4,1,0,0,64,2,1,0,0.4,0.4,0.0,4,0,39,50,78.0,4,24,0,1,0,Match Report
+15,Wed,Premier League,Matchweek 19,Away,D 2–2,West Ham,Leeds United,Y,CB,90,0,0,0,0,0,0,0,0,27,1,1,1,0.0,0.0,0.0,1,0,14,22,63.6,1,11,0,0,0,Match Report
+16,Sat,FA Cup,Third round proper,Away,W 1–0,West Ham,Brentford,Y,CB,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+17,Sat,Premier League,Matchweek 22,Home,W 3–0,Wolves,Liverpool,Y,CB,90,1,0,0,0,2,1,1,0,59,1,0,2,0.3,0.3,0.0,2,0,41,46,89.1,0,29,0,0,0,Match Report
+18,Sat,Premier League,Matchweek 23,Away,W 2–1,Wolves,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,75,1,0,2,0.0,0.0,0.0,1,0,55,63,87.3,2,38,0,0,0,Match Report
+19,Sat,Premier League,Matchweek 24,Home,L 0–1,Wolves,Bournemouth,Y,CB,90,0,0,0,0,2,1,0,0,108,1,0,1,0.1,0.1,0.0,1,0,85,99,85.9,5,76,0,0,0,Match Report
+20,Fri,Premier League,Matchweek 25,Away,D 1–1,Wolves,Fulham,Y,CB,90,0,0,0,0,1,0,0,0,74,1,2,2,0.1,0.1,0.0,0,0,50,67,74.6,0,35,0,0,0,Match Report
+21,Wed,Premier League,Matchweek 7,Away,L 0–2,Wolves,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,58,1,1,1,0.0,0.0,0.0,0,0,39,47,83.0,2,35,1,1,1,Match Report
+22,Sat,Premier League,Matchweek 26,Home,W 1–0,Wolves,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,52,0,0,2,0.0,0.0,0.0,1,0,39,42,92.9,0,32,0,0,0,Match Report
+23,Sun,Premier League,Matchweek 27,Away,L 1–2,Wolves,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,0,0,74,0,1,2,0.0,0.0,0.0,0,0,48,59,81.4,2,44,0,0,0,Match Report
+24,Sat,Premier League,Matchweek 28,Home,L 2–4,Wolves,Leeds United,Y,CB,45,0,0,0,0,1,0,1,0,53,1,0,1,0.2,0.2,0.0,0,0,37,45,82.2,5,31,0,0,0,Match Report
+25,Sat,Premier League,Matchweek 29,Away,D 1–1,Wolves,Nott'ham Forest,Y,CB,64,0,0,0,0,0,0,0,0,80,0,1,1,0.0,0.0,0.0,0,0,67,75,89.3,6,60,1,0,0,Match Report
+26,Sat,Premier League,Matchweek 30,Home,W 1–0,Wolves,Chelsea,Y,CB,90,0,0,0,0,1,0,0,0,41,0,0,4,0.1,0.1,0.0,0,0,25,31,80.6,1,24,0,0,0,Match Report
+27,Sat,Premier League,Matchweek 31,Home,W 2–0,Wolves,Brentford,Y,CB,90,0,0,0,0,0,0,0,0,67,2,0,2,0.0,0.0,0.0,0,0,51,60,85.0,3,42,1,1,1,Match Report
+28,Sat,Premier League,Matchweek 32,Away,L 1–2,Wolves,Leicester City,Y,CB,90,0,0,0,0,2,0,0,0,68,0,1,0,0.1,0.1,0.0,0,0,49,61,80.3,5,39,1,0,0,Match Report
+29,Tue,Premier League,Matchweek 33,Home,W 2–0,Wolves,Crystal Palace,Y,CB,90,0,0,0,0,1,0,0,0,55,0,0,3,0.1,0.1,0.0,0,0,37,47,78.7,6,28,0,0,0,Match Report
+30,Sat,Premier League,Matchweek 34,Away,L 0–6,Wolves,Brighton,Y,CB,45,0,0,0,0,0,0,0,0,33,1,1,1,0.0,0.0,0.0,0,0,25,27,92.6,0,20,0,0,0,Match Report
+31,Sat,Premier League,Matchweek 35,Home,W 1–0,Wolves,Aston Villa,Y,CB,90,0,0,0,0,0,0,0,0,45,0,1,2,0.0,0.0,0.0,1,0,29,36,80.6,1,32,0,1,1,Match Report
+32,Sat,Premier League,Matchweek 36,Away,L 0–2,Wolves,Manchester Utd,Y,CB,90,0,0,0,0,1,0,1,0,71,0,2,4,0.1,0.1,0.0,0,0,53,60,88.3,4,34,0,1,0,Match Report
+33,Sat,Premier League,Matchweek 37,Home,D 1–1,Wolves,Everton,Y,CB,90,0,0,0,0,0,0,1,0,71,0,2,1,0.0,0.0,0.0,0,0,50,61,82.0,2,29,1,0,0,Match Report
+34,Sun,Premier League,Matchweek 38,Away,L 0–5,Wolves,Arsenal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,,,,,14-4-12,,,28/30,,"2,458",2,0,0,0,19,4,7,0,1658,24,19,42,1.9,1.9,0.1,18,1,1192,1413,84.4,66,924,5,5,3,

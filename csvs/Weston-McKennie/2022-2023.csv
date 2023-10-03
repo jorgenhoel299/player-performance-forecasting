@@ -1,0 +1,50 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Mon,Serie A,Matchweek 1,Home,W 3–0,Juventus,Sassuolo,Y,"CM,LM,RW",75,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.0,2,0,21,25,84.0,5,16,3,0,0,Match Report
+1,Mon,Serie A,Matchweek 2,Away,D 0–0,Juventus,Sampdoria,Y,RM,60,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,12,16,75.0,1,14,1,2,2,Match Report
+2,Sat,Serie A,Matchweek 3,Home,D 1–1,Juventus,Roma,N,RM,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,7,3,1,1,Match Report
+3,Wed,Serie A,Matchweek 4,Home,W 2–0,Juventus,Spezia,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Sat,Serie A,Matchweek 5,Away,D 1–1,Juventus,Fiorentina,Y,"LM,RW,RM",90,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,0,0,17,19,89.5,1,5,2,2,2,Match Report
+5,Tue,Champions Lg,Group stage,Away,L 1–2,it Juventus,fr Paris S-G,N,CM,45,1,0,0,0,2,1,0,0,28,2,0,0,0.2,0.2,0.0,1,0,19,21,90.5,2,22,1,1,1,Match Report
+6,Sun,Serie A,Matchweek 6,Home,D 2–2,Juventus,Salernitana,Y,RM,84,0,0,0,0,1,0,0,0,43,0,2,2,0.1,0.1,0.0,1,0,27,32,84.4,3,17,1,0,0,Match Report
+7,Wed,Champions Lg,Group stage,Home,L 1–2,it Juventus,pt Benfica,Y,"CM,RM",90,0,0,0,0,0,0,0,0,40,2,2,2,0.0,0.0,0.0,0,0,20,30,66.7,2,12,1,0,0,Match Report
+8,Sun,Serie A,Matchweek 7,Away,L 0–1,Juventus,Monza,Y,"RM,CM",90,0,0,0,0,0,0,0,0,43,0,1,4,0.0,0.0,0.3,3,0,22,31,71.0,2,18,1,1,1,Match Report
+9,Fri,Friendlies (M),Friendlies (M),Neutral,L 0–2,us United States,jp Japan,Y,CM,66,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+10,Tue,Friendlies (M),Friendlies (M),Neutral,D 0–0,us United States,sa Saudi Arabia,Y,CM,75,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+11,Sun,Serie A,Matchweek 8,Home,W 3–0,Juventus,Bologna,Y,RM,59,0,1,0,0,2,1,0,0,36,2,0,1,0.2,0.2,0.1,1,1,20,27,74.1,1,15,1,0,0,Match Report
+12,Wed,Champions Lg,Group stage,Home,W 3–1,it Juventus,il Maccabi Haifa,Y,RM,90,0,0,0,0,0,0,0,0,52,1,0,3,0.0,0.0,0.0,1,0,35,45,77.8,2,28,2,1,0,Match Report
+13,Sat,Serie A,Matchweek 9,Away,L 0–2,Juventus,Milan,N,RM,45,0,0,0,0,1,0,0,0,29,2,0,1,0.1,0.1,0.0,1,0,20,22,90.9,3,16,0,0,0,Match Report
+14,Tue,Champions Lg,Group stage,Away,L 0–2,it Juventus,il Maccabi Haifa,Y,RM,45,0,0,0,0,0,0,1,0,24,1,1,2,0.0,0.0,0.0,1,0,11,19,57.9,3,9,0,1,0,Match Report
+15,Sat,Serie A,Matchweek 10,Away,W 1–0,Juventus,Torino,Y,CM,90,0,0,0,0,2,1,0,0,30,0,0,2,0.3,0.3,0.0,2,0,17,22,77.3,1,6,0,0,0,Match Report
+16,Fri,Serie A,Matchweek 11,Home,W 4–0,Juventus,Empoli,Y,CM,64,1,0,0,0,2,2,0,0,29,0,1,0,0.3,0.3,0.2,3,0,18,22,81.8,2,8,1,0,0,Match Report
+17,Tue,Champions Lg,Group stage,Away,L 3–4,it Juventus,pt Benfica,Y,"CM,WB",90,1,0,0,0,2,1,0,0,47,0,2,3,0.4,0.4,0.0,1,0,30,37,81.1,4,24,3,2,1,Match Report
+18,Sat,Serie A,Matchweek 12,Away,W 1–0,Juventus,Lecce,Y,CM,45,0,0,0,0,0,0,0,0,32,2,0,0,0.0,0.0,0.0,1,0,23,26,88.5,4,13,0,0,0,Match Report
+19,Mon,World Cup,Group stage,Neutral,D 1–1,us United States,wls Wales,Y,RM,65,0,0,0,0,0,0,1,0,42,0,0,2,0.0,0.0,0.0,0,0,26,36,72.2,1,16,2,0,0,Match Report
+20,Fri,World Cup,Group stage,Neutral,D 0–0,us United States,eng England,Y,RM,76,0,0,0,0,2,0,0,0,44,2,0,2,0.3,0.3,0.0,4,0,30,35,85.7,4,22,3,1,1,Match Report
+21,Tue,World Cup,Group stage,Neutral,W 1–0,us United States,ir IR Iran,Y,"LM,CM",64,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,2,1,29,38,76.3,9,28,3,1,0,Match Report
+22,Sat,World Cup,Round of 16,Neutral,L 1–3,us United States,nl Netherlands,Y,LM,66,0,0,0,0,3,1,0,0,52,0,0,0,0.1,0.1,0.3,6,0,32,44,72.7,5,31,2,0,0,Match Report
+23,Wed,Serie A,Matchweek 16,Away,W 1–0,Juventus,Cremonese,Y,"DM,CM",66,0,0,0,0,0,0,0,0,38,1,0,1,0.0,0.0,0.0,2,0,25,33,75.8,4,25,3,0,0,Match Report
+24,Sat,Serie A,Matchweek 17,Home,W 1–0,Juventus,Udinese,Y,"WB,DM",90,0,0,0,0,0,0,0,0,53,2,1,2,0.0,0.0,0.0,0,0,40,45,88.9,5,20,1,2,1,Match Report
+25,Fri,Serie A,Matchweek 18,Away,L 1–5,Juventus,Napoli,Y,"CM,RW",90,0,0,0,0,0,0,0,0,46,3,0,0,0.0,0.0,0.0,0,0,28,40,70.0,1,18,1,0,0,Match Report
+26,Thu,Coppa Italia,Round of 16,Home,W 2–1,Juventus,Monza,Y,RM,90,0,1,0,0,1,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+27,Sun,Serie A,Matchweek 19,Home,D 3–3,Juventus,Atalanta,Y,"WB,DM",90,0,0,0,0,0,0,0,0,66,1,5,2,0.0,0.0,0.0,2,0,41,51,80.4,6,33,1,1,0,Match Report
+28,Sun,Premier League,Matchweek 22,Away,L 0–1,Leeds United,Nott'ham Forest,N,DM,34,0,0,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.0,0,0,22,29,75.9,6,18,0,0,0,Match Report
+29,Wed,Premier League,Matchweek 8,Away,D 2–2,Leeds United,Manchester Utd,Y,DM,89,0,0,0,0,0,0,1,0,53,3,3,3,0.0,0.0,0.0,1,0,20,31,64.5,4,14,0,0,0,Match Report
+30,Sun,Premier League,Matchweek 23,Home,L 0–2,Leeds United,Manchester Utd,Y,DM,85,0,0,0,0,1,0,1,0,31,2,1,3,0.2,0.2,0.1,1,0,18,22,81.8,3,17,0,1,1,Match Report
+31,Sat,Premier League,Matchweek 24,Away,L 0–1,Leeds United,Everton,Y,DM,77,0,0,0,0,0,0,1,0,36,0,1,1,0.0,0.0,0.0,2,0,23,28,82.1,3,19,2,2,2,Match Report
+32,Sat,Premier League,Matchweek 25,Home,W 1–0,Leeds United,Southampton,Y,"DM,RM",90,0,0,0,0,1,0,0,0,80,3,0,2,0.1,0.1,0.1,4,0,62,70,88.6,11,50,2,1,0,Match Report
+33,Tue,FA Cup,Fifth round proper,Away,L 0–2,Leeds United,Fulham,Y,CM,90,0,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+34,Sat,Premier League,Matchweek 26,Away,L 0–1,Leeds United,Chelsea,Y,DM,90,0,0,0,0,1,0,0,0,72,1,0,1,0.0,0.0,0.0,0,0,54,65,83.1,8,50,2,2,2,Match Report
+35,Sat,Premier League,Matchweek 27,Home,D 2–2,Leeds United,Brighton,N,DM,25,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,0,0,6,10,60.0,1,6,0,0,0,Match Report
+36,Sat,Premier League,Matchweek 28,Away,W 4–2,Leeds United,Wolves,Y,"DM,CM",90,0,0,0,0,2,0,1,0,34,0,3,1,0.1,0.1,0.0,1,0,19,24,79.2,2,18,2,1,1,Match Report
+37,Sat,Premier League,Matchweek 29,Away,L 1–4,Leeds United,Arsenal,N,LM,26,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0,Match Report
+38,Tue,Premier League,Matchweek 7,Home,W 2–1,Leeds United,Nott'ham Forest,Y,DM,90,0,0,0,0,1,1,0,0,71,2,0,1,0.0,0.0,0.1,3,0,49,61,80.3,14,36,0,2,2,Match Report
+39,Sun,Premier League,Matchweek 30,Home,L 1–5,Leeds United,Crystal Palace,Y,DM,90,0,0,0,0,0,0,1,0,66,6,4,1,0.0,0.0,0.0,1,0,38,49,77.6,2,28,1,0,0,Match Report
+40,Mon,Premier League,Matchweek 31,Home,L 1–6,Leeds United,Liverpool,Y,"DM,RM",90,0,0,0,0,0,0,0,0,46,0,3,0,0.0,0.0,0.0,2,0,26,38,68.4,3,23,0,4,2,Match Report
+41,Sat,Premier League,Matchweek 32,Away,L 1–2,Leeds United,Fulham,Y,DM,79,0,0,0,0,0,0,1,0,32,3,3,2,0.0,0.0,0.0,0,0,12,21,57.1,2,15,0,0,0,Match Report
+42,Tue,Premier League,Matchweek 33,Home,D 1–1,Leeds United,Leicester City,Y,DM,90,0,0,0,0,2,0,0,0,48,2,0,2,0.1,0.1,0.1,3,1,24,36,66.7,5,20,0,1,1,Match Report
+43,Sun,Premier League,Matchweek 34,Away,L 1–4,Leeds United,Bournemouth,Y,CM,70,0,0,0,0,0,0,0,0,34,2,0,1,0.0,0.0,0.1,3,0,23,30,76.7,5,21,1,0,0,Match Report
+44,Sat,Premier League,Matchweek 35,Away,L 1–2,Leeds United,Manchester City,Y,"DM,CM",90,0,0,0,0,1,1,1,0,35,1,1,0,0.0,0.0,0.0,2,1,15,27,55.6,3,7,1,0,0,Match Report
+45,Sat,Premier League,Matchweek 36,Home,D 2–2,Leeds United,Newcastle Utd,Y,RM,90,0,0,0,0,1,0,0,0,40,2,2,1,0.1,0.1,0.0,1,0,16,25,64.0,4,19,2,1,0,Match Report
+46,Sun,Premier League,Matchweek 37,Away,L 1–3,Leeds United,West Ham,Y,"RM,AM",83,0,1,0,0,1,0,0,0,41,0,0,1,0.0,0.0,0.2,3,1,26,33,78.8,5,22,1,1,0,Match Report
+47,Sun,Premier League,Matchweek 38,Home,L 1–4,Leeds United,Tottenham,Y,RM,59,0,0,0,0,2,0,0,0,37,3,0,1,0.1,0.1,0.0,2,0,18,26,69.2,1,15,0,0,0,Match Report
+48,,,,,13-12-22,,,41/47,,"3,441",3,3,0,0,33,10,9,0,1703,52,40,51,2.7,2.7,1.8,63,5,1040,1351,77.0,153,823,50,32,21,

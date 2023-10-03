@@ -1,0 +1,49 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 3,Away,W 3–0,Arsenal,Bournemouth,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Sat,Premier League,Matchweek 4,Home,W 2–1,Arsenal,Fulham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Wed,Premier League,Matchweek 5,Home,W 2–1,Arsenal,Aston Villa,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Sun,Premier League,Matchweek 6,Away,L 1–3,Arsenal,Manchester Utd,N,"CM,AM",17,0,0,0,0,2,1,0,0,19,0,1,1,0.1,0.1,0.0,2,0,8,11,72.7,2,7,0,2,2,Match Report
+4,Thu,Europa Lg,Group stage,Away,W 2–1,eng Arsenal,ch Zürich,Y,RM,68,0,0,0,0,1,0,0,0,43,1,0,0,0.2,0.2,0.1,4,1,32,38,84.2,4,33,2,1,0,Match Report
+5,Sun,Premier League,Matchweek 8,Away,W 3–0,Arsenal,Brentford,Y,RM,89,1,0,0,0,1,1,0,0,51,1,0,0,0.0,0.0,0.1,2,1,35,45,77.8,3,36,0,3,1,Match Report
+6,Sat,Premier League,Matchweek 9,Home,W 3–1,Arsenal,Tottenham,N,RW,11,0,0,0,0,1,0,0,0,13,0,1,0,0.1,0.1,0.0,1,0,8,9,88.9,1,9,1,0,0,Match Report
+7,Thu,Europa Lg,Group stage,Home,W 3–0,eng Arsenal,no Bodø/Glimt,Y,RM,90,1,1,0,0,5,2,0,0,36,0,0,1,1.2,1.2,0.4,5,2,18,21,85.7,2,17,1,2,0,Match Report
+8,Sun,Premier League,Matchweek 10,Home,W 3–2,Arsenal,Liverpool,N,RM,1,0,0,0,0,0,0,0,0,3,2,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Match Report
+9,Thu,Europa Lg,Group stage,Away,W 1–0,eng Arsenal,no Bodø/Glimt,Y,"LM,AM,RW",90,0,0,0,0,0,0,0,0,48,1,1,1,0.0,0.0,0.0,1,0,40,42,95.2,4,33,3,2,0,Match Report
+10,Sun,Premier League,Matchweek 11,Away,W 1–0,Arsenal,Leeds United,N,AM,18,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,5,6,83.3,1,3,0,1,0,Match Report
+11,Thu,Europa Lg,Group stage,Home,W 1–0,eng Arsenal,nl PSV Eindhoven,Y,RM,66,0,0,0,0,1,0,0,0,35,0,0,0,0.0,0.0,0.0,3,0,26,33,78.8,4,19,1,0,0,Match Report
+12,Sun,Premier League,Matchweek 13,Away,D 1–1,Arsenal,Southampton,N,RM,8,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,8,0,2,0,Match Report
+13,Thu,Europa Lg,Group stage,Away,L 0–2,eng Arsenal,nl PSV Eindhoven,Y,"RW,AM,RM",90,0,0,0,0,1,0,0,0,53,0,1,0,0.0,0.0,0.1,3,0,41,49,83.7,10,38,0,1,1,Match Report
+14,Sun,Premier League,Matchweek 14,Home,W 5–0,Arsenal,Nott'ham Forest,N,"LM,RW",28,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,11,14,78.6,0,8,0,0,0,Match Report
+15,Thu,Europa Lg,Group stage,Home,W 1–0,eng Arsenal,ch Zürich,Y,RM,72,0,0,0,0,4,0,0,0,43,0,1,1,0.6,0.6,0.2,8,1,22,29,75.9,1,20,2,1,0,Match Report
+16,Sun,Premier League,Matchweek 15,Away,W 1–0,Arsenal,Chelsea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Wed,EFL Cup,Third round,Home,L 1–3,Arsenal,Brighton,Y,AM,71,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+18,Sat,Premier League,Matchweek 16,Away,W 2–0,Arsenal,Wolves,N,LM,74,0,1,0,0,2,0,0,0,37,0,1,0,0.1,0.1,0.9,3,1,22,28,78.6,3,24,1,2,0,Match Report
+19,Mon,Premier League,Matchweek 17,Home,W 3–1,Arsenal,West Ham,N,RW,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,Match Report
+20,Sat,Premier League,Matchweek 18,Away,W 4–2,Arsenal,Brighton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Tue,Premier League,Matchweek 19,Home,D 0–0,Arsenal,Newcastle Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,Mon,FA Cup,Third round proper,Away,W 3–0,Arsenal,Oxford United,Y,CM,81,0,2,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+23,Sun,Premier League,Matchweek 20,Away,W 2–0,Arsenal,Tottenham,N,RM,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+24,Sun,Premier League,Matchweek 21,Home,W 3–2,Arsenal,Manchester Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,Fri,FA Cup,Fourth round proper,Away,L 0–1,Arsenal,Manchester City,Y,CM,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+26,Sat,Premier League,Matchweek 22,Away,L 0–1,Arsenal,Everton,N,RM,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,3,0,0,0,Match Report
+27,Sat,Premier League,Matchweek 23,Home,D 1–1,Arsenal,Brentford,N,LM,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,3,7,0,0,0,Match Report
+28,Wed,Premier League,Matchweek 12,Home,L 1–3,Arsenal,Manchester City,N,LM,8,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,5,1,1,0,Match Report
+29,Sat,Premier League,Matchweek 24,Away,W 4–2,Arsenal,Aston Villa,N,"LM,CM",12,0,1,0,0,0,0,0,0,7,0,0,0,0.0,0.0,1.0,1,1,6,7,85.7,2,6,0,0,0,Match Report
+30,Sat,Premier League,Matchweek 25,Away,W 1–0,Arsenal,Leicester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,Wed,Premier League,Matchweek 7,Home,W 4–0,Arsenal,Everton,N,LM,19,0,0,0,0,3,0,0,0,26,0,1,1,0.3,0.3,0.0,1,0,15,18,83.3,3,14,0,0,0,Match Report
+32,Sat,Premier League,Matchweek 26,Home,W 3–2,Arsenal,Bournemouth,Y,LM,83,0,0,0,0,2,0,0,0,57,2,0,2,0.1,0.1,0.1,5,0,42,47,89.4,6,40,2,6,3,Match Report
+33,Thu,Europa Lg,Round of 16,Away,D 2–2,eng Arsenal,pt Sporting CP,Y,"RM,AM",90,0,1,0,0,2,1,0,0,62,1,0,2,0.2,0.2,0.6,5,1,35,48,72.9,4,43,3,7,1,Match Report
+34,Sun,Premier League,Matchweek 27,Away,W 3–0,Arsenal,Fulham,N,RW,14,0,0,0,0,1,0,0,0,11,0,0,1,0.1,0.1,0.1,1,0,8,9,88.9,0,6,0,0,0,Match Report
+35,Thu,Europa Lg,Round of 16,Home,D 1 (3)–1 (5),eng Arsenal,pt Sporting CP,Y,RM,99,0,0,0,0,1,1,1,0,45,1,0,1,0.1,0.1,0.0,1,0,25,30,83.3,4,29,2,3,0,Match Report
+36,Sun,Premier League,Matchweek 28,Home,W 4–1,Arsenal,Crystal Palace,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,Sat,Premier League,Matchweek 29,Home,W 4–1,Arsenal,Leeds United,N,LM,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,Match Report
+38,Sun,Premier League,Matchweek 30,Away,D 2–2,Arsenal,Liverpool,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,Sun,Premier League,Matchweek 31,Away,D 2–2,Arsenal,West Ham,N,"LM,LB",6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,1,0,3,4,75.0,1,1,0,1,0,Match Report
+40,Fri,Premier League,Matchweek 32,Home,D 3–3,Arsenal,Southampton,Y,LM,56,0,0,0,0,2,0,0,0,35,0,0,0,0.1,0.1,0.1,3,0,23,31,74.2,2,18,2,0,0,Match Report
+41,Wed,Premier League,Matchweek 33,Away,L 1–4,Arsenal,Manchester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,Tue,Premier League,Matchweek 34,Home,W 3–1,Arsenal,Chelsea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,Sun,Premier League,Matchweek 35,Away,W 2–0,Arsenal,Newcastle Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,Sun,Premier League,Matchweek 36,Home,L 0–3,Arsenal,Brighton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,Sat,Premier League,Matchweek 37,Away,L 0–1,Arsenal,Nott'ham Forest,N,LW,21,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,10,13,76.9,1,9,1,0,0,Match Report
+46,Sun,Premier League,Matchweek 38,Home,W 5–0,Arsenal,Wolves,N,"CM,LM",16,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,7,9,77.8,4,8,0,0,0,Match Report
+47,,,,,20-6-7,,,14/33,,"1,421",2,6,0,0,32,6,1,0,721,10,7,11,3.2,3.2,3.8,53,8,473,580,81.6,68,447,22,35,8,

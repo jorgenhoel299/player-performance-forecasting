@@ -1,0 +1,45 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Home,L 0–3,Fulham,Arsenal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Wed,EFL Cup,Second round,Away,W 1–0,Fulham,Ipswich Town,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+2,Sat,Premier League,Matchweek 2,Away,L 3–4,Fulham,Leeds United,Y,GK,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,32,37,86.5,0,31,0,0,0,Match Report
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Mon,Premier League,Matchweek 3,Home,L 0–3,Fulham,Aston Villa,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,21,24,87.5,0,9,0,0,0,Match Report
+5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Sun,Premier League,Matchweek 4,Away,L 0–1,Fulham,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,21,24,87.5,0,14,0,0,0,Match Report
+7,Sun,Premier League,Matchweek 5,Away,D 1–1,Fulham,Sheffield Utd,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,19,30,63.3,0,20,0,0,0,Match Report
+8,Sat,Premier League,Matchweek 6,Home,L 1–2,Fulham,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,18,18,100.0,0,11,0,0,0,Match Report
+9,Mon,Premier League,Matchweek 7,Home,W 2–0,Fulham,West Brom,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,17,28,60.7,0,16,0,0,0,Match Report
+10,Sat,Premier League,Matchweek 8,Away,L 0–1,Fulham,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,14,26,53.8,0,11,0,0,0,Match Report
+11,Sun,Premier League,Matchweek 9,Home,L 2–3,Fulham,Everton,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,19,21,90.5,0,16,0,0,0,Match Report
+12,Mon,Premier League,Matchweek 10,Away,W 2–1,Fulham,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,10,22,45.5,0,12,0,0,0,Match Report
+13,Sat,Premier League,Matchweek 11,Away,L 0–2,Fulham,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,23,33,69.7,0,15,0,0,0,Match Report
+14,Sun,Premier League,Matchweek 12,Home,D 1–1,Fulham,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,15,26,57.7,0,15,0,0,0,Match Report
+15,Wed,Premier League,Matchweek 13,Home,D 0–0,Fulham,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,14,28,50.0,0,14,0,0,0,Match Report
+16,Sat,Premier League,Matchweek 14,Away,D 1–1,Fulham,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,12,24,50.0,0,11,0,0,0,Match Report
+17,Sat,Premier League,Matchweek 15,Home,D 0–0,Fulham,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,21,26,80.8,0,12,0,0,0,Match Report
+18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Wed,Premier League,Matchweek 16,Away,D 1–1,Fulham,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,16,26,61.5,0,16,0,0,0,Match Report
+20,Sat,Premier League,Matchweek 19,Home,L 0–1,Fulham,Chelsea,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,16,24,66.7,0,10,0,0,0,Match Report
+21,Wed,Premier League,Matchweek 18,Home,L 1–2,Fulham,Manchester Utd,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,23,28,82.1,0,12,0,0,0,Match Report
+22,Sun,FA Cup,Fourth round proper,Home,L 0–3,Fulham,Burnley,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Wed,Premier League,Matchweek 20,Away,D 0–0,Fulham,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,17,30,56.7,0,17,0,0,0,Match Report
+24,Sat,Premier League,Matchweek 21,Away,D 2–2,Fulham,West Brom,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,20,26,76.9,0,13,0,0,0,Match Report
+25,Wed,Premier League,Matchweek 22,Home,L 0–2,Fulham,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,32,33,97.0,0,22,0,0,0,Match Report
+26,Sat,Premier League,Matchweek 23,Home,D 0–0,Fulham,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,28,35,80.0,0,24,0,0,0,Match Report
+27,Sun,Premier League,Matchweek 24,Away,W 2–0,Fulham,Everton,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,0,17,0,0,0,Match Report
+28,Wed,Premier League,Matchweek 17,Away,D 1–1,Fulham,Burnley,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,11,23,47.8,0,8,0,0,0,Match Report
+29,Sat,Premier League,Matchweek 25,Home,W 1–0,Fulham,Sheffield Utd,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,20,26,76.9,0,13,0,0,0,Match Report
+30,Sun,Premier League,Matchweek 26,Away,D 0–0,Fulham,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,16,17,94.1,0,14,0,0,0,Match Report
+31,Thu,Premier League,Matchweek 33,Home,L 0–1,Fulham,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,26,33,78.8,0,23,0,0,0,Match Report
+32,Sun,Premier League,Matchweek 27,Away,W 1–0,Fulham,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,23,35,65.7,0,20,0,0,0,Match Report
+33,Sat,Premier League,Matchweek 28,Home,L 0–3,Fulham,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,25,34,73.5,0,23,0,0,0,Match Report
+34,Fri,Premier League,Matchweek 29,Home,L 1–2,Fulham,Leeds United,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,20,24,83.3,0,11,0,0,0,Match Report
+35,Sun,Premier League,Matchweek 30,Away,L 1–3,Fulham,Aston Villa,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,24,31,77.4,0,15,0,0,0,Match Report
+36,Fri,Premier League,Matchweek 31,Home,L 0–1,Fulham,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,24,27,88.9,0,10,0,0,0,Match Report
+37,Sun,Premier League,Matchweek 32,Away,D 1–1,Fulham,Arsenal,Y,GK,90,0,0,0,0,0,0,1,0,39,0,0,0,0.0,0.0,0.0,0,0,20,34,58.8,0,12,0,0,0,Match Report
+38,Sat,Premier League,Matchweek 34,Away,L 0–2,Fulham,Chelsea,Y,GK,90,0,0,0,0,0,0,0,0,28,0,1,0,0.0,0.0,0.0,0,0,23,26,88.5,0,17,0,0,0,Match Report
+39,Mon,Premier League,Matchweek 35,Home,L 0–2,Fulham,Burnley,Y,GK,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,1,0,27,37,73.0,0,23,0,0,0,Match Report
+40,Sat,Premier League,Matchweek 36,Away,L 1–3,Fulham,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,0,22,0,0,0,Match Report
+41,Tue,Premier League,Matchweek 37,Away,D 1–1,Fulham,Manchester Utd,Y,GK,90,0,0,0,0,0,0,1,0,46,0,0,0,0.0,0.0,0.0,0,0,34,43,79.1,0,25,0,0,0,Match Report
+42,Sun,Premier League,Matchweek 38,Home,L 0–2,Fulham,Newcastle Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,,,,,6-13-18,,,37/37,,"3,330",0,0,0,0,0,0,2,0,1101,1,1,0,0.0,0.0,0.0,2,0,746,1014,73.6,0,574,0,0,0,

@@ -1,0 +1,64 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Thu,Europa Lg,Second qualifying round,Home,W 2–0,eng Wolves,nir Crusaders,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+1,Thu,Europa Lg,Second qualifying round,Away,W 4–1,eng Wolves,nir Crusaders,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+2,Thu,Europa Lg,Third qualifying round,Away,W 4–0,eng Wolves,am Pyunik,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+3,Sun,Premier League,Matchweek 1,Away,D 0–0,Wolves,Leicester City,Y,CM,90,0,0,0,0,2,0,0,0,36,2,1,3,0.1,0.1,0.1,2,0,15,21,71.4,0,17,1,1,1,Match Report
+4,Thu,Europa Lg,Third qualifying round,Home,W 4–0,eng Wolves,am Pyunik,N,,39,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+5,Mon,Premier League,Matchweek 2,Home,D 1–1,Wolves,Manchester Utd,Y,CM,90,0,0,0,0,1,0,0,0,36,1,1,0,0.1,0.1,0.0,0,0,22,29,75.9,0,15,2,0,0,Match Report
+6,Thu,Europa Lg,Play-off round,Away,W 3–2,eng Wolves,it Torino,Y,CM,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+7,Sun,Premier League,Matchweek 3,Home,D 1–1,Wolves,Burnley,N,CM,32,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,19,21,90.5,4,10,2,0,0,Match Report
+8,Thu,Europa Lg,Play-off round,Home,W 2–1,eng Wolves,it Torino,Y,CM,90,1,0,0,0,2,2,0,0,,,0,,,,,,,,,,,,,,,Match Report
+9,Sun,Premier League,Matchweek 4,Away,L 2–3,Wolves,Everton,Y,CM,90,0,0,0,0,0,0,0,0,34,1,2,2,0.0,0.0,0.0,0,0,16,27,59.3,1,8,1,1,1,Match Report
+10,Mon,UEFA Euro Qualifying,Group stage,Away,W 4–0,be Belgium,sct Scotland,Y,DM,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+11,Sat,Premier League,Matchweek 5,Home,L 2–5,Wolves,Chelsea,Y,CM,45,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.0,0,0,18,22,81.8,2,15,0,0,0,Match Report
+12,Thu,Europa Lg,Group stage,Home,L 0–1,eng Wolves,pt Braga,Y,CM,75,0,0,0,0,1,1,0,0,36,1,2,3,0.1,0.1,0.0,0,0,16,23,69.6,1,13,0,2,1,Match Report
+13,Sun,Premier League,Matchweek 6,Away,D 1–1,Wolves,Crystal Palace,Y,CM,64,0,0,0,0,1,0,0,0,41,2,2,1,0.2,0.2,0.0,0,0,30,33,90.9,1,27,0,0,0,Match Report
+14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Sat,Premier League,Matchweek 7,Home,W 2–0,Wolves,Watford,Y,"CM,DM",90,0,0,0,0,0,0,0,0,55,6,1,3,0.0,0.0,0.0,1,0,32,38,84.2,5,19,1,0,0,Match Report
+16,Thu,Europa Lg,Group stage,Away,W 1–0,eng Wolves,tr Beşiktaş,N,CM,29,0,0,0,0,1,1,0,0,18,0,0,0,0.1,0.1,0.0,0,0,11,14,78.6,3,7,0,0,0,Match Report
+17,Sun,Premier League,Matchweek 8,Away,W 2–0,Wolves,Manchester City,Y,CM,90,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.0,0,0,9,14,64.3,1,6,0,2,0,Match Report
+18,Sat,Premier League,Matchweek 9,Home,D 1–1,Wolves,Southampton,Y,CM,90,0,0,0,0,0,0,0,0,48,1,1,2,0.0,0.0,0.0,0,0,30,41,73.2,2,20,2,2,2,Match Report
+19,Thu,Europa Lg,Group stage,Away,W 2–1,eng Wolves,sk Slovan Bratislava,N,CM,15,0,0,0,0,0,0,0,0,15,2,0,0,0.0,0.0,0.0,0,0,12,12,100.0,1,6,0,0,0,Match Report
+20,Sun,Premier League,Matchweek 10,Away,D 1–1,Wolves,Newcastle Utd,Y,"CB,CM",90,0,0,0,0,0,0,0,0,54,1,0,0,0.0,0.0,0.0,0,0,44,50,88.0,4,30,0,0,0,Match Report
+21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,Sat,Premier League,Matchweek 11,Away,D 1–1,Wolves,Arsenal,Y,CB,90,0,0,0,0,1,0,0,0,48,0,3,1,0.1,0.1,0.0,1,0,31,34,91.2,2,20,1,0,0,Match Report
+23,Thu,Europa Lg,Group stage,Home,W 1–0,eng Wolves,sk Slovan Bratislava,Y,"CB,CM",90,0,0,0,0,0,0,0,0,76,1,1,0,0.0,0.0,0.0,2,0,62,69,89.9,3,44,0,0,0,Match Report
+24,Sun,Premier League,Matchweek 12,Home,W 2–1,Wolves,Aston Villa,Y,"CB,CM",90,0,0,0,0,0,0,0,0,55,1,0,1,0.0,0.0,0.0,0,0,38,41,92.7,2,29,0,0,0,Match Report
+25,Sat,UEFA Euro Qualifying,Group stage,Away,W 4–1,be Belgium,ru Russia,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Tue,UEFA Euro Qualifying,Group stage,Home,W 6–1,be Belgium,cy Cyprus,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Sat,Premier League,Matchweek 13,Away,W 2–1,Wolves,Bournemouth,Y,CB,90,0,0,0,0,0,0,0,0,78,2,1,2,0.0,0.0,0.0,0,0,63,68,92.6,1,43,0,0,0,Match Report
+28,Thu,Europa Lg,Group stage,Away,D 3–3,eng Wolves,pt Braga,Y,CB,90,0,0,0,0,0,0,1,0,81,2,3,1,0.0,0.0,0.0,0,0,67,73,91.8,3,57,0,0,0,Match Report
+29,Sun,Premier League,Matchweek 14,Home,D 1–1,Wolves,Sheffield Utd,Y,CB,90,0,0,0,0,1,0,1,0,68,4,1,1,0.1,0.1,0.0,0,0,46,59,78.0,2,34,1,1,1,Match Report
+30,Wed,Premier League,Matchweek 15,Home,W 2–0,Wolves,West Ham,Y,"CB,CM",90,1,0,0,0,2,1,0,0,72,3,1,1,0.4,0.4,0.0,1,0,50,61,82.0,3,32,1,1,1,Match Report
+31,Sun,Premier League,Matchweek 16,Away,D 2–2,Wolves,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,46,3,2,1,0.0,0.0,0.0,0,0,28,34,82.4,2,16,0,1,1,Match Report
+32,Thu,Europa Lg,Group stage,Home,W 4–0,eng Wolves,tr Beşiktaş,Y,CM,72,1,1,0,0,3,2,0,0,44,2,1,1,0.7,0.7,0.0,3,1,23,34,67.6,0,20,1,0,0,Match Report
+33,Sun,Premier League,Matchweek 17,Home,L 1–2,Wolves,Tottenham,Y,CB,90,0,0,0,0,0,0,1,0,54,3,3,1,0.0,0.0,0.0,1,0,36,44,81.8,3,22,0,1,1,Match Report
+34,Sat,Premier League,Matchweek 18,Away,W 2–1,Wolves,Norwich City,Y,CB,90,0,0,0,0,0,0,0,0,69,1,1,1,0.0,0.0,0.0,0,0,58,64,90.6,2,48,0,0,0,Match Report
+35,Fri,Premier League,Matchweek 19,Home,W 3–2,Wolves,Manchester City,Y,CB,90,0,0,0,0,1,1,0,0,69,4,3,1,0.0,0.0,0.0,1,0,56,60,93.3,2,39,0,1,1,Match Report
+36,Sun,Premier League,Matchweek 20,Away,L 0–1,Wolves,Liverpool,Y,CM,57,0,0,0,0,0,0,0,0,30,2,1,0,0.0,0.0,0.0,0,0,12,27,44.4,2,6,1,0,0,Match Report
+37,Wed,Premier League,Matchweek 21,Away,L 1–2,Wolves,Watford,Y,"CM,CB",90,0,0,0,0,0,0,0,0,67,2,0,1,0.0,0.0,0.1,2,0,51,61,83.6,7,32,0,0,0,Match Report
+38,Sat,FA Cup,Third round,Home,D 0–0,Wolves,Manchester Utd,Y,CB,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+39,Sat,Premier League,Matchweek 22,Home,D 1–1,Wolves,Newcastle Utd,Y,CB,90,1,0,0,0,1,1,0,0,88,1,2,0,0.1,0.1,0.3,1,0,74,78,94.9,5,67,0,0,0,Match Report
+40,Wed,FA Cup,Third round,Away,L 0–1,Wolves,Manchester Utd,Y,CB,90,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,Match Report
+41,Sat,Premier League,Matchweek 23,Away,W 3–2,Wolves,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,56,3,2,1,0.0,0.0,0.0,0,0,31,37,83.8,0,21,0,4,4,Match Report
+42,Thu,Premier League,Matchweek 24,Home,L 1–2,Wolves,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,75,2,2,1,0.0,0.0,0.0,1,0,65,70,92.9,1,47,0,0,0,Match Report
+43,Sat,Premier League,Matchweek 25,Away,D 0–0,Wolves,Manchester Utd,N,CM,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+44,Fri,Premier League,Matchweek 26,Home,D 0–0,Wolves,Leicester City,Y,CM,90,0,0,0,0,1,0,1,0,37,1,1,1,0.0,0.0,0.0,2,0,20,28,71.4,2,16,0,1,1,Match Report
+45,Thu,Europa Lg,Round of 32,Home,W 4–0,eng Wolves,es Espanyol,N,CM,30,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,6,0,1,1,Match Report
+46,Sun,Premier League,Matchweek 27,Home,W 3–0,Wolves,Norwich City,Y,CM,90,0,0,0,0,1,0,0,0,47,5,2,2,0.0,0.0,0.1,4,1,23,33,69.7,1,16,0,2,1,Match Report
+47,Thu,Europa Lg,Round of 32,Away,L 2–3,eng Wolves,es Espanyol,Y,CM,90,0,0,0,0,0,0,0,0,39,0,0,2,0.0,0.0,0.1,1,0,27,31,87.1,2,16,0,0,0,Match Report
+48,Sun,Premier League,Matchweek 28,Away,W 3–2,Wolves,Tottenham,N,CM,12,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,1,0,Match Report
+49,Sat,Premier League,Matchweek 29,Home,D 0–0,Wolves,Brighton,Y,CM,90,0,0,0,0,1,0,0,0,41,3,0,2,0.1,0.1,0.0,1,0,24,35,68.6,2,14,1,1,1,Match Report
+50,Thu,Europa Lg,Round of 16,Away,D 1–1,eng Wolves,gr Olympiacos,N,CM,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,0,2,0,0,0,Match Report
+51,Sat,Premier League,Matchweek 30,Away,W 2–0,Wolves,West Ham,Y,CM,63,0,0,0,0,0,0,0,0,23,0,0,2,0.0,0.0,0.0,1,0,12,18,66.7,1,5,1,0,0,Match Report
+52,Wed,Premier League,Matchweek 31,Home,W 1–0,Wolves,Bournemouth,N,RW,18,0,0,0,0,1,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,4,9,44.4,1,4,0,0,0,Match Report
+53,Sat,Premier League,Matchweek 32,Away,W 1–0,Wolves,Aston Villa,Y,CM,90,1,0,0,0,4,1,0,0,33,3,0,0,0.4,0.4,0.0,1,0,17,24,70.8,2,13,1,0,0,Match Report
+54,Sat,Premier League,Matchweek 33,Home,L 0–2,Wolves,Arsenal,Y,CM,54,0,0,0,0,1,0,0,0,20,0,1,1,0.1,0.1,0.0,0,0,14,16,87.5,0,8,0,0,0,Match Report
+55,Wed,Premier League,Matchweek 34,Away,L 0–1,Wolves,Sheffield Utd,N,CM,12,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,2,0,0,0,Match Report
+56,Sun,Premier League,Matchweek 35,Home,W 3–0,Wolves,Everton,Y,CM,90,1,0,0,0,1,1,0,0,50,0,1,0,0.1,0.1,0.1,1,0,39,46,84.8,2,27,1,0,0,Match Report
+57,Wed,Premier League,Matchweek 36,Away,D 1–1,Wolves,Burnley,N,FW,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,Match Report
+58,Mon,Premier League,Matchweek 37,Home,W 2–0,Wolves,Crystal Palace,Y,CB,90,0,0,0,0,0,0,0,0,60,4,1,2,0.0,0.0,0.0,0,0,46,48,95.8,1,25,0,0,0,Match Report
+59,Sun,Premier League,Matchweek 38,Away,L 0–2,Wolves,Chelsea,Y,CM,90,0,0,0,0,0,0,1,0,47,5,0,3,0.0,0.0,0.0,1,0,28,37,75.7,2,11,0,1,0,Match Report
+60,Thu,Europa Lg,Round of 16,Home,W 1–0,eng Wolves,gr Olympiacos,N,RW,20,0,0,0,0,0,0,0,0,16,3,1,2,0.0,0.0,0.0,1,0,5,10,50.0,0,7,0,0,0,Match Report
+61,Tue,Europa Lg,Quarter-finals,Home,L 0–1,eng Wolves,es Sevilla,Y,"CM,RM",90,0,0,0,0,1,0,0,0,26,1,1,2,0.1,0.1,0.0,0,0,8,15,53.3,1,10,0,0,0,Match Report
+62,,,,,28-17-13,,,46/58,,"4,161",6,1,0,0,30,11,7,0,2010,81,52,50,2.7,2.7,0.9,31,2,1350,1636,82.5,82,955,18,24,18,

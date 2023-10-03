@@ -1,0 +1,11 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Away,L 1–5,Aston Villa,Newcastle Utd,Y,"LB,LW",90,0,0,0,0,0,0,1,0,58,2,1,1,0.0,0.0,0.2,5,0,37,50,74.0,2,25,0,1,0,Match Report
+1,Sun,Premier League,Matchweek 2,Home,W 4–0,Aston Villa,Everton,Y,"LB,WB",90,0,0,0,0,1,0,1,0,89,2,1,0,0.0,0.0,0.2,2,0,62,79,78.5,2,56,2,3,1,Match Report
+2,Wed,Conf Lg,Play-off round,Away,W 5–0,eng Aston Villa,sct Hibernian,Y,LB,90,0,2,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
+3,Sun,Premier League,Matchweek 3,Away,W 3–1,Aston Villa,Burnley,Y,WB,80,0,1,0,0,0,0,0,0,35,0,2,0,0.0,0.0,0.1,2,1,23,30,76.7,3,14,1,1,0,Match Report
+4,Thu,Conf Lg,Play-off round,Home,W 3–0,eng Aston Villa,sct Hibernian,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Sun,Premier League,Matchweek 4,Away,L 0–3,Aston Villa,Liverpool,Y,LB,90,0,0,0,0,0,0,0,0,60,2,5,1,0.0,0.0,0.3,4,0,37,49,75.5,3,27,2,0,0,Match Report
+6,Sat,Premier League,Matchweek 5,Home,W 3–1,Aston Villa,Crystal Palace,Y,LB,90,0,1,0,0,1,0,0,0,112,3,1,3,0.0,0.0,0.3,5,1,69,96,71.9,8,67,1,0,0,Match Report
+7,Thu,Conf Lg,Group stage,Away,L 2–3,eng Aston Villa,pl Legia Warsaw,Y,LB,90,1,0,0,0,2,1,0,0,68,0,1,1,0.1,0.1,0.0,4,0,40,56,71.4,5,30,1,1,0,Match Report
+8,Sun,Premier League,Matchweek 6,Away,W 1–0,Aston Villa,Chelsea,Y,LB,90,0,0,0,0,2,1,1,0,59,4,3,0,0.0,0.0,0.0,3,0,33,48,68.8,4,28,1,0,0,Match Report
+9,,,,,5-0-3,,,8/8,,710,1,4,0,0,6,2,4,0,481,13,14,6,0.1,0.1,1.1,25,2,301,408,73.8,27,247,8,6,1,

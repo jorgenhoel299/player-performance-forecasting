@@ -1,0 +1,60 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Away,D 2–2,Liverpool,Fulham,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,28,35,80.0,0,22,0,0,0,Match Report
+1,Mon,Premier League,Matchweek 2,Home,D 1–1,Liverpool,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,28,32,87.5,0,24,0,0,0,Match Report
+2,Mon,Premier League,Matchweek 3,Away,L 1–2,Liverpool,Manchester Utd,Y,GK,90,0,0,0,0,0,0,0,0,48,0,0,1,0.0,0.0,0.0,0,0,40,44,90.9,0,32,0,0,0,Match Report
+3,Sat,Premier League,Matchweek 4,Home,W 9–0,Liverpool,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,23,25,92.0,0,18,0,0,0,Match Report
+4,Wed,Premier League,Matchweek 5,Home,W 2–1,Liverpool,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,35,45,77.8,0,28,0,0,0,Match Report
+5,Sat,Premier League,Matchweek 6,Away,D 0–0,Liverpool,Everton,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,25,28,89.3,0,17,0,0,0,Match Report
+6,Wed,Champions Lg,Group stage,Away,L 1–4,eng Liverpool,it Napoli,Y,GK,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,32,35,91.4,0,23,0,0,0,Match Report
+7,Tue,Champions Lg,Group stage,Home,W 2–1,eng Liverpool,nl Ajax,Y,GK,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,1,0,38,40,95.0,0,27,0,0,0,Match Report
+8,Fri,Friendlies (M),Friendlies (M),Neutral,W 3–0,br Brazil,gh Ghana,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+9,Tue,Friendlies (M),Friendlies (M),Neutral,W 5–1,br Brazil,tn Tunisia,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+10,Sat,Premier League,Matchweek 9,Home,D 3–3,Liverpool,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,27,31,87.1,0,26,0,0,0,Match Report
+11,Tue,Champions Lg,Group stage,Home,W 2–0,eng Liverpool,sct Rangers,Y,GK,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,2,0,22,29,75.9,0,17,0,0,0,Match Report
+12,Sun,Premier League,Matchweek 10,Away,L 2–3,Liverpool,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,1,0,38,45,84.4,1,33,0,0,0,Match Report
+13,Wed,Champions Lg,Group stage,Away,W 7–1,eng Liverpool,sct Rangers,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,33,37,89.2,0,20,0,1,1,Match Report
+14,Sun,Premier League,Matchweek 11,Home,W 1–0,Liverpool,Manchester City,Y,GK,90,0,1,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.3,1,1,37,44,84.1,0,36,0,0,0,Match Report
+15,Wed,Premier League,Matchweek 12,Home,W 1–0,Liverpool,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,29,36,80.6,0,17,0,0,0,Match Report
+16,Sat,Premier League,Matchweek 13,Away,L 0–1,Liverpool,Nott'ham Forest,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,24,24,100.0,0,16,0,0,0,Match Report
+17,Wed,Champions Lg,Group stage,Away,W 3–0,eng Liverpool,nl Ajax,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,36,37,97.3,0,27,0,0,0,Match Report
+18,Sat,Premier League,Matchweek 14,Home,L 1–2,Liverpool,Leeds United,Y,GK,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,37,41,90.2,0,30,0,0,0,Match Report
+19,Tue,Champions Lg,Group stage,Home,W 2–0,eng Liverpool,it Napoli,Y,GK,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,34,44,77.3,0,25,0,0,0,Match Report
+20,Sun,Premier League,Matchweek 15,Away,W 2–1,Liverpool,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,29,45,64.4,0,28,0,0,0,Match Report
+21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,Sat,Premier League,Matchweek 16,Home,W 3–1,Liverpool,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,36,40,90.0,0,25,0,0,0,Match Report
+23,Thu,World Cup,Group stage,Neutral,W 2–0,br Brazil,rs Serbia,Y,GK,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,20,24,83.3,0,16,0,0,0,Match Report
+24,Mon,World Cup,Group stage,Neutral,W 1–0,br Brazil,ch Switzerland,Y,GK,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,12,17,70.6,0,10,0,0,0,Match Report
+25,Fri,World Cup,Group stage,Neutral,L 0–1,br Brazil,cm Cameroon,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Mon,World Cup,Round of 16,Neutral,W 4–1,br Brazil,kr Korea Republic,Y,GK,79,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,20,22,90.9,0,13,0,0,0,Match Report
+27,Fri,World Cup,Quarter-finals,Neutral,D 1 (2)–1 (4),br Brazil,hr Croatia,Y,GK,120,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,28,30,93.3,0,14,0,0,0,Match Report
+28,Mon,Premier League,Matchweek 17,Away,W 3–1,Liverpool,Aston Villa,Y,GK,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,29,32,90.6,0,26,0,0,0,Match Report
+29,Fri,Premier League,Matchweek 18,Home,W 2–1,Liverpool,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,38,43,88.4,0,24,0,0,0,Match Report
+30,Mon,Premier League,Matchweek 19,Away,L 1–3,Liverpool,Brentford,Y,GK,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,25,33,75.8,0,16,0,0,0,Match Report
+31,Sat,FA Cup,Third round proper,Home,D 2–2,Liverpool,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+32,Sat,Premier League,Matchweek 20,Away,L 0–3,Liverpool,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,36,0,0,1,0.0,0.0,0.0,0,0,27,32,84.4,0,18,0,0,0,Match Report
+33,Tue,FA Cup,Third round proper,Away,W 1–0,Liverpool,Wolves,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Sat,Premier League,Matchweek 21,Home,D 0–0,Liverpool,Chelsea,Y,GK,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,47,52,90.4,0,32,0,0,0,Match Report
+35,Sun,FA Cup,Fourth round proper,Away,L 1–2,Liverpool,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+36,Sat,Premier League,Matchweek 22,Away,L 0–3,Liverpool,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,34,35,97.1,0,23,0,0,0,Match Report
+37,Mon,Premier League,Matchweek 23,Home,W 2–0,Liverpool,Everton,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,32,33,97.0,0,22,0,0,0,Match Report
+38,Sat,Premier League,Matchweek 24,Away,W 2–0,Liverpool,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,31,39,79.5,0,26,0,0,0,Match Report
+39,Tue,Champions Lg,Round of 16,Home,L 2–5,eng Liverpool,es Real Madrid,Y,GK,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,0,17,0,0,0,Match Report
+40,Sat,Premier League,Matchweek 25,Away,D 0–0,Liverpool,Crystal Palace,Y,GK,90,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,0,0,51,57,89.5,0,41,0,0,0,Match Report
+41,Wed,Premier League,Matchweek 7,Home,W 2–0,Liverpool,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,41,47,87.2,0,38,0,0,0,Match Report
+42,Sun,Premier League,Matchweek 26,Home,W 7–0,Liverpool,Manchester Utd,Y,GK,90,0,0,0,0,0,0,0,0,54,0,0,1,0.0,0.0,0.0,1,1,40,51,78.4,0,39,0,0,0,Match Report
+43,Sat,Premier League,Matchweek 27,Away,L 0–1,Liverpool,Bournemouth,Y,GK,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,35,39,89.7,0,27,0,0,0,Match Report
+44,Wed,Champions Lg,Round of 16,Away,L 0–1,eng Liverpool,es Real Madrid,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,14,0,0,0,Match Report
+45,Sat,Premier League,Matchweek 29,Away,L 1–4,Liverpool,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,38,43,88.4,0,30,0,1,1,Match Report
+46,Tue,Premier League,Matchweek 8,Away,D 0–0,Liverpool,Chelsea,Y,GK,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,39,47,83.0,0,29,0,0,0,Match Report
+47,Sun,Premier League,Matchweek 30,Home,D 2–2,Liverpool,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.0,0,0,53,61,86.9,0,37,0,0,0,Match Report
+48,Mon,Premier League,Matchweek 31,Away,W 6–1,Liverpool,Leeds United,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,26,28,92.9,0,19,0,0,0,Match Report
+49,Sat,Premier League,Matchweek 32,Home,W 3–2,Liverpool,Nott'ham Forest,Y,GK,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,31,37,83.8,1,20,0,0,0,Match Report
+50,Wed,Premier League,Matchweek 33,Away,W 2–1,Liverpool,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,37,48,77.1,0,35,0,0,0,Match Report
+51,Sun,Premier League,Matchweek 34,Home,W 4–3,Liverpool,Tottenham,Y,GK,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,36,47,76.6,0,33,0,0,0,Match Report
+52,Wed,Premier League,Matchweek 28,Home,W 1–0,Liverpool,Fulham,Y,GK,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,37,39,94.9,0,26,0,0,0,Match Report
+53,Sat,Premier League,Matchweek 35,Home,W 1–0,Liverpool,Brentford,Y,GK,90,0,0,0,0,0,0,1,0,32,0,0,0,0.0,0.0,0.0,0,0,19,32,59.4,1,25,0,1,1,Match Report
+54,Mon,Premier League,Matchweek 36,Away,W 3–0,Liverpool,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,38,41,92.7,0,31,0,0,0,Match Report
+55,Sat,Premier League,Matchweek 37,Home,D 1–1,Liverpool,Aston Villa,Y,GK,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,21,22,95.5,0,16,0,0,0,Match Report
+56,Sat,Friendlies (M),Friendlies (M),Neutral,W 4–1,br Brazil,gn Guinea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,Tue,Friendlies (M),Friendlies (M),Neutral,L 2–4,br Brazil,sn Senegal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,,,,,29-11-13,,,53/53,,"4,789",0,1,0,0,0,0,1,0,1920,0,0,3,0.0,0.0,0.3,6,2,1563,1820,85.9,3,1208,0,3,3,

@@ -1,0 +1,42 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Championship,Matchweek 1,Home,D 0–0,Luton Town,Birmingham City,Y,WB,90,0,0,0,0,1,0,0,0,74,3,0,2,0.0,0.0,0.5,6,0,35,63,55.6,8,31,3,2,0,Match Report
+1,Sat,Championship,Matchweek 2,Away,D 1–1,Luton Town,Burnley,Y,WB,90,0,0,0,0,1,0,0,0,59,2,0,2,0.0,0.0,0.0,1,0,28,48,58.3,6,16,0,1,0,Match Report
+2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Sat,Championship,Matchweek 3,Home,L 0–1,Luton Town,Preston,Y,"WB,CB",90,0,0,0,0,1,0,0,0,68,4,0,1,0.0,0.0,0.3,5,0,35,58,60.3,5,32,5,3,0,Match Report
+4,Tue,Championship,Matchweek 4,Away,L 0–2,Luton Town,Bristol City,Y,"RB,RW",90,0,0,0,0,1,0,0,0,49,3,0,0,0.1,0.1,0.2,4,0,32,42,76.2,7,28,1,1,0,Match Report
+5,Sat,Championship,Matchweek 5,Away,W 2–0,Luton Town,Swansea City,Y,WB,90,0,0,0,0,0,0,0,0,27,1,1,1,0.0,0.0,0.0,1,1,12,21,57.1,0,9,0,0,0,Match Report
+6,Fri,Championship,Matchweek 6,Home,D 1–1,Luton Town,Sheffield Utd,Y,WB,90,0,0,0,0,0,0,0,0,70,0,1,1,0.0,0.0,0.5,9,1,48,63,76.2,3,25,0,2,1,Match Report
+7,Tue,Championship,Matchweek 7,Away,W 2–1,Luton Town,Cardiff City,Y,"CB,WB",90,0,1,0,0,1,0,0,0,45,3,1,3,0.0,0.0,0.4,2,1,20,32,62.5,4,14,3,2,1,Match Report
+8,Sat,Championship,Matchweek 8,Home,L 1–2,Luton Town,Wigan Athletic,Y,WB,90,0,1,0,0,1,0,0,0,62,1,1,0,0.0,0.0,0.1,5,1,40,56,71.4,5,31,1,0,0,Match Report
+9,Wed,Championship,Matchweek 10,Home,D 2–2,Luton Town,Coventry City,Y,WB,90,0,0,0,0,0,0,0,0,63,0,2,2,0.0,0.0,0.7,6,1,31,52,59.6,5,27,0,4,1,Match Report
+10,Sat,Championship,Matchweek 11,Home,W 2–0,Luton Town,Blackburn,Y,WB,90,0,0,0,0,2,1,0,0,40,0,2,0,0.1,0.1,0.0,1,0,15,31,48.4,2,19,0,0,0,Match Report
+11,Fri,Championship,Matchweek 12,Away,W 2–0,Luton Town,Hull City,Y,WB,90,0,0,0,0,1,0,1,0,39,0,0,0,0.0,0.0,0.3,6,0,18,31,58.1,1,15,2,2,2,Match Report
+12,Tue,Championship,Matchweek 13,Home,D 3–3,Luton Town,Huddersfield,Y,CB,90,0,0,0,0,0,0,0,0,67,1,0,0,0.0,0.0,0.8,10,1,42,61,68.9,6,26,3,3,2,Match Report
+13,Sat,Championship,Matchweek 14,Away,D 0–0,Luton Town,West Brom,Y,WB,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,1,0,29,37,78.4,5,17,0,0,0,Match Report
+14,Sat,Championship,Matchweek 15,Home,W 3–1,Luton Town,QPR,Y,WB,90,0,0,0,0,2,0,0,0,59,1,0,1,0.1,0.1,0.2,6,0,25,50,50.0,3,18,0,2,0,Match Report
+15,Tue,Championship,Matchweek 16,Away,W 1–0,Luton Town,Norwich City,Y,"CB,WB",90,0,0,0,0,0,0,0,0,69,3,5,0,0.0,0.0,0.0,1,0,36,58,62.1,5,40,1,0,0,Match Report
+16,Sun,Championship,Matchweek 17,Away,L 0–4,Luton Town,Watford,Y,WB,90,0,0,0,0,0,0,0,0,53,2,1,1,0.0,0.0,0.4,2,0,27,43,62.8,5,17,2,1,0,Match Report
+17,Sat,Championship,Matchweek 18,Home,D 1–1,Luton Town,Sunderland,Y,"CB,RM",90,0,0,0,0,1,0,0,0,53,2,2,1,0.0,0.0,0.0,2,0,30,45,66.7,3,9,1,1,1,Match Report
+18,Tue,Championship,Matchweek 19,Home,D 0–0,Luton Town,Reading,Y,"CB,RM",90,0,0,0,0,0,0,0,0,55,1,0,3,0.0,0.0,0.2,1,0,32,48,66.7,3,26,7,0,0,Match Report
+19,Sat,Championship,Matchweek 20,Away,W 1–0,Luton Town,Blackpool,Y,CB,90,0,0,0,0,0,0,0,0,66,2,3,0,0.0,0.0,0.0,3,0,35,55,63.6,2,25,1,0,0,Match Report
+20,Tue,Championship,Matchweek 9,Away,L 0–2,Luton Town,Stoke City,Y,CB,90,0,0,0,0,1,0,0,0,68,0,1,0,0.0,0.0,0.9,6,0,30,61,49.2,9,34,4,2,1,Match Report
+21,Sat,Championship,Matchweek 21,Home,D 1–1,Luton Town,Rotherham Utd,Y,"WB,RB",90,0,0,0,0,2,1,0,0,47,0,0,0,0.1,0.1,0.5,6,0,24,44,54.5,10,25,3,2,1,Match Report
+22,Sat,Championship,Matchweek 22,Away,L 1–2,Luton Town,Middlesbrough,Y,"RW,RB",90,0,0,0,0,0,0,1,0,42,1,0,0,0.0,0.0,0.0,0,0,21,36,58.3,3,18,1,1,0,Match Report
+23,Mon,Championship,Matchweek 24,Home,W 2–1,Luton Town,Norwich City,Y,RW,90,0,0,0,0,1,1,0,0,60,2,0,3,0.1,0.1,1.0,7,0,36,50,72.0,4,19,0,0,0,Match Report
+24,Thu,Championship,Matchweek 25,Away,W 3–0,Luton Town,QPR,Y,CB,90,0,0,0,0,0,0,0,0,33,1,1,2,0.0,0.0,0.0,0,0,14,25,56.0,2,12,0,0,0,Match Report
+25,Sun,Championship,Matchweek 26,Away,W 2–1,Luton Town,Huddersfield,Y,"CB,WB",90,0,1,0,0,1,0,0,0,60,0,3,0,0.0,0.0,0.2,2,1,40,48,83.3,3,35,1,1,0,Match Report
+26,Sat,FA Cup,Third round proper,Home,D 1–1,Luton Town,Wigan Athletic,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+27,Sat,Championship,Matchweek 27,Home,L 2–3,Luton Town,West Brom,Y,CB,90,0,1,0,0,0,0,1,0,70,1,1,0,0.0,0.0,0.1,1,1,49,60,81.7,5,43,1,1,1,Match Report
+28,Tue,FA Cup,Third round proper,Away,W 2–1,Luton Town,Wigan Athletic,Y,CB,89,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+29,Sat,Championship,Matchweek 28,Away,W 2–0,Luton Town,Wigan Athletic,Y,WB,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.1,3,0,18,31,58.1,3,11,1,0,0,Match Report
+30,Tue,EFL Cup,Semi-finals,Away,L 1–2,Southampton,Newcastle Utd,Y,RB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+31,Sat,Premier League,Matchweek 22,Away,L 0–3,Southampton,Brentford,Y,RB,90,0,0,0,0,0,0,0,0,55,2,2,1,0.0,0.0,0.2,4,0,34,45,75.6,1,26,1,2,1,Match Report
+32,Sat,Premier League,Matchweek 23,Home,L 1–2,Southampton,Wolves,Y,RB,79,0,0,0,0,0,0,0,0,52,0,2,1,0.0,0.0,0.0,1,0,32,47,68.1,0,19,0,0,0,Match Report
+33,Fri,PL2 — Div. 2,Matchweek 17,Home,L 1–2,Southampton,Leeds United,Y,RB,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+34,Fri,PL2 — Div. 2,Matchweek 18,Home,L 0–2,Southampton,Nottingham Forest,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+35,Wed,Premier League,Matchweek 7,Home,L 0–2,Southampton,Brentford,N,RB,32,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,1,0,19,30,63.3,2,16,2,0,0,Match Report
+36,Fri,PL2 — Div. 2,Matchweek 21,Home,W 2–0,Southampton,Stoke City,Y,CB,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+37,Sat,Premier League,Matchweek 36,Home,L 0–2,Southampton,Fulham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,Sun,Premier League,Matchweek 37,Away,L 1–3,Southampton,Brighton,Y,RB,76,0,0,0,0,0,0,1,0,36,1,1,0,0.0,0.0,0.0,0,0,26,29,89.7,2,19,1,0,0,Match Report
+39,Sun,Premier League,Matchweek 38,Home,D 4–4,Southampton,Liverpool,Y,"RB,CB",90,0,0,0,0,1,1,0,0,37,1,1,1,0.0,0.0,0.0,0,0,22,27,81.5,0,13,0,1,1,Match Report
+40,,,,,13-11-14,,,37/38,,"3,336",2,4,0,0,20,4,4,0,1687,39,31,26,0.7,0.7,7.8,103,8,935,1427,65.5,122,715,45,34,13,

@@ -1,0 +1,53 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Away,L 0–3,Crystal Palace,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,61,1,1,1,0.0,0.0,0.0,0,0,51,54,94.4,2,39,0,0,0,Match Report
+1,Sat,Premier League,Matchweek 2,Home,D 0–0,Crystal Palace,Brentford,Y,CM,90,0,0,0,0,0,0,0,0,59,2,3,0,0.0,0.0,0.0,0,0,33,43,76.7,2,18,0,2,1,Match Report
+2,Tue,EFL Cup,Second round,Away,L 0–1,Crystal Palace,Watford,Y,CM,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+3,Sat,Premier League,Matchweek 3,Away,D 2–2,Crystal Palace,West Ham,Y,CM,90,0,0,0,0,0,0,0,0,61,2,3,3,0.0,0.0,0.0,0,0,36,45,80.0,5,20,0,0,0,Match Report
+4,Wed,WCQ,Second round,Home,W 2–0,sn Senegal,tg Togo,Y,DM,71,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+5,Sat,Premier League,Matchweek 4,Home,W 3–0,Crystal Palace,Tottenham,Y,CM,66,0,0,0,0,1,0,0,0,37,0,1,0,0.1,0.1,0.0,0,0,28,31,90.3,3,13,1,2,2,Match Report
+6,Sat,Premier League,Matchweek 5,Away,L 0–3,Crystal Palace,Liverpool,Y,CM,81,0,0,0,0,0,0,0,0,28,2,2,3,0.0,0.0,0.0,1,0,15,17,88.2,1,13,0,2,0,Match Report
+7,Mon,Premier League,Matchweek 6,Home,D 1–1,Crystal Palace,Brighton,N,CM,19,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,0,0,Match Report
+8,Sun,Premier League,Matchweek 7,Home,D 2–2,Crystal Palace,Leicester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Sat,WCQ,Second round,Home,W 4–1,sn Senegal,na Namibia,Y,DM,70,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+10,Tue,WCQ,Second round,Away,W 3–1,sn Senegal,na Namibia,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+11,Mon,Premier League,Matchweek 8,Away,D 2–2,Crystal Palace,Arsenal,N,"DM,CM",24,0,0,0,0,0,0,0,0,9,0,1,1,0.0,0.0,0.0,0,0,3,3,100.0,1,5,0,1,1,Match Report
+12,Sat,Premier League,Matchweek 9,Home,D 1–1,Crystal Palace,Newcastle Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Sat,Premier League,Matchweek 10,Away,W 2–0,Crystal Palace,Manchester City,Y,CM,84,0,0,0,0,0,0,0,0,31,2,3,3,0.0,0.0,0.0,0,0,16,20,80.0,0,13,0,0,0,Match Report
+14,Sat,Premier League,Matchweek 11,Home,W 2–0,Crystal Palace,Wolves,Y,CM,90,0,0,0,0,1,0,0,0,66,9,1,1,0.0,0.0,0.0,1,0,47,53,88.7,1,36,1,1,1,Match Report
+15,Thu,WCQ,Second round,Away,D 1–1,sn Senegal,tg Togo,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+16,Sun,WCQ,Second round,Home,W 2–0,sn Senegal,cg Congo,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Sat,Premier League,Matchweek 12,Away,D 3–3,Crystal Palace,Burnley,Y,"LM,DM",90,0,0,0,0,0,0,0,0,60,0,0,4,0.0,0.0,0.3,4,0,42,52,80.8,9,29,2,0,0,Match Report
+18,Sat,Premier League,Matchweek 13,Home,L 1–2,Crystal Palace,Aston Villa,Y,DM,90,0,1,0,0,0,0,0,0,51,5,0,3,0.0,0.0,0.4,2,1,31,39,79.5,3,20,0,1,1,Match Report
+19,Tue,Premier League,Matchweek 14,Away,L 0–1,Crystal Palace,Leeds United,Y,CM,90,0,0,0,0,0,0,0,0,29,0,4,1,0.0,0.0,0.0,2,0,13,19,68.4,1,13,0,2,2,Match Report
+20,Sun,Premier League,Matchweek 15,Away,L 0–1,Crystal Palace,Manchester Utd,Y,CM,83,0,0,0,0,1,0,0,0,43,3,1,0,0.0,0.0,0.0,0,0,26,32,81.3,3,15,0,0,0,Match Report
+21,Sun,Premier League,Matchweek 16,Home,W 3–1,Crystal Palace,Everton,Y,"LM,CM",90,0,0,0,0,1,0,0,0,57,3,2,3,0.0,0.0,0.0,1,0,27,38,71.1,4,11,0,0,0,Match Report
+22,Wed,Premier League,Matchweek 17,Home,D 2–2,Crystal Palace,Southampton,Y,LM,63,0,0,0,0,0,0,0,0,35,1,2,3,0.0,0.0,0.0,1,0,16,23,69.6,4,11,0,0,0,Match Report
+23,Sun,Premier League,Matchweek 19,Away,L 0–3,Crystal Palace,Tottenham,Y,CM,90,0,0,0,0,0,0,0,0,41,1,2,0,0.0,0.0,0.0,0,0,31,36,86.1,3,28,1,1,1,Match Report
+24,Tue,Premier League,Matchweek 20,Home,W 3–0,Crystal Palace,Norwich City,Y,CM,90,0,0,0,0,0,0,0,0,48,3,2,1,0.0,0.0,0.0,1,0,31,36,86.1,3,20,1,1,1,Match Report
+25,Mon,Africa Cup of Nations,Group stage,Neutral,W 1–0,sn Senegal,zw Zimbabwe,Y,DM,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+26,Fri,Africa Cup of Nations,Group stage,Neutral,D 0–0,sn Senegal,gn Guinea,Y,DM,90,0,0,0,0,1,0,1,0,,,3,,,,,,,,,,,,,,,Match Report
+27,Tue,Africa Cup of Nations,Group stage,Neutral,D 0–0,sn Senegal,mw Malawi,Y,CM,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,Sun,Africa Cup of Nations,Quarter-finals,Neutral,W 3–1,sn Senegal,gq Equ. Guinea,N,,26,1,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+30,Wed,Africa Cup of Nations,Semi-finals,Neutral,W 3–1,sn Senegal,bf Burkina Faso,Y,CM,64,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+31,Sun,Africa Cup of Nations,Final,Neutral,D 0 (4)–0 (2),sn Senegal,eg Egypt,Y,CM,65,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+32,Sat,Premier League,Matchweek 26,Home,L 0–1,Crystal Palace,Chelsea,Y,DM,90,0,0,0,0,1,0,0,0,27,1,1,2,0.0,0.0,0.0,0,0,15,16,93.8,3,14,1,0,0,Match Report
+33,Wed,Premier League,Matchweek 18,Away,W 4–1,Crystal Palace,Watford,Y,CM,90,0,0,0,0,0,0,1,0,55,2,1,2,0.0,0.0,0.0,0,0,35,43,81.4,1,29,0,0,0,Match Report
+34,Sat,Premier League,Matchweek 27,Home,D 1–1,Crystal Palace,Burnley,N,LM,7,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,9,13,69.2,1,5,0,0,0,Match Report
+35,Tue,FA Cup,Fifth round proper,Home,W 2–1,Crystal Palace,Stoke City,Y,DM,77,1,0,0,0,1,1,0,0,,,3,,,,,,,,,,,,,,,Match Report
+36,Sat,Premier League,Matchweek 28,Away,W 2–0,Crystal Palace,Wolves,Y,DM,68,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,17,24,70.8,1,7,0,0,0,Match Report
+37,Mon,Premier League,Matchweek 29,Home,D 0–0,Crystal Palace,Manchester City,Y,"CM,DM",90,0,0,0,0,1,0,1,0,34,3,1,4,0.4,0.4,0.1,1,0,13,21,61.9,0,12,0,1,1,Match Report
+38,Sun,FA Cup,Quarter-finals,Home,W 4–0,Crystal Palace,Everton,Y,CM,83,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+39,Fri,WCQ,Third round,Away,L 0–1,sn Senegal,eg Egypt,Y,CM,88,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+40,Tue,WCQ,Third round,Home,W 1 (3)–0 (1),sn Senegal,eg Egypt,N,,40,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+41,Mon,Premier League,Matchweek 31,Home,W 3–0,Crystal Palace,Arsenal,Y,"DM,CM",79,0,0,0,0,0,0,0,0,27,1,3,1,0.0,0.0,0.0,0,0,14,18,77.8,1,14,0,1,1,Match Report
+42,Sun,Premier League,Matchweek 32,Away,L 1–2,Crystal Palace,Leicester City,Y,DM,57,0,0,0,0,0,0,0,0,26,3,0,1,0.0,0.0,0.0,0,0,16,17,94.1,0,11,0,1,0,Match Report
+43,Sun,FA Cup,Semi-finals,Away,L 0–2,Crystal Palace,Chelsea,Y,CB,84,0,0,0,0,3,2,0,0,,,4,,,,,,,,,,,,,,,Match Report
+44,Wed,Premier League,Matchweek 30,Away,L 0–1,Crystal Palace,Newcastle Utd,Y,DM,59,0,0,0,0,1,0,0,0,39,3,2,2,0.0,0.0,0.0,0,0,25,29,86.2,0,17,0,0,0,Match Report
+45,Mon,Premier League,Matchweek 34,Home,D 0–0,Crystal Palace,Leeds United,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,Sat,Premier League,Matchweek 35,Away,W 2–1,Crystal Palace,Southampton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,Sat,Premier League,Matchweek 36,Home,W 1–0,Crystal Palace,Watford,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,Sun,Premier League,Matchweek 37,Away,D 1–1,Crystal Palace,Aston Villa,Y,"CB,CM",90,0,0,0,0,0,0,1,0,77,2,2,1,0.0,0.0,0.0,1,0,59,69,85.5,2,58,0,1,1,Match Report
+49,Thu,Premier League,Matchweek 33,Away,L 2–3,Crystal Palace,Everton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,Sun,Premier League,Matchweek 38,Home,W 1–0,Crystal Palace,Manchester Utd,N,RM,24,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,4,0,0,0,Match Report
+51,,,,,18-13-12,,,37/43,,"3,182",2,1,0,0,16,5,5,0,1058,52,53,40,0.5,0.5,0.8,15,1,656,804,81.6,54,477,7,17,13,

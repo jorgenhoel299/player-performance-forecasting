@@ -1,0 +1,50 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sun,Premier League,Matchweek 1,Away,D 2–2,Brentford,Leicester City,Y,"RW,RB",90,0,0,0,0,2,1,0,0,37,1,2,1,0.2,0.2,0.1,1,0,21,28,75.0,0,21,2,3,2,Match Report
+1,Sat,Premier League,Matchweek 2,Home,W 4–0,Brentford,Manchester Utd,Y,FW,72,1,0,0,0,2,1,0,0,21,0,0,0,0.5,0.5,0.0,0,0,9,15,60.0,0,15,1,0,0,Match Report
+2,Sat,Premier League,Matchweek 3,Away,L 2–3,Brentford,Fulham,Y,"RW,RM",90,0,0,0,0,3,1,0,0,37,1,0,0,0.2,0.2,0.3,5,1,18,30,60.0,4,17,0,2,2,Match Report
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Sat,Premier League,Matchweek 4,Home,D 1–1,Brentford,Everton,Y,"RW,AM",77,0,0,0,0,4,1,0,0,36,0,0,1,0.3,0.3,0.0,3,0,21,30,70.0,3,28,2,0,0,Match Report
+5,Tue,Premier League,Matchweek 5,Away,D 1–1,Brentford,Crystal Palace,Y,RW,67,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,13,22,59.1,1,16,3,1,0,Match Report
+6,Sat,Premier League,Matchweek 6,Home,W 5–2,Brentford,Leeds United,Y,"RW,FW",82,1,0,0,0,1,1,0,0,26,0,0,0,0.2,0.2,0.2,4,1,10,16,62.5,2,11,2,2,2,Match Report
+7,Sun,Premier League,Matchweek 8,Home,L 0–3,Brentford,Arsenal,Y,FW,75,0,0,0,0,2,1,0,0,24,0,0,1,0.1,0.1,0.0,0,0,10,15,66.7,0,17,0,1,0,Match Report
+8,Fri,Friendlies (M),Friendlies (M),Neutral,L 0–2,cm Cameroon,uz Uzbekistan,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+9,Tue,Friendlies (M),Friendlies (M),Neutral,L 0–1,cm Cameroon,kr Korea Republic,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+10,Sat,Premier League,Matchweek 9,Away,D 0–0,Brentford,Bournemouth,Y,RW,60,0,0,0,0,1,0,0,0,33,1,0,1,0.1,0.1,0.0,1,0,20,27,74.1,3,27,1,0,0,Match Report
+11,Sat,Premier League,Matchweek 10,Away,L 1–5,Brentford,Newcastle Utd,Y,FW,61,0,0,0,0,2,1,0,0,18,0,0,0,0.1,0.1,0.0,0,0,6,10,60.0,0,14,1,4,2,Match Report
+12,Fri,Premier League,Matchweek 11,Home,W 2–0,Brentford,Brighton,Y,"RW,FW",79,0,0,0,0,1,0,0,0,29,0,0,0,0.1,0.1,0.1,2,1,11,18,61.1,3,15,1,6,2,Match Report
+13,Wed,Premier League,Matchweek 12,Home,D 0–0,Brentford,Chelsea,Y,FW,72,0,0,0,0,2,2,0,0,31,0,0,0,0.3,0.3,0.2,2,0,16,28,57.1,1,19,2,1,1,Match Report
+14,Sun,Premier League,Matchweek 13,Away,L 0–4,Brentford,Aston Villa,Y,FW,60,0,0,0,0,3,1,0,0,21,0,0,0,0.4,0.4,0.1,5,0,13,15,86.7,2,13,2,1,1,Match Report
+15,Sat,Premier League,Matchweek 14,Home,D 1–1,Brentford,Wolves,Y,RW,82,0,1,0,0,1,1,1,0,41,1,1,1,0.3,0.3,0.3,4,1,24,33,72.7,2,17,5,4,2,Match Report
+16,Sat,Premier League,Matchweek 15,Away,D 2–2,Brentford,Nott'ham Forest,Y,RW,80,1,0,1,1,1,0,1,0,42,2,0,3,0.8,0.0,0.2,4,1,20,31,64.5,4,25,3,3,2,Match Report
+17,Tue,EFL Cup,Third round,Home,D 1 (5)–1 (6),Brentford,Gillingham,N,,40,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+18,Sat,Premier League,Matchweek 16,Away,W 2–1,Brentford,Manchester City,Y,FW,73,0,0,0,0,2,1,1,0,23,1,0,0,0.1,0.1,0.1,2,0,8,12,66.7,1,8,1,1,0,Match Report
+19,Fri,Friendlies (M),Friendlies (M),Neutral,D 1–1,cm Cameroon,pa Panama,Y,FW,68,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+20,Thu,World Cup,Group stage,Neutral,L 0–1,cm Cameroon,ch Switzerland,Y,RW,90,0,0,0,0,1,1,0,0,54,0,0,1,0.0,0.0,0.1,4,0,30,45,66.7,1,32,1,2,1,Match Report
+21,Mon,World Cup,Group stage,Neutral,D 3–3,cm Cameroon,rs Serbia,Y,"RW,AM,RM",80,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.1,3,0,12,26,46.2,1,23,1,3,0,Match Report
+22,Fri,World Cup,Group stage,Neutral,W 1–0,cm Cameroon,br Brazil,Y,RW,63,0,0,0,0,1,1,0,0,22,0,1,0,0.2,0.2,0.1,1,0,7,14,50.0,1,12,0,2,0,Match Report
+23,Mon,Premier League,Matchweek 17,Home,D 2–2,Brentford,Tottenham,Y,FW,81,0,0,0,0,1,0,1,0,40,1,0,0,0.1,0.1,0.3,2,0,17,26,65.4,1,25,2,3,0,Match Report
+24,Fri,Premier League,Matchweek 18,Away,W 2–0,Brentford,West Ham,Y,FW,57,0,0,0,0,1,1,0,0,26,1,0,0,0.0,0.0,0.0,0,0,12,18,66.7,4,14,0,1,1,Match Report
+25,Mon,Premier League,Matchweek 19,Home,W 3–1,Brentford,Liverpool,Y,FW,87,1,0,0,0,3,2,0,0,25,0,1,0,1.0,1.0,0.1,3,1,7,16,43.8,1,12,1,1,0,Match Report
+26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Sat,Premier League,Matchweek 20,Home,W 2–0,Brentford,Bournemouth,Y,"RW,FW",88,0,0,0,0,1,1,0,0,38,2,0,0,0.0,0.0,0.0,0,0,18,28,64.3,2,24,2,2,0,Match Report
+28,Sun,Premier League,Matchweek 21,Away,D 0–0,Brentford,Leeds United,Y,FW,73,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,1,0,11,16,68.8,3,9,0,1,0,Match Report
+29,Sat,Premier League,Matchweek 22,Home,W 3–0,Brentford,Southampton,Y,RW,81,1,1,0,0,3,1,0,0,50,0,0,1,0.8,0.8,0.3,4,1,33,42,78.6,5,35,0,1,1,Match Report
+30,Sat,Premier League,Matchweek 23,Away,D 1–1,Brentford,Arsenal,Y,FW,70,0,0,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.4,4,0,16,26,61.5,2,14,1,0,0,Match Report
+31,Sat,Premier League,Matchweek 24,Home,D 1–1,Brentford,Crystal Palace,Y,"RW,WB",90,0,1,0,0,1,0,0,0,61,0,0,0,0.0,0.0,0.2,7,1,38,51,74.5,5,42,2,5,2,Match Report
+32,Mon,Premier League,Matchweek 26,Home,W 3–2,Brentford,Fulham,Y,RW,89,0,0,0,0,3,1,0,0,38,3,0,0,0.7,0.7,0.1,3,0,19,25,76.0,2,20,0,0,0,Match Report
+33,Sat,Premier League,Matchweek 27,Away,L 0–1,Brentford,Everton,Y,"RW,RM",90,0,0,0,0,1,1,0,0,63,3,0,2,0.1,0.1,0.8,6,0,37,49,75.5,10,40,3,5,4,Match Report
+34,Wed,Premier League,Matchweek 7,Away,W 2–0,Brentford,Southampton,Y,"RW,LW",77,0,0,0,0,2,1,0,0,29,1,1,0,0.2,0.2,0.1,3,0,13,18,72.2,0,16,2,4,3,Match Report
+35,Sat,Premier League,Matchweek 28,Home,D 1–1,Brentford,Leicester City,Y,"RW,LW",89,0,0,0,0,3,0,0,0,56,1,0,0,0.2,0.2,0.0,2,1,26,48,54.2,2,33,4,3,2,Match Report
+36,Sat,Premier League,Matchweek 29,Away,D 3–3,Brentford,Brighton,Y,FW,78,0,2,0,0,1,0,0,0,24,0,0,1,0.1,0.1,0.9,3,3,10,19,52.6,1,14,2,1,1,Match Report
+37,Wed,Premier League,Matchweek 25,Away,L 0–1,Brentford,Manchester Utd,Y,FW,61,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,0,0,7,17,41.2,0,7,0,1,0,Match Report
+38,Sat,Premier League,Matchweek 30,Home,L 1–2,Brentford,Newcastle Utd,N,RB,18,0,0,0,0,1,1,0,0,17,0,0,0,0.0,0.0,0.1,1,0,5,9,55.6,3,5,1,4,0,Match Report
+39,Sat,Premier League,Matchweek 31,Away,L 0–2,Brentford,Wolves,Y,RW,90,0,0,0,0,1,0,0,0,42,1,2,1,0.0,0.0,0.4,4,0,26,34,76.5,3,27,4,5,3,Match Report
+40,Sat,Premier League,Matchweek 32,Home,D 1–1,Brentford,Aston Villa,Y,RW,90,0,1,0,0,3,1,0,0,55,2,1,0,0.6,0.6,0.8,6,0,22,44,50.0,6,30,5,6,5,Match Report
+41,Wed,Premier League,Matchweek 33,Away,W 2–0,Brentford,Chelsea,N,FW,29,1,0,0,0,2,1,0,0,9,0,0,0,0.1,0.1,0.0,1,1,2,4,50.0,0,6,1,1,1,Match Report
+42,Sat,Premier League,Matchweek 34,Home,W 2–1,Brentford,Nott'ham Forest,Y,"RW,LW",90,0,0,0,0,2,1,0,0,58,1,0,0,0.3,0.3,0.1,3,0,33,45,73.3,3,33,1,4,0,Match Report
+43,Sat,Premier League,Matchweek 35,Away,L 0–1,Brentford,Liverpool,Y,"FW,WB",90,0,0,0,0,1,1,1,0,36,0,0,0,0.0,0.0,0.0,1,0,12,28,42.9,1,24,3,3,1,Match Report
+44,Sun,Premier League,Matchweek 36,Home,W 2–0,Brentford,West Ham,Y,"RW,LW",90,1,0,0,0,6,3,0,0,60,2,1,0,0.9,0.9,0.4,6,0,35,48,72.9,4,36,4,4,4,Match Report
+45,Sat,Premier League,Matchweek 37,Away,W 3–1,Brentford,Tottenham,Y,"RW,FW",90,2,1,0,0,6,3,0,0,43,0,0,8,0.4,0.4,0.7,1,1,16,21,76.2,3,22,1,1,0,Match Report
+46,Sun,Premier League,Matchweek 38,Home,W 1–0,Brentford,Manchester City,Y,"FW,RB",88,0,1,0,0,1,1,0,0,42,1,3,1,0.4,0.4,0.3,3,1,20,29,69.0,1,25,1,3,1,Match Report
+47,Sat,Friendlies (M),Friendlies (M),Neutral,D 2–2,cm Cameroon,mx Mexico,Y,RW,86,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+48,,,,,16-18-12,,,43/46,,"3,513",10,8,1,1,72,34,5,0,1442,26,14,25,10.0,9.2,7.8,105,15,704,1076,65.4,91,843,68,95,46,

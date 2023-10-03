@@ -1,0 +1,38 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Away,L 0–1,Wolves,Leicester City,Y,CB,89,0,0,0,0,2,1,0,0,81,3,2,0,0.2,0.2,0.0,1,0,52,64,81.3,5,50,1,1,1,Match Report
+1,Sun,Premier League,Matchweek 2,Home,L 0–1,Wolves,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,66,6,4,2,0.0,0.0,0.0,0,0,48,54,88.9,5,34,2,1,1,Match Report
+2,Tue,EFL Cup,Second round,Away,W 4–0,Wolves,Nott'ham Forest,Y,CB,90,0,0,0,0,2,2,0,0,,,2,,,,,,,,,,,,,,,Match Report
+3,Sun,Premier League,Matchweek 3,Home,L 0–1,Wolves,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,43,1,0,2,0.0,0.0,0.0,1,0,34,36,94.4,0,20,0,1,1,Match Report
+4,Sat,Premier League,Matchweek 4,Away,W 2–0,Wolves,Watford,Y,CB,90,0,0,0,0,0,0,1,0,75,3,0,0,0.0,0.0,0.0,1,0,58,66,87.9,7,49,2,1,0,Match Report
+5,Sat,Premier League,Matchweek 5,Home,L 0–2,Wolves,Brentford,Y,CB,90,0,0,0,0,0,0,0,0,72,0,1,0,0.0,0.0,0.0,1,0,61,70,87.1,4,50,2,0,0,Match Report
+6,Wed,EFL Cup,Third round,Home,D 2 (2)–2 (3),Wolves,Tottenham,Y,CB,120,0,0,0,0,0,0,0,0,,,3,,,,,,,,,,,,,,,Match Report
+7,Sun,Premier League,Matchweek 6,Away,W 1–0,Wolves,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,36,2,0,0,0.0,0.0,0.0,0,0,22,28,78.6,5,13,2,0,0,Match Report
+8,Sat,Premier League,Matchweek 7,Home,W 2–1,Wolves,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,0,0,57,5,1,0,0.0,0.0,0.0,0,0,35,41,85.4,2,37,0,0,0,Match Report
+9,Sat,Premier League,Matchweek 8,Away,W 3–2,Wolves,Aston Villa,Y,CB,90,0,0,0,0,2,0,0,0,55,1,1,1,0.1,0.1,0.0,1,1,37,42,88.1,1,26,2,0,0,Match Report
+10,Sat,Premier League,Matchweek 9,Away,D 1–1,Wolves,Leeds United,Y,CB,90,0,0,0,0,1,0,1,0,43,0,2,1,0.1,0.1,0.0,0,0,20,28,71.4,1,22,0,2,2,Match Report
+11,Mon,Premier League,Matchweek 10,Home,W 2–1,Wolves,Everton,Y,CB,90,1,0,0,0,1,1,0,0,78,0,3,2,0.1,0.1,0.0,0,0,58,65,89.2,4,52,2,0,0,Match Report
+12,Sat,Premier League,Matchweek 11,Away,L 0–2,Wolves,Crystal Palace,Y,CB,90,0,0,0,0,0,0,0,0,50,6,0,1,0.0,0.0,0.0,0,0,34,42,81.0,4,21,0,0,0,Match Report
+13,Sat,Premier League,Matchweek 12,Home,W 1–0,Wolves,West Ham,Y,CB,90,0,0,0,0,2,0,0,0,81,2,6,0,0.4,0.4,0.0,1,0,55,63,87.3,5,58,1,1,0,Match Report
+14,Sat,Premier League,Matchweek 13,Away,D 0–0,Wolves,Norwich City,Y,"CB,RB",90,0,0,0,0,0,0,0,0,80,2,0,0,0.0,0.0,0.0,0,0,70,75,93.3,7,41,2,1,1,Match Report
+15,Wed,Premier League,Matchweek 14,Home,D 0–0,Wolves,Burnley,Y,CB,90,0,0,0,0,0,0,1,0,68,2,6,2,0.0,0.0,0.1,0,0,50,55,90.9,1,35,1,1,1,Match Report
+16,Sat,Premier League,Matchweek 15,Home,L 0–1,Wolves,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,43,1,2,1,0.0,0.0,0.0,0,0,26,34,76.5,1,18,0,4,3,Match Report
+17,Sat,Premier League,Matchweek 16,Away,L 0–1,Wolves,Manchester City,Y,CB,90,0,0,0,0,1,1,0,0,51,0,4,4,0.2,0.2,0.0,0,0,32,36,88.9,3,32,1,0,0,Match Report
+18,Wed,Premier League,Matchweek 17,Away,W 1–0,Wolves,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,45,2,0,5,0.0,0.0,0.0,0,0,26,30,86.7,3,19,1,0,0,Match Report
+19,Sun,Premier League,Matchweek 18,Home,D 0–0,Wolves,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,60,0,0,1,0.0,0.0,0.0,0,0,51,55,92.7,1,39,0,1,1,Match Report
+20,Mon,Premier League,Matchweek 21,Away,W 1–0,Wolves,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,46,0,2,1,0.0,0.0,0.0,0,0,34,39,87.2,1,27,1,1,1,Match Report
+21,Sun,FA Cup,Third round proper,Home,W 3–0,Wolves,Sheffield Utd,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+22,Sat,Premier League,Matchweek 22,Home,W 3–1,Wolves,Southampton,Y,CB,90,0,0,0,0,1,0,0,0,54,3,3,0,0.0,0.0,0.0,1,1,29,38,76.3,1,23,1,1,1,Match Report
+23,Sat,Premier League,Matchweek 23,Away,W 2–1,Wolves,Brentford,Y,CB,90,0,0,0,0,0,0,0,0,62,1,0,3,0.0,0.0,0.0,0,0,32,50,64.0,1,34,1,1,1,Match Report
+24,Sat,FA Cup,Fourth round proper,Home,L 0–1,Wolves,Norwich City,Y,CB,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+25,Thu,Premier League,Matchweek 24,Home,L 0–1,Wolves,Arsenal,Y,CB,90,0,0,0,0,0,0,0,0,81,0,2,2,0.0,0.0,0.0,1,0,62,72,86.1,11,56,5,0,0,Match Report
+26,Sun,Premier League,Matchweek 25,Away,W 2–0,Wolves,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,58,0,3,3,0.0,0.0,0.0,0,0,40,46,87.0,4,26,0,1,1,Match Report
+27,Sun,Premier League,Matchweek 26,Home,W 2–1,Wolves,Leicester City,Y,CB,90,0,0,0,0,2,1,0,0,43,1,0,1,0.1,0.1,0.0,0,0,33,36,91.7,1,19,0,1,1,Match Report
+28,Thu,Premier League,Matchweek 20,Away,L 1–2,Wolves,Arsenal,Y,CB,90,0,0,0,0,0,0,0,0,52,0,0,1,0.0,0.0,0.0,1,0,36,47,76.6,1,37,0,1,1,Match Report
+29,Sun,Premier League,Matchweek 27,Away,L 0–1,Wolves,West Ham,Y,CB,90,0,0,0,0,1,0,0,0,83,2,0,1,0.1,0.1,0.0,0,0,68,76,89.5,3,45,1,0,0,Match Report
+30,Sat,Premier League,Matchweek 28,Home,L 0–2,Wolves,Crystal Palace,Y,CB,78,0,0,0,0,0,0,0,0,61,2,0,0,0.0,0.0,0.0,0,0,41,53,77.4,4,32,0,0,0,Match Report
+31,Thu,Premier League,Matchweek 19,Home,W 4–0,Wolves,Watford,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,Sun,Premier League,Matchweek 29,Away,W 1–0,Wolves,Everton,Y,CB,90,0,0,0,0,0,0,0,0,82,2,1,0,0.0,0.0,0.0,0,0,63,73,86.3,4,58,2,0,0,Match Report
+33,Fri,Premier League,Matchweek 30,Home,L 2–3,Wolves,Leeds United,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Sat,Premier League,Matchweek 31,Home,W 2–1,Wolves,Aston Villa,Y,CB,90,0,0,0,0,0,0,0,0,58,2,1,1,0.0,0.0,0.0,1,0,44,48,91.7,3,24,1,0,0,Match Report
+35,Fri,Premier League,Matchweek 32,Away,L 0–1,Wolves,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,0,0,82,1,1,1,0.0,0.0,0.0,0,0,62,73,84.9,2,42,0,0,0,Match Report
+36,,,,,16-5-13,,,34/34,,"3,077",1,0,0,0,16,6,3,0,1846,50,51,36,1.1,1.1,0.2,10,2,1313,1535,85.5,95,1039,31,20,17,

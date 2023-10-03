@@ -1,0 +1,20 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Home,W 3–2,Watford,Aston Villa,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Sat,Premier League,Matchweek 2,Away,L 0–2,Watford,Brighton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Tue,EFL Cup,Second round,Home,W 1–0,Watford,Crystal Palace,Y,LB,90,0,0,0,0,0,0,1,0,,,2,,,,,,,,,,,,,,,Match Report
+3,Sun,Premier League,Matchweek 3,Away,L 0–1,Watford,Tottenham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Sat,Premier League,Matchweek 4,Home,L 0–2,Watford,Wolves,Y,LB,90,0,0,0,0,0,0,1,0,64,1,3,1,0.0,0.0,0.0,3,0,41,57,71.9,3,33,2,1,0,Match Report
+5,Sat,Premier League,Matchweek 5,Away,W 3–1,Watford,Norwich City,Y,LB,90,0,0,0,0,0,0,0,0,69,1,4,0,0.0,0.0,0.4,1,0,44,57,77.2,6,27,1,3,2,Match Report
+6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Sat,Premier League,Matchweek 6,Home,D 1–1,Watford,Newcastle Utd,Y,LB,90,0,0,0,0,1,0,1,0,64,3,1,1,0.0,0.0,0.2,6,1,46,58,79.3,7,31,5,5,5,Match Report
+8,Sat,Premier League,Matchweek 7,Away,L 0–1,Watford,Leeds United,Y,LB,90,0,0,0,0,0,0,0,0,49,6,0,1,0.0,0.0,0.0,0,0,18,37,48.6,3,17,1,3,1,Match Report
+9,Sat,Premier League,Matchweek 8,Home,L 0–5,Watford,Liverpool,Y,"CB,LB",90,0,0,0,0,0,0,0,0,41,2,3,4,0.0,0.0,0.0,1,0,20,31,64.5,2,12,0,1,1,Match Report
+10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Sat,Premier League,Matchweek 10,Home,L 0–1,Watford,Southampton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Sun,Premier League,Matchweek 11,Away,L 0–1,Watford,Arsenal,Y,"LB,WB",90,0,0,0,0,1,0,0,0,53,1,2,0,0.1,0.1,0.2,2,0,31,44,70.5,5,26,0,0,0,Match Report
+13,Sat,Premier League,Matchweek 12,Home,W 4–1,Watford,Manchester Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Sun,Premier League,Matchweek 13,Away,L 2–4,Watford,Leicester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Wed,Premier League,Matchweek 14,Home,L 1–2,Watford,Chelsea,N,LB,79,0,0,0,0,2,1,1,0,53,1,1,1,0.1,0.1,0.0,2,0,18,42,42.9,5,23,3,1,0,Match Report
+16,Sat,Premier League,Matchweek 15,Home,L 1–3,Watford,Manchester City,Y,LB,70,0,0,0,0,0,0,1,0,16,1,0,0,0.0,0.0,0.0,0,0,9,14,64.3,2,7,0,1,0,Match Report
+17,Fri,Premier League,Matchweek 16,Away,L 1–2,Watford,Brentford,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,,,,,2-1-6,,,8/9,,779,0,0,0,0,4,1,5,0,409,16,16,8,0.2,0.2,0.8,15,1,227,340,66.8,33,176,12,15,9,

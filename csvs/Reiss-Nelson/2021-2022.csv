@@ -1,0 +1,41 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Fri,Premier League,Matchweek 1,Away,L 0–2,Arsenal,Brentford,N,RW,20,0,0,0,0,1,0,0,0,16,1,0,1,0.1,0.1,0.0,3,0,8,12,66.7,0,10,0,0,0,Match Report
+1,Sun,Premier League,Matchweek 2,Home,L 0–2,Arsenal,Chelsea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Sun,Eredivisie,Matchweek 8,Away,L 1–2,Feyenoord,Vitesse,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Sat,Eredivisie,Matchweek 9,Home,D 2–2,Feyenoord,RKC Waalwijk,N,"LM,LW",31,0,0,0,0,1,1,1,0,30,0,0,1,0.2,0.2,0.4,5,0,22,24,91.7,3,26,4,0,0,Match Report
+4,Thu,Conf Lg,Group stage,Home,W 3–1,nl Feyenoord,de Union Berlin,N,RW,8,0,0,0,0,1,0,0,0,5,0,0,1,0.9,0.9,0.0,2,0,3,3,100.0,0,4,0,0,0,Match Report
+5,Sun,Eredivisie,Matchweek 10,Away,W 3–2,Feyenoord,Cambuur,N,LW,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,Match Report
+6,Sun,Eredivisie,Matchweek 11,Away,W 1–0,Feyenoord,Sparta R'dam,N,RW,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,5,1,0,0,Match Report
+7,Thu,Conf Lg,Group stage,Away,W 2–1,nl Feyenoord,de Union Berlin,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Sun,Eredivisie,Matchweek 12,Home,W 1–0,Feyenoord,AZ Alkmaar,N,LW,15,0,1,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.2,1,1,5,9,55.6,1,10,3,0,0,Match Report
+9,Sun,Eredivisie,Matchweek 13,Home,W 4–0,Feyenoord,Zwolle,N,LW,24,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,0,14,2,1,1,Match Report
+10,Thu,Conf Lg,Group stage,Away,D 2–2,nl Feyenoord,cz Slavia Prague,N,RW,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,Match Report
+11,Sun,Eredivisie,Matchweek 14,Away,D 0–0,Feyenoord,Twente,N,LW,24,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.2,1,0,13,14,92.9,1,13,1,1,1,Match Report
+12,Wed,Eredivisie,Matchweek 4,Home,W 2–1,Feyenoord,Heracles Almelo,N,RW,11,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,Match Report
+13,Sun,Eredivisie,Matchweek 15,Home,W 5–0,Feyenoord,Fortuna Sittard,N,AM,24,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.1,4,0,12,12,100.0,3,15,0,0,0,Match Report
+14,Thu,Conf Lg,Group stage,Home,W 2–1,nl Feyenoord,il Maccabi Haifa,Y,LW,78,1,0,0,0,5,2,0,0,55,0,0,1,0.5,0.5,0.1,5,0,37,44,84.1,9,42,9,4,3,Match Report
+15,Sun,Eredivisie,Matchweek 16,Away,D 1–1,Feyenoord,Groningen,N,LW,3,0,0,0,0,1,1,0,0,11,0,0,0,0.0,0.0,0.1,2,0,9,10,90.0,1,9,3,0,0,Match Report
+16,Sun,Eredivisie,Matchweek 17,Home,L 0–2,Feyenoord,Ajax,N,LW,45,0,0,0,0,3,1,1,0,28,2,0,0,0.4,0.4,0.1,4,0,8,19,42.1,1,20,6,1,1,Match Report
+17,Wed,Eredivisie,Matchweek 18,Away,W 3–0,Feyenoord,Heerenveen,Y,LW,85,0,0,0,0,4,1,0,0,49,6,0,1,0.4,0.4,0.6,6,0,28,32,87.5,1,27,3,1,1,Match Report
+18,Sat,Eredivisie,Matchweek 19,Home,L 0–1,Feyenoord,Vitesse,Y,LW,67,0,0,0,0,1,1,0,0,43,3,0,2,0.1,0.1,0.0,2,0,30,31,96.8,2,31,4,1,1,Match Report
+19,Sun,Eredivisie,Matchweek 20,Away,W 4–1,Feyenoord,NEC Nijmegen,Y,LW,66,0,0,0,0,1,0,0,0,45,1,1,1,0.0,0.0,0.0,1,0,30,34,88.2,4,26,5,4,3,Match Report
+20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Sun,Eredivisie,Matchweek 22,Away,W 2–0,Feyenoord,RKC Waalwijk,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Sat,Eredivisie,Matchweek 25,Home,D 1–1,Feyenoord,Groningen,N,AM,19,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,2,0,9,12,75.0,2,10,3,1,1,Match Report
+24,Thu,Conf Lg,Round of 16,Away,W 5–2,nl Feyenoord,rs Partizan,Y,RW,79,0,0,0,0,3,1,0,0,43,1,0,1,0.3,0.3,0.2,1,0,25,30,83.3,2,35,7,5,3,Match Report
+25,Sun,Eredivisie,Matchweek 26,Away,W 2–1,Feyenoord,Zwolle,Y,RW,54,0,0,0,0,3,1,0,0,41,0,1,0,0.5,0.5,0.1,2,0,29,32,90.6,2,26,2,1,0,Match Report
+26,Thu,Conf Lg,Round of 16,Home,W 3–1,nl Feyenoord,rs Partizan,Y,AM,61,1,0,0,0,3,1,0,0,35,3,0,2,0.2,0.2,0.1,1,0,16,21,76.2,1,27,3,5,2,Match Report
+27,Sun,Eredivisie,Matchweek 27,Away,L 2–3,Feyenoord,Ajax,Y,"RW,LW",90,0,0,0,0,2,0,0,0,38,2,1,0,0.1,0.1,0.5,4,0,17,21,81.0,3,28,4,6,3,Match Report
+28,Sat,Eredivisie,Matchweek 28,Home,W 2–0,Feyenoord,Willem II,Y,RW,80,0,0,0,0,4,1,0,0,64,2,0,0,0.4,0.4,0.1,3,0,39,49,79.6,5,47,9,6,6,Match Report
+29,Thu,Conf Lg,Quarter-finals,Home,D 3–3,nl Feyenoord,cz Slavia Prague,Y,RM,76,0,1,0,0,2,1,0,0,33,2,0,2,0.2,0.2,0.4,6,2,24,25,96.0,4,19,3,4,3,Match Report
+30,Sun,Eredivisie,Matchweek 29,Away,W 4–1,Feyenoord,Heracles Almelo,Y,RW,58,1,2,0,0,3,1,0,0,56,1,0,2,0.4,0.4,0.3,3,1,37,41,90.2,5,41,5,4,2,Match Report
+31,Thu,Conf Lg,Quarter-finals,Away,W 3–1,nl Feyenoord,cz Slavia Prague,Y,RW,66,0,0,0,0,1,0,0,0,24,3,1,0,0.1,0.1,0.0,0,0,12,17,70.6,1,17,2,1,0,Match Report
+32,Sun,Eredivisie,Matchweek 30,Home,W 2–1,Feyenoord,Utrecht,Y,RW,70,0,0,0,0,2,1,0,0,44,3,2,1,0.1,0.1,0.5,1,0,21,30,70.0,5,27,2,1,1,Match Report
+33,Thu,Conf Lg,Semi-finals,Home,W 3–2,nl Feyenoord,fr Marseille,Y,RW,64,0,1,0,0,1,0,0,0,36,0,2,0,0.1,0.1,0.1,1,1,23,30,76.7,1,32,4,2,2,Match Report
+34,Sun,Eredivisie,Matchweek 31,Away,W 3–1,Feyenoord,Fortuna Sittard,Y,RW,90,1,1,0,0,3,1,0,0,44,5,0,1,0.5,0.5,0.5,5,1,22,27,81.5,0,22,2,4,3,Match Report
+35,Thu,Conf Lg,Semi-finals,Away,D 0–0,nl Feyenoord,fr Marseille,Y,RW,87,0,0,0,0,0,0,0,0,36,5,0,1,0.0,0.0,0.1,2,0,17,22,77.3,0,24,1,3,1,Match Report
+36,Sun,Eredivisie,Matchweek 32,Home,D 2–2,Feyenoord,PSV Eindhoven,Y,RW,45,0,0,0,0,1,0,0,0,22,0,0,2,0.1,0.1,0.0,1,0,13,15,86.7,2,13,2,5,4,Match Report
+37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,Wed,Conf Lg,Final,Neutral,L 0–1,nl Feyenoord,it Roma,Y,RW,73,0,0,0,0,2,0,0,0,39,1,0,0,0.2,0.2,0.0,1,0,23,27,85.2,2,29,5,4,2,Match Report
+39,,,,,19-8-5,,,18/32,,"1,528",4,6,0,0,50,15,2,0,925,42,8,20,5.7,5.7,4.7,69,6,547,664,82.4,62,651,95,65,44,

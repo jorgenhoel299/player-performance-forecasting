@@ -1,0 +1,55 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sun,Premier League,Matchweek 1,Away,W 3–0,Leicester City,West Brom,N,RM,24,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,1,7,1,0,0,Match Report
+1,Sun,Premier League,Matchweek 2,Home,W 4–2,Leicester City,Burnley,N,"RM,CM",8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,Match Report
+2,Wed,EFL Cup,Third round,Home,L 0–2,Leicester City,Arsenal,Y,AM,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+3,Sun,Premier League,Matchweek 3,Away,W 5–2,Leicester City,Manchester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Sun,Premier League,Matchweek 4,Home,L 0–3,Leicester City,West Ham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Sun,Premier League,Matchweek 5,Home,L 0–1,Leicester City,Aston Villa,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Thu,Europa Lg,Group stage,Home,W 3–0,eng Leicester City,ua Zorya Luhansk,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Sun,Premier League,Matchweek 6,Away,W 1–0,Leicester City,Arsenal,N,AM,6,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.3,1,0,6,11,54.5,2,4,0,0,0,Match Report
+8,Thu,Europa Lg,Group stage,Away,W 2–1,eng Leicester City,gr AEK Athens,Y,WB,90,0,0,0,0,1,1,0,0,43,1,3,2,0.1,0.1,0.0,1,0,18,27,66.7,3,14,0,1,0,Match Report
+9,Mon,Premier League,Matchweek 7,Away,W 4–1,Leicester City,Leeds United,Y,"WB,AM",90,0,0,0,0,0,0,0,0,44,4,2,0,0.0,0.0,0.1,2,1,13,23,56.5,1,22,1,4,0,Match Report
+10,Thu,Europa Lg,Group stage,Home,W 4–0,eng Leicester City,pt Braga,Y,WB,61,0,0,0,0,1,0,1,0,27,2,1,2,0.0,0.0,0.0,0,0,10,17,58.8,1,16,2,1,0,Match Report
+11,Sun,Premier League,Matchweek 8,Home,W 1–0,Leicester City,Wolves,N,"WB,RB",45,0,0,0,0,0,0,0,0,34,1,0,2,0.0,0.0,0.1,1,0,15,24,62.5,0,15,0,0,0,Match Report
+12,Sun,Premier League,Matchweek 9,Away,L 0–3,Leicester City,Liverpool,Y,"WB,RB",90,0,0,0,0,1,0,0,0,69,2,2,2,0.1,0.1,0.1,1,0,38,55,69.1,3,30,3,4,3,Match Report
+13,Thu,Europa Lg,Group stage,Away,D 3–3,eng Leicester City,pt Braga,Y,WB,90,0,1,0,0,0,0,1,0,42,2,1,1,0.0,0.0,0.5,3,1,25,35,71.4,2,26,0,1,1,Match Report
+14,Mon,Premier League,Matchweek 10,Home,L 1–2,Leicester City,Fulham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Thu,Europa Lg,Group stage,Away,L 0–1,eng Leicester City,ua Zorya Luhansk,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Sun,Premier League,Matchweek 11,Away,W 2–1,Leicester City,Sheffield Utd,Y,WB,90,0,0,0,0,2,1,0,0,85,1,0,1,0.1,0.1,0.0,4,1,52,77,67.5,6,50,3,3,3,Match Report
+17,Thu,Europa Lg,Group stage,Home,W 2–0,eng Leicester City,gr AEK Athens,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Sun,Premier League,Matchweek 12,Home,W 3–0,Leicester City,Brighton,Y,"WB,AM",90,0,0,0,0,1,1,0,0,77,1,1,2,0.1,0.1,0.1,5,0,52,65,80.0,8,42,4,7,5,Match Report
+19,Wed,Premier League,Matchweek 13,Home,L 0–2,Leicester City,Everton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Sun,Premier League,Matchweek 14,Away,W 2–0,Leicester City,Tottenham,Y,RW,90,0,0,0,0,2,0,1,0,48,1,2,2,0.1,0.1,0.2,3,0,22,34,64.7,2,23,2,3,2,Match Report
+21,Sat,Premier League,Matchweek 15,Home,D 2–2,Leicester City,Manchester Utd,Y,RW,80,0,0,0,0,1,0,0,0,41,1,0,1,0.1,0.1,0.0,4,0,19,31,61.3,5,23,1,3,2,Match Report
+22,Mon,Premier League,Matchweek 16,Away,D 1–1,Leicester City,Crystal Palace,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Sun,Premier League,Matchweek 17,Away,W 2–1,Leicester City,Newcastle Utd,Y,RW,90,0,1,0,0,0,0,0,0,48,2,1,2,0.0,0.0,0.1,3,1,21,36,58.3,6,28,4,4,3,Match Report
+24,Sat,FA Cup,Third round proper,Away,W 4–0,Leicester City,Stoke City,Y,RM,90,1,0,0,0,2,2,0,0,,,0,,,,,,,,,,,,,,,Match Report
+25,Sat,Premier League,Matchweek 19,Home,W 2–0,Leicester City,Southampton,Y,RW,90,0,0,0,0,0,0,1,0,52,1,2,2,0.0,0.0,0.2,7,1,21,41,51.2,4,32,5,2,1,Match Report
+26,Tue,Premier League,Matchweek 18,Home,W 2–0,Leicester City,Chelsea,Y,RM,76,0,1,0,0,1,1,0,0,35,2,0,0,0.0,0.0,0.9,6,2,23,29,79.3,3,21,3,4,1,Match Report
+27,Sun,FA Cup,Fourth round proper,Away,W 3–1,Leicester City,Brentford,N,,10,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+28,Wed,Premier League,Matchweek 20,Away,D 1–1,Leicester City,Everton,Y,RW,67,0,0,0,0,2,1,0,0,43,0,0,1,0.1,0.1,0.0,0,0,22,33,66.7,2,25,0,0,0,Match Report
+29,Sun,Premier League,Matchweek 21,Home,L 1–3,Leicester City,Leeds United,Y,RW,45,0,0,0,0,3,2,0,0,28,0,0,1,0.4,0.4,0.0,4,0,11,18,61.1,3,20,2,8,4,Match Report
+30,Wed,Premier League,Matchweek 22,Away,W 2–0,Leicester City,Fulham,N,"RM,RW",30,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,6,8,75.0,2,4,1,2,0,Match Report
+31,Sun,Premier League,Matchweek 23,Away,D 0–0,Leicester City,Wolves,N,RW,30,0,0,0,0,1,0,0,0,19,3,0,0,0.0,0.0,0.1,2,0,10,13,76.9,2,9,2,1,0,Match Report
+32,Wed,FA Cup,Fifth round proper,Home,W 1–0,Leicester City,Brighton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,Sat,Premier League,Matchweek 24,Home,W 3–1,Leicester City,Liverpool,Y,RW,73,0,0,0,0,0,0,0,0,35,1,1,3,0.0,0.0,0.0,0,0,13,24,54.2,0,22,1,2,2,Match Report
+34,Thu,Europa Lg,Round of 32,Neutral,D 0–0,eng Leicester City,cz Slavia Prague,Y,RW,63,0,0,0,0,1,0,0,0,29,3,1,2,0.0,0.0,0.0,0,0,12,20,60.0,1,19,3,1,1,Match Report
+35,Sun,Premier League,Matchweek 25,Away,W 2–1,Leicester City,Aston Villa,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,Thu,Europa Lg,Round of 32,Neutral,L 0–2,eng Leicester City,cz Slavia Prague,Y,LM,60,0,0,0,0,2,1,0,0,32,0,0,3,0.1,0.1,0.0,1,0,17,26,65.4,3,12,0,0,0,Match Report
+37,Sun,Premier League,Matchweek 26,Home,L 1–3,Leicester City,Arsenal,N,"LM,RM",45,0,0,0,0,1,0,0,0,32,5,0,0,0.0,0.0,0.1,1,0,14,19,73.7,4,16,0,1,1,Match Report
+38,Wed,Premier League,Matchweek 29,Away,D 1–1,Leicester City,Burnley,N,FW,24,0,0,0,0,2,1,0,0,21,0,0,0,0.1,0.1,0.1,3,0,16,18,88.9,2,14,0,1,0,Match Report
+39,Sat,Premier League,Matchweek 27,Away,W 2–1,Leicester City,Brighton,N,CM,19,0,1,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.2,1,1,9,15,60.0,0,10,1,0,0,Match Report
+40,Sun,Premier League,Matchweek 28,Home,W 5–0,Leicester City,Sheffield Utd,N,WB,45,0,1,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.1,5,2,28,34,82.4,3,19,2,1,0,Match Report
+41,Sun,FA Cup,Quarter-finals,Home,W 3–1,Leicester City,Manchester Utd,Y,DM,90,0,1,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,Match Report
+42,Sat,Premier League,Matchweek 30,Home,L 0–2,Leicester City,Manchester City,Y,WB,70,0,0,0,0,0,0,0,0,29,0,1,2,0.0,0.0,0.0,1,0,13,26,50.0,0,14,0,4,3,Match Report
+43,Sun,Premier League,Matchweek 31,Away,L 2–3,Leicester City,West Ham,N,AM,32,0,0,0,0,1,0,0,0,42,0,0,0,0.1,0.1,0.2,6,1,24,39,61.5,4,21,4,3,3,Match Report
+44,Sun,FA Cup,Semi-finals,Home,W 1–0,Leicester City,Southampton,N,,31,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+45,Thu,Premier League,Matchweek 32,Home,W 3–0,Leicester City,West Brom,N,WB,29,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,1,0,14,20,70.0,0,11,1,1,1,Match Report
+46,Mon,Premier League,Matchweek 33,Home,W 2–1,Leicester City,Crystal Palace,N,WB,21,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,9,66.7,1,3,0,0,0,Match Report
+47,Fri,Premier League,Matchweek 34,Away,D 1–1,Leicester City,Southampton,N,RB,22,0,0,0,0,1,0,0,0,32,1,0,1,0.0,0.0,0.3,1,0,22,28,78.6,1,17,0,0,0,Match Report
+48,Fri,Premier League,Matchweek 35,Home,L 2–4,Leicester City,Newcastle Utd,Y,"WB,RW,LW",90,1,0,0,0,1,1,0,0,71,1,1,1,0.1,0.1,0.2,7,0,50,64,78.1,6,36,3,1,1,Match Report
+49,Tue,Premier League,Matchweek 36,Away,W 2–1,Leicester City,Manchester Utd,Y,"RM,RB",90,0,1,0,0,0,0,0,0,78,3,1,3,0.0,0.0,0.2,6,2,40,64,62.5,5,43,0,5,2,Match Report
+50,Sat,FA Cup,Final,Neutral,W 1–0,Leicester City,Chelsea,N,,57,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+51,Tue,Premier League,Matchweek 37,Away,L 1–2,Leicester City,Chelsea,Y,WB,66,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,17,24,70.8,5,11,1,1,0,Match Report
+52,Sun,Premier League,Matchweek 38,Home,L 2–4,Leicester City,Tottenham,Y,RM,79,0,0,0,0,1,1,0,0,50,2,2,1,0.0,0.0,0.1,1,0,22,37,59.5,3,22,1,1,0,Match Report
+53,,,,,25-7-10,,,25/42,,"2,478",2,7,0,0,28,13,5,0,1336,41,26,39,1.4,1.4,4.0,82,13,709,1058,67.0,94,702,51,70,39,

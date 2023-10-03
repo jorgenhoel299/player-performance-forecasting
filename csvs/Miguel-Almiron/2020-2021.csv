@@ -1,0 +1,53 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Away,W 2–0,Newcastle Utd,West Ham,N,FW,6,0,1,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.1,1,1,10,11,90.9,1,10,3,0,0,Match Report
+1,Tue,EFL Cup,Second round,Home,W 1–0,Newcastle Utd,Blackburn,Y,FW,90,0,1,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+2,Sun,Premier League,Matchweek 2,Home,L 0–3,Newcastle Utd,Brighton,N,"FW,AM,CM",45,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.4,2,0,18,21,85.7,3,19,1,0,0,Match Report
+3,Wed,EFL Cup,Third round,Away,W 7–0,Newcastle Utd,Morecambe,Y,FW,61,1,1,0,0,4,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+4,Sun,Premier League,Matchweek 3,Away,D 1–1,Newcastle Utd,Tottenham,Y,"RM,FW",76,0,0,0,0,1,0,0,0,41,4,1,0,0.0,0.0,0.1,3,0,23,31,74.2,1,23,0,1,1,Match Report
+5,Wed,EFL Cup,Fourth round,Away,D 1 (5)–1 (4),Newcastle Utd,Newport County,Y,AM,61,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,Match Report
+6,Sat,Premier League,Matchweek 4,Home,W 3–1,Newcastle Utd,Burnley,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Thu,WCQ,WCQ — CONMEBOL (M),Home,D 2–2,py Paraguay,pe Peru,Y,AM,89,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+8,Tue,WCQ,WCQ — CONMEBOL (M),Away,W 1–0,py Paraguay,ve Venezuela,Y,FW,89,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,Match Report
+9,Sat,Premier League,Matchweek 5,Home,L 1–4,Newcastle Utd,Manchester Utd,N,CM,3,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,2,3,0,0,0,Match Report
+10,Sun,Premier League,Matchweek 6,Away,D 1–1,Newcastle Utd,Wolves,Y,"CM,RM",90,0,0,0,0,1,0,1,0,60,8,2,3,0.1,0.1,0.0,0,0,34,42,81.0,4,32,2,3,3,Match Report
+11,Sun,Premier League,Matchweek 7,Home,W 2–1,Newcastle Utd,Everton,Y,CM,82,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,3,0,27,32,84.4,3,30,1,4,2,Match Report
+12,Fri,Premier League,Matchweek 8,Away,L 0–2,Newcastle Utd,Southampton,Y,"CM,FW",90,0,0,0,0,0,0,0,0,34,2,2,1,0.0,0.0,0.0,1,0,17,22,77.3,4,22,0,6,1,Match Report
+13,Thu,WCQ,WCQ — CONMEBOL (M),Away,D 1–1,py Paraguay,ar Argentina,Y,FW,89,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,Match Report
+14,Sat,Premier League,Matchweek 9,Home,L 0–2,Newcastle Utd,Chelsea,N,RM,26,0,0,0,0,1,1,0,0,12,0,0,0,0.0,0.0,0.0,1,0,7,9,77.8,0,6,1,1,0,Match Report
+15,Fri,Premier League,Matchweek 10,Away,W 2–0,Newcastle Utd,Crystal Palace,Y,LM,67,0,0,0,0,0,0,0,0,31,2,0,1,0.0,0.0,0.0,1,0,17,25,68.0,3,18,1,0,0,Match Report
+16,Sat,Premier League,Matchweek 12,Home,W 2–1,Newcastle Utd,West Brom,Y,RM,85,1,0,0,0,4,3,0,0,48,1,2,0,0.4,0.4,0.0,1,0,32,33,97.0,3,27,5,3,1,Match Report
+17,Wed,Premier League,Matchweek 13,Away,L 2–5,Newcastle Utd,Leeds United,N,LM,16,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,5,0,1,1,Match Report
+18,Sat,Premier League,Matchweek 14,Home,D 1–1,Newcastle Utd,Fulham,Y,"LM,RM",90,0,0,0,0,1,1,0,0,35,1,2,0,0.1,0.1,0.0,5,1,24,29,82.8,2,27,2,1,1,Match Report
+19,Tue,EFL Cup,Quarter-finals,Away,L 0–1,Newcastle Utd,Brentford,Y,AM,64,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+20,Sat,Premier League,Matchweek 15,Away,L 0–2,Newcastle Utd,Manchester City,Y,LM,81,0,0,0,0,0,0,0,0,33,1,2,1,0.0,0.0,0.1,2,0,21,27,77.8,4,26,1,1,1,Match Report
+21,Wed,Premier League,Matchweek 16,Home,D 0–0,Newcastle Utd,Liverpool,N,RM,24,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,4,10,40.0,0,5,0,0,0,Match Report
+22,Sun,Premier League,Matchweek 17,Home,L 1–2,Newcastle Utd,Leicester City,Y,RM,63,0,0,0,0,1,0,0,0,35,0,1,0,0.0,0.0,0.0,1,0,24,28,85.7,3,26,2,1,1,Match Report
+23,Sat,FA Cup,Third round proper,Away,L 0–2,Newcastle Utd,Arsenal,Y,RM,80,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+24,Tue,Premier League,Matchweek 18,Away,L 0–1,Newcastle Utd,Sheffield Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,Mon,Premier League,Matchweek 19,Away,L 0–3,Newcastle Utd,Arsenal,Y,"RM,LM",86,0,0,0,0,1,0,0,0,38,2,1,2,0.0,0.0,0.1,2,0,22,27,81.5,4,28,4,4,1,Match Report
+26,Sat,Premier League,Matchweek 11,Away,L 0–2,Newcastle Utd,Aston Villa,Y,CM,80,0,0,0,0,1,1,0,0,43,3,0,2,0.0,0.0,0.2,2,0,25,33,75.8,4,24,3,1,1,Match Report
+27,Tue,Premier League,Matchweek 20,Home,L 1–2,Newcastle Utd,Leeds United,Y,"LM,FW,RM",90,1,0,0,0,2,2,0,0,38,3,0,0,0.4,0.4,0.1,4,0,17,22,77.3,1,23,4,4,3,Match Report
+28,Sat,Premier League,Matchweek 21,Away,W 2–0,Newcastle Utd,Everton,Y,AM,90,0,0,0,0,1,0,0,0,49,2,2,0,0.1,0.1,0.5,4,0,28,37,75.7,4,31,4,2,0,Match Report
+29,Tue,Premier League,Matchweek 22,Home,L 1–2,Newcastle Utd,Crystal Palace,Y,"AM,RM,CM",90,0,0,0,0,3,0,0,0,65,2,0,0,0.2,0.2,0.0,11,1,46,56,82.1,4,39,3,9,6,Match Report
+30,Sat,Premier League,Matchweek 23,Home,W 3–2,Newcastle Utd,Southampton,Y,"AM,LM",90,2,0,0,0,2,2,0,0,29,3,1,0,0.1,0.1,0.0,2,1,14,21,66.7,2,22,0,2,1,Match Report
+31,Mon,Premier League,Matchweek 24,Away,L 0–2,Newcastle Utd,Chelsea,Y,"FW,AM",90,0,0,0,0,1,0,0,0,41,1,0,1,0.1,0.1,0.0,1,0,26,34,76.5,2,26,0,3,2,Match Report
+32,Sun,Premier League,Matchweek 25,Away,L 1–3,Newcastle Utd,Manchester Utd,Y,AM,78,0,0,0,0,1,1,0,0,29,1,0,0,0.0,0.0,0.1,6,1,16,24,66.7,1,16,2,2,2,Match Report
+33,Sat,Premier League,Matchweek 26,Home,D 1–1,Newcastle Utd,Wolves,Y,FW,45,0,0,0,0,2,0,0,0,34,1,0,0,0.3,0.3,0.0,3,0,21,25,84.0,4,29,5,1,1,Match Report
+34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,Sat,Premier League,Matchweek 29,Away,L 0–3,Newcastle Utd,Brighton,Y,FW,75,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,2,0,22,30,73.3,2,27,2,1,1,Match Report
+36,Sun,Premier League,Matchweek 30,Home,D 2–2,Newcastle Utd,Tottenham,Y,"CM,RM",90,0,0,0,0,2,1,1,0,37,0,0,3,0.8,0.8,0.0,6,1,18,22,81.8,3,23,2,5,3,Match Report
+37,Sun,Premier League,Matchweek 31,Away,W 2–1,Newcastle Utd,Burnley,Y,CM,89,0,0,0,0,1,0,0,0,39,1,0,0,0.3,0.3,0.0,1,0,24,30,80.0,3,21,4,3,0,Match Report
+38,Sat,Premier League,Matchweek 32,Home,W 3–2,Newcastle Utd,West Ham,Y,CM,90,0,0,0,0,2,0,0,0,44,2,2,2,0.1,0.1,0.4,3,0,25,33,75.8,5,28,4,3,3,Match Report
+39,Sat,Premier League,Matchweek 33,Away,D 1–1,Newcastle Utd,Liverpool,Y,CM,84,0,0,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.0,0,0,22,25,88.0,1,29,0,5,1,Match Report
+40,Sun,Premier League,Matchweek 34,Home,L 0–2,Newcastle Utd,Arsenal,Y,CM,72,0,0,0,0,0,0,1,0,29,1,0,2,0.0,0.0,0.0,0,0,19,23,82.6,1,23,3,0,0,Match Report
+41,Fri,Premier League,Matchweek 35,Away,W 4–2,Newcastle Utd,Leicester City,Y,CM,87,0,0,0,0,1,0,0,0,47,3,2,1,0.0,0.0,0.5,2,0,23,31,74.2,2,28,1,1,0,Match Report
+42,Fri,Premier League,Matchweek 36,Home,L 3–4,Newcastle Utd,Manchester City,Y,CM,90,0,0,0,0,0,0,0,0,32,1,2,2,0.0,0.0,0.1,6,0,17,22,77.3,4,20,3,3,1,Match Report
+43,Wed,Premier League,Matchweek 37,Home,W 1–0,Newcastle Utd,Sheffield Utd,Y,"CM,FW",90,0,0,0,0,2,1,0,0,53,0,1,0,0.1,0.1,0.0,0,0,39,44,88.6,7,36,5,2,1,Match Report
+44,Sun,Premier League,Matchweek 38,Away,W 2–0,Newcastle Utd,Fulham,Y,FW,79,0,0,0,0,1,1,0,0,26,0,0,0,0.0,0.0,0.0,0,0,16,23,69.6,2,21,2,0,0,Match Report
+45,Thu,WCQ,WCQ — CONMEBOL (M),Away,D 0–0,py Paraguay,uy Uruguay,Y,FW,89,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+46,Tue,WCQ,WCQ — CONMEBOL (M),Home,L 0–2,py Paraguay,br Brazil,Y,FW,90,0,0,0,0,4,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+47,Mon,Copa América,Group stage,Neutral,W 3–1,py Paraguay,bo Bolivia,Y,"AM,CM",90,0,0,0,0,4,2,0,0,92,1,0,0,0.3,0.3,0.1,11,1,75,80,93.8,16,81,7,8,5,Match Report
+48,Mon,Copa América,Group stage,Neutral,L 0–1,py Paraguay,ar Argentina,Y,LW,90,0,0,0,0,2,0,0,0,64,0,0,2,0.1,0.1,0.1,3,0,37,45,82.2,5,51,9,12,6,Match Report
+49,Thu,Copa América,Group stage,Neutral,W 2–0,py Paraguay,cl Chile,Y,FW,76,1,1,1,1,0,0,0,0,36,1,1,1,0.8,0.0,0.4,2,1,20,24,83.3,2,26,5,3,2,Match Report
+50,Mon,Copa América,Group stage,Neutral,L 0–1,py Paraguay,uy Uruguay,Y,FW,32,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,3,11,1,1,1,Match Report
+51,,,,,16-11-21,,,42/48,,"3,519",6,4,1,1,50,18,5,0,1386,51,33,26,4.4,3.6,3.4,92,8,851,1057,80.5,116,942,92,97,53,

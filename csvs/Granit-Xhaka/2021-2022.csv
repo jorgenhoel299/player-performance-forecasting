@@ -1,0 +1,42 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Fri,Premier League,Matchweek 1,Away,L 0–2,Arsenal,Brentford,Y*,DM,90,0,0,0,0,2,0,0,0,93,1,2,2,0.1,0.1,0.0,6,0,79,89,88.8,16,53,3,1,1,Match Report
+1,Sun,Premier League,Matchweek 2,Home,L 0–2,Arsenal,Chelsea,Y*,DM,90,0,0,0,0,0,0,0,0,53,3,1,1,0.0,0.0,0.0,4,0,33,43,76.7,3,23,1,2,1,Match Report
+2,Wed,EFL Cup,Second round,Away,W 6–0,Arsenal,West Brom,Y,DM,66,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+3,Sat,Premier League,Matchweek 3,Away,L 0–5,Arsenal,Manchester City,Y,CM,34,0,0,0,0,0,0,0,1,11,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,8,0,0,0,Match Report
+4,Wed,Friendlies (M),Friendlies (M),Home,W 2–1,ch Switzerland,gr Greece,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Sun,Premier League,Matchweek 6,Home,W 3–1,Arsenal,Tottenham,Y,DM,81,0,0,0,0,0,0,0,0,54,3,1,1,0.0,0.0,0.0,1,0,41,48,85.4,5,31,0,2,2,Match Report
+6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Mon,Premier League,Matchweek 15,Away,L 1–2,Arsenal,Everton,Y,DM,90,0,0,0,0,0,0,1,0,78,2,1,0,0.0,0.0,0.0,1,1,54,70,77.1,7,53,0,0,0,Match Report
+8,Sat,Premier League,Matchweek 16,Home,W 3–0,Arsenal,Southampton,Y,CM,80,0,0,0,0,1,0,0,0,58,0,1,0,0.0,0.0,0.0,2,0,41,54,75.9,7,30,0,0,0,Match Report
+9,Wed,Premier League,Matchweek 17,Home,W 2–0,Arsenal,West Ham,Y,CM,90,0,0,0,0,4,0,0,0,69,1,0,1,0.4,0.4,0.0,3,0,56,63,88.9,13,39,3,0,0,Match Report
+10,Sat,Premier League,Matchweek 18,Away,W 4–1,Arsenal,Leeds United,Y,DM,90,0,1,0,0,1,0,1,0,68,5,1,1,0.1,0.1,0.7,4,1,49,54,90.7,12,43,3,1,0,Match Report
+11,Tue,EFL Cup,Quarter-finals,Home,W 5–1,Arsenal,Sunderland,N,,35,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+12,Sun,Premier League,Matchweek 19,Away,W 5–0,Arsenal,Norwich City,Y,DM,90,0,0,0,0,0,0,1,0,69,0,0,1,0.0,0.0,0.1,5,0,59,63,93.7,12,34,3,1,0,Match Report
+13,Sat,Premier League,Matchweek 21,Home,L 1–2,Arsenal,Manchester City,Y,"DM,CB",90,0,0,0,0,0,0,1,0,34,1,2,2,0.0,0.0,0.0,0,0,23,24,95.8,4,14,0,1,0,Match Report
+14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Thu,EFL Cup,Semi-finals,Away,D 0–0,Arsenal,Liverpool,Y,DM,23,0,0,0,0,0,0,0,1,,,0,,,,,,,,,,,,,,,Match Report
+16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Thu,Premier League,Matchweek 24,Away,W 1–0,Arsenal,Wolves,Y,"DM,CM",90,0,0,0,0,0,0,1,0,52,1,1,3,0.0,0.0,0.0,0,0,33,40,82.5,8,30,0,0,0,Match Report
+18,Sat,Premier League,Matchweek 26,Home,W 2–1,Arsenal,Brentford,Y,DM,90,0,0,0,0,0,0,0,0,73,2,1,1,0.0,0.0,0.1,6,0,57,65,87.7,9,47,4,2,1,Match Report
+19,Thu,Premier League,Matchweek 20,Home,W 2–1,Arsenal,Wolves,Y,"DM,CM",90,0,0,0,0,2,0,0,0,61,3,1,1,0.1,0.1,0.2,4,0,38,53,71.7,9,31,2,2,2,Match Report
+20,Sun,Premier League,Matchweek 28,Away,W 3–2,Arsenal,Watford,Y,"DM,CM",90,0,0,0,0,1,0,0,0,51,1,0,2,0.1,0.1,0.0,5,0,38,41,92.7,7,31,0,1,0,Match Report
+21,Sun,Premier League,Matchweek 29,Home,W 2–0,Arsenal,Leicester City,Y,DM,90,0,0,0,0,3,0,0,0,55,1,0,0,0.1,0.1,0.4,7,1,44,49,89.8,6,28,3,1,1,Match Report
+22,Wed,Premier League,Matchweek 27,Home,L 0–2,Arsenal,Liverpool,Y,DM,90,0,0,0,0,1,0,0,0,70,0,0,0,0.0,0.0,0.1,4,0,53,62,85.5,9,39,0,1,1,Match Report
+23,Sat,Premier League,Matchweek 30,Away,W 1–0,Arsenal,Aston Villa,Y,"DM,CM",90,0,0,0,0,0,0,1,0,65,0,0,0,0.0,0.0,0.1,3,1,60,63,95.2,8,41,1,0,0,Match Report
+24,Sat,Friendlies (M),Friendlies (M),Neutral,L 1–2,ch Switzerland,eng England,Y*,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+25,Tue,Friendlies (M),Friendlies (M),Neutral,D 1–1,ch Switzerland,xk Kosovo,Y*,DM,62,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+26,Mon,Premier League,Matchweek 31,Away,L 0–3,Arsenal,Crystal Palace,Y,"DM,CB,LB",90,0,0,0,0,2,1,1,0,105,2,1,0,0.0,0.0,0.0,1,0,91,98,92.9,14,61,3,1,1,Match Report
+27,Sat,Premier League,Matchweek 32,Home,L 1–2,Arsenal,Brighton,Y,LB,90,0,1,0,0,1,0,0,0,78,0,1,0,0.0,0.0,0.0,6,1,65,72,90.3,14,45,1,2,1,Match Report
+28,Sat,Premier League,Matchweek 33,Away,L 0–1,Arsenal,Southampton,Y,"DM,CB",90,0,0,0,0,3,1,0,0,98,0,1,1,0.2,0.2,0.1,4,0,70,84,83.3,15,60,3,2,2,Match Report
+29,Wed,Premier League,Matchweek 25,Away,W 4–2,Arsenal,Chelsea,Y,"DM,CM",90,0,0,0,0,1,0,0,0,53,0,2,0,0.1,0.1,0.0,1,0,31,45,68.9,4,24,1,2,2,Match Report
+30,Sat,Premier League,Matchweek 34,Home,W 3–1,Arsenal,Manchester Utd,Y,"DM,CM",90,1,0,0,0,1,1,1,0,78,0,2,0,0.0,0.0,0.1,3,0,68,73,93.2,10,55,0,0,0,Match Report
+31,Sun,Premier League,Matchweek 35,Away,W 2–1,Arsenal,West Ham,Y,"DM,LM",90,0,0,0,0,0,0,0,0,78,2,1,0,0.0,0.0,0.1,3,0,61,73,83.6,6,49,3,0,0,Match Report
+32,Sun,Premier League,Matchweek 36,Home,W 2–1,Arsenal,Leeds United,Y,DM,90,0,0,0,0,1,1,0,0,84,1,0,1,0.0,0.0,0.2,6,0,64,75,85.3,14,53,0,2,2,Match Report
+33,Thu,Premier League,Matchweek 22,Away,L 0–3,Arsenal,Tottenham,Y,"LM,LB,CB",90,0,0,0,0,1,0,1,0,69,1,1,1,0.0,0.0,0.0,1,0,49,61,80.3,6,34,1,0,0,Match Report
+34,Mon,Premier League,Matchweek 37,Away,L 0–2,Arsenal,Newcastle Utd,Y,"DM,LB",90,0,0,0,0,1,0,1,0,59,1,0,1,0.0,0.0,0.0,2,0,43,50,86.0,5,22,1,2,2,Match Report
+35,Sun,Premier League,Matchweek 38,Home,W 5–1,Arsenal,Everton,Y,DM,62,0,0,0,0,1,1,0,0,70,0,0,1,0.0,0.0,0.1,5,0,59,67,88.1,7,52,3,0,0,Match Report
+36,Thu,UEFA Nations League,League A,Away,L 1–2,ch Switzerland,cz Czech Republic,Y*,CM,90,0,0,0,0,1,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+37,Sun,UEFA Nations League,League A,Away,L 0–4,ch Switzerland,pt Portugal,Y*,DM,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+38,Thu,UEFA Nations League,League A,Home,L 0–1,ch Switzerland,es Spain,Y*,CM,90,0,0,0,0,0,0,0,0,,,3,,,,,,,,,,,,,,,Match Report
+39,Sun,UEFA Nations League,League A,Home,W 1–0,ch Switzerland,pt Portugal,Y*,CM,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+40,,,,,19-2-15,,,35/36,,"2,963",1,2,0,0,28,5,10,2,1786,32,28,21,1.4,1.4,2.3,87,5,1367,1589,86.0,230,1030,39,26,19,

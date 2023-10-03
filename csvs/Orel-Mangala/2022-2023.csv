@@ -1,0 +1,47 @@
+,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,Sat,Premier League,Matchweek 1,Away,L 0–2,Nott'ham Forest,Newcastle Utd,N,"DM,CM",16,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,4,0,0,0,Match Report
+1,Mon,PL2 — Div. 2,Matchweek 1,Home,L 1–3,Nottingham Forest,Southampton,Y,DM,60,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+2,Sun,Premier League,Matchweek 2,Home,W 1–0,Nott'ham Forest,West Ham,Y,CM,83,0,0,0,0,1,0,0,0,32,1,1,3,0.0,0.0,0.0,1,0,20,26,76.9,4,12,2,0,0,Match Report
+3,Sat,Premier League,Matchweek 3,Away,D 1–1,Nott'ham Forest,Everton,Y,CM,54,0,0,0,0,1,1,0,0,46,2,0,0,0.1,0.1,0.0,2,0,35,41,85.4,5,29,0,3,1,Match Report
+4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Mon,Premier League,Matchweek 9,Away,L 0–4,Nott'ham Forest,Leicester City,N,CM,22,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,13,2,3,0,Match Report
+6,Mon,Premier League,Matchweek 10,Home,D 1–1,Nott'ham Forest,Aston Villa,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Sat,Premier League,Matchweek 11,Away,L 0–1,Nott'ham Forest,Wolves,N,"LM,CM,DM",21,0,0,0,0,2,0,0,0,14,0,0,1,0.1,0.1,0.0,0,0,9,11,81.8,0,7,0,0,0,Match Report
+8,Tue,Premier League,Matchweek 12,Away,D 0–0,Nott'ham Forest,Brighton,Y,LM,60,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,0,0,12,16,75.0,1,11,1,2,0,Match Report
+9,Sat,Premier League,Matchweek 13,Home,W 1–0,Nott'ham Forest,Liverpool,N,CM,11,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,Match Report
+10,Sun,Premier League,Matchweek 14,Away,L 0–5,Nott'ham Forest,Arsenal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Sat,Premier League,Matchweek 15,Home,D 2–2,Nott'ham Forest,Brentford,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Wed,EFL Cup,Third round,Home,W 2–0,Nott'ham Forest,Tottenham,Y,DM,74,0,0,0,0,0,0,2,1,,,0,,,,,,,,,,,,,,,Match Report
+13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Wed,EFL Cup,Fourth round,Away,W 4–1,Nott'ham Forest,Blackburn,Y,CM,62,0,0,0,0,1,1,0,0,,,2,,,,,,,,,,,,,,,Match Report
+15,Tue,Premier League,Matchweek 17,Away,L 0–3,Nott'ham Forest,Manchester Utd,Y,LM,62,0,0,0,0,1,0,1,0,27,1,1,0,0.1,0.1,0.0,1,0,21,22,95.5,4,16,0,1,0,Match Report
+16,Sun,Premier League,Matchweek 18,Home,D 1–1,Nott'ham Forest,Chelsea,Y,LM,77,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,0,0,15,20,75.0,1,14,0,0,0,Match Report
+17,Wed,Premier League,Matchweek 19,Away,W 1–0,Nott'ham Forest,Southampton,Y,LM,59,0,0,0,0,1,0,0,0,28,2,1,0,0.0,0.0,0.0,2,0,15,21,71.4,3,13,3,3,1,Match Report
+18,Sat,FA Cup,Third round proper,Away,L 1–4,Nott'ham Forest,Blackpool,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Wed,EFL Cup,Quarter-finals,Home,D 1 (4)–1 (3),Nott'ham Forest,Wolves,Y,DM,64,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,Match Report
+20,Sat,Premier League,Matchweek 20,Home,W 2–0,Nott'ham Forest,Leicester City,Y,LM,69,0,0,0,0,0,0,0,0,39,2,1,1,0.0,0.0,0.0,1,0,28,33,84.8,3,22,1,2,2,Match Report
+21,Sat,Premier League,Matchweek 21,Away,D 1–1,Nott'ham Forest,Bournemouth,Y,LM,59,0,0,0,0,0,0,0,0,36,0,0,1,0.0,0.0,0.0,2,0,24,30,80.0,3,24,0,3,0,Match Report
+22,Wed,EFL Cup,Semi-finals,Home,L 0–3,Nott'ham Forest,Manchester Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Wed,EFL Cup,Semi-finals,Away,L 0–2,Nott'ham Forest,Manchester Utd,Y,DM,90,0,0,0,0,0,0,0,0,,,3,,,,,,,,,,,,,,,Match Report
+24,Sun,Premier League,Matchweek 22,Home,W 1–0,Nott'ham Forest,Leeds United,Y,LM,45,0,0,0,0,0,0,0,0,21,2,2,1,0.0,0.0,0.0,0,0,7,11,63.6,0,8,1,4,4,Match Report
+25,Sat,Premier League,Matchweek 23,Away,L 0–2,Nott'ham Forest,Fulham,Y,DM,55,0,0,0,0,0,0,0,0,29,0,3,1,0.0,0.0,0.0,0,0,19,23,82.6,0,17,0,0,0,Match Report
+26,Sat,Premier League,Matchweek 24,Home,D 1–1,Nott'ham Forest,Manchester City,N,"DM,CM",19,0,0,0,0,0,0,0,0,15,1,1,0,0.0,0.0,0.0,0,0,9,13,69.2,0,6,0,0,0,Match Report
+27,Sat,Premier League,Matchweek 25,Away,L 0–4,Nott'ham Forest,West Ham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,Sun,Premier League,Matchweek 26,Home,D 2–2,Nott'ham Forest,Everton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,Sat,Premier League,Matchweek 27,Away,L 1–3,Nott'ham Forest,Tottenham,Y,LM,45,0,0,0,0,0,0,0,0,29,0,0,2,0.0,0.0,0.0,0,0,22,26,84.6,3,17,0,1,1,Match Report
+30,Fri,Euro Qualifying,Group stage,Away,W 3–0,be Belgium,se Sweden,N,,30,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+31,Tue,Friendlies (M),Friendlies (M),Away,W 3–2,be Belgium,de Germany,Y,DM,79,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
+32,Sat,Premier League,Matchweek 29,Home,D 1–1,Nott'ham Forest,Wolves,Y,RM,85,0,0,0,0,0,0,0,0,32,2,0,3,0.0,0.0,0.0,0,0,17,23,73.9,2,14,0,2,1,Match Report
+33,Tue,Premier League,Matchweek 7,Away,L 1–2,Nott'ham Forest,Leeds United,Y,RM,55,1,0,0,0,1,1,0,0,23,0,1,1,0.2,0.2,0.0,0,0,15,18,83.3,0,9,0,0,0,Match Report
+34,Sat,Premier League,Matchweek 30,Away,L 0–2,Nott'ham Forest,Aston Villa,N,LM,26,0,0,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,4,1,2,2,Match Report
+35,Sun,Premier League,Matchweek 31,Home,L 0–2,Nott'ham Forest,Manchester Utd,N,"CM,DM",26,0,0,0,0,0,0,1,0,12,0,1,1,0.0,0.0,0.0,0,0,6,9,66.7,0,7,0,0,0,Match Report
+36,Sat,Premier League,Matchweek 32,Away,L 2–3,Nott'ham Forest,Liverpool,Y,CM,90,0,0,0,0,2,1,0,0,18,3,0,0,0.1,0.1,0.0,1,0,7,9,77.8,1,8,0,0,0,Match Report
+37,Wed,Premier League,Matchweek 33,Home,W 3–1,Nott'ham Forest,Brighton,Y,CM,90,0,0,0,0,0,0,0,0,31,1,3,1,0.0,0.0,0.0,0,0,18,20,90.0,0,18,1,2,2,Match Report
+38,Sat,Premier League,Matchweek 34,Away,L 1–2,Nott'ham Forest,Brentford,Y,CM,80,0,0,0,0,0,0,0,0,33,0,0,1,0.0,0.0,0.0,1,0,23,30,76.7,1,18,1,0,0,Match Report
+39,Mon,Premier League,Matchweek 35,Home,W 4–3,Nott'ham Forest,Southampton,Y,CM,90,0,0,0,0,0,0,0,0,37,2,0,2,0.0,0.0,0.0,0,0,29,34,85.3,1,14,0,1,1,Match Report
+40,Sat,Premier League,Matchweek 36,Away,D 2–2,Nott'ham Forest,Chelsea,Y,CM,90,0,1,0,0,0,0,0,0,32,3,3,0,0.0,0.0,0.3,2,1,20,23,87.0,6,12,1,3,1,Match Report
+41,Sat,Premier League,Matchweek 37,Home,W 1–0,Nott'ham Forest,Arsenal,Y,CM,90,0,0,0,0,0,0,0,0,17,1,3,2,0.0,0.0,0.0,0,0,5,8,62.5,0,7,0,1,0,Match Report
+42,Sun,Premier League,Matchweek 38,Away,D 1–1,Nott'ham Forest,Crystal Palace,Y,CM,71,0,0,0,0,0,0,0,0,24,2,1,0,0.0,0.0,0.0,0,0,12,17,70.6,3,10,0,1,0,Match Report
+43,Sat,Euro Qualifying,Group stage,Home,D 1–1,be Belgium,at Austria,Y,CM,75,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
+44,Tue,Euro Qualifying,Group stage,Away,W 3–0,be Belgium,ee Estonia,N,,34,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
+45,,,,,13-10-13,,,27/36,,"2,118",1,1,0,0,10,4,5,1,655,28,32,21,0.6,0.6,0.4,13,1,411,514,80.0,43,334,14,34,16,
