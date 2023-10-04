@@ -90,7 +90,10 @@ for season in seasons:
             os.makedirs(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name)
 
         df.to_csv(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name +"\\" + season + ".csv", encoding='utf-8')
- #      print('Extracted info for player {0}, season {1}'.format(name, season))
+        with open(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name +"\\" + season + ".html", 'wb+') as f:
+            f.write(data_player)
+
+        #      print('Extracted info for player {0}, season {1}'.format(name, season))
 
         # instead of making silly list with name in data, lets just write the frames to .csv :D
         # maybe filename should be name+season.csv.
