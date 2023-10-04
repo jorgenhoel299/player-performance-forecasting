@@ -1,8 +1,28 @@
 import math
 
 
-def fpl_score(position, playing_time, goals_scored, assists, shots_saved, penalties_saved, penalties_missed,
-              goals_conceded, yellow_cards, red_cards, own_goal):
+def scorer(row):
+    print(row)
+    playing_time = row.Min
+    goals_scored = row.Gls
+    assists = row.Ast
+    penalties_missed = row.PKatt
+    goals_conceded = int(row.Result[4])
+    yellow_cards = row.CrdY
+    red_cards = row.CrdR
+    own_goal = 0 #TODO
+
+    if row.Pos in ['RB', 'CB', 'LB']:
+        position = 'Defender'
+    elif row.Pos in ['CM', 'DM', 'AM', 'RM', 'LM']:
+        position = 'Midfielder'
+    elif row.Pos in ['FW', 'RW', 'LW']:
+        position = 'Forward'
+    elif row.Pos == 'GK':
+        position = 'Goalkeeper'
+    else:
+        raise ValueError('unknown position{}. consider adding to classify player.'.format(row.Pos))
+
     score = 0
     score += assists * 3
     score -= penalties_missed * 2
