@@ -1,33 +1,19 @@
-,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,Sat,Premier League,Matchweek 1,Away,L 1–2,Wolves,Leeds United,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,Sat,Premier League,Matchweek 2,Home,D 0–0,Wolves,Fulham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,Sat,Premier League,Matchweek 3,Away,L 0–1,Wolves,Tottenham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,Sat,Premier League,Matchweek 6,Home,L 2–3,Nott'ham Forest,Bournemouth,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,Fri,Premier League,Matchweek 8,Home,L 2–3,Nott'ham Forest,Fulham,Y,CB,62,0,0,0,0,0,0,1,0,34,2,0,0,0.0,0.0,0.0,1,0,19,27,70.4,1,19,0,0,0,Match Report
-5,Mon,Premier League,Matchweek 9,Away,L 0–4,Nott'ham Forest,Leicester City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,Mon,Premier League,Matchweek 10,Home,D 1–1,Nott'ham Forest,Aston Villa,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,Sat,Premier League,Matchweek 11,Away,L 0–1,Nott'ham Forest,Wolves,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,Tue,Premier League,Matchweek 12,Away,D 0–0,Nott'ham Forest,Brighton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-9,Sat,Premier League,Matchweek 13,Home,W 1–0,Nott'ham Forest,Liverpool,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,Sun,Premier League,Matchweek 14,Away,L 0–5,Nott'ham Forest,Arsenal,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-11,Sat,Premier League,Matchweek 15,Home,D 2–2,Nott'ham Forest,Brentford,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-12,Wed,EFL Cup,Third round,Home,W 2–0,Nott'ham Forest,Tottenham,Y,CB,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
-13,Sat,Premier League,Matchweek 16,Home,W 1–0,Nott'ham Forest,Crystal Palace,Y,CB,90,0,0,0,0,1,0,0,0,49,2,1,0,0.0,0.0,0.0,1,0,33,40,82.5,1,32,1,0,0,Match Report
-14,Wed,EFL Cup,Fourth round,Away,W 4–1,Nott'ham Forest,Blackburn,Y,CB,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,Match Report
-15,Tue,Premier League,Matchweek 17,Away,L 0–3,Nott'ham Forest,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,41,2,3,3,0.0,0.0,0.0,0,0,17,27,63.0,1,19,0,0,0,Match Report
-16,Sun,Premier League,Matchweek 18,Home,D 1–1,Nott'ham Forest,Chelsea,Y,CB,90,0,1,0,0,0,0,0,0,51,3,2,2,0.0,0.0,0.2,2,1,32,39,82.1,3,21,0,0,0,Match Report
-17,Wed,Premier League,Matchweek 19,Away,W 1–0,Nott'ham Forest,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,45,1,2,1,0.0,0.0,0.0,0,0,21,29,72.4,0,18,0,0,0,Match Report
-18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-19,Wed,EFL Cup,Quarter-finals,Home,D 1 (4)–1 (3),Nott'ham Forest,Wolves,Y,CB,60,1,0,0,0,1,1,0,0,,,2,,,,,,,,,,,,,,,Match Report
-20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-21,Sat,Premier League,Matchweek 21,Away,D 1–1,Nott'ham Forest,Bournemouth,Y,CB,74,0,0,0,0,0,0,0,0,60,0,3,4,0.0,0.0,0.0,0,0,43,51,84.3,3,35,0,0,0,Match Report
-22,Wed,EFL Cup,Semi-finals,Home,L 0–3,Nott'ham Forest,Manchester Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-23,Wed,EFL Cup,Semi-finals,Away,L 0–2,Nott'ham Forest,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
-24,Sun,Premier League,Matchweek 22,Home,W 1–0,Nott'ham Forest,Leeds United,Y,CB,90,0,0,0,0,0,0,1,0,38,3,1,1,0.0,0.0,0.0,1,0,13,22,59.1,1,9,0,2,1,Match Report
-25,Sat,Premier League,Matchweek 23,Away,L 0–2,Nott'ham Forest,Fulham,Y,CB,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0,Match Report
-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-27,Mon,Premier League,Matchweek 35,Home,W 4–3,Nott'ham Forest,Southampton,N,CB,10,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,1,2,0,0,0,Match Report
-28,Sat,Premier League,Matchweek 36,Away,D 2–2,Nott'ham Forest,Chelsea,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-29,Sat,Premier League,Matchweek 37,Home,W 1–0,Nott'ham Forest,Arsenal,N,CB,12,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,Match Report
-30,Sun,Premier League,Matchweek 38,Away,D 1–1,Nott'ham Forest,Crystal Palace,Y,CB,71,0,0,0,0,1,1,0,0,23,0,0,1,0.0,0.0,0.0,0,0,11,14,78.6,1,11,0,0,0,Match Report
-31,,,,,7-4-4,,,13/15,,"1,015",1,1,0,0,5,2,2,0,353,13,15,13,0.0,0.0,0.2,5,1,194,258,75.2,12,171,1,2,1,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Succ,Match Report,TotDist,PrgDist,xA,KP,1/3,PPA,CrsPA,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Off,PassLive,PassDead,TO,Fld,Def,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Lost,Pass,Tkl+Int,Clr,Err,Def Pen,Att Pen,Succ%,Tkld,Tkld%,CPA,Mis,Dis,Rec,PrgR,2CrdY,Fls,PKwon,PKcon,OG,Recov,Won,Won%
+0,2022-09-16,Fri,Premier League,Matchweek 8,Home,L 2–3,Nott'ham Forest,Fulham,Y,CB,62,0,0,0,0,0,0,1,0,34,2,0,0,0.0,0.0,0.0,1,0,19,27,70.4,1,19,0,0,https://fbref.com/en/matches/d0d07e66/Nottingham-Forest-Fulham-September-16-2022-Premier-League,371,156,0.0,0,0,0,0,26,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,40.0,3,0,2,4,0,7,0,,0,,0,0,0,20,0,0,1,0,0,0,3,2,50.0
+1,2022-11-09,Wed,EFL Cup,Third round,Home,W 2–0,Nott'ham Forest,Tottenham,Y,CB,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,https://fbref.com/en/matches/3976d636/Nottingham-Forest-Tottenham-Hotspur-November-9-2022-EFL-Cup,,,,,,,,,,,,,0,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,0,,,0,,,
+2,2022-11-12,Sat,Premier League,Matchweek 16,Home,W 1–0,Nott'ham Forest,Crystal Palace,Y,CB,90,0,0,0,0,1,0,0,0,49,2,1,0,0.0,0.0,0.0,1,0,33,40,82.5,1,32,1,0,https://fbref.com/en/matches/ee827a60/Nottingham-Forest-Crystal-Palace-November-12-2022-Premier-League,634,272,0.0,0,1,0,0,40,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,50.0,1,0,3,5,0,12,0,,0,,0,0,0,36,0,0,0,0,0,0,2,1,50.0
+3,2022-12-21,Wed,EFL Cup,Fourth round,Away,W 4–1,Nott'ham Forest,Blackburn,Y,CB,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,https://fbref.com/en/matches/c98a69ba/Blackburn-Rovers-Nottingham-Forest-December-21-2022-EFL-Cup,,,,,,,,,,,,,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,0,0,,,0,,,
+4,2022-12-27,Tue,Premier League,Matchweek 17,Away,L 0–3,Nott'ham Forest,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,41,2,3,3,0.0,0.0,0.0,0,0,17,27,63.0,1,19,0,0,https://fbref.com/en/matches/b860f634/Manchester-United-Nottingham-Forest-December-27-2022-Premier-League,280,143,0.0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,100.0,0,2,5,6,0,10,3,,0,,0,0,0,21,0,0,0,0,0,0,4,1,50.0
+5,2023-01-01,Sun,Premier League,Matchweek 18,Home,D 1–1,Nott'ham Forest,Chelsea,Y,CB,90,0,1,0,0,0,0,0,0,51,3,2,2,0.0,0.0,0.2,2,1,32,39,82.1,3,21,0,0,https://fbref.com/en/matches/c31cf944/Nottingham-Forest-Chelsea-January-1-2023-Premier-League,654,291,0.3,1,2,0,0,37,2,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,1,1,1,100.0,0,1,5,5,0,7,2,,0,,0,0,0,25,0,0,1,0,0,0,10,1,100.0
+6,2023-01-04,Wed,Premier League,Matchweek 19,Away,W 1–0,Nott'ham Forest,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,45,1,2,1,0.0,0.0,0.0,0,0,21,29,72.4,0,18,0,0,https://fbref.com/en/matches/cc17c735/Southampton-Nottingham-Forest-January-4-2023-Premier-League,346,169,0.0,0,0,0,0,28,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0,1,3,7,0,6,3,,0,,0,2,0,18,0,0,1,0,0,0,3,3,75.0
+7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,2023-01-11,Wed,EFL Cup,Quarter-finals,Home,D 1 (4)–1 (3),Nott'ham Forest,Wolves,Y,CB,60,1,0,0,0,1,1,0,0,,,2,,,,,,,,,,,,,,https://fbref.com/en/matches/95056fd5/Nottingham-Forest-Wolverhampton-Wanderers-January-11-2023-EFL-Cup,,,,,,,,,,,,,0,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,0,,,
+9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,2023-01-21,Sat,Premier League,Matchweek 21,Away,D 1–1,Nott'ham Forest,Bournemouth,Y,CB,74,0,0,0,0,0,0,0,0,60,0,3,4,0.0,0.0,0.0,0,0,43,51,84.3,3,35,0,0,https://fbref.com/en/matches/38c715b4/Bournemouth-Nottingham-Forest-January-21-2023-Premier-League,840,371,0.0,0,2,0,0,51,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,3,3,1,0,6,0,,0,,0,0,0,37,0,0,0,0,0,0,5,3,60.0
+11,2023-02-01,Wed,EFL Cup,Semi-finals,Away,L 0–2,Nott'ham Forest,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,https://fbref.com/en/matches/3e823bed/Manchester-United-Nottingham-Forest-February-1-2023-EFL-Cup,,,,,,,,,,,,,0,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,0,0,,,0,,,
+12,2023-02-05,Sun,Premier League,Matchweek 22,Home,W 1–0,Nott'ham Forest,Leeds United,Y,CB,90,0,0,0,0,0,0,1,0,38,3,1,1,0.0,0.0,0.0,1,0,13,22,59.1,1,9,0,1,https://fbref.com/en/matches/7c47cb5e/Nottingham-Forest-Leeds-United-February-5-2023-Premier-League,251,169,0.0,0,2,0,0,22,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,3,0,0,66.7,1,0,4,9,0,12,0,50.0,0,0.0,0,0,0,8,0,0,1,0,0,0,7,3,100.0
+13,2023-02-11,Sat,Premier League,Matchweek 23,Away,L 0–2,Nott'ham Forest,Fulham,Y,CB,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,https://fbref.com/en/matches/ee86dc99/Fulham-Nottingham-Forest-February-11-2023-Premier-League,68,0,0.0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,1,0,0,0,,0,,0,0,0,3,0,0,0,0,0,0,1,0,
+14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,2023-05-08,Mon,Premier League,Matchweek 35,Home,W 4–3,Nott'ham Forest,Southampton,N,CB,10,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,1,2,0,0,https://fbref.com/en/matches/23e7953f/Nottingham-Forest-Southampton-May-8-2023-Premier-League,28,24,0.0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,0,1,0,2,0,,0,,0,0,0,2,0,0,0,0,0,0,1,0,0.0
+16,2023-05-20,Sat,Premier League,Matchweek 37,Home,W 1–0,Nott'ham Forest,Arsenal,N,CB,12,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,https://fbref.com/en/matches/9a2ea2b3/Nottingham-Forest-Arsenal-May-20-2023-Premier-League,0,0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,1,0,,0,,0,0,0,0,0,0,0,0,0,0,1,0,
+17,2023-05-28,Sun,Premier League,Matchweek 38,Away,D 1–1,Nott'ham Forest,Crystal Palace,Y,CB,71,0,0,0,0,1,1,0,0,23,0,0,1,0.0,0.0,0.0,0,0,11,14,78.6,1,11,0,0,https://fbref.com/en/matches/181fd119/Crystal-Palace-Nottingham-Forest-May-28-2023-Premier-League,234,65,0.0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,0,6,0,6,1,,0,,0,0,0,12,0,0,1,0,0,0,3,1,100.0

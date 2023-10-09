@@ -1,15 +1,6 @@
-,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,Sat,Premier League,Matchweek 1,Away,L 0–2,Nott'ham Forest,Newcastle Utd,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,Mon,PL2 — Div. 2,Matchweek 1,Home,L 1–3,Nottingham Forest,Southampton,Y,CB,60,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
-2,Sun,Premier League,Matchweek 2,Home,W 1–0,Nott'ham Forest,West Ham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,Sat,Premier League,Matchweek 3,Away,D 1–1,Nott'ham Forest,Everton,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,Tue,EFL Cup,Second round,Away,W 3–0,Nott'ham Forest,Grimsby Town,Y,CB,90,0,0,0,0,0,0,0,0,,,6,,,,,,,,,,,,,,,Match Report
-5,Sun,Premier League,Matchweek 4,Home,L 0–2,Nott'ham Forest,Tottenham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,Wed,Premier League,Matchweek 5,Away,L 0–6,Nott'ham Forest,Manchester City,N,CB,12,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,15,16,93.8,0,7,0,0,0,Match Report
-7,Sat,Premier League,Matchweek 6,Home,L 2–3,Nott'ham Forest,Bournemouth,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,Fri,Premier League,Matchweek 8,Home,L 2–3,Nott'ham Forest,Fulham,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,Sat,Premier League,Matchweek 11,Away,L 0–1,Nott'ham Forest,Wolves,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-11,Tue,Premier League,Matchweek 12,Away,D 0–0,Nott'ham Forest,Brighton,N,RB,5,0,0,0,0,0,0,0,0,8,1,1,0,0.0,0.0,0.0,0,0,0,5,0.0,0,3,2,0,0,Match Report
-12,Sat,Premier League,Matchweek 13,Home,W 1–0,Nott'ham Forest,Liverpool,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-13,,,,,1-1-2,,,2/4,,167,0,0,0,0,0,0,1,0,25,2,7,0,0.0,0.0,0.0,1,0,15,21,71.4,0,10,2,0,0,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Succ,Match Report,TotDist,PrgDist,xA,KP,1/3,PPA,CrsPA,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Off,PassLive,PassDead,TO,Fld,Def,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Lost,Pass,Tkl+Int,Clr,Err,Def Pen,Att Pen,Succ%,Tkld,Tkld%,CPA,Mis,Dis,Rec,PrgR,2CrdY,Fls,PKwon,PKcon,OG,Recov,Won,Won%
+0,2022-08-08,Mon,PL2 — Div. 2,Matchweek 1,Home,L 1–3,Nottingham Forest,Southampton,Y,CB,60,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/f0313290/Nottingham-Forest-U21-Southampton-U21-August-8-2022-Premier-League-2----Division-2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+1,2022-08-23,Tue,EFL Cup,Second round,Away,W 3–0,Nott'ham Forest,Grimsby Town,Y,CB,90,0,0,0,0,0,0,0,0,,,6,,,,,,,,,,,,,,https://fbref.com/en/matches/9163b52e/Grimsby-Town-Nottingham-Forest-August-23-2022-EFL-Cup,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,1,,,0,,,
+2,2022-08-31,Wed,Premier League,Matchweek 5,Away,L 0–6,Nott'ham Forest,Manchester City,N,CB,12,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,15,16,93.8,0,7,0,0,https://fbref.com/en/matches/9760b466/Manchester-City-Nottingham-Forest-August-31-2022-Premier-League,253,126,0.0,0,0,0,0,14,2,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,1,1,0,0,100.0,0,0,1,0,0,0,0,,0,,0,0,0,10,0,0,0,0,0,0,3,1,100.0
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,2022-10-18,Tue,Premier League,Matchweek 12,Away,D 0–0,Nott'ham Forest,Brighton,N,RB,5,0,0,0,0,0,0,0,0,8,1,1,0,0.0,0.0,0.0,0,0,0,5,0.0,0,3,2,0,https://fbref.com/en/matches/4f876daa/Brighton-and-Hove-Albion-Nottingham-Forest-October-18-2022-Premier-League,0,0,0.0,0,0,0,0,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0,0,2,0,0,2,0,,0,,0,0,0,3,1,0,0,0,0,0,2,1,100.0

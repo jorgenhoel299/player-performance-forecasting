@@ -1,41 +1,39 @@
-,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,Tue,EFL Cup,Second round,Away,D 2 (5)–2 (3),Bournemouth,Norwich City,N,,47,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,Match Report
-1,Sat,Premier League,Matchweek 4,Away,L 0–9,Bournemouth,Liverpool,N,CB,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,Match Report
-2,Sat,National League,Matchweek 7,Home,L 0–1,Yeovil Town,York City,N,"On matchday squad, but did not play",Match Report,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,Tue,National League,Matchweek 9,Away,D 1–1,Yeovil Town,Eastleigh,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-4,Sat,National League,Matchweek 10,Home,D 2–2,Yeovil Town,Chesterfield,Y,RM,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,Sat,National League,Matchweek 12,Away,L 0–1,Yeovil Town,Southend United,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-7,Tue,National League,Matchweek 13,Away,D 1–1,Yeovil Town,Dorking Wand.,Y,LB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-8,Sat,National League,Matchweek 14,Home,W 1–0,Yeovil Town,Solihull Moors,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,Sat,National League,Matchweek 15,Away,L 0–2,Yeovil Town,Oldham Athletic,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-11,Tue,National League,Matchweek 16,Home,L 0–2,Yeovil Town,Aldershot Town,Y,RB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-12,Sat,National League,Matchweek 17,Away,D 1–1,Yeovil Town,Maidstone Utd,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-13,Tue,National League,Matchweek 8,Away,L 0–1,Yeovil Town,Woking,Y,CB,90,0,,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
-14,Tue,National League,Matchweek 18,Home,D 0–0,Yeovil Town,Maidenhead Utd,Y,RB,90,0,,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
-15,Sat,National League,Matchweek 19,Home,W 3–1,Yeovil Town,Gateshead,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-16,Sat,National League,Matchweek 20,Away,D 0–0,Yeovil Town,Notts County,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-17,Sat,National League,Matchweek 21,Home,W 1–0,Yeovil Town,FC Halifax Town,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-18,Sat,National League,Matchweek 23,Home,D 0–0,Yeovil Town,Scunthorpe Utd,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,Sun,National League,Matchweek 26,Home,W 2–0,Yeovil Town,Torquay,Y,FW,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-22,Sat,National League,Matchweek 30,Away,W 2–0,Yeovil Town,Dag & Red,Y,RM,90,0,,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
-23,Tue,National League,Matchweek 29,Home,D 0–0,Yeovil Town,Wealdstone,Y,RM,53,0,,0,0,,,0,1,,,,,,,,,,,,,,,,,,Match Report
-24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25,Sat,National League,Matchweek 35,Away,L 1–2,Yeovil Town,York City,Y,RM,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-26,Tue,National League,Matchweek 28,Home,D 1–1,Yeovil Town,Altrincham,Y,RM,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-27,Sat,National League,Matchweek 36,Home,L 0–1,Yeovil Town,Woking,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-28,Tue,National League,Matchweek 37,Home,W 1–0,Yeovil Town,Eastleigh,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-29,Sat,National League,Matchweek 38,Away,D 1–1,Yeovil Town,Chesterfield,Y,RM,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-30,Tue,National League,Matchweek 24,Away,L 1–2,Yeovil Town,Barnet,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-31,Sat,National League,Matchweek 39,Away,D 1–1,Yeovil Town,FC Halifax Town,Y,CB,90,0,,0,0,,,1,0,,,,,,,,,,,,,,,,,,Match Report
-32,Sat,National League,Matchweek 40,Home,L 0–1,Yeovil Town,Bromley,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-33,Sat,National League,Matchweek 41,Home,L 0–2,Yeovil Town,Southend United,Y,,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-34,Tue,National League,Matchweek 32,Away,L 0–4,Yeovil Town,Gateshead,Y,RM,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-35,Fri,National League,Matchweek 42,Away,D 1–1,Yeovil Town,Aldershot Town,Y,RB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-36,Mon,National League,Matchweek 43,Home,L 0–1,Yeovil Town,Dorking Wand.,Y,RB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-37,Sat,National League,Matchweek 44,Away,D 2–2,Yeovil Town,Solihull Moors,Y,RM,90,1,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-38,Tue,National League,Matchweek 27,Away,L 0–3,Yeovil Town,Wrexham,Y,RB,23,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,,Match Report
-39,,,,,6-14-13,,,31/33,,"2,742",1,0,0,0,0,0,4,1,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Succ,Match Report,TotDist,PrgDist,xA,KP,1/3,PPA,CrsPA,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Off,PassLive,PassDead,TO,Fld,Def,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl%,Lost,Pass,Tkl+Int,Clr,Err,Def Pen,Att Pen,Succ%,Tkld,Tkld%,CPA,Mis,Dis,Rec,PrgR,2CrdY,Fls,PKwon,PKcon,OG,Recov,Won,Won%
+0,2022-08-23,Tue,EFL Cup,Second round,Away,D 2 (5)–2 (3),Bournemouth,Norwich City,N,,47,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,https://fbref.com/en/matches/b44a73fc/Norwich-City-Bournemouth-August-23-2022-EFL-Cup,,,,,,,,,,,,,0,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,0,0,,,0,,,
+1,2022-08-27,Sat,Premier League,Matchweek 4,Away,L 0–9,Bournemouth,Liverpool,N,CB,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,https://fbref.com/en/matches/de515487/Liverpool-Bournemouth-August-27-2022-Premier-League,38,7,0.0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,,0,,0,0,0,1,0,0,0,0,0,0,1,0,
+2,2022-09-13,Tue,National League,Matchweek 9,Away,D 1–1,Yeovil Town,Eastleigh,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/f825f51e/Eastleigh-Yeovil-Town-September-13-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+3,2022-09-17,Sat,National League,Matchweek 10,Home,D 2–2,Yeovil Town,Chesterfield,Y,RM,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/718e43bf/Yeovil-Town-Chesterfield-September-17-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,2022-10-01,Sat,National League,Matchweek 12,Away,L 0–1,Yeovil Town,Southend United,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/2e5640de/Southend-United-Yeovil-Town-October-1-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+6,2022-10-04,Tue,National League,Matchweek 13,Away,D 1–1,Yeovil Town,Dorking Wand.,Y,LB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/e838f3d5/Dorking-Wand-Yeovil-Town-October-4-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+7,2022-10-08,Sat,National League,Matchweek 14,Home,W 1–0,Yeovil Town,Solihull Moors,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/00c682dd/Yeovil-Town-Solihull-Moors-October-8-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,2022-10-22,Sat,National League,Matchweek 15,Away,L 0–2,Yeovil Town,Oldham Athletic,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/e541f038/Oldham-Athletic-Yeovil-Town-October-22-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+10,2022-10-25,Tue,National League,Matchweek 16,Home,L 0–2,Yeovil Town,Aldershot Town,Y,RB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/6ec69691/Yeovil-Town-Aldershot-Town-October-25-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+11,2022-10-29,Sat,National League,Matchweek 17,Away,D 1–1,Yeovil Town,Maidstone Utd,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/ae664ffc/Maidstone-United-Yeovil-Town-October-29-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+12,2022-11-01,Tue,National League,Matchweek 8,Away,L 0–1,Yeovil Town,Woking,Y,CB,90,0,,0,0,,,1,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/71b17391/Woking-Yeovil-Town-November-1-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+13,2022-11-08,Tue,National League,Matchweek 18,Home,D 0–0,Yeovil Town,Maidenhead Utd,Y,RB,90,0,,0,0,,,1,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/b85d4c8e/Yeovil-Town-Maidenhead-United-November-8-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+14,2022-11-12,Sat,National League,Matchweek 19,Home,W 3–1,Yeovil Town,Gateshead,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/f98c9043/Yeovil-Town-Gateshead-November-12-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+15,2022-11-19,Sat,National League,Matchweek 20,Away,D 0–0,Yeovil Town,Notts County,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/c7996ba5/Notts-County-Yeovil-Town-November-19-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+16,2022-11-26,Sat,National League,Matchweek 21,Home,W 1–0,Yeovil Town,FC Halifax Town,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/b33706cf/Yeovil-Town-FC-Halifax-Town-November-26-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+17,2022-12-10,Sat,National League,Matchweek 23,Home,D 0–0,Yeovil Town,Scunthorpe Utd,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/8ba1da6b/Yeovil-Town-Scunthorpe-United-December-10-2022-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,2023-01-01,Sun,National League,Matchweek 26,Home,W 2–0,Yeovil Town,Torquay,Y,FW,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/b32a39eb/Yeovil-Town-Torquay-January-1-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,2023-01-28,Sat,National League,Matchweek 30,Away,W 2–0,Yeovil Town,Dag & Red,Y,RM,90,0,,0,0,,,1,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/280d8eea/Dagenham-and-Redbridge-Yeovil-Town-January-28-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+22,2023-01-31,Tue,National League,Matchweek 29,Home,D 0–0,Yeovil Town,Wealdstone,Y,RM,53,0,,0,0,,,0,1,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/16b24d67/Yeovil-Town-Wealdstone-January-31-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,2023-02-25,Sat,National League,Matchweek 35,Away,L 1–2,Yeovil Town,York City,Y,RM,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/84f651d1/York-City-Yeovil-Town-February-25-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+25,2023-02-28,Tue,National League,Matchweek 28,Home,D 1–1,Yeovil Town,Altrincham,Y,RM,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/e86ac10a/Yeovil-Town-Altrincham-February-28-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+26,2023-03-04,Sat,National League,Matchweek 36,Home,L 0–1,Yeovil Town,Woking,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/ce4a5438/Yeovil-Town-Woking-March-4-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+27,2023-03-07,Tue,National League,Matchweek 37,Home,W 1–0,Yeovil Town,Eastleigh,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/edd2539b/Yeovil-Town-Eastleigh-March-7-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+28,2023-03-11,Sat,National League,Matchweek 38,Away,D 1–1,Yeovil Town,Chesterfield,Y,RM,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/5792fc2f/Chesterfield-Yeovil-Town-March-11-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+29,2023-03-14,Tue,National League,Matchweek 24,Away,L 1–2,Yeovil Town,Barnet,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/3103d3a6/Barnet-Yeovil-Town-March-14-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+30,2023-03-18,Sat,National League,Matchweek 39,Away,D 1–1,Yeovil Town,FC Halifax Town,Y,CB,90,0,,0,0,,,1,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/22508654/FC-Halifax-Town-Yeovil-Town-March-18-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+31,2023-03-25,Sat,National League,Matchweek 40,Home,L 0–1,Yeovil Town,Bromley,Y,CB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/fbfeb9ed/Yeovil-Town-Bromley-March-25-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+32,2023-04-01,Sat,National League,Matchweek 41,Home,L 0–2,Yeovil Town,Southend United,Y,,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/c6fefac9/Yeovil-Town-Southend-United-April-1-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+33,2023-04-04,Tue,National League,Matchweek 32,Away,L 0–4,Yeovil Town,Gateshead,Y,RM,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/8a30c8a4/Gateshead-Yeovil-Town-April-4-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+34,2023-04-07,Fri,National League,Matchweek 42,Away,D 1–1,Yeovil Town,Aldershot Town,Y,RB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/b03a1ef1/Aldershot-Town-Yeovil-Town-April-7-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+35,2023-04-10,Mon,National League,Matchweek 43,Home,L 0–1,Yeovil Town,Dorking Wand.,Y,RB,90,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/07d350d3/Yeovil-Town-Dorking-Wand-April-10-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+36,2023-04-15,Sat,National League,Matchweek 44,Away,D 2–2,Yeovil Town,Solihull Moors,Y,RM,90,1,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/168608e2/Solihull-Moors-Yeovil-Town-April-15-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
+37,2023-04-18,Tue,National League,Matchweek 27,Away,L 0–3,Yeovil Town,Wrexham,Y,RB,23,0,,0,0,,,0,0,,,,,,,,,,,,,,,,,https://fbref.com/en/matches/61322121/Wrexham-Yeovil-Town-April-18-2023-National-League,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0,,,
