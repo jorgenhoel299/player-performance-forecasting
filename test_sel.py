@@ -51,7 +51,7 @@ for season in seasons:
         name = player.split("\"")[0].split('/')[-1]
         URL_player = 'https://fbref.com/' + cleaned_match_logs[i]
 
-        if ('Darko-Gyabi' in name):
+        if ('Albert-Sambi-Lokonga' in name):
             continue_with_players =True
         if not continue_with_players: continue
 
