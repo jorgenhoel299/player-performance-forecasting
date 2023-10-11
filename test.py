@@ -113,5 +113,5 @@ for season in seasons:
             # maybe filename should be name+season.csv.
             # And maybe we should add the column names before writing to file, for some reason they arent in the table
             #players_and_stats.append({'Name': name, 'Data' + season: df.copy()})
-        time.sleep(2.1) # probably can be shorter i guess
+            time.sleep(2)
 
