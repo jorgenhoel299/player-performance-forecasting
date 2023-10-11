@@ -1,4 +1,5 @@
 import os
+import string
 
 import requests, re
 from bs4 import BeautifulSoup, Comment
@@ -19,7 +20,9 @@ seasons = ['2023-2024','2019-2020','2020-2021','2021-2022','2022-2023'] # Add mo
 
 table_columns = []
 extracted_table_columns = 0
-
+button_links = ['summary', 'passing', 'passing_types', 'gca', 'defense', 'possession', 'misc']
+#premier league - c9 after the year
+split_by_slashes = []
 for season in seasons:
     URL_season = 'https://fbref.com/en/comps/9/' + season + '/stats/' + season +'-Premier-League-Stats'
     page = requests.get(URL_season).content
@@ -52,52 +55,63 @@ for season in seasons:
     for i, player in enumerate(player_cards): # when getting all players remove ':5'
         print('season:{0}, progress in season:{1}/{2}'.format(season, i+1, len(player_cards)))
         name = player.split("\"")[0].split('/')[-1]
-        if season == seasons[0]:
-            players_in_this_season.append(name)
-        else:
-            if name not in players_in_this_season: #retired on transferred
-                continue
+        for button in button_links:
+
+            split_by_slashes = cleaned_match_logs[i].split("/")
+            split_by_slashes[-2] = "c9"
+            split_by_slashes.insert(len(split_by_slashes) - 1, button)
 
 
-        URL_player = 'https://fbref.com/' + cleaned_match_logs[i]
+            URL_player = 'https://fbref.com/' + "/".join(split_by_slashes)
+           # print(URL_player)
+            data_player = requests.get(URL_player).text
+            soup_player = BeautifulSoup(data_player, 'html.parser')
+            # On these urls, the table is simpler to extract
+            table_player = soup_player.find('table', class_='min_width sortable stats_table min_width shade_zero')
+            # ELEGANTLY making table into array and then into a df
+            data = []
 
-        data_player = requests.get(URL_player).text
-        soup_player = BeautifulSoup(data_player, 'html.parser')
-        # On these urls, the table is simpler to extract
-        table_player = soup_player.find('table', class_='min_width sortable stats_table min_width shade_zero')
-        # ELEGANTLY making table into array and then into a df
-        data = []
-        for row in table_player.find_all('tr'):
-            row_data = []
-            for cell in row.find_all('td'):
-                row_data.append(cell.text)
+            thead = table_player.find("thead")
+            column_name_section = thead.find("tr", attrs={'class': None})
+            rows = column_name_section.find_all("th")
+            print(rows)
+            for row in rows:
+                table_columns.append(row.text)
 
-            if extracted_table_columns == 1: #get column headers but on second iteration
-                for cell in row.find_all('th'):
-                    table_columns.append(cell.text)
-                extracted_table_columns += 1
-                table_columns.remove('Date')
-            elif extracted_table_columns == 0:
-                extracted_table_columns += 1
+            tbody = table_player.find("tbody")
+            for row in tbody.find_all('tr'):
+                date = tbody.find('th').text
+                row_data = [date]
+                for cell in row.find_all('td'):
+                    if cell.text not in table_columns or "Match Report" in cell.text: #skip same columns from multiple tables in the page
+                        if 'Match Report' in str(cell.text):
+                            row_data.append(cell.find('a').get('href'))
+                        else:
+                            row_data.append(cell.text)
 
-            data.append(row_data)
-        df = pd.DataFrame(data)
-        df = df.iloc[2:] #drop first two rows that are empty
-        df = df.reset_index(drop=True)
-        df.columns = table_columns
+                data.append(row_data)
+            df = pd.DataFrame(data)
+            df = df.iloc[2:]
+            df = df.reset_index(drop=True)
+            df.columns = table_columns
+            table_columns = []
+            extracted_table_columns = 0
+            if not os.path.isdir(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name + "\\" + season):
+                os.makedirs(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name + "\\" + season)
 
-        if not os.path.isdir(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name):
-            os.makedirs(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name)
+            df.to_csv(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name +"\\" + season +"\\"+ button + ".csv", encoding='utf-8')
 
-        df.to_csv(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name +"\\" + season + ".csv", encoding='utf-8')
-        with open(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name +"\\" + season + ".html", 'wb+') as f:
-            f.write(data_player)
+            if not os.path.isdir(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name + "\\" + season + "\\htmls"):
+                os.makedirs(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name + "\\" + season + "\\htmls")
 
-        #      print('Extracted info for player {0}, season {1}'.format(name, season))
+            with open(os.path.dirname(os.path.abspath(__file__)) + "\\csvs\\" + name +"\\" + season +"\\htmls\\" + button + ".html", 'w', encoding='utf-8') as f:
+                f.write(data_player)
 
-        # instead of making silly list with name in data, lets just write the frames to .csv :D
-        # maybe filename should be name+season.csv.
-        # And maybe we should add the column names before writing to file, for some reason they arent in the table
-        #players_and_stats.append({'Name': name, 'Data' + season: df.copy()})
-        time.sleep(2.5) # probably can be shorter i guess
+            #      print('Extracted info for player {0}, season {1}'.format(name, season))
+
+            # instead of making silly list with name in data, lets just write the frames to .csv :D
+            # maybe filename should be name+season.csv.
+            # And maybe we should add the column names before writing to file, for some reason they arent in the table
+            #players_and_stats.append({'Name': name, 'Data' + season: df.copy()})
+        time.sleep(2) # probably can be shorter i guess
 
