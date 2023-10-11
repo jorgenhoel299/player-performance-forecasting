@@ -47,6 +47,7 @@ for season in seasons:
             links.append(re.findall(r'(en/players/[^\s]+)', str(each)))
     # (There are two for each player, one to the player profile, and one that shows match log for given season)
     # We only really need the match logs i guess, maybe the player-cards could be useful later.
+    print(links)
     match_logs = links[0][1::2]
     player_cards = links[0][0::2]
     cleaned_match_logs = [link.split('"')[0] for link in match_logs] # Getting just the link
@@ -74,7 +75,6 @@ for season in seasons:
             thead = table_player.find("thead")
             column_name_section = thead.find("tr", attrs={'class': None})
             rows = column_name_section.find_all("th")
-            print(rows)
             for row in rows:
                 table_columns.append(row.text)
 
@@ -113,5 +113,5 @@ for season in seasons:
             # maybe filename should be name+season.csv.
             # And maybe we should add the column names before writing to file, for some reason they arent in the table
             #players_and_stats.append({'Name': name, 'Data' + season: df.copy()})
-        time.sleep(2) # probably can be shorter i guess
+        time.sleep(2.1) # probably can be shorter i guess
 
