@@ -1,0 +1,37 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
+0,2022-08-06,Mon,Matchweek 3,Away,L 1–2,Liverpool,Manchester Utd,Y,RB,90,3,2,3,0,0,3,4,75.0,1,0,0,0,0,3,0,0,/en/matches/3c9a8f71/North-West-Derby-Manchester-United-Liverpool-August-22-2022-Premier-League
+1,2022-08-06,Sat,Matchweek 4,Home,W 9–0,Liverpool,Bournemouth,Y,RB,82,2,2,2,0,0,1,1,100.0,0,1,0,1,2,4,0,0,/en/matches/de515487/Liverpool-Bournemouth-August-27-2022-Premier-League
+2,2022-08-06,Wed,Matchweek 5,Home,W 2–1,Liverpool,Newcastle Utd,Y,RB,70,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,/en/matches/ac6047cf/Liverpool-Newcastle-United-August-31-2022-Premier-League
+3,2022-08-06,Sat,Matchweek 6,Away,D 0–0,Liverpool,Everton,Y,RB,58,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,/en/matches/073227b6/Merseyside-Derby-Everton-Liverpool-September-3-2022-Premier-League
+4,2022-08-06,Sat,Matchweek 9,Home,D 3–3,Liverpool,Brighton,Y,RB,90,2,2,1,1,0,2,4,50.0,2,1,0,1,1,3,3,0,/en/matches/aadd2e80/Liverpool-Brighton-and-Hove-Albion-October-1-2022-Premier-League
+5,2022-08-06,Sun,Matchweek 10,Away,L 2–3,Liverpool,Arsenal,Y,RB,45,0,0,0,0,0,0,1,0.0,1,1,0,1,1,1,0,0,/en/matches/84a48413/Arsenal-Liverpool-October-9-2022-Premier-League
+6,2022-08-06,Sun,Matchweek 11,Home,W 1–0,Liverpool,Manchester City,N,RB,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/2ed4b79f/Liverpool-Manchester-City-October-16-2022-Premier-League
+7,2022-08-06,Wed,Matchweek 12,Home,W 1–0,Liverpool,West Ham,Y,RB,90,0,0,0,0,0,0,2,0.0,2,1,0,1,2,2,0,0,/en/matches/dba5c5ec/Liverpool-West-Ham-United-October-19-2022-Premier-League
+8,2022-08-06,Sat,Matchweek 13,Away,L 0–1,Liverpool,Nott'ham Forest,N,RB,29,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/f92b67c2/Nottingham-Forest-Liverpool-October-22-2022-Premier-League
+9,2022-08-06,Sat,Matchweek 14,Home,L 1–2,Liverpool,Leeds United,Y,RB,78,4,3,3,1,0,3,4,75.0,1,0,0,0,1,5,2,0,/en/matches/b5b1e744/Liverpool-Leeds-United-October-29-2022-Premier-League
+10,2022-08-06,Sun,Matchweek 15,Away,W 2–1,Liverpool,Tottenham,Y,RB,90,0,0,0,0,0,0,0,,0,1,1,0,1,1,4,0,/en/matches/2954504d/Tottenham-Hotspur-Liverpool-November-6-2022-Premier-League
+11,2022-08-06,Sat,Matchweek 16,Home,W 3–1,Liverpool,Southampton,Y,RB,86,1,1,1,0,0,1,2,50.0,1,1,1,0,2,3,2,0,/en/matches/1579d34b/Liverpool-Southampton-November-12-2022-Premier-League
+12,2022-08-06,Mon,Matchweek 17,Away,W 3–1,Liverpool,Aston Villa,Y,RB,78,2,0,1,0,1,0,0,,0,0,0,0,2,4,1,0,/en/matches/ab7d4465/Aston-Villa-Liverpool-December-26-2022-Premier-League
+13,2022-08-06,Fri,Matchweek 18,Home,W 2–1,Liverpool,Leicester City,Y,RB,85,4,3,3,1,0,3,3,100.0,0,0,0,0,4,8,0,0,/en/matches/c5e4ccf5/Liverpool-Leicester-City-December-30-2022-Premier-League
+14,2022-08-06,Mon,Matchweek 19,Away,L 1–3,Liverpool,Brentford,Y,RB,90,1,0,0,1,0,1,2,50.0,1,1,0,1,1,2,1,0,/en/matches/af6aa183/Brentford-Liverpool-January-2-2023-Premier-League
+15,2022-08-06,Sat,Matchweek 20,Away,L 0–3,Liverpool,Brighton,Y,RB,90,0,0,0,0,0,0,2,0.0,2,2,2,0,1,1,1,0,/en/matches/cfc2a193/Brighton-and-Hove-Albion-Liverpool-January-14-2023-Premier-League
+16,2022-08-06,Sat,Matchweek 21,Home,D 0–0,Liverpool,Chelsea,N,RB,19,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/7febc290/Liverpool-Chelsea-January-21-2023-Premier-League
+17,2022-08-06,Sat,Matchweek 22,Away,L 0–3,Liverpool,Wolves,Y,RB,90,1,1,0,1,0,1,1,100.0,0,1,0,1,1,2,0,0,/en/matches/d67a16c8/Wolverhampton-Wanderers-Liverpool-February-4-2023-Premier-League
+18,2022-08-06,Mon,Matchweek 23,Home,W 2–0,Liverpool,Everton,Y,RB,90,5,4,4,1,0,4,5,80.0,1,1,0,1,1,6,1,0,/en/matches/a895ec23/Merseyside-Derby-Liverpool-Everton-February-13-2023-Premier-League
+19,2022-08-06,Sat,Matchweek 24,Away,W 2–0,Liverpool,Newcastle Utd,Y,RB,90,1,1,0,1,0,0,1,0.0,1,1,0,1,0,1,3,0,/en/matches/2f909763/Newcastle-United-Liverpool-February-18-2023-Premier-League
+20,2022-08-06,Sat,Matchweek 25,Away,D 0–0,Liverpool,Crystal Palace,Y,RB,70,2,0,0,2,0,1,1,100.0,0,3,1,2,0,2,0,2,/en/matches/8a59c49c/Crystal-Palace-Liverpool-February-25-2023-Premier-League
+21,2022-08-06,Wed,Matchweek 7,Home,W 2–0,Liverpool,Wolves,Y,RB,88,1,0,1,0,0,1,2,50.0,1,2,0,2,2,3,0,0,/en/matches/5e05f5f4/Liverpool-Wolverhampton-Wanderers-March-1-2023-Premier-League
+22,2022-08-06,Sun,Matchweek 26,Home,W 7–0,Liverpool,Manchester Utd,Y,RB,90,4,4,3,1,0,4,4,100.0,0,0,0,0,1,5,2,0,/en/matches/756e8036/North-West-Derby-Liverpool-Manchester-United-March-5-2023-Premier-League
+23,2022-08-06,Sat,Matchweek 27,Away,L 0–1,Liverpool,Bournemouth,Y,RB,64,4,3,2,1,1,2,3,66.7,1,0,0,0,4,8,1,0,/en/matches/d376dff8/Bournemouth-Liverpool-March-11-2023-Premier-League
+24,2022-08-06,Sat,Matchweek 29,Away,L 1–4,Liverpool,Manchester City,Y,RB,90,1,1,0,1,0,0,0,,0,2,1,1,2,3,2,0,/en/matches/40966f45/Manchester-City-Liverpool-April-1-2023-Premier-League
+25,2022-08-06,Tue,Matchweek 8,Away,D 0–0,Liverpool,Chelsea,N,"On matchday squad, but did not play",/en/matches/1028e683/Chelsea-Liverpool-April-4-2023-Premier-League,,,,,,,,,,,,,,,,,
+26,2022-08-06,Sun,Matchweek 30,Home,D 2–2,Liverpool,Arsenal,Y,RB,90,4,2,2,1,1,3,7,42.9,4,1,0,1,1,5,1,0,/en/matches/f3774baa/Liverpool-Arsenal-April-9-2023-Premier-League
+27,2022-08-06,Mon,Matchweek 31,Away,W 6–1,Liverpool,Leeds United,Y,RB,90,3,2,1,1,1,3,4,75.0,1,2,0,2,1,4,2,0,/en/matches/fd3d05f5/Leeds-United-Liverpool-April-17-2023-Premier-League
+28,2022-08-06,Sat,Matchweek 32,Home,W 3–2,Liverpool,Nott'ham Forest,Y,RB,90,1,1,0,0,1,1,2,50.0,1,0,0,0,1,2,1,0,/en/matches/99bfc321/Liverpool-Nottingham-Forest-April-22-2023-Premier-League
+29,2022-08-06,Wed,Matchweek 33,Away,W 2–1,Liverpool,West Ham,Y,RB,90,1,0,0,0,1,1,3,33.3,2,0,0,0,4,5,2,0,/en/matches/f2f795ae/West-Ham-United-Liverpool-April-26-2023-Premier-League
+30,2022-08-06,Sun,Matchweek 34,Home,W 4–3,Liverpool,Tottenham,Y,RB,90,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,/en/matches/e07267b3/Liverpool-Tottenham-Hotspur-April-30-2023-Premier-League
+31,2022-08-06,Wed,Matchweek 28,Home,W 1–0,Liverpool,Fulham,Y,RB,90,3,1,2,0,1,2,3,66.7,1,1,1,0,2,5,2,0,/en/matches/24fb8eca/Liverpool-Fulham-May-3-2023-Premier-League
+32,2022-08-06,Sat,Matchweek 35,Home,W 1–0,Liverpool,Brentford,Y,RB,90,1,1,1,0,0,1,3,33.3,2,0,0,0,0,1,3,0,/en/matches/6e2d1c8c/Liverpool-Brentford-May-6-2023-Premier-League
+33,2022-08-06,Mon,Matchweek 36,Away,W 3–0,Liverpool,Leicester City,Y,RB,90,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,/en/matches/7dd0fbd7/Leicester-City-Liverpool-May-15-2023-Premier-League
+34,2022-08-06,Sat,Matchweek 37,Home,D 1–1,Liverpool,Aston Villa,Y,RB,90,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,2,0,/en/matches/72646bde/Liverpool-Aston-Villa-May-20-2023-Premier-League
+35,2022-08-06,Sun,Matchweek 38,Away,D 4–4,Liverpool,Southampton,Y,RB,90,3,3,1,2,0,3,7,42.9,4,0,0,0,0,3,0,0,/en/matches/8e5c6ea7/Southampton-Liverpool-May-28-2023-Premier-League

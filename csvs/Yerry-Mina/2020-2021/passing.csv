@@ -1,0 +1,32 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2020-09-13,Sat,Matchweek 3,Away,W 2–1,Everton,Crystal Palace,Y,CB,90,54,60,90.0,1053,311,14,16,87.5,34,36,94.4,5,6,83.3,0,0.0,0.0,0,1,0,0,1,/en/matches/7387a72e/Crystal-Palace-Everton-September-26-2020-Premier-League
+1,2020-09-13,Sat,Matchweek 4,Home,W 4–2,Everton,Brighton,Y,CB,90,40,43,93.0,592,209,22,22,100.0,17,18,94.4,0,2,0.0,0,0.0,0.0,0,0,0,0,0,/en/matches/3cbb397e/Everton-Brighton-and-Hove-Albion-October-3-2020-Premier-League
+2,2020-09-13,Sat,Matchweek 5,Home,D 2–2,Everton,Liverpool,Y,CB,90,32,44,72.7,526,129,14,19,73.7,14,15,93.3,2,5,40.0,0,0.0,0.0,0,1,0,0,1,/en/matches/6da04e2d/Merseyside-Derby-Everton-Liverpool-October-17-2020-Premier-League
+3,2020-09-13,Sun,Matchweek 6,Away,L 0–2,Everton,Southampton,Y,CB,90,70,75,93.3,1296,410,14,14,100.0,49,51,96.1,4,5,80.0,0,0.0,0.0,0,3,0,0,0,/en/matches/6439c025/Southampton-Everton-October-25-2020-Premier-League
+4,2020-09-13,Sun,Matchweek 7,Away,L 1–2,Everton,Newcastle Utd,Y,CB,90,69,70,98.6,1290,324,20,20,100.0,44,44,100.0,3,3,100.0,0,0.0,0.0,0,2,0,0,1,/en/matches/448a43ee/Newcastle-United-Everton-November-1-2020-Premier-League
+5,2020-09-13,Sat,Matchweek 8,Home,L 1–3,Everton,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/ab9f408d/Everton-Manchester-United-November-7-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+6,2020-09-13,Sun,Matchweek 9,Away,W 3–2,Everton,Fulham,Y,CB,90,33,43,76.7,682,205,7,8,87.5,21,22,95.5,5,11,45.5,0,0.0,0.0,0,0,0,0,0,/en/matches/13524225/Fulham-Everton-November-22-2020-Premier-League
+7,2020-09-13,Sat,Matchweek 10,Home,L 0–1,Everton,Leeds United,N,"On matchday squad, but did not play",/en/matches/3eeb39c5/Everton-Leeds-United-November-28-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+8,2020-09-13,Sat,Matchweek 11,Away,D 1–1,Everton,Burnley,Y,CB,90,66,80,82.5,1172,365,19,23,82.6,41,44,93.2,3,7,42.9,0,0.0,0.0,0,4,0,0,5,/en/matches/399c7e1c/Burnley-Everton-December-5-2020-Premier-League
+9,2020-09-13,Sat,Matchweek 12,Home,W 1–0,Everton,Chelsea,Y,CB,90,18,22,81.8,387,189,3,3,100.0,12,12,100.0,2,4,50.0,0,0.0,0.0,0,0,0,0,1,/en/matches/4847e3c3/Everton-Chelsea-December-12-2020-Premier-League
+10,2020-09-13,Wed,Matchweek 13,Away,W 2–0,Everton,Leicester City,Y,CB,90,28,33,84.8,512,311,13,14,92.9,12,12,100.0,3,7,42.9,0,0.0,0.0,0,1,0,0,3,/en/matches/b30c816c/Leicester-City-Everton-December-16-2020-Premier-League
+11,2020-09-13,Sat,Matchweek 14,Home,W 2–1,Everton,Arsenal,Y,CB,90,57,60,95.0,1205,279,11,12,91.7,38,40,95.0,7,7,100.0,0,0.0,0.0,0,4,0,0,1,/en/matches/72fa1993/Everton-Arsenal-December-19-2020-Premier-League
+12,2020-09-13,Sat,Matchweek 15,Away,W 1–0,Everton,Sheffield Utd,Y,CB,90,68,82,82.9,1363,391,18,20,90.0,43,48,89.6,6,10,60.0,0,0.0,0.0,0,1,0,0,2,/en/matches/870d9436/Sheffield-United-Everton-December-26-2020-Premier-League
+13,2020-09-13,Fri,Matchweek 17,Home,L 0–1,Everton,West Ham,Y,CB,90,78,83,94.0,1417,481,30,30,100.0,43,46,93.5,4,6,66.7,0,0.0,0.0,1,13,0,0,13,/en/matches/0cd189c5/Everton-West-Ham-United-January-1-2021-Premier-League
+14,2020-09-13,Tue,Matchweek 18,Away,W 2–1,Everton,Wolves,Y,CB,90,78,80,97.5,1438,409,22,22,100.0,50,51,98.0,3,3,100.0,0,0.0,0.0,0,3,0,0,5,/en/matches/8cbb9119/Wolverhampton-Wanderers-Everton-January-12-2021-Premier-League
+15,2020-09-13,Wed,Matchweek 20,Home,D 1–1,Everton,Leicester City,Y,CB,90,28,35,80.0,479,180,12,13,92.3,15,17,88.2,1,5,20.0,0,0.0,0.0,0,1,0,0,0,/en/matches/3e4ff1e0/Everton-Leicester-City-January-27-2021-Premier-League
+16,2020-09-13,Sat,Matchweek 21,Home,L 0–2,Everton,Newcastle Utd,Y,CB,90,39,41,95.1,652,304,17,17,100.0,17,17,100.0,3,5,60.0,0,0.0,0.0,0,1,0,0,4,/en/matches/88053fb0/Everton-Newcastle-United-January-30-2021-Premier-League
+17,2020-09-13,Wed,Matchweek 22,Away,W 2–1,Everton,Leeds United,Y,CB,90,23,28,82.1,281,159,15,15,100.0,5,6,83.3,0,4,0.0,0,0.0,0.0,0,0,0,0,1,/en/matches/d9b96ee1/Leeds-United-Everton-February-3-2021-Premier-League
+18,2020-09-13,Sat,Matchweek 23,Away,D 3–3,Everton,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/6504b158/Manchester-United-Everton-February-6-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+19,2020-09-13,Sun,Matchweek 24,Home,L 0–2,Everton,Fulham,N,"On matchday squad, but did not play",/en/matches/46f84386/Everton-Fulham-February-14-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+20,2020-09-13,Wed,Matchweek 16,Home,L 1–3,Everton,Manchester City,Y,CB,17,2,4,50.0,26,10,2,2,100.0,0,1,0.0,0,1,0.0,0,0.0,0.0,0,0,0,0,0,/en/matches/78270b8a/Everton-Manchester-City-February-17-2021-Premier-League
+21,2020-09-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,2020-09-13,Sat,Matchweek 28,Home,L 1–2,Everton,Burnley,N,"On matchday squad, but did not play",/en/matches/91cce376/Everton-Burnley-March-13-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+23,2020-09-13,Mon,Matchweek 30,Home,D 1–1,Everton,Crystal Palace,Y,CB,90,56,62,90.3,1216,490,13,13,100.0,34,37,91.9,8,11,72.7,0,0.0,0.0,0,0,0,0,0,/en/matches/66f16cd5/Everton-Crystal-Palace-April-5-2021-Premier-League
+24,2020-09-13,Mon,Matchweek 31,Away,D 0–0,Everton,Brighton,Y,CB,57,32,36,88.9,524,198,11,12,91.7,20,22,90.9,0,1,0.0,0,0.0,0.0,0,0,0,0,0,/en/matches/ac6ac8f8/Brighton-and-Hove-Albion-Everton-April-12-2021-Premier-League
+25,2020-09-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,2020-09-13,Fri,Matchweek 33,Away,W 1–0,Everton,Arsenal,N,CB,2,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0,/en/matches/30f36320/Arsenal-Everton-April-23-2021-Premier-League
+27,2020-09-13,Sat,Matchweek 34,Home,L 1–2,Everton,Aston Villa,N,"On matchday squad, but did not play",/en/matches/2452619d/Everton-Aston-Villa-May-1-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+28,2020-09-13,Sun,Matchweek 35,Away,W 1–0,Everton,West Ham,Y,CB,61,29,31,93.5,476,182,13,14,92.9,13,13,100.0,2,3,66.7,0,0.0,0.0,0,0,0,0,1,/en/matches/57632a35/West-Ham-United-Everton-May-9-2021-Premier-League
+29,2020-09-13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,2020-09-13,Wed,Matchweek 37,Home,W 1–0,Everton,Wolves,Y,CB,90,57,60,95.0,1037,455,28,28,100.0,22,22,100.0,6,9,66.7,0,0.0,0.0,0,4,0,0,3,/en/matches/eb7bd01f/Everton-Wolverhampton-Wanderers-May-19-2021-Premier-League
