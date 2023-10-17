@@ -1,0 +1,26 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2022-08-05,Sat,Matchweek 3,Away,W 3–0,Arsenal,Bournemouth,Y,"FW,RW",90,0,1,0,0,2,0,1,0,42,2,1,2,0.1,0.1,0.3,4,0,19,21,90.5,3,20,1,6,2,/en/matches/7f11dd9e/Bournemouth-Arsenal-August-20-2022-Premier-League
+1,2022-08-05,Sat,Matchweek 4,Home,W 2–1,Arsenal,Fulham,Y,FW,88,0,0,0,0,4,1,1,0,52,0,1,2,0.3,0.3,0.2,4,0,24,35,68.6,2,22,1,4,1,/en/matches/8b69fd2d/Arsenal-Fulham-August-27-2022-Premier-League
+2,2022-08-05,Wed,Matchweek 5,Home,W 2–1,Arsenal,Aston Villa,Y,FW,87,1,0,0,0,4,3,0,0,37,0,0,0,0.9,0.9,0.1,4,0,14,20,70.0,2,24,1,7,1,/en/matches/cc235aad/Arsenal-Aston-Villa-August-31-2022-Premier-League
+3,2022-08-05,Sun,Matchweek 6,Away,L 1–3,Arsenal,Manchester Utd,Y,FW,90,0,0,0,0,2,0,1,0,54,2,0,0,0.1,0.1,0.6,5,0,29,34,85.3,6,35,2,9,3,/en/matches/61ddafa5/Manchester-United-Arsenal-September-4-2022-Premier-League
+4,2022-08-05,Sun,Matchweek 8,Away,W 3–0,Arsenal,Brentford,Y,FW,90,1,0,0,0,4,3,1,0,50,2,0,0,0.8,0.8,0.0,3,0,34,38,89.5,1,38,2,2,2,/en/matches/fd5626e6/Brentford-Arsenal-September-18-2022-Premier-League
+5,2022-08-05,Sat,Matchweek 9,Home,W 3–1,Arsenal,Tottenham,Y,FW,79,1,0,0,0,4,3,0,0,39,2,0,1,1.4,1.4,0.1,1,0,18,21,85.7,1,30,3,4,1,/en/matches/aefe3b90/North-London-Derby-Arsenal-Tottenham-Hotspur-October-1-2022-Premier-League
+6,2022-08-05,Sun,Matchweek 10,Home,W 3–2,Arsenal,Liverpool,Y,FW,89,0,0,0,0,2,2,0,0,34,1,0,2,0.3,0.3,0.0,5,2,19,21,90.5,3,23,4,4,3,/en/matches/84a48413/Arsenal-Liverpool-October-9-2022-Premier-League
+7,2022-08-05,Sun,Matchweek 11,Away,W 1–0,Arsenal,Leeds United,Y,FW,81,0,0,0,0,1,0,0,0,38,1,0,2,0.1,0.1,0.1,3,0,20,24,83.3,2,21,0,3,1,/en/matches/92885cfc/Leeds-United-Arsenal-October-16-2022-Premier-League
+8,2022-08-05,Sun,Matchweek 13,Away,D 1–1,Arsenal,Southampton,Y,FW,90,0,0,0,0,4,1,0,0,40,2,0,1,0.3,0.3,0.0,3,0,23,28,82.1,2,23,3,3,0,/en/matches/d8138438/Southampton-Arsenal-October-23-2022-Premier-League
+9,2022-08-05,Sun,Matchweek 14,Home,W 5–0,Arsenal,Nott'ham Forest,Y,FW,90,0,2,0,0,7,3,0,0,62,3,1,1,0.7,0.7,0.6,6,2,36,45,80.0,2,32,1,3,0,/en/matches/1b496cc1/Arsenal-Nottingham-Forest-October-30-2022-Premier-League
+10,2022-08-05,Sun,Matchweek 15,Away,W 1–0,Arsenal,Chelsea,Y,FW,90,0,0,0,0,3,1,0,0,53,2,2,1,0.5,0.5,0.2,8,1,18,27,66.7,5,30,4,10,4,/en/matches/af9dc838/North-West-London-Derby-Chelsea-Arsenal-November-6-2022-Premier-League
+11,2022-08-05,Sat,Matchweek 16,Away,W 2–0,Arsenal,Wolves,Y,FW,90,0,0,0,0,5,0,0,0,50,1,2,2,0.4,0.4,0.0,3,1,29,31,93.5,3,26,4,2,1,/en/matches/863d7a8f/Wolverhampton-Wanderers-Arsenal-November-12-2022-Premier-League
+12,2022-08-05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,2022-08-05,Sun,Matchweek 27,Away,W 3–0,Arsenal,Fulham,N,FW,14,0,0,0,0,1,1,0,0,10,1,0,0,0.1,0.1,0.0,0,0,6,8,75.0,1,8,1,1,1,/en/matches/d238973c/Fulham-Arsenal-March-12-2023-Premier-League
+14,2022-08-05,Sun,Matchweek 28,Home,W 4–1,Arsenal,Crystal Palace,N,FW,26,0,0,0,0,1,0,0,0,14,0,0,0,0.2,0.2,0.0,0,0,9,11,81.8,1,10,0,0,0,/en/matches/98e0de00/Arsenal-Crystal-Palace-March-19-2023-Premier-League
+15,2022-08-05,Sat,Matchweek 29,Home,W 4–1,Arsenal,Leeds United,Y,FW,59,2,0,1,1,3,1,0,0,46,1,0,2,1.9,1.1,0.1,5,3,27,31,87.1,0,33,0,11,4,/en/matches/2e4383ca/Arsenal-Leeds-United-April-1-2023-Premier-League
+16,2022-08-05,Sun,Matchweek 30,Away,D 2–2,Arsenal,Liverpool,Y,FW,79,1,0,0,0,2,1,0,0,34,1,0,1,1.0,1.0,0.0,1,0,14,21,66.7,2,27,0,5,4,/en/matches/f3774baa/Liverpool-Arsenal-April-9-2023-Premier-League
+17,2022-08-05,Sun,Matchweek 31,Away,D 2–2,Arsenal,West Ham,Y,FW,66,1,0,0,0,1,1,1,0,55,1,1,0,0.8,0.8,0.0,1,0,35,44,79.5,2,36,2,4,1,/en/matches/3120ba0d/West-Ham-United-Arsenal-April-16-2023-Premier-League
+18,2022-08-05,Fri,Matchweek 32,Home,D 3–3,Arsenal,Southampton,Y,FW,90,0,0,0,0,6,1,0,0,42,2,0,0,1.1,1.1,0.0,4,0,18,25,72.0,4,23,1,5,2,/en/matches/12efc7dd/Arsenal-Southampton-April-21-2023-Premier-League
+19,2022-08-05,Wed,Matchweek 33,Away,L 1–4,Arsenal,Manchester City,Y,"FW,LW",79,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,1,0,15,20,75.0,0,13,2,4,1,/en/matches/00a73645/Manchester-City-Arsenal-April-26-2023-Premier-League
+20,2022-08-05,Tue,Matchweek 34,Home,W 3–1,Arsenal,Chelsea,Y,FW,90,1,0,0,0,3,1,0,0,54,1,0,0,0.3,0.3,0.2,5,1,37,39,94.9,7,30,1,1,0,/en/matches/2d551ff5/North-West-London-Derby-Arsenal-Chelsea-May-2-2023-Premier-League
+21,2022-08-05,Sun,Matchweek 35,Away,W 2–0,Arsenal,Newcastle Utd,Y,FW,86,0,0,0,0,2,1,0,0,45,1,1,4,0.1,0.1,0.1,2,0,14,20,70.0,4,20,2,4,1,/en/matches/9bb3a778/Newcastle-United-Arsenal-May-7-2023-Premier-League
+22,2022-08-05,Sun,Matchweek 36,Home,L 0–3,Arsenal,Brighton,Y,FW,76,0,0,0,0,2,1,0,0,25,2,0,2,0.1,0.1,0.1,2,0,7,13,53.8,1,12,2,1,1,/en/matches/dc6fb985/Arsenal-Brighton-and-Hove-Albion-May-14-2023-Premier-League
+23,2022-08-05,Sat,Matchweek 37,Away,L 0–1,Arsenal,Nott'ham Forest,Y,"FW,LW",90,0,0,0,0,4,2,1,0,41,1,0,0,0.3,0.3,0.1,2,0,18,24,75.0,1,29,0,4,0,/en/matches/9a2ea2b3/Nottingham-Forest-Arsenal-May-20-2023-Premier-League
+24,2022-08-05,Sun,Matchweek 38,Home,W 5–0,Arsenal,Wolves,Y,FW,90,1,1,0,0,1,1,0,0,53,2,1,3,0.3,0.3,0.5,2,1,36,41,87.8,3,31,3,4,1,/en/matches/71d5bd41/Arsenal-Wolverhampton-Wanderers-May-28-2023-Premier-League

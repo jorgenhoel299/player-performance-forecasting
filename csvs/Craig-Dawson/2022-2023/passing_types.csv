@@ -1,0 +1,28 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
+0,2022-09-18,Sun,Matchweek 10,Home,W 3–1,West Ham,Fulham,Y,CB,90,47,47,0,0,0,1,0,0,0,0,0,0,40,0,0,/en/matches/42e38f9d/West-Ham-United-Fulham-October-9-2022-Premier-League
+1,2022-09-18,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2022-09-18,Sun,Matchweek 14,Away,L 0–1,West Ham,Manchester Utd,Y,CB,90,35,35,0,0,0,0,0,0,0,0,0,0,26,0,0,/en/matches/cd0f59f6/Manchester-United-West-Ham-United-October-30-2022-Premier-League
+3,2022-09-18,Sun,Matchweek 15,Home,L 1–2,West Ham,Crystal Palace,Y,CB,90,43,42,0,0,0,0,0,0,0,0,0,0,31,1,0,/en/matches/2586fb04/West-Ham-United-Crystal-Palace-November-6-2022-Premier-League
+4,2022-09-18,Sat,Matchweek 16,Home,L 0–2,West Ham,Leicester City,Y,CB,90,54,51,3,2,0,1,0,1,0,0,0,0,40,0,2,/en/matches/6e89557a/West-Ham-United-Leicester-City-November-12-2022-Premier-League
+5,2022-09-18,Mon,Matchweek 17,Away,L 1–3,West Ham,Arsenal,Y,CB,90,35,32,3,3,0,0,0,0,0,0,0,0,32,0,0,/en/matches/3be32b8b/Arsenal-West-Ham-United-December-26-2022-Premier-League
+6,2022-09-18,Fri,Matchweek 18,Home,L 0–2,West Ham,Brentford,Y,CB,90,50,50,0,0,0,0,2,0,0,0,0,0,39,0,1,/en/matches/56acbbbe/West-Ham-United-Brentford-December-30-2022-Premier-League
+7,2022-09-18,Wed,Matchweek 19,Away,D 2–2,West Ham,Leeds United,Y,CB,90,22,20,1,1,0,0,0,0,0,0,0,0,14,1,0,/en/matches/068406dc/Leeds-United-West-Ham-United-January-4-2023-Premier-League
+8,2022-09-18,,,,,,,,,,,,,,,,,,,,,,,,,
+9,2022-09-18,Sat,Matchweek 22,Home,W 3–0,Wolves,Liverpool,Y,CB,90,46,45,1,1,0,0,0,0,0,0,0,0,41,0,0,/en/matches/d67a16c8/Wolverhampton-Wanderers-Liverpool-February-4-2023-Premier-League
+10,2022-09-18,Sat,Matchweek 23,Away,W 2–1,Wolves,Southampton,Y,CB,90,63,60,2,1,0,0,0,1,0,0,0,0,55,1,0,/en/matches/8c7913ed/Southampton-Wolverhampton-Wanderers-February-11-2023-Premier-League
+11,2022-09-18,Sat,Matchweek 24,Home,L 0–1,Wolves,Bournemouth,Y,CB,90,99,96,3,2,0,0,0,1,0,0,0,0,85,0,0,/en/matches/eaf37ab4/Wolverhampton-Wanderers-Bournemouth-February-18-2023-Premier-League
+12,2022-09-18,Fri,Matchweek 25,Away,D 1–1,Wolves,Fulham,Y,CB,90,67,66,1,1,0,1,0,0,0,0,0,0,50,0,0,/en/matches/b452508e/Fulham-Wolverhampton-Wanderers-February-24-2023-Premier-League
+13,2022-09-18,Wed,Matchweek 7,Away,L 0–2,Wolves,Liverpool,Y,CB,90,47,45,2,2,0,0,0,0,0,0,0,0,39,0,0,/en/matches/5e05f5f4/Liverpool-Wolverhampton-Wanderers-March-1-2023-Premier-League
+14,2022-09-18,Sat,Matchweek 26,Home,W 1–0,Wolves,Tottenham,Y,CB,90,42,41,1,1,0,0,0,0,0,0,0,0,39,0,0,/en/matches/bf4ac62d/Wolverhampton-Wanderers-Tottenham-Hotspur-March-4-2023-Premier-League
+15,2022-09-18,Sun,Matchweek 27,Away,L 1–2,Wolves,Newcastle Utd,Y,CB,90,59,57,2,1,0,0,0,1,0,0,0,0,48,0,0,/en/matches/c416a3de/Newcastle-United-Wolverhampton-Wanderers-March-12-2023-Premier-League
+16,2022-09-18,Sat,Matchweek 28,Home,L 2–4,Wolves,Leeds United,Y,CB,45,45,45,0,0,0,0,0,0,0,0,0,0,37,0,1,/en/matches/3cb714a4/Wolverhampton-Wanderers-Leeds-United-March-18-2023-Premier-League
+17,2022-09-18,Sat,Matchweek 29,Away,D 1–1,Wolves,Nott'ham Forest,Y,CB,64,75,75,0,0,0,0,0,0,0,0,0,0,67,0,1,/en/matches/c14b278c/Nottingham-Forest-Wolverhampton-Wanderers-April-1-2023-Premier-League
+18,2022-09-18,Sat,Matchweek 30,Home,W 1–0,Wolves,Chelsea,Y,CB,90,31,31,0,0,0,0,0,0,0,0,0,0,25,0,1,/en/matches/aa1fa8dc/Wolverhampton-Wanderers-Chelsea-April-8-2023-Premier-League
+19,2022-09-18,Sat,Matchweek 31,Home,W 2–0,Wolves,Brentford,Y,CB,90,60,58,2,2,0,0,0,0,0,0,0,0,51,0,0,/en/matches/b2402736/Wolverhampton-Wanderers-Brentford-April-15-2023-Premier-League
+20,2022-09-18,Sat,Matchweek 32,Away,L 1–2,Wolves,Leicester City,Y,CB,90,61,56,5,4,0,1,0,1,0,0,0,0,49,0,0,/en/matches/b87e66b4/Leicester-City-Wolverhampton-Wanderers-April-22-2023-Premier-League
+21,2022-09-18,Tue,Matchweek 33,Home,W 2–0,Wolves,Crystal Palace,Y,CB,90,47,45,2,2,0,1,0,0,0,0,0,0,37,0,0,/en/matches/825c78f1/Wolverhampton-Wanderers-Crystal-Palace-April-25-2023-Premier-League
+22,2022-09-18,Sat,Matchweek 34,Away,L 0–6,Wolves,Brighton,Y,CB,45,27,25,2,2,0,0,0,0,0,0,0,0,25,0,0,/en/matches/21f920e0/Brighton-and-Hove-Albion-Wolverhampton-Wanderers-April-29-2023-Premier-League
+23,2022-09-18,Sat,Matchweek 35,Home,W 1–0,Wolves,Aston Villa,Y,CB,90,36,35,0,0,0,0,0,0,0,0,0,0,29,1,0,/en/matches/217a7faf/Wolverhampton-Wanderers-Aston-Villa-May-6-2023-Premier-League
+24,2022-09-18,Sat,Matchweek 36,Away,L 0–2,Wolves,Manchester Utd,Y,CB,90,60,57,3,2,0,0,0,1,0,0,0,0,53,0,0,/en/matches/f5d61382/Manchester-United-Wolverhampton-Wanderers-May-13-2023-Premier-League
+25,2022-09-18,Sat,Matchweek 37,Home,D 1–1,Wolves,Everton,Y,CB,90,61,60,1,1,0,1,0,0,0,0,0,0,50,0,0,/en/matches/ff2b58c3/Wolverhampton-Wanderers-Everton-May-20-2023-Premier-League
+26,2022-09-18,Sun,Matchweek 38,Away,L 0–5,Wolves,Arsenal,N,"On matchday squad, but did not play",/en/matches/71d5bd41/Arsenal-Wolverhampton-Wanderers-May-28-2023-Premier-League,,,,,,,,,,,,,,,,

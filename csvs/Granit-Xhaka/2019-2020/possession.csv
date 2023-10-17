@@ -1,0 +1,35 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
+0,2019-08-11,Sat,Matchweek 3,Away,L 1–3,Arsenal,Liverpool,Y*,CM,90,101,14,54,40,9,0,101,1,0,0.0,1,100.0,48,188,113,0,0,0,3,1,64,1,/en/matches/102b241e/Liverpool-Arsenal-August-24-2019-Premier-League
+1,2019-08-11,Sun,Matchweek 4,Home,D 2–2,Arsenal,Tottenham,Y*,CM,90,78,2,13,53,12,1,78,2,1,50.0,1,50.0,34,183,100,0,0,0,1,0,48,0,/en/matches/0b6b8aaf/North-London-Derby-Arsenal-Tottenham-Hotspur-September-1-2019-Premier-League
+2,2019-08-11,Sun,Matchweek 5,Away,D 2–2,Arsenal,Watford,Y*,DM,90,62,4,17,40,6,1,62,1,1,100.0,0,0.0,40,270,154,2,2,0,1,0,42,0,/en/matches/8257eda8/Watford-Arsenal-September-15-2019-Premier-League
+3,2019-08-11,Sun,Matchweek 6,Home,W 3–2,Arsenal,Aston Villa,Y*,"DM,CM",71,60,1,11,34,15,0,60,0,0,,0,,45,214,145,1,2,0,0,2,53,5,/en/matches/d5fa0563/Arsenal-Aston-Villa-September-22-2019-Premier-League
+4,2019-08-11,Mon,Matchweek 7,Away,D 1–1,Arsenal,Manchester Utd,Y*,CM,90,52,3,12,33,7,2,52,1,0,0.0,1,100.0,23,108,37,1,0,0,0,0,33,1,/en/matches/ce7501cd/Manchester-United-Arsenal-September-30-2019-Premier-League
+5,2019-08-11,Sun,Matchweek 8,Home,W 1–0,Arsenal,Bournemouth,Y*,DM,90,70,4,23,43,4,2,70,0,0,,0,,33,193,105,2,1,0,0,0,43,1,/en/matches/9575566f/Arsenal-Bournemouth-October-6-2019-Premier-League
+6,2019-08-11,Mon,Matchweek 9,Away,L 0–1,Arsenal,Sheffield Utd,Y*,DM,68,83,5,30,36,17,2,83,1,1,100.0,0,0.0,45,215,81,0,0,0,0,1,64,0,/en/matches/f63044fd/Sheffield-United-Arsenal-October-21-2019-Premier-League
+7,2019-08-11,Sun,Matchweek 10,Home,D 2–2,Arsenal,Crystal Palace,Y*,CM,60,42,1,10,24,9,2,42,0,0,,0,,21,103,46,0,1,0,0,0,25,1,/en/matches/077b30ff/Arsenal-Crystal-Palace-October-27-2019-Premier-League
+8,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,2019-08-11,Sun,Matchweek 14,Away,D 2–2,Arsenal,Norwich City,Y,"DM,CM",90,75,4,19,44,12,0,75,0,0,,0,,45,169,67,1,0,0,2,0,56,0,/en/matches/39fce32e/Norwich-City-Arsenal-December-1-2019-Premier-League
+10,2019-08-11,Thu,Matchweek 15,Home,L 1–2,Arsenal,Brighton,Y,DM,90,61,5,21,32,9,0,61,4,4,100.0,0,0.0,38,151,84,1,3,0,2,0,42,1,/en/matches/372828cb/Arsenal-Brighton-and-Hove-Albion-December-5-2019-Premier-League
+11,2019-08-11,Mon,Matchweek 16,Away,W 3–1,Arsenal,West Ham,Y,DM,85,93,4,34,50,9,0,93,3,3,100.0,0,0.0,58,288,99,0,1,0,1,1,75,0,/en/matches/a48c4638/West-Ham-United-Arsenal-December-9-2019-Premier-League
+12,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,2019-08-11,Sat,Matchweek 18,Away,D 0–0,Arsenal,Everton,Y,DM,90,78,4,28,47,4,0,78,2,2,100.0,0,0.0,45,199,108,0,0,0,2,0,59,1,/en/matches/b9d1d1a7/Everton-Arsenal-December-21-2019-Premier-League
+14,2019-08-11,Thu,Matchweek 19,Away,D 1–1,Arsenal,Bournemouth,Y,DM,90,106,2,15,71,22,2,106,1,1,100.0,0,0.0,78,354,188,1,3,0,2,1,92,3,/en/matches/5b1ecf02/Bournemouth-Arsenal-December-26-2019-Premier-League
+15,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,2019-08-11,Wed,Matchweek 21,Home,W 2–0,Arsenal,Manchester Utd,Y,"DM,CM",90,71,2,28,33,10,0,71,2,1,50.0,1,50.0,24,136,62,1,1,0,1,0,45,0,/en/matches/f6b7d570/Arsenal-Manchester-United-January-1-2020-Premier-League
+17,2019-08-11,Sat,Matchweek 22,Away,D 1–1,Arsenal,Crystal Palace,Y,DM,90,54,1,7,45,2,1,54,2,1,50.0,1,50.0,32,170,45,0,1,0,1,0,43,1,/en/matches/e1fdc1f9/Crystal-Palace-Arsenal-January-11-2020-Premier-League
+18,2019-08-11,Sat,Matchweek 23,Home,D 1–1,Arsenal,Sheffield Utd,Y,DM,90,101,6,37,56,9,1,101,0,0,,0,,54,391,285,4,1,1,0,1,65,0,/en/matches/0333a4b6/Arsenal-Sheffield-United-January-18-2020-Premier-League
+19,2019-08-11,Tue,Matchweek 24,Away,D 2–2,Arsenal,Chelsea,Y,"CB,DM",90,64,11,33,29,2,0,64,0,0,,0,,34,133,61,1,0,0,0,0,41,0,/en/matches/38d058ad/North-West-London-Derby-Chelsea-Arsenal-January-21-2020-Premier-League
+20,2019-08-11,Sun,Matchweek 25,Away,D 0–0,Arsenal,Burnley,Y,"LB,DM",90,82,10,27,42,13,0,82,1,1,100.0,0,0.0,33,151,97,2,0,0,0,1,52,1,/en/matches/a6b40849/Burnley-Arsenal-February-2-2020-Premier-League
+21,2019-08-11,Sun,Matchweek 26,Home,W 4–0,Arsenal,Newcastle Utd,Y,DM,90,112,2,12,78,22,0,112,0,0,,0,,71,340,210,1,2,0,0,0,92,2,/en/matches/6ce374b0/Arsenal-Newcastle-United-February-16-2020-Premier-League
+22,2019-08-11,Sun,Matchweek 27,Home,W 3–2,Arsenal,Everton,Y,"DM,LM",90,79,3,22,47,11,3,79,2,2,100.0,0,0.0,58,292,154,5,1,1,0,1,64,1,/en/matches/485003ed/Arsenal-Everton-February-23-2020-Premier-League
+23,2019-08-11,Sat,Matchweek 29,Home,W 1–0,Arsenal,West Ham,Y,"DM,CM",90,89,6,19,52,18,0,89,1,1,100.0,0,0.0,54,353,214,4,3,0,0,0,68,3,/en/matches/bf382825/Arsenal-West-Ham-United-March-7-2020-Premier-League
+24,2019-08-11,Wed,Matchweek 28,Away,L 0–3,Arsenal,Manchester City,Y,LM,7,1,0,0,1,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0,/en/matches/5825b217/Manchester-City-Arsenal-June-17-2020-Premier-League
+25,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,2019-08-11,Thu,Matchweek 31,Away,W 2–0,Arsenal,Southampton,Y,CM,90,50,0,14,30,7,0,50,0,0,,0,,32,175,114,2,0,0,1,0,36,0,/en/matches/38757aa1/Southampton-Arsenal-June-25-2020-Premier-League
+27,2019-08-11,Wed,Matchweek 32,Home,W 4–0,Arsenal,Norwich City,Y,CM,90,64,3,15,37,12,1,64,0,0,,0,,37,201,70,2,0,0,6,2,47,3,/en/matches/cb52b4c8/Arsenal-Norwich-City-July-1-2020-Premier-League
+28,2019-08-11,Sat,Matchweek 33,Away,W 2–0,Arsenal,Wolves,Y,CM,90,59,6,12,42,5,0,59,0,0,,0,,33,122,38,0,0,0,0,0,40,0,/en/matches/df13ee5b/Wolverhampton-Wanderers-Arsenal-July-4-2020-Premier-League
+29,2019-08-11,Tue,Matchweek 34,Home,D 1–1,Arsenal,Leicester City,Y,CM,90,52,1,8,32,13,0,52,1,0,0.0,1,100.0,40,133,33,0,1,0,3,0,36,3,/en/matches/a26b0a22/Arsenal-Leicester-City-July-7-2020-Premier-League
+30,2019-08-11,Sun,Matchweek 35,Away,L 1–2,Arsenal,Tottenham,Y,"CM,DM",90,95,2,14,67,14,0,95,1,1,100.0,0,0.0,74,372,196,3,1,0,0,1,86,3,/en/matches/6630c721/North-London-Derby-Tottenham-Hotspur-Arsenal-July-12-2020-Premier-League
+31,2019-08-11,Wed,Matchweek 36,Home,W 2–1,Arsenal,Liverpool,Y,CM,90,45,10,26,16,4,0,45,2,2,100.0,0,0.0,18,59,24,1,1,0,0,0,19,0,/en/matches/12f95828/Arsenal-Liverpool-July-15-2020-Premier-League
+32,2019-08-11,Tue,Matchweek 37,Away,L 0–1,Arsenal,Aston Villa,N,CM,45,48,2,7,30,11,0,48,1,1,100.0,0,0.0,37,182,91,1,0,0,0,0,42,1,/en/matches/ca0b21bc/Aston-Villa-Arsenal-July-21-2020-Premier-League
+33,2019-08-11,Sun,Matchweek 38,Home,W 3–2,Arsenal,Watford,Y,"DM,CM",90,70,4,22,41,8,0,70,3,2,66.7,1,33.3,47,291,173,1,1,0,1,0,50,1,/en/matches/5ecaeb4b/Arsenal-Watford-July-26-2020-Premier-League

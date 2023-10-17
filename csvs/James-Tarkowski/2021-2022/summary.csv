@@ -1,0 +1,37 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-14,Sun,Matchweek 3,Home,D 1–1,Burnley,Leeds United,Y,CB,90,0,0,0,0,1,1,0,0,33,2,0,2,0.0,0.0,0.0,1,0,16,23,69.6,0,14,0,0,0,/en/matches/2e5db698/Burnley-Leeds-United-August-29-2021-Premier-League
+1,2021-08-14,Mon,Matchweek 4,Away,L 1–3,Burnley,Everton,Y,CB,90,0,0,0,0,0,0,0,0,61,2,2,0,0.0,0.0,0.0,1,0,33,52,63.5,2,28,0,0,0,/en/matches/668b2f97/Everton-Burnley-September-13-2021-Premier-League
+2,2021-08-14,Sat,Matchweek 5,Home,L 0–1,Burnley,Arsenal,Y,CB,90,0,0,0,0,1,0,0,0,55,2,4,1,0.1,0.1,0.0,3,0,32,45,71.1,4,23,0,0,0,/en/matches/a427debc/Burnley-Arsenal-September-18-2021-Premier-League
+3,2021-08-14,Sat,Matchweek 6,Away,D 2–2,Burnley,Leicester City,Y,CB,90,0,0,0,0,0,0,1,0,35,1,1,2,0.0,0.0,0.0,0,0,16,25,64.0,1,13,0,0,0,/en/matches/2d61f328/Leicester-City-Burnley-September-25-2021-Premier-League
+4,2021-08-14,Sat,Matchweek 7,Home,D 0–0,Burnley,Norwich City,Y*,CB,90,0,0,0,0,0,0,1,0,47,0,0,3,0.0,0.0,0.0,0,0,26,35,74.3,0,18,0,0,0,/en/matches/9231df9a/Burnley-Norwich-City-October-2-2021-Premier-League
+5,2021-08-14,Sat,Matchweek 8,Away,L 0–2,Burnley,Manchester City,Y*,CB,90,0,0,0,0,0,0,0,0,44,2,1,1,0.0,0.0,0.0,2,0,26,34,76.5,4,21,0,1,1,/en/matches/55778d0d/Manchester-City-Burnley-October-16-2021-Premier-League
+6,2021-08-14,Sat,Matchweek 9,Away,D 2–2,Burnley,Southampton,Y*,CB,90,0,0,0,0,0,0,0,0,42,2,3,3,0.0,0.0,0.0,0,0,13,29,44.8,2,8,0,0,0,/en/matches/d5164fbe/Southampton-Burnley-October-23-2021-Premier-League
+7,2021-08-14,Sat,Matchweek 10,Home,W 3–1,Burnley,Brentford,Y,CB,90,0,0,0,0,1,0,0,0,51,0,2,2,0.5,0.5,0.0,1,0,24,37,64.9,3,14,0,1,0,/en/matches/c8915e9e/Burnley-Brentford-October-30-2021-Premier-League
+8,2021-08-14,Sat,Matchweek 11,Away,D 1–1,Burnley,Chelsea,Y,CB,90,0,0,0,0,0,0,1,0,40,2,2,3,0.0,0.0,0.0,1,0,26,29,89.7,2,12,0,0,0,/en/matches/316c0296/Chelsea-Burnley-November-6-2021-Premier-League
+9,2021-08-14,Sat,Matchweek 12,Home,D 3–3,Burnley,Crystal Palace,Y,CB,90,0,2,0,0,2,1,1,0,44,2,2,1,0.1,0.1,0.2,2,2,22,29,75.9,2,13,0,0,0,/en/matches/e7ab34c4/Burnley-Crystal-Palace-November-20-2021-Premier-League
+10,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,2021-08-14,Sat,Matchweek 15,Away,L 0–1,Burnley,Newcastle Utd,Y*,CB,90,0,0,0,0,1,0,0,0,61,1,1,7,0.2,0.2,0.0,1,0,31,45,68.9,4,22,1,1,1,/en/matches/11ed382d/Newcastle-United-Burnley-December-4-2021-Premier-League
+12,2021-08-14,Sun,Matchweek 16,Home,D 0–0,Burnley,West Ham,Y,CB,90,0,0,0,0,1,1,0,0,45,3,0,0,0.0,0.0,0.0,0,0,18,36,50.0,3,21,0,1,0,/en/matches/6d236ce6/Burnley-West-Ham-United-December-12-2021-Premier-League
+13,2021-08-14,Thu,Matchweek 20,Away,L 1–3,Burnley,Manchester Utd,Y,CB,90,0,0,0,0,2,1,0,0,57,1,1,3,0.3,0.3,0.0,0,0,30,40,75.0,4,29,0,0,0,/en/matches/bbfa96c9/Manchester-United-Burnley-December-30-2021-Premier-League
+14,2021-08-14,Sun,Matchweek 21,Away,L 1–3,Burnley,Leeds United,Y,CB,90,0,0,0,0,0,0,1,0,40,2,0,4,0.0,0.0,0.0,1,0,24,29,82.8,6,10,0,0,0,/en/matches/cff8022b/Leeds-United-Burnley-January-2-2022-Premier-League
+15,2021-08-14,Sun,Matchweek 23,Away,D 0–0,Burnley,Arsenal,Y,CB,90,0,0,0,0,0,0,0,0,25,1,1,1,0.0,0.0,0.1,1,0,7,14,50.0,0,7,0,0,0,/en/matches/845ec84d/Arsenal-Burnley-January-23-2022-Premier-League
+16,2021-08-14,Sat,Matchweek 17,Home,D 0–0,Burnley,Watford,Y,CB,90,0,0,0,0,0,0,0,0,64,3,1,1,0.0,0.0,0.1,4,0,33,52,63.5,4,18,1,1,1,/en/matches/5c31d723/Burnley-Watford-February-5-2022-Premier-League
+17,2021-08-14,Tue,Matchweek 24,Home,D 1–1,Burnley,Manchester Utd,Y,CB,90,0,0,0,0,1,0,0,0,40,6,1,4,0.0,0.0,0.0,1,0,13,24,54.2,2,8,0,0,0,/en/matches/cb262ab8/Burnley-Manchester-United-February-8-2022-Premier-League
+18,2021-08-14,Sun,Matchweek 25,Home,L 0–1,Burnley,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,44,2,3,1,0.0,0.0,0.0,0,0,19,34,55.9,1,17,0,0,0,/en/matches/ee0b72dd/Burnley-Liverpool-February-13-2022-Premier-League
+19,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,2021-08-14,Wed,Matchweek 13,Home,W 1–0,Burnley,Tottenham,Y,CB,90,0,0,0,0,1,0,0,0,42,0,4,1,0.0,0.0,0.0,0,0,21,24,87.5,3,19,0,0,0,/en/matches/f8d646cb/Burnley-Tottenham-Hotspur-February-23-2022-Premier-League
+21,2021-08-14,Sat,Matchweek 27,Away,D 1–1,Burnley,Crystal Palace,Y,CB,90,0,0,0,0,1,0,1,0,49,0,3,1,0.0,0.0,0.0,0,0,17,36,47.2,0,11,0,0,0,/en/matches/086dcb8d/Crystal-Palace-Burnley-February-26-2022-Premier-League
+22,2021-08-14,Tue,Matchweek 22,Home,L 0–2,Burnley,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,56,2,0,3,0.0,0.0,0.0,0,0,28,45,62.2,3,23,0,0,0,/en/matches/a47f5f21/Burnley-Leicester-City-March-1-2022-Premier-League
+23,2021-08-14,Sat,Matchweek 28,Home,L 0–4,Burnley,Chelsea,Y*,CB,90,0,0,0,0,0,0,0,0,38,4,2,3,0.0,0.0,0.0,0,0,19,24,79.2,1,12,0,0,0,/en/matches/926192f8/Burnley-Chelsea-March-5-2022-Premier-League
+24,2021-08-14,Sat,Matchweek 29,Away,L 0–2,Burnley,Brentford,Y*,CB,90,0,0,0,0,0,0,1,0,70,3,0,5,0.0,0.0,0.0,1,0,34,51,66.7,7,26,0,0,0,/en/matches/9718a901/Brentford-Burnley-March-12-2022-Premier-League
+25,2021-08-14,Sat,Matchweek 31,Home,L 0–2,Burnley,Manchester City,Y*,CB,90,0,0,0,0,0,0,0,0,45,3,2,3,0.0,0.0,0.0,1,0,21,27,77.8,3,15,0,0,0,/en/matches/c294f564/Burnley-Manchester-City-April-2-2022-Premier-League
+26,2021-08-14,Wed,Matchweek 19,Home,W 3–2,Burnley,Everton,Y*,CB,90,0,0,0,0,0,0,0,0,56,1,3,6,0.0,0.0,0.0,0,0,25,41,61.0,1,24,0,1,1,/en/matches/8ee025e7/Burnley-Everton-April-6-2022-Premier-League
+27,2021-08-14,Sun,Matchweek 32,Away,L 0–2,Burnley,Norwich City,Y*,CB,90,0,0,0,0,0,0,0,0,49,2,1,3,0.0,0.0,0.0,0,0,23,39,59.0,5,24,0,0,0,/en/matches/8574aaf3/Norwich-City-Burnley-April-10-2022-Premier-League
+28,2021-08-14,Sun,Matchweek 33,Away,D 1–1,Burnley,West Ham,Y*,CB,90,0,0,0,0,0,0,0,0,44,1,3,1,0.0,0.0,0.1,1,0,20,30,66.7,4,19,0,0,0,/en/matches/f3a245c8/West-Ham-United-Burnley-April-17-2022-Premier-League
+29,2021-08-14,Thu,Matchweek 30,Home,W 2–0,Burnley,Southampton,Y*,CB,90,0,0,0,0,2,0,1,0,46,2,0,1,0.2,0.2,0.0,0,0,29,37,78.4,3,13,0,0,0,/en/matches/73ef622b/Burnley-Southampton-April-21-2022-Premier-League
+30,2021-08-14,Sun,Matchweek 34,Home,W 1–0,Burnley,Wolves,Y*,CB,90,0,0,0,0,1,1,0,0,34,2,1,1,0.0,0.0,0.0,0,0,21,24,87.5,1,16,0,0,0,/en/matches/99d0fee1/Burnley-Wolverhampton-Wanderers-April-24-2022-Premier-League
+31,2021-08-14,Sat,Matchweek 35,Away,W 2–1,Burnley,Watford,Y*,CB,90,0,0,0,0,1,0,1,0,71,3,1,2,0.2,0.2,0.0,1,0,41,55,74.5,6,27,0,0,0,/en/matches/81ac72d8/Watford-Burnley-April-30-2022-Premier-League
+32,2021-08-14,Sat,Matchweek 36,Home,L 1–3,Burnley,Aston Villa,Y*,CB,46,0,0,0,0,0,0,0,0,34,1,0,0,0.0,0.0,0.0,0,0,25,32,78.1,4,21,0,0,0,/en/matches/c1dc9202/Burnley-Aston-Villa-May-7-2022-Premier-League
+33,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,2021-08-14,Thu,Matchweek 18,Away,D 1–1,Burnley,Aston Villa,Y*,CB,90,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,2,0,13,17,76.5,1,5,0,0,0,/en/matches/bc4f902e/Aston-Villa-Burnley-May-19-2022-Premier-League
+35,2021-08-14,Sun,Matchweek 38,Home,L 1–2,Burnley,Newcastle Utd,Y*,CB,90,0,0,0,0,1,0,1,0,57,2,0,1,0.1,0.1,0.0,2,0,33,46,71.7,5,17,1,0,0,/en/matches/ad4ac82b/Burnley-Newcastle-United-May-22-2022-Premier-League

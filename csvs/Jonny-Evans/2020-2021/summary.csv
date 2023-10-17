@@ -1,0 +1,30 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-27,Sun,Matchweek 5,Home,L 0–1,Leicester City,Aston Villa,Y,CB,90,0,0,0,0,0,0,1,0,66,3,3,0,0.0,0.0,0.0,0,0,47,57,82.5,3,43,0,0,0,/en/matches/7751d8c1/Leicester-City-Aston-Villa-October-18-2020-Premier-League
+1,2020-09-27,Sun,Matchweek 6,Away,W 1–0,Leicester City,Arsenal,Y,CB,90,0,0,0,0,0,0,1,0,56,0,1,2,0.0,0.0,0.0,1,0,44,50,88.0,1,32,1,0,0,/en/matches/bcd3a9b4/Arsenal-Leicester-City-October-25-2020-Premier-League
+2,2020-09-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,2020-09-27,Sun,Matchweek 8,Home,W 1–0,Leicester City,Wolves,Y,CB,90,0,0,0,0,1,0,1,0,47,2,0,0,0.1,0.1,0.0,0,0,27,37,73.0,1,21,0,0,0,/en/matches/8407be08/Leicester-City-Wolverhampton-Wanderers-November-8-2020-Premier-League
+4,2020-09-27,Sun,Matchweek 9,Away,L 0–3,Leicester City,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,69,0,0,0,0.0,0.0,0.0,0,0,54,62,87.1,3,37,0,0,0,/en/matches/cc230451/Liverpool-Leicester-City-November-22-2020-Premier-League
+5,2020-09-27,Mon,Matchweek 10,Home,L 1–2,Leicester City,Fulham,Y,CB,90,0,0,0,0,0,0,0,0,117,1,3,0,0.0,0.0,0.0,0,0,95,111,85.6,2,78,0,0,0,/en/matches/ae493b10/Leicester-City-Fulham-November-30-2020-Premier-League
+6,2020-09-27,Sun,Matchweek 11,Away,W 2–1,Leicester City,Sheffield Utd,Y,CB,90,0,0,0,0,0,0,0,0,102,2,1,0,0.0,0.0,0.1,1,0,77,90,85.6,3,61,0,1,1,/en/matches/c1c08638/Sheffield-United-Leicester-City-December-6-2020-Premier-League
+7,2020-09-27,Sun,Matchweek 12,Home,W 3–0,Leicester City,Brighton,Y,CB,90,0,0,0,0,0,0,1,0,52,1,1,0,0.0,0.0,0.0,0,0,44,47,93.6,0,21,0,0,0,/en/matches/964e6470/Leicester-City-Brighton-and-Hove-Albion-December-13-2020-Premier-League
+8,2020-09-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,2020-09-27,Sun,Matchweek 14,Away,W 2–0,Leicester City,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,62,0,1,0,0.0,0.0,0.0,0,0,40,56,71.4,1,35,0,0,0,/en/matches/56ffe356/Tottenham-Hotspur-Leicester-City-December-20-2020-Premier-League
+10,2020-09-27,Sat,Matchweek 15,Home,D 2–2,Leicester City,Manchester Utd,Y,CB,90,0,0,0,0,1,0,0,0,78,0,2,1,0.1,0.1,0.0,0,0,57,70,81.4,3,46,0,0,0,/en/matches/33c8b5c8/Leicester-City-Manchester-United-December-26-2020-Premier-League
+11,2020-09-27,Mon,Matchweek 16,Away,D 1–1,Leicester City,Crystal Palace,Y,CB,90,0,1,0,0,0,0,0,0,88,1,1,0,0.0,0.0,0.1,6,1,77,85,90.6,11,59,0,3,3,/en/matches/77437741/Crystal-Palace-Leicester-City-December-28-2020-Premier-League
+12,2020-09-27,Sun,Matchweek 17,Away,W 2–1,Leicester City,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,0,0,73,0,1,0,0.0,0.0,0.0,0,0,59,68,86.8,4,44,0,0,0,/en/matches/4c205b24/Newcastle-United-Leicester-City-January-3-2021-Premier-League
+13,2020-09-27,Sat,Matchweek 19,Home,W 2–0,Leicester City,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,61,1,2,1,0.0,0.0,0.0,0,0,43,52,82.7,3,32,1,1,1,/en/matches/85d4ec49/Leicester-City-Southampton-January-16-2021-Premier-League
+14,2020-09-27,Tue,Matchweek 18,Home,W 2–0,Leicester City,Chelsea,Y,CB,90,0,0,0,0,1,1,0,0,58,2,5,0,0.1,0.1,0.0,0,0,40,45,88.9,1,32,0,0,0,/en/matches/8467b110/Leicester-City-Chelsea-January-19-2021-Premier-League
+15,2020-09-27,Wed,Matchweek 20,Away,D 1–1,Leicester City,Everton,Y,CB,76,0,0,0,0,0,0,0,0,82,0,1,0,0.0,0.0,0.0,1,1,68,77,88.3,6,59,1,0,0,/en/matches/3e4ff1e0/Everton-Leicester-City-January-27-2021-Premier-League
+16,2020-09-27,Sun,Matchweek 21,Home,L 1–3,Leicester City,Leeds United,Y,CB,90,0,0,0,0,1,0,0,0,74,2,2,1,0.2,0.2,0.0,1,0,50,68,73.5,6,49,1,0,0,/en/matches/e5e46ead/Leicester-City-Leeds-United-January-31-2021-Premier-League
+17,2020-09-27,Wed,Matchweek 22,Away,W 2–0,Leicester City,Fulham,Y,CB,90,0,0,0,0,0,0,0,0,66,1,3,1,0.0,0.0,0.0,0,0,44,53,83.0,2,29,0,2,2,/en/matches/bd0673ed/Fulham-Leicester-City-February-3-2021-Premier-League
+18,2020-09-27,Sun,Matchweek 23,Away,D 0–0,Leicester City,Wolves,Y,CB,90,0,0,0,0,0,0,1,0,88,1,1,0,0.0,0.0,0.0,0,0,71,78,91.0,6,65,2,1,0,/en/matches/dca0be20/Wolverhampton-Wanderers-Leicester-City-February-7-2021-Premier-League
+19,2020-09-27,Sat,Matchweek 24,Home,W 3–1,Leicester City,Liverpool,Y,CB,90,0,0,0,0,0,0,1,0,51,0,4,0,0.0,0.0,0.0,1,0,29,39,74.4,2,26,0,1,1,/en/matches/666f6961/Leicester-City-Liverpool-February-13-2021-Premier-League
+20,2020-09-27,Sun,Matchweek 25,Away,W 2–1,Leicester City,Aston Villa,Y,CB,90,0,0,0,0,0,0,0,0,70,0,0,0,0.0,0.0,0.0,1,0,51,61,83.6,2,43,0,0,0,/en/matches/2c6f8c0e/Aston-Villa-Leicester-City-February-21-2021-Premier-League
+21,2020-09-27,Sun,Matchweek 26,Home,L 1–3,Leicester City,Arsenal,Y,CB,68,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,27,32,84.4,3,27,0,0,0,/en/matches/88b309f1/Leicester-City-Arsenal-February-28-2021-Premier-League
+22,2020-09-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,2020-09-27,Sun,Matchweek 28,Home,W 5–0,Leicester City,Sheffield Utd,Y,CB,90,0,0,0,0,1,0,0,0,120,0,3,0,0.6,0.6,0.0,2,1,107,114,93.9,5,68,0,0,0,/en/matches/d3bc5214/Leicester-City-Sheffield-United-March-14-2021-Premier-League
+24,2020-09-27,Sat,Matchweek 30,Home,L 0–2,Leicester City,Manchester City,Y,CB,90,0,0,0,0,1,0,0,0,75,0,1,0,0.0,0.0,0.0,0,0,57,66,86.4,1,46,0,0,0,/en/matches/d798017f/Leicester-City-Manchester-City-April-3-2021-Premier-League
+25,2020-09-27,Sun,Matchweek 31,Away,L 2–3,Leicester City,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,84,1,3,0,0.0,0.0,0.0,1,0,67,78,85.9,7,47,0,0,0,/en/matches/06b2801a/West-Ham-United-Leicester-City-April-11-2021-Premier-League
+26,2020-09-27,Thu,Matchweek 32,Home,W 3–0,Leicester City,West Brom,Y,CB,90,1,0,0,0,1,1,0,0,79,2,0,0,0.2,0.2,0.1,0,0,68,74,91.9,2,47,0,0,0,/en/matches/be6edfdf/Leicester-City-West-Bromwich-Albion-April-22-2021-Premier-League
+27,2020-09-27,Mon,Matchweek 33,Home,W 2–1,Leicester City,Crystal Palace,Y,CB,90,0,1,0,0,0,0,0,0,98,0,2,0,0.0,0.0,0.1,3,1,81,92,88.0,5,65,0,0,0,/en/matches/b30b8887/Leicester-City-Crystal-Palace-April-26-2021-Premier-League
+28,2020-09-27,Fri,Matchweek 34,Away,D 1–1,Leicester City,Southampton,Y,CB,90,1,0,0,0,1,1,0,0,89,1,1,1,0.4,0.4,0.0,1,0,71,81,87.7,11,62,1,0,0,/en/matches/c0d4f879/Southampton-Leicester-City-April-30-2021-Premier-League
