@@ -1,0 +1,35 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
+0,2021-08-28,Sat,Matchweek 5,Away,W 1–0,Arsenal,Burnley,Y,"CM,AM",90,73,2,14,38,23,0,73,1,1,100.0,0,0.0,47,212,91,0,3,0,2,0,55,1,/en/matches/a427debc/Burnley-Arsenal-September-18-2021-Premier-League
+1,2021-08-28,Sun,Matchweek 6,Home,W 3–1,Arsenal,Tottenham,Y,AM,90,60,0,10,22,28,2,60,0,0,,0,,41,188,79,2,5,1,1,4,46,3,/en/matches/a2c07e97/North-London-Derby-Arsenal-Tottenham-Hotspur-September-26-2021-Premier-League
+2,2021-08-28,Sat,Matchweek 7,Away,D 0–0,Arsenal,Brighton,Y,AM,62,29,0,3,15,11,1,29,2,0,0.0,2,100.0,17,49,10,0,0,0,3,0,20,4,/en/matches/cdaded7b/Brighton-and-Hove-Albion-Arsenal-October-2-2021-Premier-League
+3,2021-08-28,Mon,Matchweek 8,Home,D 2–2,Arsenal,Crystal Palace,Y,"CM,AM",66,47,1,5,27,15,0,47,1,0,0.0,1,100.0,23,147,44,2,1,0,2,2,38,2,/en/matches/0f3a1892/Arsenal-Crystal-Palace-October-18-2021-Premier-League
+4,2021-08-28,Fri,Matchweek 9,Home,W 3–1,Arsenal,Aston Villa,N,AM,23,23,0,4,14,6,0,23,0,0,,0,,16,82,49,1,1,0,0,0,20,2,/en/matches/ac95a75a/Arsenal-Aston-Villa-October-22-2021-Premier-League
+5,2021-08-28,Sat,Matchweek 10,Away,W 2–0,Arsenal,Leicester City,N,FW,33,24,1,3,9,12,2,24,0,0,,0,,15,58,24,0,0,0,1,2,17,2,/en/matches/719b57c6/Leicester-City-Arsenal-October-30-2021-Premier-League
+6,2021-08-28,Sun,Matchweek 11,Home,W 1–0,Arsenal,Watford,N,AM,22,15,0,1,5,9,2,15,2,1,50.0,1,50.0,8,49,34,1,0,0,0,0,9,3,/en/matches/e0208fcf/Arsenal-Watford-November-7-2021-Premier-League
+7,2021-08-28,Sat,Matchweek 12,Away,L 0–4,Arsenal,Liverpool,N,FW,24,16,0,2,10,4,0,16,0,0,,0,,12,35,14,0,1,0,0,0,13,2,/en/matches/e9ea66e1/Liverpool-Arsenal-November-20-2021-Premier-League
+8,2021-08-28,Sat,Matchweek 13,Home,W 2–0,Arsenal,Newcastle Utd,Y,FW,90,76,0,3,36,37,2,76,1,1,100.0,0,0.0,53,330,150,3,3,1,3,0,61,12,/en/matches/067e0ab9/Arsenal-Newcastle-United-November-27-2021-Premier-League
+9,2021-08-28,Thu,Matchweek 14,Away,L 2–3,Arsenal,Manchester Utd,Y,FW,78,46,0,7,19,20,1,46,0,0,,0,,21,132,40,1,0,0,0,3,34,3,/en/matches/4323a38f/Manchester-United-Arsenal-December-2-2021-Premier-League
+10,2021-08-28,Mon,Matchweek 15,Away,L 1–2,Arsenal,Everton,Y,AM,90,72,0,7,41,24,3,72,2,2,100.0,0,0.0,32,199,85,4,0,1,1,1,49,4,/en/matches/5fdb6c19/Everton-Arsenal-December-6-2021-Premier-League
+11,2021-08-28,Sat,Matchweek 16,Home,W 3–0,Arsenal,Southampton,Y,FW,90,66,0,12,35,21,3,66,1,1,100.0,0,0.0,36,119,35,0,3,0,1,2,44,6,/en/matches/6a35f07c/Arsenal-Southampton-December-11-2021-Premier-League
+12,2021-08-28,Wed,Matchweek 17,Home,W 2–0,Arsenal,West Ham,Y,FW,65,39,0,2,13,25,4,39,1,0,0.0,1,100.0,20,77,15,0,1,0,1,0,25,2,/en/matches/3f1ff3a5/Arsenal-West-Ham-United-December-15-2021-Premier-League
+13,2021-08-28,Sat,Matchweek 18,Away,W 4–1,Arsenal,Leeds United,Y,AM,84,50,0,8,26,17,1,50,2,1,50.0,1,50.0,38,290,108,4,4,0,1,2,35,5,/en/matches/53b542d8/Leeds-United-Arsenal-December-18-2021-Premier-League
+14,2021-08-28,Sun,Matchweek 19,Away,W 5–0,Arsenal,Norwich City,Y,AM,90,71,0,8,39,25,0,71,1,1,100.0,0,0.0,42,209,128,3,3,0,1,2,64,9,/en/matches/83ce723b/Norwich-City-Arsenal-December-26-2021-Premier-League
+15,2021-08-28,Sat,Matchweek 21,Home,L 1–2,Arsenal,Manchester City,Y,AM,62,21,0,1,13,7,1,21,0,0,,0,,5,15,1,0,0,0,0,2,10,2,/en/matches/a9903a63/Arsenal-Manchester-City-January-1-2022-Premier-League
+16,2021-08-28,Sun,Matchweek 23,Home,D 0–0,Arsenal,Burnley,Y,CM,90,62,1,5,26,31,2,62,0,0,,0,,37,189,65,1,2,1,1,3,41,2,/en/matches/845ec84d/Arsenal-Burnley-January-23-2022-Premier-League
+17,2021-08-28,Thu,Matchweek 24,Away,W 1–0,Arsenal,Wolves,Y,AM,67,47,1,4,22,21,0,47,1,1,100.0,0,0.0,29,123,55,1,2,0,1,1,35,3,/en/matches/bf5f0f9e/Wolverhampton-Wanderers-Arsenal-February-10-2022-Premier-League
+18,2021-08-28,Sat,Matchweek 26,Home,W 2–1,Arsenal,Brentford,Y,AM,90,84,1,3,29,52,3,84,3,2,66.7,1,33.3,57,328,137,3,3,0,2,1,66,5,/en/matches/401c8cc8/Arsenal-Brentford-February-19-2022-Premier-League
+19,2021-08-28,Thu,Matchweek 20,Home,W 2–1,Arsenal,Wolves,Y,AM,90,52,0,0,24,28,2,52,4,3,75.0,1,25.0,32,179,88,3,2,1,1,2,35,7,/en/matches/3c516ed6/Arsenal-Wolverhampton-Wanderers-February-24-2022-Premier-League
+20,2021-08-28,Sun,Matchweek 28,Away,W 3–2,Arsenal,Watford,Y,AM,89,87,1,6,50,31,2,87,0,0,,0,,47,201,95,0,3,0,1,0,65,9,/en/matches/9d5abf8b/Watford-Arsenal-March-6-2022-Premier-League
+21,2021-08-28,Sun,Matchweek 29,Home,W 2–0,Arsenal,Leicester City,Y,AM,90,63,0,4,41,19,1,63,2,1,50.0,1,50.0,45,244,123,2,1,1,0,2,51,3,/en/matches/47ea9ab2/Arsenal-Leicester-City-March-13-2022-Premier-League
+22,2021-08-28,Wed,Matchweek 27,Home,L 0–2,Arsenal,Liverpool,Y,AM,66,35,0,2,18,15,1,35,2,1,50.0,1,50.0,18,88,34,1,0,0,1,2,19,3,/en/matches/8ef5cc6b/Arsenal-Liverpool-March-16-2022-Premier-League
+23,2021-08-28,Sat,Matchweek 30,Away,W 1–0,Arsenal,Aston Villa,Y,AM,85,48,1,4,27,18,2,48,0,0,,0,,38,211,103,3,1,0,0,2,38,2,/en/matches/0cb74761/Aston-Villa-Arsenal-March-19-2022-Premier-League
+24,2021-08-28,Mon,Matchweek 31,Away,L 0–3,Arsenal,Crystal Palace,Y,"CM,AM",90,50,0,5,23,22,1,50,0,0,,0,,28,104,42,0,0,0,3,1,38,7,/en/matches/d96b144a/Crystal-Palace-Arsenal-April-4-2022-Premier-League
+25,2021-08-28,Sat,Matchweek 32,Home,L 1–2,Arsenal,Brighton,Y,"DM,CM",90,53,0,6,26,21,2,53,1,1,100.0,0,0.0,29,105,37,1,2,1,1,1,34,3,/en/matches/37ddcda6/Arsenal-Brighton-and-Hove-Albion-April-9-2022-Premier-League
+26,2021-08-28,Sat,Matchweek 33,Away,L 0–1,Arsenal,Southampton,Y*,"AM,CM",90,81,0,5,25,51,2,81,1,1,100.0,0,0.0,50,337,133,3,5,0,1,1,60,8,/en/matches/5ea2687c/Southampton-Arsenal-April-16-2022-Premier-League
+27,2021-08-28,Wed,Matchweek 25,Away,W 4–2,Arsenal,Chelsea,Y*,"AM,RM",90,42,0,3,24,15,0,42,1,0,0.0,1,100.0,26,125,63,2,0,0,1,3,32,2,/en/matches/cf8c0df6/North-West-London-Derby-Chelsea-Arsenal-April-20-2022-Premier-League
+28,2021-08-28,Sat,Matchweek 34,Home,W 3–1,Arsenal,Manchester Utd,Y*,AM,90,59,1,7,26,26,0,59,3,1,33.3,2,66.7,39,157,38,1,1,0,1,2,46,8,/en/matches/b9f7c065/Arsenal-Manchester-United-April-23-2022-Premier-League
+29,2021-08-28,Sun,Matchweek 35,Away,W 2–1,Arsenal,West Ham,Y*,"AM,RM",89,47,1,11,27,9,0,47,1,0,0.0,1,100.0,27,177,81,3,2,0,0,1,33,1,/en/matches/5290c2da/West-Ham-United-Arsenal-May-1-2022-Premier-League
+30,2021-08-28,Sun,Matchweek 36,Home,W 2–1,Arsenal,Leeds United,Y*,AM,90,62,0,2,26,35,6,62,5,3,60.0,2,40.0,38,160,55,2,2,1,1,1,44,5,/en/matches/ef41dec1/Arsenal-Leeds-United-May-8-2022-Premier-League
+31,2021-08-28,Thu,Matchweek 22,Away,L 0–3,Arsenal,Tottenham,Y*,"RM,DM,CM",90,64,2,14,26,25,3,64,2,0,0.0,2,100.0,37,195,75,1,3,0,0,1,44,0,/en/matches/607d0562/North-London-Derby-Tottenham-Hotspur-Arsenal-May-12-2022-Premier-League
+32,2021-08-28,Mon,Matchweek 37,Away,L 0–2,Arsenal,Newcastle Utd,Y*,"AM,DM",90,37,1,5,16,16,2,37,4,2,50.0,2,50.0,18,94,64,2,0,0,1,1,23,1,/en/matches/a3b3a0d5/Newcastle-United-Arsenal-May-16-2022-Premier-League
+33,2021-08-28,Sun,Matchweek 38,Home,W 5–1,Arsenal,Everton,Y*,AM,90,91,0,6,36,49,6,91,1,1,100.0,0,0.0,66,366,209,7,2,2,3,1,74,11,/en/matches/4100d195/Arsenal-Everton-May-22-2022-Premier-League

@@ -1,0 +1,27 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
+0,2020-09-19,Sun,Matchweek 4,Home,W 2–1,Arsenal,Sheffield Utd,Y,CB,90,0,0,0,2,1,0,1,0,0,0,0,0,4,3,3,50.0,/en/matches/09725cb3/Arsenal-Sheffield-United-October-4-2020-Premier-League
+1,2020-09-19,Sat,Matchweek 5,Away,L 0–1,Arsenal,Manchester City,Y,CB,90,0,0,0,1,2,0,1,2,1,0,0,0,4,1,1,50.0,/en/matches/e95b8546/Manchester-City-Arsenal-October-17-2020-Premier-League
+2,2020-09-19,Sun,Matchweek 6,Home,L 0–1,Arsenal,Leicester City,Y,CB,48,0,0,0,0,0,0,0,1,2,0,0,0,3,1,1,50.0,/en/matches/bcd3a9b4/Arsenal-Leicester-City-October-25-2020-Premier-League
+3,2020-09-19,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,2020-09-19,Sun,Matchweek 8,Home,L 0–3,Arsenal,Aston Villa,N,"On matchday squad, but did not play",/en/matches/90fd3597/Arsenal-Aston-Villa-November-8-2020-Premier-League,,,,,,,,,,,,,,,,,
+5,2020-09-19,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,2020-09-19,Sun,Matchweek 10,Home,L 1–2,Arsenal,Wolves,Y,CB,45,0,0,0,3,0,0,1,0,0,0,0,0,1,0,0,,/en/matches/fa17687c/Arsenal-Wolverhampton-Wanderers-November-29-2020-Premier-League
+7,2020-09-19,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,2020-09-19,Wed,Matchweek 13,Home,D 1–1,Arsenal,Southampton,N,CB,26,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,100.0,/en/matches/0ceceee4/Arsenal-Southampton-December-16-2020-Premier-League
+9,2020-09-19,Sat,Matchweek 14,Away,L 1–2,Arsenal,Everton,Y,CB,90,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,100.0,/en/matches/72fa1993/Everton-Arsenal-December-19-2020-Premier-League
+10,2020-09-19,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,2020-09-19,Sat,Matchweek 17,Away,W 4–0,Arsenal,West Brom,N,"On matchday squad, but did not play",/en/matches/a56531b0/West-Bromwich-Albion-Arsenal-January-2-2021-Premier-League,,,,,,,,,,,,,,,,,
+12,2020-09-19,Thu,Matchweek 18,Home,D 0–0,Arsenal,Crystal Palace,Y,CB,90,1,0,0,2,0,0,1,0,0,0,0,0,4,2,2,50.0,/en/matches/0476b43a/Arsenal-Crystal-Palace-January-14-2021-Premier-League
+13,2020-09-19,Mon,Matchweek 19,Home,W 3–0,Arsenal,Newcastle Utd,Y,CB,90,0,0,0,1,0,0,0,2,0,0,0,0,2,2,0,100.0,/en/matches/620df215/Arsenal-Newcastle-United-January-18-2021-Premier-League
+14,2020-09-19,Tue,Matchweek 20,Away,W 3–1,Arsenal,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0.0,/en/matches/ac54f8a6/Southampton-Arsenal-January-26-2021-Premier-League
+15,2020-09-19,Sat,Matchweek 21,Home,D 0–0,Arsenal,Manchester Utd,Y,CB,90,0,0,0,1,0,0,0,1,1,0,0,0,4,2,0,100.0,/en/matches/0fcaaa5f/Arsenal-Manchester-United-January-30-2021-Premier-League
+16,2020-09-19,Tue,Matchweek 22,Away,L 1–2,Arsenal,Wolves,Y,CB,44,0,1,0,1,0,0,0,0,0,0,1,0,0,0,2,0.0,/en/matches/558fa672/Wolverhampton-Wanderers-Arsenal-February-2-2021-Premier-League
+17,2020-09-19,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,2020-09-19,Sun,Matchweek 24,Home,W 4–2,Arsenal,Leeds United,Y,CB,90,0,0,0,1,0,0,0,2,0,0,0,0,7,2,1,66.7,/en/matches/85624e5e/Arsenal-Leeds-United-February-14-2021-Premier-League
+19,2020-09-19,Sun,Matchweek 25,Home,L 0–1,Arsenal,Manchester City,N,CB,9,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,100.0,/en/matches/2dedf408/Arsenal-Manchester-City-February-21-2021-Premier-League
+20,2020-09-19,Sun,Matchweek 26,Away,W 3–1,Arsenal,Leicester City,Y,CB,90,0,0,0,0,0,0,1,2,1,0,0,0,4,2,0,100.0,/en/matches/88b309f1/Leicester-City-Arsenal-February-28-2021-Premier-League
+21,2020-09-19,Sat,Matchweek 27,Away,D 1–1,Arsenal,Burnley,Y,CB,90,0,0,0,1,0,0,2,1,2,0,0,0,6,6,1,85.7,/en/matches/db9a5ac8/Burnley-Arsenal-March-6-2021-Premier-League
+22,2020-09-19,Sun,Matchweek 28,Home,W 2–1,Arsenal,Tottenham,Y,CB,90,0,0,0,0,0,0,1,1,1,0,0,0,2,2,0,100.0,/en/matches/127b8258/North-London-Derby-Arsenal-Tottenham-Hotspur-March-14-2021-Premier-League
+23,2020-09-19,Sun,Matchweek 29,Away,D 3–3,Arsenal,West Ham,Y,CB,90,0,0,0,0,1,0,0,1,1,0,0,0,8,4,1,80.0,/en/matches/c592a3d7/West-Ham-United-Arsenal-March-21-2021-Premier-League
+24,2020-09-19,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,2020-09-19,Sun,Matchweek 34,Away,W 2–0,Arsenal,Newcastle Utd,Y,CB,52,0,0,0,0,0,0,0,1,0,0,0,0,3,2,0,100.0,/en/matches/af2c27de/Newcastle-United-Arsenal-May-2-2021-Premier-League

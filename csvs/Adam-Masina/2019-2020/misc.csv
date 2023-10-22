@@ -1,0 +1,31 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
+0,2019-08-31,Sat,Matchweek 9,Away,D 1–1,Watford,Tottenham,N,"On matchday squad, but did not play",/en/matches/4df24be7/Tottenham-Hotspur-Watford-October-19-2019-Premier-League,,,,,,,,,,,,,,,,,
+1,2019-08-31,Sat,Matchweek 10,Home,D 0–0,Watford,Bournemouth,Y,LB,72,0,0,0,2,0,0,2,0,0,0,0,0,5,4,4,50.0,/en/matches/1ef8e186/Watford-Bournemouth-October-26-2019-Premier-League
+2,2019-08-31,Sat,Matchweek 11,Home,L 1–2,Watford,Chelsea,Y,LB,90,0,0,0,1,1,0,3,2,1,0,0,0,7,5,1,83.3,/en/matches/0b8b7f66/Watford-Chelsea-November-2-2019-Premier-League
+3,2019-08-31,Fri,Matchweek 12,Away,W 2–0,Watford,Norwich City,N,LB,3,1,0,0,1,1,0,0,0,0,0,0,0,1,1,0,100.0,/en/matches/e92f4d2c/Norwich-City-Watford-November-8-2019-Premier-League
+4,2019-08-31,Sat,Matchweek 13,Home,L 0–3,Watford,Burnley,N,CB,46,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,100.0,/en/matches/d4aea4c0/Watford-Burnley-November-23-2019-Premier-League
+5,2019-08-31,Sat,Matchweek 14,Away,L 1–2,Watford,Southampton,Y,CB,90,0,0,0,0,1,1,0,0,1,0,0,0,3,2,2,50.0,/en/matches/3f1fdbad/Southampton-Watford-November-30-2019-Premier-League
+6,2019-08-31,Wed,Matchweek 15,Away,L 0–2,Watford,Leicester City,Y,LB,90,1,0,0,4,2,0,3,2,2,0,1,0,2,3,2,60.0,/en/matches/8b04b0d5/Leicester-City-Watford-December-4-2019-Premier-League
+7,2019-08-31,Sat,Matchweek 16,Home,D 0–0,Watford,Crystal Palace,Y,LB,90,0,0,0,1,1,0,3,2,1,0,0,0,6,4,1,80.0,/en/matches/90976b40/Watford-Crystal-Palace-December-7-2019-Premier-League
+8,2019-08-31,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,2019-08-31,Sun,Matchweek 18,Home,W 2–0,Watford,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/a58df282/Watford-Manchester-United-December-22-2019-Premier-League,,,,,,,,,,,,,,,,,
+10,2019-08-31,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,2019-08-31,Sat,Matchweek 20,Home,W 3–0,Watford,Aston Villa,N,LB,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,/en/matches/36dc1eb8/Watford-Aston-Villa-December-28-2019-Premier-League
+12,2019-08-31,Wed,Matchweek 21,Home,W 2–1,Watford,Wolves,N,RB,18,0,0,0,0,0,0,0,1,1,0,0,0,2,0,1,0.0,/en/matches/dc2a86e8/Watford-Wolverhampton-Wanderers-January-1-2020-Premier-League
+13,2019-08-31,Sun,Matchweek 22,Away,W 3–0,Watford,Bournemouth,Y,LB,90,0,0,0,1,0,0,4,2,3,0,0,0,9,4,0,100.0,/en/matches/76ce7bd8/Bournemouth-Watford-January-12-2020-Premier-League
+14,2019-08-31,Sat,Matchweek 23,Home,D 0–0,Watford,Tottenham,Y,LB,90,0,0,0,1,1,0,4,2,0,0,0,0,5,1,0,100.0,/en/matches/46697bf6/Watford-Tottenham-Hotspur-January-18-2020-Premier-League
+15,2019-08-31,Tue,Matchweek 24,Away,L 1–2,Watford,Aston Villa,Y,LB,90,0,0,0,1,0,0,2,3,0,0,0,0,5,5,1,83.3,/en/matches/3deb145e/Aston-Villa-Watford-January-21-2020-Premier-League
+16,2019-08-31,Sat,Matchweek 25,Home,L 2–3,Watford,Everton,Y,LB,90,1,0,0,0,1,0,7,1,0,0,0,0,7,5,2,71.4,/en/matches/476d12a9/Watford-Everton-February-1-2020-Premier-League
+17,2019-08-31,Sat,Matchweek 26,Away,D 1–1,Watford,Brighton,Y,LB,90,0,0,0,0,0,0,2,1,3,0,0,0,4,4,4,50.0,/en/matches/111b8b45/Brighton-and-Hove-Albion-Watford-February-8-2020-Premier-League
+18,2019-08-31,Sun,Matchweek 27,Away,L 0–3,Watford,Manchester Utd,Y,LB,90,0,0,0,2,0,0,6,0,1,0,0,0,4,3,1,75.0,/en/matches/835d0c36/Manchester-United-Watford-February-23-2020-Premier-League
+19,2019-08-31,Sat,Matchweek 28,Home,W 3–0,Watford,Liverpool,Y,LB,90,0,0,0,0,0,0,3,3,3,0,0,0,11,2,0,100.0,/en/matches/4df69c15/Watford-Liverpool-February-29-2020-Premier-League
+20,2019-08-31,Sat,Matchweek 29,Away,L 0–1,Watford,Crystal Palace,Y,LB,90,0,0,0,4,1,0,9,0,2,0,0,0,4,3,3,50.0,/en/matches/7535d777/Crystal-Palace-Watford-March-7-2020-Premier-League
+21,2019-08-31,Sat,Matchweek 30,Home,D 1–1,Watford,Leicester City,Y,LB,87,0,0,0,1,0,0,1,3,1,0,0,0,5,1,0,100.0,/en/matches/e5f403c2/Watford-Leicester-City-June-20-2020-Premier-League
+22,2019-08-31,Thu,Matchweek 31,Away,L 0–1,Watford,Burnley,Y,LB,90,0,0,0,0,0,0,5,1,1,0,0,0,3,6,3,66.7,/en/matches/965fbb94/Burnley-Watford-June-25-2020-Premier-League
+23,2019-08-31,Sun,Matchweek 32,Home,L 1–3,Watford,Southampton,Y,LB,73,0,0,0,1,2,1,4,1,0,0,0,0,8,5,1,83.3,/en/matches/37720dc3/Watford-Southampton-June-28-2020-Premier-League
+24,2019-08-31,Sat,Matchweek 33,Away,L 0–3,Watford,Chelsea,N,LB,27,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0.0,/en/matches/ee7944f1/Chelsea-Watford-July-4-2020-Premier-League
+25,2019-08-31,Tue,Matchweek 34,Home,W 2–1,Watford,Norwich City,Y,LB,90,0,0,0,0,1,0,1,1,0,0,0,0,4,3,1,75.0,/en/matches/7e51a0cb/Watford-Norwich-City-July-7-2020-Premier-League
+26,2019-08-31,Sat,Matchweek 35,Home,W 2–1,Watford,Newcastle Utd,Y,LB,90,0,0,0,2,0,0,2,1,1,0,0,0,0,1,4,20.0,/en/matches/ae59ff28/Watford-Newcastle-United-July-11-2020-Premier-League
+27,2019-08-31,Fri,Matchweek 36,Away,L 1–3,Watford,West Ham,Y,LB,45,0,0,0,1,0,0,4,1,0,0,0,0,1,0,1,0.0,/en/matches/249bbdaa/West-Ham-United-Watford-July-17-2020-Premier-League
+28,2019-08-31,Tue,Matchweek 37,Home,L 0–4,Watford,Manchester City,N,LM,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,/en/matches/9979847f/Watford-Manchester-City-July-21-2020-Premier-League
+29,2019-08-31,Sun,Matchweek 38,Away,L 2–3,Watford,Arsenal,Y,LB,90,0,0,0,3,0,0,3,1,0,0,0,0,3,2,0,100.0,/en/matches/5ecaeb4b/Arsenal-Watford-July-26-2020-Premier-League

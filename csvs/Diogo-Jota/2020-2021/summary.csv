@@ -1,0 +1,22 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-14,Mon,Matchweek 3,Home,W 3–1,Liverpool,Arsenal,N,LW,11,1,0,0,0,3,1,0,0,16,0,0,1,0.4,0.4,0.0,0,0,6,7,85.7,1,11,3,1,0,/en/matches/ebe4e309/Liverpool-Arsenal-September-28-2020-Premier-League
+1,2020-09-14,Sun,Matchweek 4,Away,L 2–7,Liverpool,Aston Villa,Y,LW,90,0,0,0,0,4,3,0,0,63,1,0,2,0.2,0.2,0.0,4,1,34,42,81.0,5,44,7,2,0,/en/matches/14a7771b/Aston-Villa-Liverpool-October-4-2020-Premier-League
+2,2020-09-14,Sat,Matchweek 5,Away,D 2–2,Liverpool,Everton,N,LW,13,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.3,3,0,6,7,85.7,0,7,3,1,1,/en/matches/6da04e2d/Merseyside-Derby-Everton-Liverpool-October-17-2020-Premier-League
+3,2020-09-14,Sat,Matchweek 6,Home,W 2–1,Liverpool,Sheffield Utd,Y,RW,82,1,0,0,0,1,1,0,0,49,0,0,1,0.3,0.3,0.0,2,0,31,40,77.5,3,35,3,5,3,/en/matches/0bc8d984/Liverpool-Sheffield-United-October-24-2020-Premier-League
+4,2020-09-14,Sat,Matchweek 7,Home,W 2–1,Liverpool,West Ham,N,LW,21,1,0,0,0,1,1,0,0,13,2,0,0,0.4,0.4,0.0,0,0,7,10,70.0,0,10,2,0,0,/en/matches/56ad8025/Liverpool-West-Ham-United-October-31-2020-Premier-League
+5,2020-09-14,Sun,Matchweek 8,Away,D 1–1,Liverpool,Manchester City,Y,"RW,AM",90,0,0,0,0,3,1,0,0,36,0,0,0,0.2,0.2,0.0,1,0,22,25,88.0,2,23,3,2,1,/en/matches/26382194/Manchester-City-Liverpool-November-8-2020-Premier-League
+6,2020-09-14,Sun,Matchweek 9,Home,W 3–0,Liverpool,Leicester City,Y,RW,88,1,0,0,0,5,3,0,0,43,0,0,0,0.7,0.7,0.9,6,0,24,32,75.0,6,27,5,4,3,/en/matches/cc230451/Liverpool-Leicester-City-November-22-2020-Premier-League
+7,2020-09-14,Sat,Matchweek 10,Away,D 1–1,Liverpool,Brighton,Y,"LW,RW",90,1,0,0,0,2,1,0,0,46,0,0,0,0.1,0.1,0.0,1,1,27,34,79.4,0,37,3,4,1,/en/matches/31baf354/Brighton-and-Hove-Albion-Liverpool-November-28-2020-Premier-League
+8,2020-09-14,Sun,Matchweek 11,Home,W 4–0,Liverpool,Wolves,N,FW,18,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,8,9,88.9,2,8,1,0,0,/en/matches/25249736/Liverpool-Wolverhampton-Wanderers-December-6-2020-Premier-League
+9,2020-09-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,2020-09-14,Thu,Matchweek 29,Home,L 0–1,Liverpool,Chelsea,N,LW,29,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,0,1,1,/en/matches/86920e88/Liverpool-Chelsea-March-4-2021-Premier-League
+11,2020-09-14,Sun,Matchweek 27,Home,L 0–1,Liverpool,Fulham,Y,"LW,FW",90,0,0,0,0,1,1,1,0,44,1,0,0,0.1,0.1,0.1,3,0,25,37,67.6,5,32,2,1,1,/en/matches/5826a836/Liverpool-Fulham-March-7-2021-Premier-League
+12,2020-09-14,Mon,Matchweek 28,Away,W 1–0,Liverpool,Wolves,Y,FW,81,1,0,0,0,2,2,0,0,43,1,2,1,0.1,0.1,0.0,1,0,17,29,58.6,2,24,3,5,1,/en/matches/ad3063c2/Wolverhampton-Wanderers-Liverpool-March-15-2021-Premier-League
+13,2020-09-14,Sat,Matchweek 30,Away,W 3–0,Liverpool,Arsenal,N,FW,30,2,0,0,0,2,2,1,0,20,1,0,0,0.8,0.8,0.0,2,0,9,15,60.0,1,12,0,0,0,/en/matches/562d1981/Arsenal-Liverpool-April-3-2021-Premier-League
+14,2020-09-14,Sat,Matchweek 31,Home,W 2–1,Liverpool,Aston Villa,Y,LW,90,0,0,0,0,5,1,0,0,44,1,0,0,0.2,0.2,0.1,3,0,19,28,67.9,4,32,4,4,2,/en/matches/20bdebdc/Liverpool-Aston-Villa-April-10-2021-Premier-League
+15,2020-09-14,Mon,Matchweek 32,Away,D 1–1,Liverpool,Leeds United,Y,"RW,LW",80,0,0,0,0,5,2,0,0,45,0,0,0,0.6,0.6,0.1,3,1,18,31,58.1,3,34,7,6,3,/en/matches/6c0666e6/Leeds-United-Liverpool-April-19-2021-Premier-League
+16,2020-09-14,Sat,Matchweek 33,Home,D 1–1,Liverpool,Newcastle Utd,Y,FW,57,0,0,0,0,4,2,0,0,48,1,0,1,0.6,0.6,0.1,4,0,25,37,67.6,3,28,2,2,1,/en/matches/81e8aaf4/Liverpool-Newcastle-United-April-24-2021-Premier-League
+17,2020-09-14,Sat,Matchweek 35,Home,W 2–0,Liverpool,Southampton,Y,FW,78,0,0,0,0,3,2,0,0,45,1,2,0,0.4,0.4,0.0,1,0,22,35,62.9,4,24,4,3,2,/en/matches/e5923f92/Liverpool-Southampton-May-8-2021-Premier-League
+18,2020-09-14,Thu,Matchweek 34,Away,W 4–2,Liverpool,Manchester Utd,Y,LW,73,1,0,0,0,4,3,0,0,44,3,1,3,1.2,1.2,0.0,2,1,16,24,66.7,2,29,1,2,1,/en/matches/9f0275a4/North-West-Derby-Manchester-United-Liverpool-May-13-2021-Premier-League
+19,2020-09-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,2020-09-14,Sun,Matchweek 38,Home,W 2–0,Liverpool,Crystal Palace,N,FW,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,1,0,0,/en/matches/c2fc07f0/Liverpool-Crystal-Palace-May-23-2021-Premier-League

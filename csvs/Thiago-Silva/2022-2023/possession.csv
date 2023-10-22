@@ -1,0 +1,31 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
+0,2022-08-06,Sun,Matchweek 3,Away,L 0–3,Chelsea,Leeds United,Y,CB,90,79,8,36,41,2,1,79,0,0,,0,,33,142,65,0,0,0,0,0,51,0,/en/matches/a5632124/Leeds-United-Chelsea-August-21-2022-Premier-League
+1,2022-08-06,Sat,Matchweek 4,Home,W 2–1,Chelsea,Leicester City,Y,CB,90,76,11,34,41,1,1,76,1,1,100.0,0,0.0,40,215,104,0,0,0,0,0,51,0,/en/matches/b737a3a7/Chelsea-Leicester-City-August-27-2022-Premier-League
+2,2022-08-06,Tue,Matchweek 5,Away,L 1–2,Chelsea,Southampton,Y,CB,90,97,13,47,47,3,0,97,1,1,100.0,0,0.0,55,319,203,0,2,0,0,0,63,0,/en/matches/afd303a8/Southampton-Chelsea-August-30-2022-Premier-League
+3,2022-08-06,Sat,Matchweek 6,Home,W 2–1,Chelsea,West Ham,Y*,CB,90,114,4,38,72,5,1,114,0,0,,0,,74,287,168,0,2,0,0,0,85,0,/en/matches/d7642197/Chelsea-West-Ham-United-September-3-2022-Premier-League
+4,2022-08-06,Sat,Matchweek 9,Away,W 2–1,Chelsea,Crystal Palace,Y,CB,90,133,8,47,84,2,1,133,0,0,,0,,104,631,357,0,0,0,1,0,109,1,/en/matches/372249f3/Crystal-Palace-Chelsea-October-1-2022-Premier-League
+5,2022-08-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,2022-08-06,Sun,Matchweek 11,Away,W 2–0,Chelsea,Aston Villa,Y*,CB,90,82,19,55,27,0,0,82,0,0,,0,,48,192,112,0,0,0,0,0,61,0,/en/matches/7113ce7f/Aston-Villa-Chelsea-October-16-2022-Premier-League
+7,2022-08-06,Wed,Matchweek 12,Away,D 0–0,Chelsea,Brentford,N,"On matchday squad, but did not play",/en/matches/b7a32aeb/Brentford-Chelsea-October-19-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+8,2022-08-06,Sat,Matchweek 13,Home,D 1–1,Chelsea,Manchester Utd,Y,CB,90,50,12,36,15,0,0,50,0,0,,0,,28,126,50,0,0,0,0,0,32,0,/en/matches/7ad85c8a/Chelsea-Manchester-United-October-22-2022-Premier-League
+9,2022-08-06,Sat,Matchweek 14,Away,L 1–4,Chelsea,Brighton,Y*,CB,90,74,16,41,33,1,1,74,0,0,,0,,38,154,46,0,1,0,0,0,44,0,/en/matches/ac6abad1/Brighton-and-Hove-Albion-Chelsea-October-29-2022-Premier-League
+10,2022-08-06,Sun,Matchweek 15,Home,L 0–1,Chelsea,Arsenal,Y,CB,90,69,14,40,27,2,1,69,0,0,,0,,49,231,150,0,1,0,0,1,45,0,/en/matches/af9dc838/North-West-London-Derby-Chelsea-Arsenal-November-6-2022-Premier-League
+11,2022-08-06,Sat,Matchweek 16,Away,L 0–1,Chelsea,Newcastle Utd,N,CB,84,81,15,47,31,3,1,81,0,0,,0,,45,128,77,0,0,0,0,0,53,0,/en/matches/e1b3eb1b/Newcastle-United-Chelsea-November-12-2022-Premier-League
+12,2022-08-06,Tue,Matchweek 17,Home,W 2–0,Chelsea,Bournemouth,Y,CB,90,101,26,65,35,1,0,101,0,0,,0,,71,267,83,0,0,0,0,0,82,0,/en/matches/d55b9033/Chelsea-Bournemouth-December-27-2022-Premier-League
+13,2022-08-06,Sun,Matchweek 18,Away,D 1–1,Chelsea,Nott'ham Forest,Y,CB,90,138,14,60,77,1,1,138,0,0,,0,,108,496,325,0,0,0,0,0,108,0,/en/matches/c31cf944/Nottingham-Forest-Chelsea-January-1-2023-Premier-League
+14,2022-08-06,Thu,Matchweek 19,Home,L 0–1,Chelsea,Manchester City,Y,CB,90,72,16,49,20,3,1,72,0,0,,0,,52,177,66,0,1,0,0,0,51,0,/en/matches/eacda90c/Chelsea-Manchester-City-January-5-2023-Premier-League
+15,2022-08-06,Thu,Matchweek 7,Away,L 1–2,Chelsea,Fulham,Y,CB,90,63,9,39,22,2,1,63,0,0,,0,,36,156,107,0,0,0,0,0,46,0,/en/matches/2902a42d/Fulham-Chelsea-January-12-2023-Premier-League
+16,2022-08-06,Sun,Matchweek 20,Home,W 1–0,Chelsea,Crystal Palace,Y,CB,90,95,17,49,41,5,4,95,1,0,0.0,0,0.0,64,280,223,0,0,0,0,0,62,0,/en/matches/564d2893/Chelsea-Crystal-Palace-January-15-2023-Premier-League
+17,2022-08-06,Sat,Matchweek 21,Away,D 0–0,Chelsea,Liverpool,Y,CB,90,108,20,87,19,2,1,108,0,0,,0,,66,328,191,0,0,0,0,0,80,0,/en/matches/7febc290/Liverpool-Chelsea-January-21-2023-Premier-League
+18,2022-08-06,Fri,Matchweek 22,Home,D 0–0,Chelsea,Fulham,Y*,CB,90,120,17,56,62,2,2,120,0,0,,0,,86,472,320,2,0,0,1,0,96,0,/en/matches/c3cf244b/Chelsea-Fulham-February-3-2023-Premier-League
+19,2022-08-06,Sat,Matchweek 23,Away,D 1–1,Chelsea,West Ham,Y*,CB,90,97,15,52,44,1,0,97,0,0,,0,,64,297,152,1,1,0,1,0,74,0,/en/matches/18dea268/West-Ham-United-Chelsea-February-11-2023-Premier-League
+20,2022-08-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,2022-08-06,Sun,Matchweek 25,Away,L 0–2,Chelsea,Tottenham,Y*,CB,18,15,2,5,10,0,0,15,0,0,,0,,3,8,0,0,0,0,0,0,9,0,/en/matches/8eff71b5/Tottenham-Hotspur-Chelsea-February-26-2023-Premier-League
+22,2022-08-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,2022-08-06,Wed,Matchweek 33,Home,L 0–2,Chelsea,Brentford,Y,CB,90,80,8,30,44,6,2,80,0,0,,0,,55,172,94,0,1,0,0,0,57,0,/en/matches/071b5820/Chelsea-Brentford-April-26-2023-Premier-League
+24,2022-08-06,Tue,Matchweek 34,Away,L 1–3,Chelsea,Arsenal,Y,CB,90,77,18,51,25,1,1,77,0,0,,0,,50,152,45,0,0,0,0,0,53,0,/en/matches/2d551ff5/North-West-London-Derby-Arsenal-Chelsea-May-2-2023-Premier-League
+25,2022-08-06,Sat,Matchweek 35,Away,W 3–1,Chelsea,Bournemouth,Y*,CB,90,76,5,26,45,5,1,76,0,0,,0,,37,144,89,0,0,0,1,0,61,1,/en/matches/6116824f/Bournemouth-Chelsea-May-6-2023-Premier-League
+26,2022-08-06,Sat,Matchweek 36,Home,D 2–2,Chelsea,Nott'ham Forest,Y*,CB,90,111,6,35,70,6,0,111,1,1,100.0,0,0.0,78,502,401,3,4,0,1,0,87,0,/en/matches/96ab0b45/Chelsea-Nottingham-Forest-May-13-2023-Premier-League
+27,2022-08-06,Sun,Matchweek 37,Away,L 0–1,Chelsea,Manchester City,Y,CB,90,57,22,43,14,0,0,57,0,0,,0,,38,158,91,0,0,0,0,0,42,0,/en/matches/589e447b/Manchester-City-Chelsea-May-21-2023-Premier-League
+28,2022-08-06,Thu,Matchweek 32,Away,L 1–4,Chelsea,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/d2f2263d/Manchester-United-Chelsea-May-25-2023-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+29,2022-08-06,Sun,Matchweek 38,Home,D 1–1,Chelsea,Newcastle Utd,Y,CB,90,72,13,34,36,2,2,72,0,0,,0,,51,168,121,1,0,0,0,0,53,0,/en/matches/4f7b1a0d/Chelsea-Newcastle-United-May-28-2023-Premier-League

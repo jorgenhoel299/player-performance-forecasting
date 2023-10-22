@@ -1,0 +1,32 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-15,Sun,Matchweek 3,Home,W 1–0,Tottenham,Watford,Y,LB,90,0,0,0,0,1,0,0,0,47,4,3,0,0.0,0.0,0.0,3,1,31,36,86.1,2,19,1,1,0,/en/matches/3cd9a733/Tottenham-Hotspur-Watford-August-29-2021-Premier-League
+1,2021-08-15,Sat,Matchweek 4,Away,L 0–3,Tottenham,Crystal Palace,Y,LB,90,0,0,0,0,0,0,0,0,50,2,2,3,0.0,0.0,0.0,1,0,23,35,65.7,4,21,2,3,0,/en/matches/17e86f90/Crystal-Palace-Tottenham-Hotspur-September-11-2021-Premier-League
+2,2021-08-15,Sun,Matchweek 5,Home,L 0–3,Tottenham,Chelsea,Y,LB,90,0,0,0,0,0,0,0,0,64,2,1,2,0.0,0.0,0.0,3,0,43,55,78.2,2,44,2,1,1,/en/matches/eaf98461/Tottenham-Hotspur-Chelsea-September-19-2021-Premier-League
+3,2021-08-15,Sun,Matchweek 6,Away,L 1–3,Tottenham,Arsenal,Y,LB,90,0,1,0,0,0,0,0,0,64,1,2,1,0.0,0.0,0.5,4,1,41,55,74.5,3,27,1,0,0,/en/matches/a2c07e97/North-London-Derby-Arsenal-Tottenham-Hotspur-September-26-2021-Premier-League
+4,2021-08-15,Sun,Matchweek 7,Home,W 2–1,Tottenham,Aston Villa,Y,LB,90,0,0,0,0,0,0,0,0,59,4,3,1,0.0,0.0,0.0,1,0,38,43,88.4,5,28,1,4,2,/en/matches/7bb0a43c/Tottenham-Hotspur-Aston-Villa-October-3-2021-Premier-League
+5,2021-08-15,Sun,Matchweek 8,Away,W 3–2,Tottenham,Newcastle Utd,Y,LB,90,0,1,0,0,0,0,0,0,81,1,0,1,0.0,0.0,0.1,4,1,61,74,82.4,2,50,9,2,1,/en/matches/4bd69343/Newcastle-United-Tottenham-Hotspur-October-17-2021-Premier-League
+6,2021-08-15,Sun,Matchweek 9,Away,L 0–1,Tottenham,West Ham,Y,LB,83,0,0,0,0,1,0,0,0,56,1,1,3,0.0,0.0,0.2,2,0,31,44,70.5,0,28,2,5,1,/en/matches/70c508ee/West-Ham-United-Tottenham-Hotspur-October-24-2021-Premier-League
+7,2021-08-15,Sat,Matchweek 10,Home,L 0–3,Tottenham,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/5a2b8c26/Tottenham-Hotspur-Manchester-United-October-30-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,2021-08-15,Sun,Matchweek 11,Away,D 0–0,Tottenham,Everton,Y,WB,70,0,0,0,0,2,0,1,0,64,0,2,0,0.4,0.4,0.1,2,0,37,51,72.5,1,17,3,4,2,/en/matches/224d1c99/Everton-Tottenham-Hotspur-November-7-2021-Premier-League
+9,2021-08-15,Sun,Matchweek 12,Home,W 2–1,Tottenham,Leeds United,Y,WB,78,1,0,0,0,2,1,0,0,50,1,3,1,0.7,0.7,0.1,1,0,17,29,58.6,2,18,1,4,0,/en/matches/a74a684e/Tottenham-Hotspur-Leeds-United-November-21-2021-Premier-League
+10,2021-08-15,Thu,Matchweek 14,Home,W 2–0,Tottenham,Brentford,Y,"WB,LB",90,0,1,0,0,1,0,0,0,54,1,2,0,0.1,0.1,1.0,4,1,30,44,68.2,2,36,5,1,0,/en/matches/a80b3790/Tottenham-Hotspur-Brentford-December-2-2021-Premier-League
+11,2021-08-15,Sun,Matchweek 15,Home,W 3–0,Tottenham,Norwich City,Y,WB,21,0,0,0,0,0,0,1,0,9,1,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,5,0,0,0,/en/matches/78e62deb/Tottenham-Hotspur-Norwich-City-December-5-2021-Premier-League
+12,2021-08-15,Sun,Matchweek 18,Home,D 2–2,Tottenham,Liverpool,N,LB,5,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,1,0,/en/matches/4ac8dee4/Tottenham-Hotspur-Liverpool-December-19-2021-Premier-League
+13,2021-08-15,Sun,Matchweek 19,Home,W 3–0,Tottenham,Crystal Palace,Y,WB,90,0,0,0,0,1,0,0,0,70,5,2,0,0.0,0.0,0.5,6,0,45,58,77.6,2,53,6,3,2,/en/matches/ac4560d6/Tottenham-Hotspur-Crystal-Palace-December-26-2021-Premier-League
+14,2021-08-15,Tue,Matchweek 20,Away,D 1–1,Tottenham,Southampton,Y,WB,45,0,0,0,0,0,0,1,0,29,0,0,0,0.0,0.0,0.0,1,0,15,24,62.5,1,15,1,0,0,/en/matches/08d5ef01/Southampton-Tottenham-Hotspur-December-28-2021-Premier-League
+15,2021-08-15,Sat,Matchweek 21,Away,W 1–0,Tottenham,Watford,Y,LM,82,0,0,0,0,2,1,0,0,59,4,0,0,0.1,0.1,0.0,4,0,39,47,83.0,6,39,4,1,0,/en/matches/9c831c07/Watford-Tottenham-Hotspur-January-1-2022-Premier-League
+16,2021-08-15,Wed,Matchweek 17,Away,W 3–2,Tottenham,Leicester City,Y,WB,78,0,0,0,0,2,1,0,0,52,4,0,1,0.2,0.2,0.2,8,0,33,40,82.5,0,26,2,7,5,/en/matches/77d28549/Leicester-City-Tottenham-Hotspur-January-19-2022-Premier-League
+17,2021-08-15,Sun,Matchweek 23,Away,L 0–2,Tottenham,Chelsea,N,"On matchday squad, but did not play",/en/matches/29e164e3/Chelsea-Tottenham-Hotspur-January-23-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,2021-08-15,Wed,Matchweek 24,Home,L 2–3,Tottenham,Southampton,Y,WB,82,0,0,0,0,2,1,0,0,45,0,2,0,0.6,0.6,0.2,2,0,32,38,84.2,3,23,4,0,0,/en/matches/0613df22/Tottenham-Hotspur-Southampton-February-9-2022-Premier-League
+19,2021-08-15,Sun,Matchweek 25,Home,L 0–2,Tottenham,Wolves,N,"On matchday squad, but did not play",/en/matches/fe93b491/Tottenham-Hotspur-Wolverhampton-Wanderers-February-13-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,2021-08-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,2021-08-15,Wed,Matchweek 13,Away,L 0–1,Tottenham,Burnley,N,"On matchday squad, but did not play",/en/matches/f8d646cb/Burnley-Tottenham-Hotspur-February-23-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,2021-08-15,Sat,Matchweek 27,Away,W 4–0,Tottenham,Leeds United,N,"On matchday squad, but did not play",/en/matches/05d37de9/Leeds-United-Tottenham-Hotspur-February-26-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,2021-08-15,Mon,Matchweek 28,Home,W 5–0,Tottenham,Everton,N,WB,45,1,0,0,0,1,1,0,0,39,1,0,0,0.4,0.4,0.1,3,0,31,33,93.9,1,21,1,2,1,/en/matches/6e11eac6/Tottenham-Hotspur-Everton-March-7-2022-Premier-League
+24,2021-08-15,Sat,Matchweek 29,Away,L 2–3,Tottenham,Manchester Utd,Y,"WB,LB",90,0,0,0,0,0,0,0,0,71,1,1,3,0.0,0.0,0.1,1,0,42,59,71.2,2,43,6,2,2,/en/matches/e5e7becb/Manchester-United-Tottenham-Hotspur-March-12-2022-Premier-League
+25,2021-08-15,Wed,Matchweek 16,Away,W 2–0,Tottenham,Brighton,Y,WB,90,0,0,0,0,2,2,1,0,60,0,1,2,0.3,0.3,0.0,1,0,36,48,75.0,0,34,5,2,1,/en/matches/59b3ee40/Brighton-and-Hove-Albion-Tottenham-Hotspur-March-16-2022-Premier-League
+26,2021-08-15,Sun,Matchweek 30,Home,W 3–1,Tottenham,West Ham,Y,WB,87,0,0,0,0,3,1,0,0,38,2,0,0,0.2,0.2,0.1,2,0,21,31,67.7,1,29,2,0,0,/en/matches/5fb752fa/Tottenham-Hotspur-West-Ham-United-March-20-2022-Premier-League
+27,2021-08-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,2021-08-15,Sat,Matchweek 32,Away,W 4–0,Tottenham,Aston Villa,N,LM,70,0,0,0,0,1,1,0,0,35,2,0,1,0.0,0.0,0.0,2,0,20,30,66.7,4,21,2,0,0,/en/matches/811d471f/Aston-Villa-Tottenham-Hotspur-April-9-2022-Premier-League
+29,2021-08-15,Sat,Matchweek 33,Home,L 0–1,Tottenham,Brighton,Y,LM,90,0,0,0,0,0,0,0,0,43,1,0,0,0.0,0.0,0.0,0,0,27,38,71.1,3,12,0,1,0,/en/matches/0b266073/Tottenham-Hotspur-Brighton-and-Hove-Albion-April-16-2022-Premier-League
+30,2021-08-15,Sat,Matchweek 34,Away,D 0–0,Tottenham,Brentford,N,"On matchday squad, but did not play",/en/matches/9c939b7f/Brentford-Tottenham-Hotspur-April-23-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,36 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
+0,2019-08-10,Fri,Matchweek 3,Away,L 0–2,Everton,Aston Villa,Y,AM,60,23,28,82.1,306,96,14,15,93.3,6,8,75.0,1,1,100.0,0,0.0,0.0,2,2,1,0,7,/en/matches/3e805eff/Aston-Villa-Everton-August-23-2019-Premier-League
+1,2019-08-10,Sun,Matchweek 4,Home,W 3–2,Everton,Wolves,Y,AM,90,25,39,64.1,437,192,12,17,70.6,8,12,66.7,4,8,50.0,1,0.6,0.3,5,2,2,1,3,/en/matches/70303b7b/Everton-Wolverhampton-Wanderers-September-1-2019-Premier-League
+2,2019-08-10,Sun,Matchweek 5,Away,L 1–3,Everton,Bournemouth,Y,AM,70,25,35,71.4,317,99,13,16,81.3,4,8,50.0,2,5,40.0,0,0.0,0.1,1,5,1,0,4,/en/matches/886c59ae/Bournemouth-Everton-September-15-2019-Premier-League
+3,2019-08-10,Sat,Matchweek 6,Home,L 0–2,Everton,Sheffield Utd,Y,"AM,CM",90,39,46,84.8,590,163,20,20,100.0,13,16,81.3,2,6,33.3,0,0.2,0.2,4,5,3,2,6,/en/matches/707ee0eb/Everton-Sheffield-United-September-21-2019-Premier-League
+4,2019-08-10,Sat,Matchweek 7,Home,L 1–3,Everton,Manchester City,Y,AM,90,24,33,72.7,426,221,10,14,71.4,8,10,80.0,4,7,57.1,0,0.7,0.7,5,1,4,0,6,/en/matches/1b9f4fc3/Everton-Manchester-City-September-28-2019-Premier-League
+5,2019-08-10,Sat,Matchweek 8,Away,L 0–1,Everton,Burnley,Y,AM,58,15,20,75.0,219,64,6,7,85.7,6,7,85.7,1,3,33.3,0,0.5,0.0,2,0,0,0,3,/en/matches/2f9439d0/Burnley-Everton-October-5-2019-Premier-League
+6,2019-08-10,Sat,Matchweek 9,Home,W 2–0,Everton,West Ham,N,AM,4,5,6,83.3,74,14,3,4,75.0,2,2,100.0,0,0,,0,0.0,0.0,0,1,0,0,2,/en/matches/0fa45675/Everton-West-Ham-United-October-19-2019-Premier-League
+7,2019-08-10,Sat,Matchweek 10,Away,L 2–3,Everton,Brighton,N,"AM,LW",61,11,16,68.8,149,29,8,11,72.7,2,4,50.0,1,1,100.0,0,0.0,0.0,0,2,0,0,2,/en/matches/f728ceea/Brighton-and-Hove-Albion-Everton-October-26-2019-Premier-League
+8,2019-08-10,Sun,Matchweek 11,Home,D 1–1,Everton,Tottenham,N,CM,7,7,12,58.3,109,55,5,6,83.3,1,2,50.0,1,2,50.0,0,0.0,0.0,0,1,2,0,3,/en/matches/efe9c8f4/Everton-Tottenham-Hotspur-November-3-2019-Premier-League
+9,2019-08-10,Sat,Matchweek 12,Away,W 2–1,Everton,Southampton,Y*,"AM,LM",90,29,40,72.5,531,206,15,15,100.0,10,14,71.4,4,6,66.7,0,0.1,0.1,3,5,1,0,8,/en/matches/553c5b11/Southampton-Everton-November-9-2019-Premier-League
+10,2019-08-10,Sat,Matchweek 13,Home,L 0–2,Everton,Norwich City,Y*,"AM,CM",90,23,34,67.6,332,93,13,17,76.5,7,8,87.5,2,6,33.3,0,0.1,0.1,1,1,2,0,4,/en/matches/464461f5/Everton-Norwich-City-November-23-2019-Premier-League
+11,2019-08-10,Sun,Matchweek 14,Away,L 1–2,Everton,Leicester City,Y*,CM,90,25,31,80.6,362,96,13,15,86.7,7,8,87.5,2,4,50.0,0,0.1,0.1,1,4,0,0,4,/en/matches/aa2284c2/Leicester-City-Everton-December-1-2019-Premier-League
+12,2019-08-10,Wed,Matchweek 15,Away,L 2–5,Everton,Liverpool,Y*,CM,90,26,37,70.3,460,121,9,11,81.8,16,19,84.2,1,3,33.3,0,0.1,0.2,1,3,2,0,3,/en/matches/de0ec650/Merseyside-Derby-Liverpool-Everton-December-4-2019-Premier-League
+13,2019-08-10,Sat,Matchweek 16,Home,W 3–1,Everton,Chelsea,Y*,"CM,DM",90,20,26,76.9,293,129,12,13,92.3,8,9,88.9,0,1,0.0,0,0.0,0.1,1,3,0,0,2,/en/matches/1b69dd66/Everton-Chelsea-December-7-2019-Premier-League
+14,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,2019-08-10,Sat,Matchweek 18,Home,D 0–0,Everton,Arsenal,Y*,CM,90,20,27,74.1,315,88,11,13,84.6,6,8,75.0,2,5,40.0,0,0.0,0.0,0,1,0,0,3,/en/matches/b9d1d1a7/Everton-Arsenal-December-21-2019-Premier-League
+16,2019-08-10,Thu,Matchweek 19,Home,W 1–0,Everton,Burnley,Y,CM,90,48,65,73.8,880,297,22,23,95.7,20,27,74.1,6,13,46.2,0,0.3,0.3,4,5,1,1,5,/en/matches/b23c6c90/Everton-Burnley-December-26-2019-Premier-League
+17,2019-08-10,Sat,Matchweek 20,Away,W 2–1,Everton,Newcastle Utd,Y,CM,90,45,60,75.0,890,225,20,23,87.0,18,20,90.0,7,16,43.8,0,0.3,0.2,2,8,0,0,2,/en/matches/6edbd555/Newcastle-United-Everton-December-28-2019-Premier-League
+18,2019-08-10,Wed,Matchweek 21,Away,L 1–2,Everton,Manchester City,Y,"CM,AM",65,22,27,81.5,385,124,7,8,87.5,7,7,100.0,4,8,50.0,0,0.2,0.1,3,1,1,0,2,/en/matches/ed58271e/Manchester-City-Everton-January-1-2020-Premier-League
+19,2019-08-10,Sat,Matchweek 22,Home,W 1–0,Everton,Brighton,Y*,"CM,AM",90,42,57,73.7,802,234,13,15,86.7,16,21,76.2,9,14,64.3,0,0.1,0.1,1,2,1,0,7,/en/matches/61cc2ca5/Everton-Brighton-and-Hove-Albion-January-11-2020-Premier-League
+20,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,2019-08-10,Sat,Matchweek 25,Away,W 3–2,Everton,Watford,Y*,CM,66,38,44,86.4,701,225,18,18,100.0,13,14,92.9,7,11,63.6,1,0.2,0.3,2,8,1,0,5,/en/matches/476d12a9/Watford-Everton-February-1-2020-Premier-League
+22,2019-08-10,Sat,Matchweek 26,Home,W 3–1,Everton,Crystal Palace,Y,"CM,DM",85,28,37,75.7,446,190,13,19,68.4,6,6,100.0,5,7,71.4,0,0.0,0.0,1,1,0,0,1,/en/matches/4e620966/Everton-Crystal-Palace-February-8-2020-Premier-League
+23,2019-08-10,Sun,Matchweek 27,Away,L 2–3,Everton,Arsenal,Y,"LM,CM",90,30,40,75.0,444,137,15,17,88.2,12,15,80.0,1,3,33.3,0,0.2,0.0,3,4,0,0,3,/en/matches/485003ed/Arsenal-Everton-February-23-2020-Premier-League
+24,2019-08-10,Sun,Matchweek 28,Home,D 1–1,Everton,Manchester Utd,Y,"LM,CM",90,20,37,54.1,365,191,8,10,80.0,10,14,71.4,2,10,20.0,0,0.0,0.0,1,2,0,0,4,/en/matches/ea2c2272/Everton-Manchester-United-March-1-2020-Premier-League
+25,2019-08-10,Sun,Matchweek 29,Away,L 0–4,Everton,Chelsea,Y*,"LM,CM",90,26,29,89.7,491,140,6,7,85.7,17,18,94.4,2,3,66.7,0,0.0,0.0,0,1,0,0,3,/en/matches/c062bff0/Chelsea-Everton-March-8-2020-Premier-League
+26,2019-08-10,Sun,Matchweek 30,Home,D 0–0,Everton,Liverpool,N,LM,31,7,9,77.8,117,64,4,4,100.0,2,2,100.0,1,1,100.0,0,0.0,0.0,0,0,0,0,0,/en/matches/603174fb/Merseyside-Derby-Everton-Liverpool-June-21-2020-Premier-League
+27,2019-08-10,Wed,Matchweek 31,Away,W 1–0,Everton,Norwich City,N,CM,45,18,21,85.7,317,67,7,7,100.0,10,10,100.0,1,2,50.0,0,0.0,0.0,0,2,0,0,0,/en/matches/49724d90/Norwich-City-Everton-June-24-2020-Premier-League
+28,2019-08-10,Wed,Matchweek 32,Home,W 2–1,Everton,Leicester City,Y,CM,90,25,31,80.6,398,35,10,11,90.9,11,12,91.7,2,5,40.0,0,0.0,0.0,0,0,0,0,1,/en/matches/c2c7ebbf/Everton-Leicester-City-July-1-2020-Premier-League
+29,2019-08-10,Mon,Matchweek 33,Away,L 0–1,Everton,Tottenham,Y,"CM,LM",66,21,27,77.8,369,128,10,11,90.9,6,8,75.0,3,3,100.0,0,0.0,0.0,0,3,0,0,6,/en/matches/ba9fd89a/Tottenham-Hotspur-Everton-July-6-2020-Premier-League
+30,2019-08-10,Thu,Matchweek 34,Home,D 1–1,Everton,Southampton,N,CM,49,17,21,81.0,268,90,11,13,84.6,4,6,66.7,1,1,100.0,0,0.1,0.1,1,1,0,0,1,/en/matches/1357ee3b/Everton-Southampton-July-9-2020-Premier-League
+31,2019-08-10,Sun,Matchweek 35,Away,L 0–3,Everton,Wolves,Y,CM,90,65,76,85.5,1229,224,23,28,82.1,31,33,93.9,9,13,69.2,0,0.0,0.0,0,4,0,0,3,/en/matches/476e8583/Wolverhampton-Wanderers-Everton-July-12-2020-Premier-League
+32,2019-08-10,Thu,Matchweek 36,Home,D 1–1,Everton,Aston Villa,N,CM,18,13,14,92.9,273,137,3,3,100.0,8,8,100.0,2,3,66.7,0,0.0,0.0,0,3,1,0,5,/en/matches/f855bc55/Everton-Aston-Villa-July-16-2020-Premier-League
+33,2019-08-10,Mon,Matchweek 37,Away,W 1–0,Everton,Sheffield Utd,Y*,AM,87,23,29,79.3,348,124,16,18,88.9,5,7,71.4,2,3,66.7,1,0.1,0.1,3,3,1,0,4,/en/matches/d2e788d0/Sheffield-United-Everton-July-20-2020-Premier-League
+34,2019-08-10,Sun,Matchweek 38,Home,L 1–3,Everton,Bournemouth,Y,"AM,DM",90,57,63,90.5,1042,211,24,26,92.3,24,25,96.0,8,8,100.0,0,0.1,0.0,1,6,0,0,12,/en/matches/2a3b8f05/Everton-Bournemouth-July-26-2020-Premier-League

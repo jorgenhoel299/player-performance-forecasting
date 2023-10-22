@@ -1,0 +1,30 @@
+,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
+0,2022-08-27,Sun,Matchweek 6,Home,W 3–1,Manchester Utd,Arsenal,N,DM,11,10,2,6,4,0,0,10,0,0,,0,,4,39,0,0,1,0,1,1,4,0,/en/matches/61ddafa5/Manchester-United-Arsenal-September-4-2022-Premier-League
+1,2022-08-27,Sun,Matchweek 9,Away,L 3–6,Manchester Utd,Manchester City,N,DM,32,29,3,11,14,4,0,29,0,0,,0,,16,85,23,0,1,0,0,2,21,0,/en/matches/886e6108/Manchester-Derby-Manchester-City-Manchester-United-October-2-2022-Premier-League
+2,2022-08-27,Sun,Matchweek 10,Away,W 2–1,Manchester Utd,Everton,Y,DM,90,87,6,26,49,12,1,87,0,0,,0,,40,84,48,1,1,0,1,1,60,0,/en/matches/5d426690/Everton-Manchester-United-October-9-2022-Premier-League
+3,2022-08-27,Sun,Matchweek 11,Home,D 0–0,Manchester Utd,Newcastle Utd,Y,DM,90,69,2,19,34,16,0,69,0,0,,0,,29,103,28,0,0,0,0,2,40,0,/en/matches/e0b9c72c/Manchester-United-Newcastle-United-October-16-2022-Premier-League
+4,2022-08-27,Wed,Matchweek 12,Home,W 2–0,Manchester Utd,Tottenham,Y,DM,86,68,2,16,34,18,1,68,2,1,50.0,0,0.0,31,107,47,1,2,0,0,1,41,0,/en/matches/eebe78c1/Manchester-United-Tottenham-Hotspur-October-19-2022-Premier-League
+5,2022-08-27,Sat,Matchweek 13,Away,D 1–1,Manchester Utd,Chelsea,Y,DM,90,68,6,31,35,3,1,68,0,0,,0,,41,137,61,0,0,0,2,1,40,2,/en/matches/7ad85c8a/Chelsea-Manchester-United-October-22-2022-Premier-League
+6,2022-08-27,Sun,Matchweek 14,Home,W 1–0,Manchester Utd,West Ham,Y,DM,90,76,9,30,34,13,0,76,1,1,100.0,0,0.0,29,125,69,0,1,0,2,0,48,3,/en/matches/cd0f59f6/Manchester-United-West-Ham-United-October-30-2022-Premier-League
+7,2022-08-27,Sun,Matchweek 15,Away,L 1–3,Manchester Utd,Aston Villa,Y,DM,90,78,0,8,50,20,0,78,1,0,0.0,1,100.0,50,207,78,2,2,0,0,0,55,3,/en/matches/6638574f/Aston-Villa-Manchester-United-November-6-2022-Premier-League
+8,2022-08-27,Sun,Matchweek 16,Away,W 2–1,Manchester Utd,Fulham,Y,DM,90,81,6,31,46,6,0,81,0,0,,0,,29,183,94,1,1,0,1,0,53,1,/en/matches/af75b6b0/Fulham-Manchester-United-November-13-2022-Premier-League
+9,2022-08-27,Tue,Matchweek 17,Home,W 3–0,Manchester Utd,Nott'ham Forest,Y,DM,90,106,4,25,62,20,3,106,0,0,,0,,54,108,47,1,1,0,0,0,72,2,/en/matches/b860f634/Manchester-United-Nottingham-Forest-December-27-2022-Premier-League
+10,2022-08-27,Sat,Matchweek 18,Away,W 1–0,Manchester Utd,Wolves,Y,DM,90,72,2,16,38,19,3,72,1,0,0.0,1,100.0,34,71,34,0,0,0,2,0,45,4,/en/matches/8ef80305/Wolverhampton-Wanderers-Manchester-United-December-31-2022-Premier-League
+11,2022-08-27,Tue,Matchweek 19,Home,W 3–0,Manchester Utd,Bournemouth,Y,DM,90,68,0,19,33,16,1,68,1,0,0.0,0,0.0,36,88,56,0,0,0,2,0,48,1,/en/matches/63fc7f12/Manchester-United-Bournemouth-January-3-2023-Premier-League
+12,2022-08-27,Sat,Matchweek 20,Home,W 2–1,Manchester Utd,Manchester City,Y,DM,89,46,6,18,26,3,0,46,1,1,100.0,0,0.0,15,71,38,0,0,0,0,0,25,0,/en/matches/f0fd7541/Manchester-Derby-Manchester-United-Manchester-City-January-14-2023-Premier-League
+13,2022-08-27,Wed,Matchweek 7,Away,D 1–1,Manchester Utd,Crystal Palace,Y,DM,90,97,8,23,64,12,2,97,1,0,0.0,1,100.0,50,135,72,0,0,0,0,2,51,5,/en/matches/adf46096/Crystal-Palace-Manchester-United-January-18-2023-Premier-League
+14,2022-08-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,2022-08-27,Sat,Matchweek 22,Home,W 2–1,Manchester Utd,Crystal Palace,Y,DM,69,50,2,12,21,17,2,50,2,0,0.0,2,100.0,27,48,9,0,0,0,3,0,34,2,/en/matches/dca5ea6c/Manchester-United-Crystal-Palace-February-4-2023-Premier-League
+16,2022-08-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,2022-08-27,Sun,Matchweek 26,Away,L 0–7,Manchester Utd,Liverpool,Y,DM,75,45,7,14,27,5,0,45,1,1,100.0,0,0.0,20,66,38,0,1,0,0,0,24,1,/en/matches/756e8036/North-West-Derby-Liverpool-Manchester-United-March-5-2023-Premier-League
+18,2022-08-27,Sun,Matchweek 27,Home,D 0–0,Manchester Utd,Southampton,Y,DM,33,31,2,9,20,2,0,31,0,0,,0,,14,36,28,0,0,0,0,0,19,0,/en/matches/9cd3ca2c/Manchester-United-Southampton-March-12-2023-Premier-League
+19,2022-08-27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,2022-08-27,Sun,Matchweek 31,Away,W 2–0,Manchester Utd,Nott'ham Forest,Y,DM,90,57,2,13,37,7,0,57,2,1,50.0,1,50.0,31,76,13,0,0,0,0,1,32,2,/en/matches/4ca8f9f6/Nottingham-Forest-Manchester-United-April-16-2023-Premier-League
+21,2022-08-27,Thu,Matchweek 33,Away,D 2–2,Manchester Utd,Tottenham,Y,DM,90,73,5,23,41,9,1,73,0,0,,0,,53,142,83,1,1,0,1,0,51,1,/en/matches/8c9a5c5c/Tottenham-Hotspur-Manchester-United-April-27-2023-Premier-League
+22,2022-08-27,Sun,Matchweek 34,Home,W 1–0,Manchester Utd,Aston Villa,Y,DM,90,72,1,26,36,10,1,72,0,0,,0,,31,153,113,0,0,0,0,1,49,0,/en/matches/08607696/Manchester-United-Aston-Villa-April-30-2023-Premier-League
+23,2022-08-27,Thu,Matchweek 28,Away,L 0–1,Manchester Utd,Brighton,Y,CM,90,68,6,29,29,10,1,68,1,0,0.0,1,100.0,24,66,39,1,2,0,0,0,32,1,/en/matches/16209587/Brighton-and-Hove-Albion-Manchester-United-May-4-2023-Premier-League
+24,2022-08-27,Sun,Matchweek 35,Away,L 0–1,Manchester Utd,West Ham,Y,"DM,CB",90,84,6,20,50,16,3,84,0,0,,0,,38,138,90,2,0,0,0,2,55,3,/en/matches/98f0c145/West-Ham-United-Manchester-United-May-7-2023-Premier-League
+25,2022-08-27,Sat,Matchweek 36,Home,W 2–0,Manchester Utd,Wolves,Y,DM,90,69,4,13,41,15,0,69,1,1,100.0,0,0.0,33,137,49,1,0,0,1,0,35,3,/en/matches/f5d61382/Manchester-United-Wolverhampton-Wanderers-May-13-2023-Premier-League
+26,2022-08-27,Sat,Matchweek 37,Away,W 1–0,Manchester Utd,Bournemouth,Y,DM,90,88,5,24,47,17,2,88,1,0,0.0,1,100.0,48,164,114,0,1,0,0,0,59,0,/en/matches/ec496eca/Bournemouth-Manchester-United-May-20-2023-Premier-League
+27,2022-08-27,Thu,Matchweek 32,Home,W 4–1,Manchester Utd,Chelsea,Y,DM,90,63,9,32,23,8,1,63,1,1,100.0,0,0.0,29,85,26,0,0,1,2,0,35,0,/en/matches/d2f2263d/Manchester-United-Chelsea-May-25-2023-Premier-League
+28,2022-08-27,Sun,Matchweek 38,Home,W 2–1,Manchester Utd,Fulham,Y,DM,66,55,0,12,32,13,1,55,1,1,100.0,0,0.0,26,90,56,1,1,0,0,0,45,0,/en/matches/64823dc9/Manchester-United-Fulham-May-28-2023-Premier-League
