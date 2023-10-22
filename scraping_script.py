@@ -17,7 +17,6 @@ players_and_stats = [] # list with dictionairies of name and dataframe
 players_in_this_season = []
 seasons = ['2023-2024','2019-2020','2020-2021','2021-2022','2022-2023'] # Add more sesons to list when we are ready, start with the last season
                                                                         #bcs if the players are not anymore in epl or they retired we should not take them into account
-
 table_columns = []
 extracted_table_columns = 0
 button_links = ['summary', 'passing', 'passing_types', 'gca', 'defense', 'possession', 'misc']
@@ -59,7 +58,7 @@ for season in seasons:
         for button in button_links:
 
             split_by_slashes = cleaned_match_logs[i].split("/")
-            split_by_slashes[-2] = "c9"
+            # split_by_slashes[-2] = "c9"
             split_by_slashes.insert(len(split_by_slashes) - 1, button)
 
 
@@ -79,8 +78,8 @@ for season in seasons:
                 table_columns.append(row.text)
 
             tbody = table_player.find("tbody")
-            for row in tbody.find_all('tr'):
-                date = tbody.find('th').text
+            for row in tbody.find_all("tr", attrs={'class': None}):
+                date = row.find('th').text
                 row_data = [date]
                 for cell in row.find_all('td'):
                     if cell.text not in table_columns or "Match Report" in cell.text: #skip same columns from multiple tables in the page
@@ -90,9 +89,10 @@ for season in seasons:
                             row_data.append(cell.text)
 
                 data.append(row_data)
+                row_data = []
             df = pd.DataFrame(data)
-            df = df.iloc[2:]
-            df = df.reset_index(drop=True)
+            # df = df.iloc[2:]
+            # df = df.reset_index(drop=True)
             df.columns = table_columns
             table_columns = []
             extracted_table_columns = 0
