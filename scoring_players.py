@@ -9,7 +9,7 @@ import pandas as pd
 
 
 def scorer(row):
-    print(row)
+
     playing_time = row.Min
     goals_scored = row.Gls
     assists = row.Ast
@@ -19,7 +19,7 @@ def scorer(row):
     red_cards = row.CrdR
     own_goal = 0  # TODO
 
-    if row.Pos in ['RB', 'CB', 'LB']:
+    if row.Pos[:2] in ['RB', 'CB', 'LB', 'RB,LB', 'LB,WB', 'RB,CB', 'WB']:
         position = 'Defender'
     elif row.Pos in ['CM', 'DM', 'AM', 'RM', 'LM']:
         position = 'Midfielder'
@@ -38,9 +38,9 @@ def scorer(row):
     score -= red_cards * 3
     score -= own_goal * 2
 
-    if playing_time > 0:
+    if int(playing_time) > 0:
         score += 1
-        if playing_time > 60:
+        if int(playing_time) > 60:
             score += 1
 
     if goals_scored > 0:
@@ -70,13 +70,17 @@ def make_date(match_date):
     return date(int(match_date[0:4]), int(match_date[5:7]), int(match_date[8:10]))
 
 def exhaustion(df):
+    print(df.shape)
     # adds a column with the number of matches where the player played more then 30 minutes
     # Checks 3 most recent matches, highest value possible is 3, lowest 0
     # TODO: test that it works propertly
     df['nr_of_matches_8_days'] = 0
     for index, row in df.iterrows():
+
         if index == 0:
             continue
+
+        print(index, row)
         match_date = make_date(df.Date[index])
         threshold_date = match_date - timedelta(days=8)
 
@@ -91,7 +95,7 @@ def exhaustion(df):
                 matches_played += 1
         else:
             for i in range(1, 4):
-                matches_played = matches_played + 1 if threshold_date <= make_date(df.Date[index - i]) <= match_date else matches_played
+                matches_played = matches_played + 1 if threshold_date <= make_date(df.iloc[index - i]['Date']) <= match_date else matches_played
         df.nr_of_matches_8_days[index] = matches_played
     return df
 
