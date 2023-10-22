@@ -108,7 +108,7 @@ def players_in_match(season, match_ref):
         for file in files:
             print(os.path.join(subdir, file))
             df = pd.read_csv(os.path.join(subdir, file))
-            if '07311954' in df['Match Report'].values
+            if '07311954' in df['Match Report'].values:
                 players.append(os.path.join(subdir, file))
     return players
 
