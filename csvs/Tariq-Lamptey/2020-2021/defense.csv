@@ -1,12 +1,12 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2020-09-14,Sat,Matchweek 3,Home,L 2–3,Brighton,Manchester Utd,Y,RM,90,1,0,0,0,1,1,1,100.0,0,2,1,1,2,3,1,1,/en/matches/21495573/Brighton-and-Hove-Albion-Manchester-United-September-26-2020-Premier-League
-1,2020-09-14,Sat,Matchweek 4,Away,L 2–4,Brighton,Everton,Y,WB,45,2,2,1,1,0,1,3,33.3,2,1,0,1,0,2,1,0,/en/matches/3cbb397e/Everton-Brighton-and-Hove-Albion-October-3-2020-Premier-League
-2,2020-09-14,Sun,Matchweek 5,Away,D 1–1,Brighton,Crystal Palace,Y,WB,90,2,1,1,1,0,0,1,0.0,1,2,0,2,1,3,3,0,/en/matches/e96818bc/Crystal-Palace-Brighton-and-Hove-Albion-October-18-2020-Premier-League
-3,2020-09-14,Mon,Matchweek 6,Home,D 1–1,Brighton,West Brom,Y,"WB,RM",90,5,2,1,2,2,1,1,100.0,0,0,0,0,2,7,2,0,/en/matches/26452511/Brighton-and-Hove-Albion-West-Bromwich-Albion-October-26-2020-Premier-League
-4,2020-09-14,Sun,Matchweek 7,Away,L 1–2,Brighton,Tottenham,Y,WB,78,0,0,0,0,0,0,0,,0,0,0,0,2,2,0,0,/en/matches/1d01ff0c/Tottenham-Hotspur-Brighton-and-Hove-Albion-November-1-2020-Premier-League
-5,2020-09-14,Fri,Matchweek 8,Home,D 0–0,Brighton,Burnley,Y,RB,90,2,2,1,1,0,1,1,100.0,0,1,0,1,0,2,0,0,/en/matches/c23d7844/Brighton-and-Hove-Albion-Burnley-November-6-2020-Premier-League
-6,2020-09-14,Sat,Matchweek 9,Away,W 2–1,Brighton,Aston Villa,Y,"WB,CM",89,0,0,0,0,0,0,1,0.0,1,1,0,1,2,2,3,0,/en/matches/dea0df40/Aston-Villa-Brighton-and-Hove-Albion-November-21-2020-Premier-League
-7,2020-09-14,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2020-09-14,Mon,Matchweek 11,Home,L 1–2,Brighton,Southampton,Y,"WB,RM",90,1,0,0,1,0,0,1,0.0,1,0,0,0,3,4,0,0,/en/matches/32356abc/Brighton-and-Hove-Albion-Southampton-December-7-2020-Premier-League
-9,2020-09-14,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,2020-09-14,Wed,Matchweek 13,Away,D 0–0,Brighton,Fulham,Y,WB,77,1,0,1,0,0,1,2,50.0,1,1,0,1,0,1,0,0,/en/matches/eb73d532/Fulham-Brighton-and-Hove-Albion-December-16-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-14,Mon,Premier League,Matchweek 1,Home,L 1–3,Brighton,Chelsea,Y,"WB,RB",90,0,1,0,0,1,0,1,0,75,3,3,0,0.1,0.1,0.4,5,1,40,61,65.6,3,41,7,3,2,/en/matches/9d7641eb/Brighton-and-Hove-Albion-Chelsea-September-14-2020-Premier-League
+1,2020-09-20,Sun,Premier League,Matchweek 2,Away,W 3–0,Brighton,Newcastle Utd,Y,RM,57,0,0,0,0,1,1,0,0,37,0,4,0,0.1,0.1,0.0,3,2,21,29,72.4,2,12,1,1,0,/en/matches/845f6a86/Newcastle-United-Brighton-and-Hove-Albion-September-20-2020-Premier-League
+2,2020-09-26,Sat,Premier League,Matchweek 3,Home,L 2–3,Brighton,Manchester Utd,Y,RM,90,0,0,0,0,0,0,0,0,53,1,2,2,0.0,0.0,0.0,2,1,36,43,83.7,4,38,3,3,2,/en/matches/21495573/Brighton-and-Hove-Albion-Manchester-United-September-26-2020-Premier-League
+3,2020-10-03,Sat,Premier League,Matchweek 4,Away,L 2–4,Brighton,Everton,Y,WB,45,0,0,0,0,0,0,0,0,28,2,0,1,0.0,0.0,0.1,1,0,17,19,89.5,0,14,2,1,1,/en/matches/3cbb397e/Everton-Brighton-and-Hove-Albion-October-3-2020-Premier-League
+4,2020-10-18,Sun,Premier League,Matchweek 5,Away,D 1–1,Brighton,Crystal Palace,Y,WB,90,0,0,0,0,1,0,0,0,84,2,1,2,0.1,0.1,0.1,6,0,57,68,83.8,5,49,4,1,1,/en/matches/e96818bc/Crystal-Palace-Brighton-and-Hove-Albion-October-18-2020-Premier-League
+5,2020-10-26,Mon,Premier League,Matchweek 6,Home,D 1–1,Brighton,West Brom,Y,"WB,RM",90,0,0,0,0,0,0,1,0,67,5,2,0,0.0,0.0,0.0,0,0,39,50,78.0,2,33,2,5,0,/en/matches/26452511/Brighton-and-Hove-Albion-West-Bromwich-Albion-October-26-2020-Premier-League
+6,2020-11-01,Sun,Premier League,Matchweek 7,Away,L 1–2,Brighton,Tottenham,Y,WB,78,1,0,0,0,1,1,0,0,48,0,2,0,0.1,0.1,0.0,0,0,33,40,82.5,3,30,0,3,2,/en/matches/1d01ff0c/Tottenham-Hotspur-Brighton-and-Hove-Albion-November-1-2020-Premier-League
+7,2020-11-06,Fri,Premier League,Matchweek 8,Home,D 0–0,Brighton,Burnley,Y,RB,90,0,0,0,0,2,0,0,0,60,2,0,1,0.4,0.4,0.0,3,0,39,50,78.0,3,34,5,5,2,/en/matches/c23d7844/Brighton-and-Hove-Albion-Burnley-November-6-2020-Premier-League
+8,2020-11-21,Sat,Premier League,Matchweek 9,Away,W 2–1,Brighton,Aston Villa,Y,"WB,CM",89,0,0,0,0,0,0,2,1,57,0,2,1,0.0,0.0,0.1,1,0,25,41,61.0,2,32,8,4,1,/en/matches/dea0df40/Aston-Villa-Brighton-and-Hove-Albion-November-21-2020-Premier-League
+9,2020-12-07,Mon,Premier League,Matchweek 11,Home,L 1–2,Brighton,Southampton,Y,"WB,RM",90,0,0,0,0,0,0,0,0,55,1,3,0,0.0,0.0,0.1,2,0,33,47,70.2,2,27,4,2,2,/en/matches/32356abc/Brighton-and-Hove-Albion-Southampton-December-7-2020-Premier-League
+10,2020-12-16,Wed,Premier League,Matchweek 13,Away,D 0–0,Brighton,Fulham,Y,WB,77,0,0,0,0,0,0,0,0,59,1,0,1,0.0,0.0,0.0,0,0,32,46,69.6,0,36,4,1,0,/en/matches/eb73d532/Fulham-Brighton-and-Hove-Albion-December-16-2020-Premier-League

@@ -1,22 +1,31 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2021-08-13,Sat,Matchweek 3,Away,D 1–1,Brentford,Aston Villa,N,"On matchday squad, but did not play",/en/matches/a08ef96c/Aston-Villa-Brentford-August-28-2021-Premier-League,,,,,,,,,,,,,,,,,
-1,2021-08-13,Sat,Matchweek 4,Home,L 0–1,Brentford,Brighton,N,"On matchday squad, but did not play",/en/matches/19a03697/Brentford-Brighton-and-Hove-Albion-September-11-2021-Premier-League,,,,,,,,,,,,,,,,,
-2,2021-08-13,Sat,Matchweek 5,Away,W 2–0,Brentford,Wolves,N,"On matchday squad, but did not play",/en/matches/fd1d60f4/Wolverhampton-Wanderers-Brentford-September-18-2021-Premier-League,,,,,,,,,,,,,,,,,
-3,2021-08-13,Sat,Matchweek 6,Home,D 3–3,Brentford,Liverpool,N,"On matchday squad, but did not play",/en/matches/87140543/Brentford-Liverpool-September-25-2021-Premier-League,,,,,,,,,,,,,,,,,
-4,2021-08-13,Sun,Matchweek 7,Away,W 2–1,Brentford,West Ham,N,"On matchday squad, but did not play",/en/matches/f1eead63/West-Ham-United-Brentford-October-3-2021-Premier-League,,,,,,,,,,,,,,,,,
-5,2021-08-13,Sat,Matchweek 8,Home,L 0–1,Brentford,Chelsea,N,CM,24,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,/en/matches/866cfb1f/Brentford-Chelsea-October-16-2021-Premier-League
-6,2021-08-13,Sun,Matchweek 9,Home,L 1–2,Brentford,Leicester City,N,FW,34,0,0,0,0,0,0,0,,0,1,0,1,1,1,0,0,/en/matches/b5c25937/Brentford-Leicester-City-October-24-2021-Premier-League
-7,2021-08-13,Sat,Matchweek 10,Away,L 1–3,Brentford,Burnley,Y,FW,90,1,1,0,1,0,1,1,100.0,0,3,0,3,0,1,0,0,/en/matches/c8915e9e/Burnley-Brentford-October-30-2021-Premier-League
-8,2021-08-13,Sat,Matchweek 11,Home,L 1–2,Brentford,Norwich City,N,"FW,WB",22,1,1,0,0,1,1,1,100.0,0,1,0,1,0,1,0,0,/en/matches/0f029791/Brentford-Norwich-City-November-6-2021-Premier-League
-9,2021-08-13,Sat,Matchweek 12,Away,D 3–3,Brentford,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/adbf56bc/Newcastle-United-Brentford-November-20-2021-Premier-League,,,,,,,,,,,,,,,,,
-10,2021-08-13,Sun,Matchweek 13,Home,W 1–0,Brentford,Everton,N,"On matchday squad, but did not play",/en/matches/286c4c1c/Brentford-Everton-November-28-2021-Premier-League,,,,,,,,,,,,,,,,,
-11,2021-08-13,Thu,Matchweek 14,Away,L 0–2,Brentford,Tottenham,N,"On matchday squad, but did not play",/en/matches/a80b3790/Tottenham-Hotspur-Brentford-December-2-2021-Premier-League,,,,,,,,,,,,,,,,,
-12,2021-08-13,Sun,Matchweek 15,Away,D 2–2,Brentford,Leeds United,N,"On matchday squad, but did not play",/en/matches/175160b7/Leeds-United-Brentford-December-5-2021-Premier-League,,,,,,,,,,,,,,,,,
-13,2021-08-13,Fri,Matchweek 16,Home,W 2–1,Brentford,Watford,N,FW,22,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/49a36a4e/Brentford-Watford-December-10-2021-Premier-League
-14,2021-08-13,Sun,Matchweek 19,Away,L 0–2,Brentford,Brighton,N,"On matchday squad, but did not play",/en/matches/1f64133b/Brighton-and-Hove-Albion-Brentford-December-26-2021-Premier-League,,,,,,,,,,,,,,,,,
-15,2021-08-13,Wed,Matchweek 20,Home,L 0–1,Brentford,Manchester City,N,"On matchday squad, but did not play",/en/matches/1a0df937/Brentford-Manchester-City-December-29-2021-Premier-League,,,,,,,,,,,,,,,,,
-16,2021-08-13,Sun,Matchweek 21,Home,W 2–1,Brentford,Aston Villa,N,"On matchday squad, but did not play",/en/matches/dfaa1817/Brentford-Aston-Villa-January-2-2022-Premier-League,,,,,,,,,,,,,,,,,
-17,2021-08-13,Tue,Matchweek 18,Away,L 1–4,Brentford,Southampton,N,"On matchday squad, but did not play",/en/matches/0859817d/Southampton-Brentford-January-11-2022-Premier-League,,,,,,,,,,,,,,,,,
-18,2021-08-13,Sun,Matchweek 22,Away,L 0–3,Brentford,Liverpool,N,"On matchday squad, but did not play",/en/matches/c8c457d6/Liverpool-Brentford-January-16-2022-Premier-League,,,,,,,,,,,,,,,,,
-19,2021-08-13,Wed,Matchweek 17,Home,L 1–3,Brentford,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/f7c0bd68/Brentford-Manchester-United-January-19-2022-Premier-League,,,,,,,,,,,,,,,,,
-20,2021-08-13,Sat,Matchweek 23,Home,L 1–2,Brentford,Wolves,N,"RW,CM",12,1,1,0,1,0,0,1,0.0,1,0,0,0,0,1,0,0,/en/matches/9f91ec9b/Brentford-Wolverhampton-Wanderers-January-22-2022-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-13,Fri,Premier League,Matchweek 1,Home,W 2–0,Brentford,Arsenal,N,FW,5,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,1,1,0,/en/matches/3adf2aa7/Brentford-Arsenal-August-13-2021-Premier-League
+1,2021-08-24,Tue,EFL Cup,Second round,Home,W 3–1,Brentford,FG Rovers,Y,FW,90,1,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/7f1ff137/Brentford-Forest-Green-Rovers-August-24-2021-EFL-Cup
+2,2021-09-01,Wed,Friendlies (M),Friendlies (M),Home,D 0–0,fi Finland,wls Wales,Y,FW,72,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/678222a1/Finland-Wales-September-1-2021-Friendlies-M
+3,2021-09-04,Sat,WCQ,First round,Home,W 1–0,fi Finland,kz Kazakhstan,N,,1,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/efa8688d/Finland-Kazakhstan-September-4-2021-WCQ----UEFA-M
+4,2021-09-21,Tue,EFL Cup,Third round,Home,W 7–0,Brentford,Oldham Athletic,Y,FW,90,4,0,1,1,5,4,0,0,,,1,,,,,,,,,,,,,,,/en/matches/85244b49/Brentford-Oldham-Athletic-September-21-2021-EFL-Cup
+5,2021-10-16,Sat,Premier League,Matchweek 8,Home,L 0–1,Brentford,Chelsea,N,CM,24,0,0,0,0,2,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,3,6,50.0,1,5,0,0,0,/en/matches/866cfb1f/Brentford-Chelsea-October-16-2021-Premier-League
+6,2021-10-24,Sun,Premier League,Matchweek 9,Home,L 1–2,Brentford,Leicester City,N,FW,34,0,0,0,0,0,0,0,0,10,0,1,1,0.0,0.0,0.0,0,0,1,3,33.3,0,6,0,0,0,/en/matches/b5c25937/Brentford-Leicester-City-October-24-2021-Premier-League
+7,2021-10-27,Wed,EFL Cup,Fourth round,Away,W 2–1,Brentford,Stoke City,Y,FW,71,0,1,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/9a33ffe9/Stoke-City-Brentford-October-27-2021-EFL-Cup
+8,2021-10-30,Sat,Premier League,Matchweek 10,Away,L 1–3,Brentford,Burnley,Y,FW,90,0,0,0,0,1,0,0,0,25,1,0,3,0.1,0.1,0.0,0,0,9,13,69.2,4,8,1,1,0,/en/matches/c8915e9e/Burnley-Brentford-October-30-2021-Premier-League
+9,2021-11-06,Sat,Premier League,Matchweek 11,Home,L 1–2,Brentford,Norwich City,N,"FW,WB",22,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,4,6,66.7,0,3,0,1,1,/en/matches/0f029791/Brentford-Norwich-City-November-6-2021-Premier-League
+10,2021-11-13,Sat,WCQ,First round,Away,W 3–1,fi Finland,ba Bosnia & Herz'na,Y,CB,45,1,0,0,0,2,2,0,0,,,0,,,,,,,,,,,,,,,/en/matches/f4380c31/Bosnia-and-Herzegovina-Finland-November-13-2021-WCQ----UEFA-M
+11,2021-11-16,Tue,WCQ,First round,Home,L 0–2,fi Finland,fr France,N,,27,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/0072e300/Finland-France-November-16-2021-WCQ----UEFA-M
+12,2021-12-10,Fri,Premier League,Matchweek 16,Home,W 2–1,Brentford,Watford,N,FW,22,0,1,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.2,1,1,0,2,0.0,0,3,0,1,0,/en/matches/49a36a4e/Brentford-Watford-December-10-2021-Premier-League
+13,2021-12-22,Wed,EFL Cup,Quarter-finals,Home,L 0–2,Brentford,Chelsea,N,,10,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/195bfa06/Brentford-Chelsea-December-22-2021-EFL-Cup
+14,2022-01-08,Sat,FA Cup,Third round proper,Away,W 4–1,Brentford,Port Vale,Y,FW,90,1,0,0,0,2,2,0,0,,,0,,,,,,,,,,,,,,,/en/matches/266a7ddd/Port-Vale-Brentford-January-8-2022-FA-Cup
+15,2022-01-22,Sat,Premier League,Matchweek 23,Home,L 1–2,Brentford,Wolves,N,"RW,CM",12,0,0,0,0,1,0,0,0,8,1,0,0,0.1,0.1,0.0,0,0,3,5,60.0,1,1,0,0,0,/en/matches/9f91ec9b/Brentford-Wolverhampton-Wanderers-January-22-2022-Premier-League
+16,2022-02-05,Sat,Championship,Matchweek 30,Home,L 0–1,Hull City,Preston,N,LW,37,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,7,0,0,0,/en/matches/15f3aeb8/Hull-City-Preston-North-End-February-5-2022-Championship
+17,2022-02-08,Tue,Championship,Matchweek 31,Away,L 1–3,Hull City,Derby County,Y,FW,90,0,0,0,0,2,1,0,0,17,0,0,1,0.3,0.3,0.2,2,0,4,10,40.0,1,5,0,0,0,/en/matches/0e114a6c/Derby-County-Hull-City-February-8-2022-Championship
+18,2022-02-12,Sat,Championship,Matchweek 32,Home,L 0–1,Hull City,Fulham,Y,FW,71,0,0,0,0,2,0,0,0,23,2,0,1,0.0,0.0,0.1,1,0,8,13,61.5,0,9,0,1,0,/en/matches/0ae28b09/Hull-City-Fulham-February-12-2022-Championship
+19,2022-02-15,Tue,Championship,Matchweek 25,Away,D 0–0,Hull City,Sheffield Utd,Y,FW,55,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,0,0,3,6,50.0,0,4,0,0,0,/en/matches/cb50405a/Sheffield-United-Hull-City-February-15-2022-Championship
+20,2022-02-19,Sat,Championship,Matchweek 33,Away,D 1–1,Hull City,QPR,Y,FW,80,1,0,0,0,1,1,1,0,14,0,0,0,0.3,0.3,0.0,1,0,3,7,42.9,1,12,0,0,0,/en/matches/d905907e/Queens-Park-Rangers-Hull-City-February-19-2022-Championship
+21,2022-02-22,Tue,Championship,Matchweek 34,Home,L 0–2,Hull City,Barnsley,Y,FW,59,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,3,0,0,0,/en/matches/ee5f49ac/Hull-City-Barnsley-February-22-2022-Championship
+22,2022-03-12,Sat,Championship,Matchweek 37,Away,D 0–0,Hull City,Birmingham City,N,FW,25,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,2,5,0,0,0,/en/matches/ce0652d3/Birmingham-City-Hull-City-March-12-2022-Championship
+23,2022-03-19,Sat,Championship,Matchweek 39,Home,L 1–3,Hull City,Luton Town,N,WB,16,0,1,0,0,1,0,0,0,6,0,0,0,0.2,0.2,0.7,2,1,4,4,100.0,0,3,0,1,0,/en/matches/0a2e251b/Hull-City-Luton-Town-March-19-2022-Championship
+24,2022-03-29,Tue,Friendlies (M),Friendlies (M),Neutral,L 0–2,fi Finland,sk Slovakia,Y,FW,84,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d9f720ce/Finland-Slovakia-March-29-2022-Friendlies-M
+25,2022-04-15,Fri,Championship,Matchweek 42,Home,W 2–1,Hull City,Cardiff City,N,FW,21,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,2,0,0,0,/en/matches/b588c560/Hull-City-Cardiff-City-April-15-2022-Championship
+26,2022-04-18,Mon,Championship,Matchweek 43,Away,L 1–2,Hull City,Millwall,N,"AM,LW",19,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,4,7,57.1,0,5,0,0,0,/en/matches/5b4f3be2/Millwall-Hull-City-April-18-2022-Championship
+27,2022-04-30,Sat,Championship,Matchweek 45,Away,L 0–5,Hull City,Bristol City,N,FW,17,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,1,0,1,0,/en/matches/3c941250/Bristol-City-Hull-City-April-30-2022-Championship
+28,2022-06-04,Sat,UEFA Nations League,League B,Home,D 1–1,fi Finland,ba Bosnia & Herz'na,N,,13,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/897f086f/Finland-Bosnia-and-Herzegovina-June-4-2022-UEFA-Nations-League
+29,2022-06-07,Tue,UEFA Nations League,League B,Home,W 2–0,fi Finland,me Montenegro,N,,24,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/a38b4ecf/Finland-Montenegro-June-7-2022-UEFA-Nations-League

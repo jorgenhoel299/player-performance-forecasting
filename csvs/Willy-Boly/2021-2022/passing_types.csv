@@ -1,26 +1,18 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2021-08-29,Sat,Matchweek 5,Home,L 0–2,Wolves,Brentford,N,"On matchday squad, but did not play",/en/matches/fd1d60f4/Wolverhampton-Wanderers-Brentford-September-18-2021-Premier-League,,,,,,,,,,,,,,,,
-1,2021-08-29,Sun,Matchweek 6,Away,W 1–0,Wolves,Southampton,N,"On matchday squad, but did not play",/en/matches/d99f984c/Southampton-Wolverhampton-Wanderers-September-26-2021-Premier-League,,,,,,,,,,,,,,,,
-2,2021-08-29,Sat,Matchweek 7,Home,W 2–1,Wolves,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/00dcbdaa/Wolverhampton-Wanderers-Newcastle-United-October-2-2021-Premier-League,,,,,,,,,,,,,,,,
-3,2021-08-29,Sat,Matchweek 8,Away,W 3–2,Wolves,Aston Villa,N,"On matchday squad, but did not play",/en/matches/a1668499/Aston-Villa-Wolverhampton-Wanderers-October-16-2021-Premier-League,,,,,,,,,,,,,,,,
-4,2021-08-29,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2021-08-29,Mon,Matchweek 10,Home,W 2–1,Wolves,Everton,N,"On matchday squad, but did not play",/en/matches/c9ad66cc/Wolverhampton-Wanderers-Everton-November-1-2021-Premier-League,,,,,,,,,,,,,,,,
-6,2021-08-29,Sat,Matchweek 11,Away,L 0–2,Wolves,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/3a2fff4d/Crystal-Palace-Wolverhampton-Wanderers-November-6-2021-Premier-League,,,,,,,,,,,,,,,,
-7,2021-08-29,Sat,Matchweek 12,Home,W 1–0,Wolves,West Ham,N,"On matchday squad, but did not play",/en/matches/013c4797/Wolverhampton-Wanderers-West-Ham-United-November-20-2021-Premier-League,,,,,,,,,,,,,,,,
-8,2021-08-29,,,,,,,,,,,,,,,,,,,,,,,,,
-9,2021-08-29,Sat,Matchweek 16,Away,L 0–1,Wolves,Manchester City,N,"On matchday squad, but did not play",/en/matches/d46b4a18/Manchester-City-Wolverhampton-Wanderers-December-11-2021-Premier-League,,,,,,,,,,,,,,,,
-10,2021-08-29,Wed,Matchweek 17,Away,W 1–0,Wolves,Brighton,N,"On matchday squad, but did not play",/en/matches/60178542/Brighton-and-Hove-Albion-Wolverhampton-Wanderers-December-15-2021-Premier-League,,,,,,,,,,,,,,,,
-11,2021-08-29,,,,,,,,,,,,,,,,,,,,,,,,,
-12,2021-08-29,Sun,Matchweek 27,Away,L 0–1,Wolves,West Ham,N,"On matchday squad, but did not play",/en/matches/b1dcaf8d/West-Ham-United-Wolverhampton-Wanderers-February-27-2022-Premier-League,,,,,,,,,,,,,,,,
-13,2021-08-29,Sat,Matchweek 28,Home,L 0–2,Wolves,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/9ccef73f/Wolverhampton-Wanderers-Crystal-Palace-March-5-2022-Premier-League,,,,,,,,,,,,,,,,
-14,2021-08-29,Thu,Matchweek 19,Home,W 4–0,Wolves,Watford,Y,CB,90,84,82,2,1,0,0,0,1,0,0,0,0,75,0,1,/en/matches/d0ee0e9a/Wolverhampton-Wanderers-Watford-March-10-2022-Premier-League
-15,2021-08-29,Sun,Matchweek 29,Away,W 1–0,Wolves,Everton,N,"On matchday squad, but did not play",/en/matches/9e5d1f93/Everton-Wolverhampton-Wanderers-March-13-2022-Premier-League,,,,,,,,,,,,,,,,
-16,2021-08-29,Fri,Matchweek 30,Home,L 2–3,Wolves,Leeds United,Y,CB,90,60,59,1,1,0,1,0,0,0,0,0,0,45,0,0,/en/matches/1c402923/Wolverhampton-Wanderers-Leeds-United-March-18-2022-Premier-League
-17,2021-08-29,Sat,Matchweek 31,Home,W 2–1,Wolves,Aston Villa,Y,CB,90,52,50,2,2,0,0,0,0,0,0,0,0,46,0,0,/en/matches/320d3dfe/Wolverhampton-Wanderers-Aston-Villa-April-2-2022-Premier-League
-18,2021-08-29,Fri,Matchweek 32,Away,L 0–1,Wolves,Newcastle Utd,Y,CB,90,54,52,2,2,0,0,0,0,0,0,0,0,42,0,1,/en/matches/739d8264/Newcastle-United-Wolverhampton-Wanderers-April-8-2022-Premier-League
-19,2021-08-29,Sun,Matchweek 34,Away,L 0–1,Wolves,Burnley,Y,CB,90,72,72,0,0,0,0,0,0,0,0,0,0,57,0,1,/en/matches/99d0fee1/Burnley-Wolverhampton-Wanderers-April-24-2022-Premier-League
-20,2021-08-29,Sat,Matchweek 35,Home,L 0–3,Wolves,Brighton,Y,CB,90,44,44,0,0,0,0,0,0,0,0,0,0,36,0,0,/en/matches/b800c4ba/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-April-30-2022-Premier-League
-21,2021-08-29,Sat,Matchweek 36,Away,D 2–2,Wolves,Chelsea,Y,CB,90,37,37,0,0,0,0,0,0,0,0,0,0,28,0,0,/en/matches/7c8a79d2/Chelsea-Wolverhampton-Wanderers-May-7-2022-Premier-League
-22,2021-08-29,Wed,Matchweek 33,Home,L 1–5,Wolves,Manchester City,Y,CB,90,49,48,1,1,0,0,0,0,0,0,0,0,39,0,1,/en/matches/a93c0c92/Wolverhampton-Wanderers-Manchester-City-May-11-2022-Premier-League
-23,2021-08-29,Sun,Matchweek 37,Home,D 1–1,Wolves,Norwich City,Y,CB,90,71,70,1,1,0,0,0,0,0,0,0,0,67,0,0,/en/matches/7f0d5ca8/Wolverhampton-Wanderers-Norwich-City-May-15-2022-Premier-League
-24,2021-08-29,Sun,Matchweek 38,Away,L 1–3,Wolves,Liverpool,Y,CB,90,35,34,0,0,0,0,0,0,0,0,0,0,33,1,0,/en/matches/8b0f3e28/Liverpool-Wolverhampton-Wanderers-May-22-2022-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-09-06,Mon,WCQ,Second round,Home,W 2–1,ci Côte d'Ivoire,cm Cameroon,Y,CB,68,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/97e0084e/Cote-dIvoire-Cameroon-September-6-2021-WCQ----CAF-M
+1,2021-09-22,Wed,EFL Cup,Third round,Home,D 2 (2)–2 (3),Wolves,Tottenham,Y,CB,120,0,0,0,0,1,0,0,0,,,4,,,,,,,,,,,,,,,/en/matches/c1b6e56d/Wolverhampton-Wanderers-Tottenham-Hotspur-September-22-2021-EFL-Cup
+2,2021-10-08,Fri,WCQ,Second round,Away,W 3–0,ci Côte d'Ivoire,mw Malawi,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/a97bf369/Malawi-Cote-dIvoire-October-8-2021-WCQ----CAF-M
+3,2021-10-11,Mon,WCQ,Second round,Home,W 2–1,ci Côte d'Ivoire,mw Malawi,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4e834fd0/Cote-dIvoire-Malawi-October-11-2021-WCQ----CAF-M
+4,2021-11-16,Tue,WCQ,Second round,Away,L 0–1,ci Côte d'Ivoire,cm Cameroon,Y,CB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/8dae68fb/Cameroon-Cote-dIvoire-November-16-2021-WCQ----CAF-M
+5,2022-03-10,Thu,Premier League,Matchweek 19,Home,W 4–0,Wolves,Watford,Y,CB,90,0,0,0,0,0,0,0,0,87,1,1,0,0.0,0.0,0.0,1,0,75,84,89.3,4,55,1,0,0,/en/matches/d0ee0e9a/Wolverhampton-Wanderers-Watford-March-10-2022-Premier-League
+6,2022-03-18,Fri,Premier League,Matchweek 30,Home,L 2–3,Wolves,Leeds United,Y,CB,90,0,0,0,0,0,0,1,0,69,1,1,0,0.0,0.0,0.0,0,0,45,60,75.0,2,37,0,4,2,/en/matches/1c402923/Wolverhampton-Wanderers-Leeds-United-March-18-2022-Premier-League
+7,2022-03-25,Fri,Friendlies (M),Friendlies (M),Neutral,L 1–2,ci Côte d'Ivoire,fr France,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/85ebb18f/France-Cote-dIvoire-March-25-2022-Friendlies-M
+8,2022-03-29,Tue,Friendlies (M),Friendlies (M),Neutral,L 0–3,ci Côte d'Ivoire,eng England,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ed214e41/England-Cote-dIvoire-March-29-2022-Friendlies-M
+9,2022-04-02,Sat,Premier League,Matchweek 31,Home,W 2–1,Wolves,Aston Villa,Y,CB,90,0,0,0,0,0,0,0,0,69,2,3,0,0.0,0.0,0.0,0,0,46,52,88.5,2,33,0,0,0,/en/matches/320d3dfe/Wolverhampton-Wanderers-Aston-Villa-April-2-2022-Premier-League
+10,2022-04-08,Fri,Premier League,Matchweek 32,Away,L 0–1,Wolves,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,0,0,62,2,0,2,0.0,0.0,0.0,0,0,42,54,77.8,1,17,0,0,0,/en/matches/739d8264/Newcastle-United-Wolverhampton-Wanderers-April-8-2022-Premier-League
+11,2022-04-24,Sun,Premier League,Matchweek 34,Away,L 0–1,Wolves,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,87,6,1,5,0.0,0.0,0.0,0,0,57,72,79.2,2,44,2,1,0,/en/matches/99d0fee1/Burnley-Wolverhampton-Wanderers-April-24-2022-Premier-League
+12,2022-04-30,Sat,Premier League,Matchweek 35,Home,L 0–3,Wolves,Brighton,Y,CB,90,0,0,0,0,2,1,0,0,54,1,1,2,0.2,0.2,0.0,0,0,36,44,81.8,2,30,1,1,1,/en/matches/b800c4ba/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-April-30-2022-Premier-League
+13,2022-05-07,Sat,Premier League,Matchweek 36,Away,D 2–2,Wolves,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,46,3,4,1,0.0,0.0,0.1,1,0,28,37,75.7,1,21,1,0,0,/en/matches/7c8a79d2/Chelsea-Wolverhampton-Wanderers-May-7-2022-Premier-League
+14,2022-05-11,Wed,Premier League,Matchweek 33,Home,L 1–5,Wolves,Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,54,1,1,0,0.0,0.0,0.0,0,0,39,49,79.6,0,41,0,0,0,/en/matches/a93c0c92/Wolverhampton-Wanderers-Manchester-City-May-11-2022-Premier-League
+15,2022-05-15,Sun,Premier League,Matchweek 37,Home,D 1–1,Wolves,Norwich City,Y,CB,90,0,0,0,0,0,0,0,0,77,5,0,0,0.0,0.0,0.0,1,0,67,71,94.4,6,56,1,0,0,/en/matches/7f0d5ca8/Wolverhampton-Wanderers-Norwich-City-May-15-2022-Premier-League
+16,2022-05-22,Sun,Premier League,Matchweek 38,Away,L 1–3,Wolves,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,58,3,2,4,0.0,0.0,0.0,0,0,33,35,94.3,0,33,0,0,0,/en/matches/8b0f3e28/Liverpool-Wolverhampton-Wanderers-May-22-2022-Premier-League

@@ -1,3 +1,11 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
-0,2020-09-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-09-19,Sun,Matchweek 10,Away,W 3–2,Manchester Utd,Southampton,N,"On matchday squad, but did not play",/en/matches/e0a84e7e/Southampton-Manchester-United-November-29-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-19,Sat,Premier League,Matchweek 2,Home,L 1–3,Manchester Utd,Crystal Palace,Y,RB,80,0,0,0,0,1,0,1,0,84,2,3,0,0.0,0.0,0.3,5,0,64,74,86.5,5,45,2,2,2,/en/matches/97279323/Manchester-United-Crystal-Palace-September-19-2020-Premier-League
+1,2020-11-04,Wed,Champions Lg,Group stage,Away,L 1–2,eng Manchester Utd,tr Başakşehir,N,"CB,RB",15,0,0,0,0,0,0,0,0,17,1,1,1,0.0,0.0,0.0,0,0,12,13,92.3,0,10,0,0,0,/en/matches/4efb3cb4/Istanbul-Basaksehir-Manchester-United-November-4-2020-Champions-League
+2,2020-12-08,Tue,Champions Lg,Group stage,Away,L 2–3,eng Manchester Utd,de RB Leipzig,N,RB,13,0,0,0,0,0,0,0,0,10,1,1,0,0.0,0.0,0.0,0,0,5,7,71.4,0,3,0,0,0,/en/matches/cdcc523b/RB-Leipzig-Manchester-United-December-8-2020-Champions-League
+3,2021-01-23,Sat,Bundesliga,Matchweek 18,Home,L 0–1,Leverkusen,Wolfsburg,N,RB,45,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,0,0,43,54,79.6,7,37,1,2,1,/en/matches/fbcf759f/Bayer-Leverkusen-Wolfsburg-January-23-2021-Bundesliga
+4,2021-01-30,Sat,Bundesliga,Matchweek 19,Away,L 0–1,Leverkusen,RB Leipzig,Y,RB,80,0,0,0,0,0,0,0,0,68,1,3,1,0.0,0.0,0.0,2,0,49,58,84.5,1,44,1,1,1,/en/matches/0898f32c/RB-Leipzig-Bayer-Leverkusen-January-30-2021-Bundesliga
+5,2021-02-02,Tue,DFB-Pokal,Round of 16,Away,L 1–2,Leverkusen,Rot-Weiss Essen,Y,CB,120,0,0,0,0,2,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/04f1fdb1/Rot-Weiss-Essen-Bayer-Leverkusen-February-2-2021-DFB-Pokal
+6,2021-02-06,Sat,Bundesliga,Matchweek 20,Home,W 5–2,Leverkusen,Stuttgart,Y,RB,61,0,0,0,0,1,1,0,0,40,1,1,3,0.1,0.1,0.0,1,0,28,32,87.5,3,20,3,0,0,/en/matches/3f791652/Bayer-Leverkusen-Stuttgart-February-6-2021-Bundesliga
+7,2021-02-13,Sat,Bundesliga,Matchweek 21,Home,D 2–2,Leverkusen,Mainz 05,Y,RB,90,0,0,0,0,1,0,1,0,101,1,0,1,0.1,0.1,0.0,0,0,77,92,83.7,10,57,2,2,1,/en/matches/99d32e78/Bayer-Leverkusen-Mainz-05-February-13-2021-Bundesliga
+8,2021-02-21,Sun,Bundesliga,Matchweek 22,Away,D 1–1,Leverkusen,Augsburg,Y,RB,90,0,0,0,0,0,0,1,0,93,1,2,2,0.0,0.0,0.1,4,0,76,87,87.4,11,46,1,0,0,/en/matches/2f2af4c0/Augsburg-Bayer-Leverkusen-February-21-2021-Bundesliga
+9,2021-02-28,Sun,Bundesliga,Matchweek 23,Home,L 1–2,Leverkusen,Freiburg,Y,RB,43,0,0,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.0,0,0,29,34,85.3,3,13,0,0,0,/en/matches/66ffc9f2/Bayer-Leverkusen-Freiburg-February-28-2021-Bundesliga

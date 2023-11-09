@@ -1,20 +1,30 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2021-08-29,Sat,Matchweek 6,Home,L 0–1,Manchester Utd,Aston Villa,N,FW,9,1,0,0,0,1,0,0,0,0,0,0,0,0,0,/en/matches/7c21232e/Manchester-United-Aston-Villa-September-25-2021-Premier-League
-1,2021-08-29,Sat,Matchweek 7,Home,D 1–1,Manchester Utd,Everton,Y,FW,56,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/2129c7e9/Manchester-United-Everton-October-2-2021-Premier-League
-2,2021-08-29,,,,,,,,,,,,,,,,,,,,,,,,
-3,2021-08-29,Sun,Matchweek 9,Home,L 0–5,Manchester Utd,Liverpool,N,"FW,CM",29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/b886bec4/North-West-Derby-Manchester-United-Liverpool-October-24-2021-Premier-League
-4,2021-08-29,Sat,Matchweek 10,Away,W 3–0,Manchester Utd,Tottenham,Y,FW,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/5a2b8c26/Tottenham-Hotspur-Manchester-United-October-30-2021-Premier-League
-5,2021-08-29,,,,,,,,,,,,,,,,,,,,,,,,
-6,2021-08-29,Mon,Matchweek 19,Away,D 1–1,Manchester Utd,Newcastle Utd,N,FW,45,1,0,0,0,1,0,0,1,0,0,0,1,0,0,/en/matches/f91fee43/Newcastle-United-Manchester-United-December-27-2021-Premier-League
-7,2021-08-29,Thu,Matchweek 20,Home,W 3–1,Manchester Utd,Burnley,Y,FW,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/bbfa96c9/Manchester-United-Burnley-December-30-2021-Premier-League
-8,2021-08-29,Mon,Matchweek 21,Home,L 0–1,Manchester Utd,Wolves,Y,"AM,FW",90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/8e966b52/Manchester-United-Wolverhampton-Wanderers-January-3-2022-Premier-League
-9,2021-08-29,Sat,Matchweek 22,Away,D 2–2,Manchester Utd,Aston Villa,Y,FW,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/745dc664/Aston-Villa-Manchester-United-January-15-2022-Premier-League
-10,2021-08-29,,,,,,,,,,,,,,,,,,,,,,,,
-11,2021-08-29,Sat,Matchweek 23,Home,W 1–0,Manchester Utd,West Ham,N,FW,9,1,1,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/7c23f694/Manchester-United-West-Ham-United-January-22-2022-Premier-League
-12,2021-08-29,Tue,Matchweek 24,Away,D 1–1,Manchester Utd,Burnley,Y,FW,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/cb262ab8/Burnley-Manchester-United-February-8-2022-Premier-League
-13,2021-08-29,,,,,,,,,,,,,,,,,,,,,,,,
-14,2021-08-29,Sat,Matchweek 29,Home,W 3–2,Manchester Utd,Tottenham,N,FW,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/e5e7becb/Manchester-United-Tottenham-Hotspur-March-12-2022-Premier-League
-15,2021-08-29,,,,,,,,,,,,,,,,,,,,,,,,
-16,2021-08-29,Mon,Matchweek 35,Home,W 3–0,Manchester Utd,Brentford,N,FW,16,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/c9b4c96a/Manchester-United-Brentford-May-2-2022-Premier-League
-17,2021-08-29,Sat,Matchweek 36,Away,L 0–4,Manchester Utd,Brighton,N,FW,45,3,3,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/efa43305/Brighton-and-Hove-Albion-Manchester-United-May-7-2022-Premier-League
-18,2021-08-29,Sun,Matchweek 38,Away,L 0–1,Manchester Utd,Crystal Palace,Y,FW,90,2,1,0,0,0,1,0,0,0,0,0,0,0,0,/en/matches/19173099/Crystal-Palace-Manchester-United-May-22-2022-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-07-03,Sat,Copa América,Quarter-finals,Neutral,D 0 (2)–0 (4),uy Uruguay,co Colombia,Y,FW,90,0,0,0,0,1,1,0,0,36,0,0,0,0.0,0.0,0.0,1,0,26,32,81.3,4,29,0,0,0,/en/matches/0b8ca785/Uruguay-Colombia-July-3-2021-Copa-America
+1,2021-08-29,Sun,Premier League,Matchweek 3,Away,W 1–0,Manchester Utd,Wolves,N,FW,38,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,4,0,0,0,/en/matches/871109e6/Wolverhampton-Wanderers-Manchester-United-August-29-2021-Premier-League
+2,2021-09-25,Sat,Premier League,Matchweek 6,Home,L 0–1,Manchester Utd,Aston Villa,N,FW,9,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,2,0,0,0,/en/matches/7c21232e/Manchester-United-Aston-Villa-September-25-2021-Premier-League
+3,2021-09-29,Wed,Champions Lg,Group stage,Home,W 2–1,eng Manchester Utd,es Villarreal,N,FW,16,0,0,0,0,1,0,0,0,10,0,0,0,0.3,0.3,0.0,0,0,7,7,100.0,1,3,0,1,0,/en/matches/8ad62c4a/Manchester-United-Villarreal-September-29-2021-Champions-League
+4,2021-10-02,Sat,Premier League,Matchweek 7,Home,D 1–1,Manchester Utd,Everton,Y,FW,56,0,0,0,0,1,1,0,0,29,0,0,2,0.1,0.1,0.0,1,0,17,22,77.3,0,9,0,0,0,/en/matches/2129c7e9/Manchester-United-Everton-October-2-2021-Premier-League
+5,2021-10-07,Thu,WCQ,WCQ — CONMEBOL (M),Home,D 0–0,uy Uruguay,co Colombia,N,,45,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/b22cd290/Uruguay-Colombia-October-7-2021-WCQ----CONMEBOL-M
+6,2021-10-10,Sun,WCQ,WCQ — CONMEBOL (M),Away,L 0–3,uy Uruguay,ar Argentina,N,,45,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/60d07fdd/Argentina-Uruguay-October-10-2021-WCQ----CONMEBOL-M
+7,2021-10-14,Thu,WCQ,WCQ — CONMEBOL (M),Away,L 1–4,uy Uruguay,br Brazil,Y,FW,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/48f7c36a/Brazil-Uruguay-October-14-2021-WCQ----CONMEBOL-M
+8,2021-10-20,Wed,Champions Lg,Group stage,Home,W 3–2,eng Manchester Utd,it Atalanta,N,FW,25,0,0,0,0,0,0,1,0,12,1,0,0,0.0,0.0,0.2,1,1,6,10,60.0,0,3,0,0,0,/en/matches/35f45718/Manchester-United-Atalanta-October-20-2021-Champions-League
+9,2021-10-24,Sun,Premier League,Matchweek 9,Home,L 0–5,Manchester Utd,Liverpool,N,"FW,CM",29,0,0,0,0,1,0,0,0,9,0,2,0,0.4,0.4,0.0,0,0,5,6,83.3,0,2,0,0,0,/en/matches/b886bec4/North-West-Derby-Manchester-United-Liverpool-October-24-2021-Premier-League
+10,2021-10-30,Sat,Premier League,Matchweek 10,Away,W 3–0,Manchester Utd,Tottenham,Y,FW,81,1,0,0,0,4,1,0,0,32,1,0,1,0.9,0.9,0.0,0,0,16,22,72.7,1,23,1,1,1,/en/matches/5a2b8c26/Tottenham-Hotspur-Manchester-United-October-30-2021-Premier-League
+11,2021-11-02,Tue,Champions Lg,Group stage,Away,D 2–2,eng Manchester Utd,it Atalanta,N,LW,22,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.1,2,0,11,14,78.6,0,8,0,1,1,/en/matches/16b0abb7/Atalanta-Manchester-United-November-2-2021-Champions-League
+12,2021-12-27,Mon,Premier League,Matchweek 19,Away,D 1–1,Manchester Utd,Newcastle Utd,N,FW,45,1,0,0,0,5,1,0,0,20,0,0,0,1.1,1.1,0.0,1,1,8,10,80.0,0,16,0,0,0,/en/matches/f91fee43/Newcastle-United-Manchester-United-December-27-2021-Premier-League
+13,2021-12-30,Thu,Premier League,Matchweek 20,Home,W 3–1,Manchester Utd,Burnley,Y,FW,90,0,0,0,0,1,0,0,0,25,0,0,0,0.1,0.1,0.1,1,0,17,21,81.0,3,11,0,1,1,/en/matches/bbfa96c9/Manchester-United-Burnley-December-30-2021-Premier-League
+14,2022-01-03,Mon,Premier League,Matchweek 21,Home,L 0–1,Manchester Utd,Wolves,Y,"AM,FW",90,0,0,0,0,1,0,0,0,40,1,0,1,0.1,0.1,0.0,0,0,23,33,69.7,2,15,0,2,2,/en/matches/8e966b52/Manchester-United-Wolverhampton-Wanderers-January-3-2022-Premier-League
+15,2022-01-10,Mon,FA Cup,Third round proper,Home,W 1–0,Manchester Utd,Aston Villa,Y,FW,71,0,0,0,0,2,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/bbe2d026/Manchester-United-Aston-Villa-January-10-2022-FA-Cup
+16,2022-01-15,Sat,Premier League,Matchweek 22,Away,D 2–2,Manchester Utd,Aston Villa,Y,FW,90,0,0,0,0,0,0,0,0,32,2,0,1,0.0,0.0,0.0,0,0,19,27,70.4,0,17,0,0,0,/en/matches/745dc664/Aston-Villa-Manchester-United-January-15-2022-Premier-League
+17,2022-01-22,Sat,Premier League,Matchweek 23,Home,W 1–0,Manchester Utd,West Ham,N,FW,9,0,1,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.9,1,1,5,5,100.0,0,2,0,0,0,/en/matches/7c23f694/Manchester-United-West-Ham-United-January-22-2022-Premier-League
+18,2022-01-27,Thu,WCQ,WCQ — CONMEBOL (M),Away,W 1–0,uy Uruguay,py Paraguay,N,,21,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/e2711cae/Paraguay-Uruguay-January-27-2022-WCQ----CONMEBOL-M
+19,2022-02-01,Tue,WCQ,WCQ — CONMEBOL (M),Home,W 4–1,uy Uruguay,ve Venezuela,Y,FW,66,1,0,0,0,3,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/7a366fd8/Uruguay-Venezuela-February-1-2022-WCQ----CONMEBOL-M
+20,2022-02-08,Tue,Premier League,Matchweek 24,Away,D 1–1,Manchester Utd,Burnley,Y,FW,67,0,0,0,0,2,1,0,0,22,0,0,0,0.5,0.5,0.0,0,0,14,17,82.4,0,13,0,0,0,/en/matches/cb262ab8/Burnley-Manchester-United-February-8-2022-Premier-League
+21,2022-03-12,Sat,Premier League,Matchweek 29,Home,W 3–2,Manchester Utd,Tottenham,N,FW,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,4,1,1,0,/en/matches/e5e7becb/Manchester-United-Tottenham-Hotspur-March-12-2022-Premier-League
+22,2022-03-15,Tue,Champions Lg,Round of 16,Home,L 0–1,eng Manchester Utd,es Atlético Madrid,N,FW,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,/en/matches/bac82b39/Manchester-United-Atletico-Madrid-March-15-2022-Champions-League
+23,2022-03-24,Thu,WCQ,WCQ — CONMEBOL (M),Home,W 1–0,uy Uruguay,pe Peru,N,,24,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/2c7cca3b/Uruguay-Peru-March-24-2022-WCQ----CONMEBOL-M
+24,2022-03-29,Tue,WCQ,WCQ — CONMEBOL (M),Away,W 2–0,uy Uruguay,cl Chile,Y,FW,28,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/b0fdaa5b/Chile-Uruguay-March-29-2022-WCQ----CONMEBOL-M
+25,2022-05-02,Mon,Premier League,Matchweek 35,Home,W 3–0,Manchester Utd,Brentford,N,FW,16,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,5,7,71.4,0,5,0,0,0,/en/matches/c9b4c96a/Manchester-United-Brentford-May-2-2022-Premier-League
+26,2022-05-07,Sat,Premier League,Matchweek 36,Away,L 0–4,Manchester Utd,Brighton,N,FW,45,0,0,0,0,1,1,0,0,21,0,0,0,0.2,0.2,0.0,3,0,15,19,78.9,1,6,0,0,0,/en/matches/efa43305/Brighton-and-Hove-Albion-Manchester-United-May-7-2022-Premier-League
+27,2022-05-22,Sun,Premier League,Matchweek 38,Away,L 0–1,Manchester Utd,Crystal Palace,Y,FW,90,0,0,0,0,1,1,0,0,30,0,0,0,0.1,0.1,0.2,2,0,20,26,76.9,2,15,0,0,0,/en/matches/19173099/Crystal-Palace-Manchester-United-May-22-2022-Premier-League
+28,2022-06-02,Thu,Friendlies (M),Friendlies (M),Neutral,W 3–0,uy Uruguay,mx Mexico,Y*,FW,77,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/471f58e1/Mexico-Uruguay-June-2-2022-Friendlies-M

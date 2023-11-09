@@ -1,10 +1,23 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2020-09-27,Fri,Matchweek 10,Away,W 2–0,Newcastle Utd,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/0d5962be/Crystal-Palace-Newcastle-United-November-27-2020-Premier-League,,,,,,,,,,,,,,,,
-1,2020-09-27,Sat,Matchweek 12,Home,W 2–1,Newcastle Utd,West Brom,N,RB,5,3,2,1,0,0,0,0,1,0,0,0,0,1,0,0,/en/matches/4a2a6f14/Newcastle-United-West-Bromwich-Albion-December-12-2020-Premier-League
-2,2020-09-27,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2020-09-27,Sat,Matchweek 14,Home,D 1–1,Newcastle Utd,Fulham,Y,RB,90,51,46,5,0,0,0,5,5,0,0,0,0,39,0,2,/en/matches/3ae84056/Newcastle-United-Fulham-December-19-2020-Premier-League
-4,2020-09-27,Sat,Matchweek 15,Away,L 0–2,Newcastle Utd,Manchester City,Y,RB,90,37,30,7,0,0,0,4,7,0,0,0,0,23,0,1,/en/matches/c1c40b30/Manchester-City-Newcastle-United-December-26-2020-Premier-League
-5,2020-09-27,Wed,Matchweek 16,Home,D 0–0,Newcastle Utd,Liverpool,Y,RB,90,24,18,6,0,0,0,1,6,0,0,0,0,14,0,1,/en/matches/385cda3f/Newcastle-United-Liverpool-December-30-2020-Premier-League
-6,2020-09-27,Sun,Matchweek 17,Home,L 1–2,Newcastle Utd,Leicester City,Y,RB,78,33,30,3,0,0,0,3,3,0,0,0,0,16,0,1,/en/matches/4c205b24/Newcastle-United-Leicester-City-January-3-2021-Premier-League
-7,2020-09-27,Tue,Matchweek 18,Away,L 0–1,Newcastle Utd,Sheffield Utd,Y,RB,83,31,21,10,1,0,0,0,9,0,0,0,0,20,0,0,/en/matches/18ccfdb9/Sheffield-United-Newcastle-United-January-12-2021-Premier-League
-8,2020-09-27,Mon,Matchweek 19,Away,L 0–3,Newcastle Utd,Arsenal,N,"On matchday squad, but did not play",/en/matches/620df215/Arsenal-Newcastle-United-January-18-2021-Premier-League,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-15,Tue,EFL Cup,Second round,Home,W 1–0,Newcastle Utd,Blackburn,Y,RB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/b1979b09/Newcastle-United-Blackburn-Rovers-September-15-2020-EFL-Cup
+1,2020-09-23,Wed,EFL Cup,Third round,Away,W 7–0,Newcastle Utd,Morecambe,Y,LB,90,0,1,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/8c754b9c/Morecambe-Newcastle-United-September-23-2020-EFL-Cup
+2,2020-12-12,Sat,Premier League,Matchweek 12,Home,W 2–1,Newcastle Utd,West Brom,N,RB,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,/en/matches/4a2a6f14/Newcastle-United-West-Bromwich-Albion-December-12-2020-Premier-League
+3,2020-12-19,Sat,Premier League,Matchweek 14,Home,D 1–1,Newcastle Utd,Fulham,Y,RB,90,0,0,0,0,0,0,0,0,59,0,3,0,0.0,0.0,0.0,2,0,39,51,76.5,6,37,2,0,0,/en/matches/3ae84056/Newcastle-United-Fulham-December-19-2020-Premier-League
+4,2020-12-22,Tue,EFL Cup,Quarter-finals,Away,L 0–1,Newcastle Utd,Brentford,Y,RB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/4da977e2/Brentford-Newcastle-United-December-22-2020-EFL-Cup
+5,2020-12-26,Sat,Premier League,Matchweek 15,Away,L 0–2,Newcastle Utd,Manchester City,Y,RB,90,0,0,0,0,1,0,0,0,45,2,1,2,0.0,0.0,0.0,2,0,23,37,62.2,0,24,2,1,0,/en/matches/c1c40b30/Manchester-City-Newcastle-United-December-26-2020-Premier-League
+6,2020-12-30,Wed,Premier League,Matchweek 16,Home,D 0–0,Newcastle Utd,Liverpool,Y,RB,90,0,0,0,0,1,0,0,0,37,2,2,1,0.1,0.1,0.0,3,0,14,24,58.3,3,15,2,1,1,/en/matches/385cda3f/Newcastle-United-Liverpool-December-30-2020-Premier-League
+7,2021-01-03,Sun,Premier League,Matchweek 17,Home,L 1–2,Newcastle Utd,Leicester City,Y,RB,78,0,0,0,0,0,0,0,0,41,2,0,1,0.0,0.0,0.0,1,0,16,33,48.5,2,25,0,0,0,/en/matches/4c205b24/Newcastle-United-Leicester-City-January-3-2021-Premier-League
+8,2021-01-09,Sat,FA Cup,Third round proper,Away,L 0–2,Newcastle Utd,Arsenal,N,,40,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/1a97ad80/Arsenal-Newcastle-United-January-9-2021-FA-Cup
+9,2021-01-12,Tue,Premier League,Matchweek 18,Away,L 0–1,Newcastle Utd,Sheffield Utd,Y,RB,83,0,0,0,0,0,0,0,0,42,3,1,1,0.0,0.0,0.0,1,0,20,31,64.5,1,6,0,0,0,/en/matches/18ccfdb9/Sheffield-United-Newcastle-United-January-12-2021-Premier-League
+10,2021-02-06,Sat,Süper Lig,Matchweek 24,Away,W 1–0,Galatasaray,Fenerbahçe,N,,9,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/e038e406/Intercontinental-Derby-Fenerbahce-Galatasaray-February-6-2021-Super-Lig
+11,2021-02-14,Sun,Süper Lig,Matchweek 25,Home,W 2–1,Galatasaray,Kasımpaşa,N,,14,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/45770d5d/Galatasaray-Kasimpasa-February-14-2021-Super-Lig
+12,2021-02-20,Sat,Süper Lig,Matchweek 26,Away,W 1–0,Galatasaray,Alanyaspor,Y,RB,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/d8c62f0c/Alanyaspor-Galatasaray-February-20-2021-Super-Lig
+13,2021-02-27,Sat,Süper Lig,Matchweek 27,Home,W 2–0,Galatasaray,Erzurum BB,Y,RB,90,0,0,0,0,1,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/0dccd198/Galatasaray-Erzurum-BB-February-27-2021-Super-Lig
+14,2021-03-03,Wed,Süper Lig,Matchweek 28,Away,L 1–2,Galatasaray,Ankaragücü,Y,RB,45,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,/en/matches/82905587/Ankaragucu-Galatasaray-March-3-2021-Super-Lig
+15,2021-03-13,Sat,Süper Lig,Matchweek 30,Away,W 3–0,Galatasaray,Kayserispor,Y,RB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/e43a646c/Kayserispor-Galatasaray-March-13-2021-Super-Lig
+16,2021-03-19,Fri,Süper Lig,Matchweek 31,Home,L 3–4,Galatasaray,Rizespor,Y,RB,78,1,0,0,0,1,1,2,1,,,1,,,,,,,,,,,,,,,/en/matches/179f78cd/Galatasaray-Rizespor-March-19-2021-Super-Lig
+17,2021-04-10,Sat,Süper Lig,Matchweek 34,Home,D 1–1,Galatasaray,Fatih Karagümrük,Y,RB,27,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/fe36bbcc/Galatasaray-Fatih-Karagumruk-April-10-2021-Super-Lig
+18,2021-05-08,Sat,Süper Lig,Matchweek 40,Home,W 3–1,Galatasaray,Beşiktaş,Y,RB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/fc055b67/Galatasaray-Besiktas-May-8-2021-Super-Lig
+19,2021-05-11,Tue,Süper Lig,Matchweek 41,Away,W 4–1,Galatasaray,Denizlispor,Y,RB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/1ec4be4d/Denizlispor-Galatasaray-May-11-2021-Super-Lig
+20,2021-05-15,Sat,Süper Lig,Matchweek 42,Home,W 3–1,Galatasaray,Yeni Mal'spor,Y,RB,45,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/d4711099/Galatasaray-Yeni-Malatyaspor-May-15-2021-Super-Lig
+21,2021-05-30,Sun,Friendlies (M),Friendlies (M),Away,L 1–2,us United States,ch Switzerland,N,,10,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4821af86/Switzerland-United-States-May-30-2021-Friendlies-M

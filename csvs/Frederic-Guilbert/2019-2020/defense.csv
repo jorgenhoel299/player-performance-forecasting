@@ -1,32 +1,30 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2019-08-23,Mon,Matchweek 5,Home,D 0–0,Aston Villa,West Ham,Y,RB,84,4,1,3,1,0,2,2,100.0,0,5,0,5,5,9,5,0,/en/matches/b26df467/Aston-Villa-West-Ham-United-September-16-2019-Premier-League
-1,2019-08-23,Sun,Matchweek 6,Away,L 2–3,Aston Villa,Arsenal,Y,RB,90,2,1,2,0,0,0,1,0.0,1,1,0,1,2,4,0,0,/en/matches/d5fa0563/Arsenal-Aston-Villa-September-22-2019-Premier-League
-2,2019-08-23,Sat,Matchweek 7,Home,D 2–2,Aston Villa,Burnley,Y,RB,90,3,1,2,0,1,2,2,100.0,0,0,0,0,2,5,3,0,/en/matches/37a51188/Aston-Villa-Burnley-September-28-2019-Premier-League
-3,2019-08-23,Sat,Matchweek 8,Away,W 5–1,Aston Villa,Norwich City,Y,RB,90,0,0,0,0,0,0,5,0.0,5,4,2,2,1,1,2,0,/en/matches/e50b8e5b/Norwich-City-Aston-Villa-October-5-2019-Premier-League
-4,2019-08-23,Sat,Matchweek 9,Home,W 2–1,Aston Villa,Brighton,Y,RB,90,1,0,1,0,0,1,2,50.0,1,2,1,1,2,3,2,0,/en/matches/34685c72/Aston-Villa-Brighton-and-Hove-Albion-October-19-2019-Premier-League
-5,2019-08-23,Sat,Matchweek 10,Away,L 0–3,Aston Villa,Manchester City,Y,RB,90,4,2,4,0,0,0,2,0.0,2,1,1,0,2,6,6,0,/en/matches/e0a4db2d/Manchester-City-Aston-Villa-October-26-2019-Premier-League
-6,2019-08-23,Sat,Matchweek 11,Home,L 1–2,Aston Villa,Liverpool,Y,RB,68,2,1,1,0,1,2,3,66.7,1,1,0,1,1,3,4,0,/en/matches/2206646c/Aston-Villa-Liverpool-November-2-2019-Premier-League
-7,2019-08-23,Sun,Matchweek 12,Away,L 1–2,Aston Villa,Wolves,Y,RB,90,5,3,3,1,1,4,5,80.0,1,1,1,0,1,6,2,0,/en/matches/2794f89d/Wolverhampton-Wanderers-Aston-Villa-November-10-2019-Premier-League
-8,2019-08-23,Mon,Matchweek 13,Home,W 2–0,Aston Villa,Newcastle Utd,Y,RB,90,8,7,3,3,2,5,12,41.7,7,1,0,1,1,9,3,0,/en/matches/f6f8808e/Aston-Villa-Newcastle-United-November-25-2019-Premier-League
-9,2019-08-23,Sun,Matchweek 14,Away,D 2–2,Aston Villa,Manchester Utd,Y,RB,90,5,5,2,3,0,5,6,83.3,1,2,1,1,0,5,4,0,/en/matches/e88d9028/Manchester-United-Aston-Villa-December-1-2019-Premier-League
-10,2019-08-23,,,,,,,,,,,,,,,,,,,,,,,,,,
-11,2019-08-23,Sun,Matchweek 16,Home,L 1–4,Aston Villa,Leicester City,N,LB,13,0,0,0,0,0,0,1,0.0,1,1,0,1,1,1,0,0,/en/matches/559e812a/Aston-Villa-Leicester-City-December-8-2019-Premier-League
-12,2019-08-23,Sat,Matchweek 17,Away,L 0–2,Aston Villa,Sheffield Utd,Y,RB,90,2,1,1,0,1,2,3,66.7,1,1,1,0,3,5,7,0,/en/matches/b1b5e590/Sheffield-United-Aston-Villa-December-14-2019-Premier-League
-13,2019-08-23,Sat,Matchweek 18,Home,L 1–3,Aston Villa,Southampton,Y,RB,90,6,4,3,3,0,0,1,0.0,1,0,0,0,4,10,4,0,/en/matches/d50390a8/Aston-Villa-Southampton-December-21-2019-Premier-League
-14,2019-08-23,Thu,Matchweek 19,Home,W 1–0,Aston Villa,Norwich City,N,"On matchday squad, but did not play",/en/matches/010301bf/Aston-Villa-Norwich-City-December-26-2019-Premier-League,,,,,,,,,,,,,,,,,
-15,2019-08-23,Sat,Matchweek 20,Away,L 0–3,Aston Villa,Watford,N,LB,25,1,0,0,1,0,1,1,100.0,0,2,1,1,0,1,0,0,/en/matches/36dc1eb8/Watford-Aston-Villa-December-28-2019-Premier-League
-16,2019-08-23,Wed,Matchweek 21,Away,W 2–1,Aston Villa,Burnley,Y,"RM,WB",90,5,4,3,2,0,2,3,66.7,1,0,0,0,0,5,7,0,/en/matches/ac409026/Burnley-Aston-Villa-January-1-2020-Premier-League
-17,2019-08-23,Sun,Matchweek 22,Home,L 1–6,Aston Villa,Manchester City,N,"On matchday squad, but did not play",/en/matches/ffb4946c/Aston-Villa-Manchester-City-January-12-2020-Premier-League,,,,,,,,,,,,,,,,,
-18,2019-08-23,Sat,Matchweek 23,Away,D 1–1,Aston Villa,Brighton,Y,RM,90,9,3,6,3,0,0,1,0.0,1,3,0,3,2,11,1,0,/en/matches/bd044bad/Brighton-and-Hove-Albion-Aston-Villa-January-18-2020-Premier-League
-19,2019-08-23,Tue,Matchweek 24,Home,W 2–1,Aston Villa,Watford,Y,RM,90,1,0,1,0,0,0,2,0.0,2,2,0,2,5,6,3,1,/en/matches/3deb145e/Aston-Villa-Watford-January-21-2020-Premier-League
-20,2019-08-23,Sat,Matchweek 25,Away,L 1–2,Aston Villa,Bournemouth,Y,"RM,WB",90,0,0,0,0,0,0,0,,0,2,0,2,1,1,3,0,/en/matches/db21a88a/Bournemouth-Aston-Villa-February-1-2020-Premier-League
-21,2019-08-23,Sun,Matchweek 26,Home,L 2–3,Aston Villa,Tottenham,Y,RM,90,1,1,1,0,0,1,2,50.0,1,2,1,1,0,1,2,0,/en/matches/ebfe971d/Aston-Villa-Tottenham-Hotspur-February-16-2020-Premier-League
-22,2019-08-23,Sat,Matchweek 27,Away,L 0–2,Aston Villa,Southampton,Y,"WB,RB",90,3,1,2,1,0,2,4,50.0,2,1,1,0,2,5,4,0,/en/matches/66823ac4/Southampton-Aston-Villa-February-22-2020-Premier-League
-23,2019-08-23,Mon,Matchweek 29,Away,L 0–4,Aston Villa,Leicester City,Y,RB,90,6,5,5,1,0,4,5,80.0,1,0,0,0,2,8,4,0,/en/matches/76f492dc/Leicester-City-Aston-Villa-March-9-2020-Premier-League
-24,2019-08-23,,,,,,,,,,,,,,,,,,,,,,,,,,
-25,2019-08-23,Sun,Matchweek 33,Away,L 0–2,Aston Villa,Liverpool,N,"On matchday squad, but did not play",/en/matches/c2481cad/Liverpool-Aston-Villa-July-5-2020-Premier-League,,,,,,,,,,,,,,,,,
-26,2019-08-23,Thu,Matchweek 34,Home,L 0–3,Aston Villa,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/61422f26/Aston-Villa-Manchester-United-July-9-2020-Premier-League,,,,,,,,,,,,,,,,,
-27,2019-08-23,Sun,Matchweek 35,Home,W 2–0,Aston Villa,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/b30bf2e8/Aston-Villa-Crystal-Palace-July-12-2020-Premier-League,,,,,,,,,,,,,,,,,
-28,2019-08-23,Thu,Matchweek 36,Away,D 1–1,Aston Villa,Everton,N,"On matchday squad, but did not play",/en/matches/f855bc55/Everton-Aston-Villa-July-16-2020-Premier-League,,,,,,,,,,,,,,,,,
-29,2019-08-23,Tue,Matchweek 37,Home,W 1–0,Aston Villa,Arsenal,N,RB,66,3,1,2,1,0,1,2,50.0,1,0,0,0,3,6,2,0,/en/matches/ca0b21bc/Aston-Villa-Arsenal-July-21-2020-Premier-League
-30,2019-08-23,Sun,Matchweek 38,Away,D 1–1,Aston Villa,West Ham,Y,RB,75,0,0,0,0,0,0,0,,0,1,0,1,1,1,2,0,/en/matches/a3f59c8e/West-Ham-United-Aston-Villa-July-26-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-23,Fri,Premier League,Matchweek 3,Home,W 2–0,Aston Villa,Everton,Y,RB,90,0,0,0,0,1,0,1,0,43,1,3,0,0.0,0.0,0.0,1,1,23,34,67.6,3,16,3,1,1,/en/matches/3e805eff/Aston-Villa-Everton-August-23-2019-Premier-League
+1,2019-08-27,Tue,EFL Cup,Second round,Away,W 6–1,Aston Villa,Crewe Alexandra,N,,48,1,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/cad624a0/Crewe-Alexandra-Aston-Villa-August-27-2019-EFL-Cup
+2,2019-08-31,Sat,Premier League,Matchweek 4,Away,L 0–1,Aston Villa,Crystal Palace,Y,RB,90,0,0,0,0,2,0,1,0,68,2,5,0,0.0,0.0,0.1,3,0,35,51,68.6,2,30,3,2,2,/en/matches/230f4fac/Crystal-Palace-Aston-Villa-August-31-2019-Premier-League
+3,2019-09-16,Mon,Premier League,Matchweek 5,Home,D 0–0,Aston Villa,West Ham,Y,RB,84,0,0,0,0,1,1,0,0,66,4,5,5,0.1,0.1,0.0,1,0,32,41,78.0,2,21,1,2,0,/en/matches/b26df467/Aston-Villa-West-Ham-United-September-16-2019-Premier-League
+4,2019-09-22,Sun,Premier League,Matchweek 6,Away,L 2–3,Aston Villa,Arsenal,Y,RB,90,0,0,0,0,0,0,0,0,42,2,2,1,0.0,0.0,0.0,3,0,23,34,67.6,5,26,3,5,3,/en/matches/d5fa0563/Arsenal-Aston-Villa-September-22-2019-Premier-League
+5,2019-09-28,Sat,Premier League,Matchweek 7,Home,D 2–2,Aston Villa,Burnley,Y,RB,90,0,1,0,0,0,0,0,0,65,3,2,0,0.0,0.0,0.1,1,1,32,53,60.4,2,22,6,1,0,/en/matches/37a51188/Aston-Villa-Burnley-September-28-2019-Premier-League
+6,2019-10-05,Sat,Premier League,Matchweek 8,Away,W 5–1,Aston Villa,Norwich City,Y,RB,90,0,0,0,0,0,0,1,0,61,0,1,4,0.0,0.0,0.1,3,1,30,46,65.2,2,26,3,1,0,/en/matches/e50b8e5b/Norwich-City-Aston-Villa-October-5-2019-Premier-League
+7,2019-10-19,Sat,Premier League,Matchweek 9,Home,W 2–1,Aston Villa,Brighton,Y,RB,90,0,1,0,0,0,0,0,0,63,1,2,2,0.0,0.0,0.8,1,0,35,54,64.8,4,25,0,3,2,/en/matches/34685c72/Aston-Villa-Brighton-and-Hove-Albion-October-19-2019-Premier-League
+8,2019-10-26,Sat,Premier League,Matchweek 10,Away,L 0–3,Aston Villa,Manchester City,Y,RB,90,0,0,0,0,0,0,0,0,59,4,2,1,0.0,0.0,0.0,2,0,28,44,63.6,1,22,1,1,0,/en/matches/e0a4db2d/Manchester-City-Aston-Villa-October-26-2019-Premier-League
+9,2019-11-02,Sat,Premier League,Matchweek 11,Home,L 1–2,Aston Villa,Liverpool,Y,RB,68,0,0,0,0,0,0,0,0,34,2,1,1,0.0,0.0,0.0,0,0,11,23,47.8,1,9,1,2,1,/en/matches/2206646c/Aston-Villa-Liverpool-November-2-2019-Premier-League
+10,2019-11-10,Sun,Premier League,Matchweek 12,Away,L 1–2,Aston Villa,Wolves,Y,RB,90,0,0,0,0,0,0,1,0,76,5,1,1,0.0,0.0,0.0,4,1,39,58,67.2,4,30,6,4,3,/en/matches/2794f89d/Wolverhampton-Wanderers-Aston-Villa-November-10-2019-Premier-League
+11,2019-11-25,Mon,Premier League,Matchweek 13,Home,W 2–0,Aston Villa,Newcastle Utd,Y,RB,90,0,0,0,0,0,0,0,0,79,8,1,1,0.0,0.0,0.0,1,0,44,61,72.1,4,32,4,2,0,/en/matches/f6f8808e/Aston-Villa-Newcastle-United-November-25-2019-Premier-League
+12,2019-12-01,Sun,Premier League,Matchweek 14,Away,D 2–2,Aston Villa,Manchester Utd,Y,RB,90,0,0,0,0,0,0,1,0,55,5,0,2,0.0,0.0,0.0,1,0,19,39,48.7,2,21,2,3,1,/en/matches/e88d9028/Manchester-United-Aston-Villa-December-1-2019-Premier-League
+13,2019-12-08,Sun,Premier League,Matchweek 16,Home,L 1–4,Aston Villa,Leicester City,N,LB,13,0,0,0,0,0,0,0,0,8,0,1,1,0.0,0.0,0.0,1,0,3,4,75.0,0,2,0,0,0,/en/matches/559e812a/Aston-Villa-Leicester-City-December-8-2019-Premier-League
+14,2019-12-14,Sat,Premier League,Matchweek 17,Away,L 0–2,Aston Villa,Sheffield Utd,Y,RB,90,0,0,0,0,0,0,0,0,75,2,3,1,0.0,0.0,0.0,0,0,38,60,63.3,8,30,4,0,0,/en/matches/b1b5e590/Sheffield-United-Aston-Villa-December-14-2019-Premier-League
+15,2019-12-21,Sat,Premier League,Matchweek 18,Home,L 1–3,Aston Villa,Southampton,Y,RB,90,0,0,0,0,1,1,0,0,75,6,4,0,0.0,0.0,0.0,3,1,41,59,69.5,7,24,2,1,1,/en/matches/d50390a8/Aston-Villa-Southampton-December-21-2019-Premier-League
+16,2019-12-28,Sat,Premier League,Matchweek 20,Away,L 0–3,Aston Villa,Watford,N,LB,25,0,0,0,0,0,0,0,0,17,1,0,2,0.0,0.0,0.0,1,0,10,13,76.9,2,8,1,0,0,/en/matches/36dc1eb8/Watford-Aston-Villa-December-28-2019-Premier-League
+17,2020-01-01,Wed,Premier League,Matchweek 21,Away,W 2–1,Aston Villa,Burnley,Y,"RM,WB",90,0,0,0,0,0,0,0,0,50,5,0,0,0.0,0.0,0.0,0,0,16,31,51.6,2,10,1,1,1,/en/matches/ac409026/Burnley-Aston-Villa-January-1-2020-Premier-League
+18,2020-01-08,Wed,EFL Cup,Semi-finals,Away,D 1–1,Aston Villa,Leicester City,Y,RM,90,1,0,0,0,1,1,0,0,,,2,,,,,,,,,,,,,,,/en/matches/00a88285/Leicester-City-Aston-Villa-January-8-2020-EFL-Cup
+19,2020-01-18,Sat,Premier League,Matchweek 23,Away,D 1–1,Aston Villa,Brighton,Y,RM,90,0,0,0,0,0,0,0,0,63,9,2,3,0.0,0.0,0.0,2,0,30,44,68.2,5,21,2,3,1,/en/matches/bd044bad/Brighton-and-Hove-Albion-Aston-Villa-January-18-2020-Premier-League
+20,2020-01-21,Tue,Premier League,Matchweek 24,Home,W 2–1,Aston Villa,Watford,Y,RM,90,0,0,0,0,0,0,0,0,77,1,5,2,0.0,0.0,0.1,2,0,45,63,71.4,4,34,0,2,2,/en/matches/3deb145e/Aston-Villa-Watford-January-21-2020-Premier-League
+21,2020-01-28,Tue,EFL Cup,Semi-finals,Home,W 2–1,Aston Villa,Leicester City,Y,RM,83,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/9d9f4927/Aston-Villa-Leicester-City-January-28-2020-EFL-Cup
+22,2020-02-01,Sat,Premier League,Matchweek 25,Away,L 1–2,Aston Villa,Bournemouth,Y,"RM,WB",90,0,0,0,0,1,0,0,0,64,0,1,2,0.1,0.1,0.1,2,0,32,53,60.4,6,29,5,2,1,/en/matches/db21a88a/Bournemouth-Aston-Villa-February-1-2020-Premier-League
+23,2020-02-16,Sun,Premier League,Matchweek 26,Home,L 2–3,Aston Villa,Tottenham,Y,RM,90,0,0,0,0,0,0,1,0,56,1,0,2,0.0,0.0,0.1,4,0,31,45,68.9,5,23,2,6,2,/en/matches/ebfe971d/Aston-Villa-Tottenham-Hotspur-February-16-2020-Premier-League
+24,2020-02-22,Sat,Premier League,Matchweek 27,Away,L 0–2,Aston Villa,Southampton,Y,"WB,RB",90,0,0,0,0,0,0,1,0,59,3,2,1,0.0,0.0,0.1,1,0,25,44,56.8,5,23,0,0,0,/en/matches/66823ac4/Southampton-Aston-Villa-February-22-2020-Premier-League
+25,2020-03-01,Sun,EFL Cup,Final,Neutral,L 1–2,Aston Villa,Manchester City,Y,RB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/ec384b38/Aston-Villa-Manchester-City-March-1-2020-EFL-Cup
+26,2020-03-09,Mon,Premier League,Matchweek 29,Away,L 0–4,Aston Villa,Leicester City,Y,RB,90,0,0,0,0,1,1,0,0,56,6,2,0,0.1,0.1,0.0,0,0,20,39,51.3,2,15,3,2,0,/en/matches/76f492dc/Leicester-City-Aston-Villa-March-9-2020-Premier-League
+27,2020-07-21,Tue,Premier League,Matchweek 37,Home,W 1–0,Aston Villa,Arsenal,N,RB,66,0,0,0,0,1,0,0,0,33,3,3,0,0.1,0.1,0.0,0,0,14,20,70.0,2,8,1,1,1,/en/matches/ca0b21bc/Aston-Villa-Arsenal-July-21-2020-Premier-League
+28,2020-07-26,Sun,Premier League,Matchweek 38,Away,D 1–1,Aston Villa,West Ham,Y,RB,75,0,0,0,0,0,0,0,0,41,0,1,1,0.0,0.0,0.1,2,0,23,33,69.7,1,11,2,3,1,/en/matches/a3f59c8e/West-Ham-United-Aston-Villa-July-26-2020-Premier-League

@@ -1,15 +1,33 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2020-09-12,Mon,Matchweek 3,Home,L 0–3,Fulham,Aston Villa,N,RW,13,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,/en/matches/6b258be0/Fulham-Aston-Villa-September-28-2020-Premier-League
-1,2020-09-12,Sun,Matchweek 4,Away,L 0–1,Fulham,Wolves,N,AM,10,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/8f989671/Wolverhampton-Wanderers-Fulham-October-4-2020-Premier-League
-2,2020-09-12,Sun,Matchweek 5,Away,D 1–1,Fulham,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/5529e7a0/Sheffield-United-Fulham-October-18-2020-Premier-League,,,,,,,,,,,,,,,,,
-3,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,2020-09-12,Sat,Matchweek 8,Away,L 0–1,Fulham,West Ham,N,"On matchday squad, but did not play",/en/matches/f075fddc/West-Ham-United-Fulham-November-7-2020-Premier-League,,,,,,,,,,,,,,,,,
-5,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2020-09-12,Sun,Matchweek 12,Home,D 1–1,Fulham,Liverpool,N,"On matchday squad, but did not play",/en/matches/5abb0bd1/Fulham-Liverpool-December-13-2020-Premier-League,,,,,,,,,,,,,,,,,
-7,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2020-09-12,Sat,Matchweek 15,Home,D 0–0,Fulham,Southampton,N,FW,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/cf86c208/Fulham-Southampton-December-26-2020-Premier-League
-9,2020-09-12,Wed,Matchweek 16,Away,D 1–1,Fulham,Tottenham,N,"On matchday squad, but did not play",/en/matches/fcad17a1/Tottenham-Hotspur-Fulham-January-13-2021-Premier-League,,,,,,,,,,,,,,,,,
-10,2020-09-12,Sat,Matchweek 19,Home,L 0–1,Fulham,Chelsea,N,"On matchday squad, but did not play",/en/matches/714c642d/Fulham-Chelsea-January-16-2021-Premier-League,,,,,,,,,,,,,,,,,
-11,2020-09-12,Wed,Matchweek 18,Home,L 1–2,Fulham,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/2a3855db/Fulham-Manchester-United-January-20-2021-Premier-League,,,,,,,,,,,,,,,,,
-12,2020-09-12,Wed,Matchweek 20,Away,D 0–0,Fulham,Brighton,N,"On matchday squad, but did not play",/en/matches/ea5464bd/Brighton-and-Hove-Albion-Fulham-January-27-2021-Premier-League,,,,,,,,,,,,,,,,,
-13,2020-09-12,Sat,Matchweek 21,Away,D 2–2,Fulham,West Brom,N,"On matchday squad, but did not play",/en/matches/d1517c30/West-Bromwich-Albion-Fulham-January-30-2021-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-12,Sat,Premier League,Matchweek 1,Home,L 0–3,Fulham,Arsenal,Y,RW,62,0,0,0,0,1,0,0,0,30,0,0,1,0.0,0.0,0.0,1,0,19,25,76.0,0,24,4,2,2,/en/matches/bf52349b/Fulham-Arsenal-September-12-2020-Premier-League
+1,2020-09-16,Wed,EFL Cup,Second round,Away,W 1–0,Fulham,Ipswich Town,Y,AM,90,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/ec354b22/Ipswich-Town-Fulham-September-16-2020-EFL-Cup
+2,2020-09-19,Sat,Premier League,Matchweek 2,Away,L 3–4,Fulham,Leeds United,N,RW,33,0,0,0,0,1,0,0,0,17,0,0,2,0.0,0.0,0.0,0,0,5,8,62.5,0,9,1,3,1,/en/matches/583c2b60/Leeds-United-Fulham-September-19-2020-Premier-League
+3,2020-09-23,Wed,EFL Cup,Third round,Home,W 2–0,Fulham,Sheffield Weds,Y,AM,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/6277bf5f/Fulham-Sheffield-Wednesday-September-23-2020-EFL-Cup
+4,2020-09-28,Mon,Premier League,Matchweek 3,Home,L 0–3,Fulham,Aston Villa,N,RW,13,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,1,8,2,0,0,/en/matches/6b258be0/Fulham-Aston-Villa-September-28-2020-Premier-League
+5,2020-10-01,Thu,EFL Cup,Fourth round,Away,L 0–3,Fulham,Brentford,Y,AM,90,0,0,0,0,5,2,0,0,,,0,,,,,,,,,,,,,,,/en/matches/38aa0182/Brentford-Fulham-October-1-2020-EFL-Cup
+6,2020-10-04,Sun,Premier League,Matchweek 4,Away,L 0–1,Fulham,Wolves,N,AM,10,0,0,0,0,3,0,0,0,8,0,0,0,0.2,0.2,0.0,1,0,2,2,100.0,0,4,0,0,0,/en/matches/8f989671/Wolverhampton-Wanderers-Fulham-October-4-2020-Premier-League
+7,2020-10-09,Fri,Friendlies (M),Friendlies (M),Neutral,L 0–3,cd Congo DR,bf Burkina Faso,Y,AM,60,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/e904d8d6/Burkina-Faso-Congo-DR-October-9-2020-Friendlies-M
+8,2020-10-13,Tue,Friendlies (M),Friendlies (M),Away,D 1–1,cd Congo DR,ma Morocco,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/02977dd1/Morocco-Congo-DR-October-13-2020-Friendlies-M
+9,2020-11-14,Sat,Africa Cup of Nations qualification,Group stage,Home,D 0–0,cd Congo DR,ao Angola,Y,FW,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/e181baca/Congo-DR-Angola-November-14-2020-Africa-Cup-of-Nations-qualification
+10,2020-11-17,Tue,Africa Cup of Nations qualification,Group stage,Away,W 1–0,cd Congo DR,ao Angola,N,,37,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4dc46da5/Angola-Congo-DR-November-17-2020-Africa-Cup-of-Nations-qualification
+11,2020-12-26,Sat,Premier League,Matchweek 15,Home,D 0–0,Fulham,Southampton,N,FW,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,/en/matches/cf86c208/Fulham-Southampton-December-26-2020-Premier-League
+12,2021-01-09,Sat,FA Cup,Third round proper,Away,W 2–0,Fulham,QPR,N,,43,1,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/75c17e4f/Queens-Park-Rangers-Fulham-January-9-2021-FA-Cup
+13,2021-01-24,Sun,FA Cup,Fourth round proper,Home,L 0–3,Fulham,Burnley,N,,23,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/05c9adfe/Fulham-Burnley-January-24-2021-FA-Cup
+14,2021-02-06,Sat,Championship,Matchweek 28,Home,L 1–4,Middlesbrough,Brentford,Y,RW,68,0,0,0,0,0,0,0,0,24,0,1,1,0.0,0.0,0.0,1,0,11,20,55.0,2,9,2,1,1,/en/matches/587d2d4d/Middlesbrough-Brentford-February-6-2021-Championship
+15,2021-02-13,Sat,Championship,Matchweek 29,Away,L 1–2,Middlesbrough,Derby County,Y,"RW,LW",81,1,0,0,0,1,1,0,0,35,1,1,1,0.1,0.1,0.1,1,0,17,24,70.8,0,23,4,3,1,/en/matches/4b56b44e/Derby-County-Middlesbrough-February-13-2021-Championship
+16,2021-02-16,Tue,Championship,Matchweek 30,Home,W 2–1,Middlesbrough,Huddersfield,Y,CM,78,0,0,0,0,1,1,0,0,43,0,1,2,0.0,0.0,0.1,4,1,20,26,76.9,1,23,3,5,2,/en/matches/39fced9d/Middlesbrough-Huddersfield-Town-February-16-2021-Championship
+17,2021-02-20,Sat,Championship,Matchweek 31,Away,W 2–0,Middlesbrough,Reading,Y,CM,77,0,0,0,0,1,0,0,0,24,2,1,1,0.0,0.0,0.0,2,0,14,17,82.4,1,12,1,2,2,/en/matches/a3e7b2ab/Reading-Middlesbrough-February-20-2021-Championship
+18,2021-02-23,Tue,Championship,Matchweek 32,Home,L 1–3,Middlesbrough,Bristol City,Y,AM,66,0,0,0,0,2,0,0,0,44,0,1,0,0.1,0.1,0.0,2,0,25,33,75.8,7,27,1,1,0,/en/matches/5566931a/Middlesbrough-Bristol-City-February-23-2021-Championship
+19,2021-02-27,Sat,Championship,Matchweek 33,Home,D 1–1,Middlesbrough,Cardiff City,N,"LW,RW",20,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.1,2,0,11,17,64.7,0,13,0,0,0,/en/matches/f3865eb7/Middlesbrough-Cardiff-City-February-27-2021-Championship
+20,2021-03-02,Tue,Championship,Matchweek 34,Away,W 2–1,Middlesbrough,Coventry City,Y,FW,72,0,0,0,0,1,0,0,0,31,2,0,1,0.1,0.1,0.0,2,0,18,23,78.3,1,17,0,2,2,/en/matches/5a73878a/Coventry-City-Middlesbrough-March-2-2021-Championship
+21,2021-03-06,Sat,Championship,Matchweek 35,Away,L 1–2,Middlesbrough,Swansea City,N,FW,25,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,1,8,9,88.9,0,7,3,0,0,/en/matches/86beeedd/Swansea-City-Middlesbrough-March-6-2021-Championship
+22,2021-03-13,Sat,Championship,Matchweek 36,Home,W 3–0,Middlesbrough,Stoke City,Y,"LW,AM",64,0,0,0,0,3,0,0,0,21,4,1,0,0.2,0.2,0.0,1,0,7,11,63.6,0,13,1,1,1,/en/matches/41093048/Middlesbrough-Stoke-City-March-13-2021-Championship
+23,2021-03-16,Tue,Championship,Matchweek 37,Home,W 2–0,Middlesbrough,Preston,Y,LW,82,0,0,0,0,2,1,0,0,44,3,1,1,0.1,0.1,0.1,8,0,27,33,81.8,1,22,1,4,3,/en/matches/013723b4/Middlesbrough-Preston-North-End-March-16-2021-Championship
+24,2021-03-20,Sat,Championship,Matchweek 38,Away,L 0–1,Middlesbrough,Millwall,N,RW,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,9,0,0,0,/en/matches/277b32d9/Millwall-Middlesbrough-March-20-2021-Championship
+25,2021-04-02,Fri,Championship,Matchweek 39,Away,L 1–3,Middlesbrough,Bournemouth,Y,"FW,LM",85,0,0,0,0,1,0,0,0,34,0,0,1,0.0,0.0,0.1,3,0,18,24,75.0,2,21,4,2,1,/en/matches/a2c158da/Bournemouth-Middlesbrough-April-2-2021-Championship
+26,2021-04-05,Mon,Championship,Matchweek 40,Home,D 1–1,Middlesbrough,Watford,Y,LW,72,0,0,0,0,0,0,0,0,29,1,1,2,0.0,0.0,0.0,0,0,13,22,59.1,1,14,1,1,1,/en/matches/f9271bbd/Middlesbrough-Watford-April-5-2021-Championship
+27,2021-04-10,Sat,Championship,Matchweek 41,Away,L 0–2,Middlesbrough,Barnsley,Y,LW,69,0,0,0,0,0,0,0,0,21,2,3,0,0.0,0.0,0.0,1,0,7,12,58.3,0,7,1,1,1,/en/matches/69dab439/Barnsley-Middlesbrough-April-10-2021-Championship
+28,2021-04-17,Sat,Championship,Matchweek 42,Home,L 1–2,Middlesbrough,QPR,Y,AM,90,0,1,0,0,2,0,0,0,35,0,0,1,0.1,0.1,0.4,4,2,25,28,89.3,4,23,4,2,1,/en/matches/e1ac5b54/Middlesbrough-Queens-Park-Rangers-April-17-2021-Championship
+29,2021-04-21,Wed,Championship,Matchweek 43,Away,W 2–1,Middlesbrough,Rotherham Utd,Y,RM,90,0,1,0,0,3,1,1,0,41,2,0,0,0.2,0.2,0.2,7,2,23,33,69.7,3,25,4,2,2,/en/matches/15a19e87/Rotherham-United-Middlesbrough-April-21-2021-Championship
+30,2021-04-24,Sat,Championship,Matchweek 44,Home,W 3–1,Middlesbrough,Sheffield Weds,Y,RW,78,0,1,0,0,0,0,0,0,38,1,3,2,0.0,0.0,0.1,4,1,22,26,84.6,1,22,4,1,1,/en/matches/349e883e/Middlesbrough-Sheffield-Wednesday-April-24-2021-Championship
+31,2021-05-01,Sat,Championship,Matchweek 45,Away,D 1–1,Middlesbrough,Luton Town,Y,RW,90,0,0,0,0,0,0,0,0,27,2,1,1,0.0,0.0,0.5,2,0,8,17,47.1,0,21,4,4,2,/en/matches/9816ca19/Luton-Town-Middlesbrough-May-1-2021-Championship

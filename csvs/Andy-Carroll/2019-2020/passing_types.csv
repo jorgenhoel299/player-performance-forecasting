@@ -1,24 +1,22 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2019-09-21,Sun,Matchweek 8,Home,W 1–0,Newcastle Utd,Manchester Utd,N,FW,35,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0,/en/matches/e4a80056/Newcastle-United-Manchester-United-October-6-2019-Premier-League
-1,2019-09-21,Sat,Matchweek 9,Away,L 0–1,Newcastle Utd,Chelsea,N,FW,21,6,5,1,0,0,0,0,0,0,0,0,0,3,0,1,/en/matches/c17538b0/Chelsea-Newcastle-United-October-19-2019-Premier-League
-2,2019-09-21,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2019-09-21,Sat,Matchweek 11,Away,W 3–2,Newcastle Utd,West Ham,N,FW,2,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,/en/matches/ac4523c2/West-Ham-United-Newcastle-United-November-2-2019-Premier-League
-4,2019-09-21,Sat,Matchweek 12,Home,W 2–1,Newcastle Utd,Bournemouth,N,FW,8,5,5,0,0,0,0,0,0,0,0,0,0,2,0,0,/en/matches/698f846d/Newcastle-United-Bournemouth-November-9-2019-Premier-League
-5,2019-09-21,Mon,Matchweek 13,Away,L 0–2,Newcastle Utd,Aston Villa,N,FW,28,12,11,0,0,0,0,0,0,0,0,0,0,7,1,0,/en/matches/f6f8808e/Aston-Villa-Newcastle-United-November-25-2019-Premier-League
-6,2019-09-21,,,,,,,,,,,,,,,,,,,,,,,,,
-7,2019-09-21,Thu,Matchweek 15,Away,W 2–0,Newcastle Utd,Sheffield Utd,Y,FW,71,16,16,0,0,0,0,0,0,0,0,0,0,7,0,0,/en/matches/8a9fa2d9/Sheffield-United-Newcastle-United-December-5-2019-Premier-League
-8,2019-09-21,Sun,Matchweek 16,Home,W 2–1,Newcastle Utd,Southampton,N,FW,32,17,17,0,0,0,0,2,0,0,0,0,0,9,0,0,/en/matches/5d9f7fe3/Newcastle-United-Southampton-December-8-2019-Premier-League
-9,2019-09-21,Sat,Matchweek 17,Away,L 0–1,Newcastle Utd,Burnley,Y*,FW,90,30,29,1,0,0,0,2,0,0,0,0,0,18,0,2,/en/matches/4c3c57fa/Burnley-Newcastle-United-December-14-2019-Premier-League
-10,2019-09-21,Sat,Matchweek 18,Home,W 1–0,Newcastle Utd,Crystal Palace,Y,FW,90,24,24,0,0,0,2,0,0,0,0,0,0,14,0,0,/en/matches/5e599d06/Newcastle-United-Crystal-Palace-December-21-2019-Premier-League
-11,2019-09-21,Thu,Matchweek 19,Away,L 1–4,Newcastle Utd,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/b3d5292f/Manchester-United-Newcastle-United-December-26-2019-Premier-League,,,,,,,,,,,,,,,,
-12,2019-09-21,Sat,Matchweek 20,Home,L 1–2,Newcastle Utd,Everton,Y,"FW,RW",90,33,33,0,0,0,0,0,0,0,0,0,0,18,0,0,/en/matches/6edbd555/Newcastle-United-Everton-December-28-2019-Premier-League
-13,2019-09-21,Wed,Matchweek 21,Home,L 0–3,Newcastle Utd,Leicester City,N,"On matchday squad, but did not play",/en/matches/a7902bb1/Newcastle-United-Leicester-City-January-1-2020-Premier-League,,,,,,,,,,,,,,,,
-14,2019-09-21,Sat,Matchweek 22,Away,D 1–1,Newcastle Utd,Wolves,N,FW,12,5,5,0,0,0,0,1,0,0,0,0,0,2,0,0,/en/matches/d5b1eda9/Wolverhampton-Wanderers-Newcastle-United-January-11-2020-Premier-League
-15,2019-09-21,,,,,,,,,,,,,,,,,,,,,,,,,
-16,2019-09-21,Sun,Matchweek 30,Home,W 3–0,Newcastle Utd,Sheffield Utd,N,FW,12,9,9,0,0,0,0,0,0,0,0,0,0,8,0,0,/en/matches/4e501da1/Newcastle-United-Sheffield-United-June-21-2020-Premier-League
-17,2019-09-21,Wed,Matchweek 31,Home,D 1–1,Newcastle Utd,Aston Villa,N,FW,27,11,11,0,0,0,1,0,0,0,0,0,0,7,0,0,/en/matches/66027e20/Newcastle-United-Aston-Villa-June-24-2020-Premier-League
-18,2019-09-21,Wed,Matchweek 32,Away,W 4–1,Newcastle Utd,Bournemouth,N,FW,29,13,13,0,0,0,0,0,0,0,0,0,0,11,0,0,/en/matches/92aaad57/Bournemouth-Newcastle-United-July-1-2020-Premier-League
-19,2019-09-21,Sun,Matchweek 33,Home,D 2–2,Newcastle Utd,West Ham,N,FW,10,6,6,0,0,0,0,0,0,0,0,0,0,6,0,0,/en/matches/3d549d43/Newcastle-United-West-Ham-United-July-5-2020-Premier-League
-20,2019-09-21,,,,,,,,,,,,,,,,,,,,,,,,,
-21,2019-09-21,Mon,Matchweek 37,Away,D 0–0,Newcastle Utd,Brighton,N,FW,17,5,5,0,0,0,0,0,0,0,0,0,0,2,0,1,/en/matches/9defdd38/Brighton-and-Hove-Albion-Newcastle-United-July-20-2020-Premier-League
-22,2019-09-21,Sun,Matchweek 38,Home,L 1–3,Newcastle Utd,Liverpool,N,FW,21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/b6b1209d/Newcastle-United-Liverpool-July-26-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-09-21,Sat,Premier League,Matchweek 6,Home,D 0–0,Newcastle Utd,Brighton,N,LB,9,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,1,2,0,0,0,/en/matches/966fb8b0/Newcastle-United-Brighton-and-Hove-Albion-September-21-2019-Premier-League
+1,2019-09-29,Sun,Premier League,Matchweek 7,Away,L 0–5,Newcastle Utd,Leicester City,N,FW,28,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,4,0,0,0,/en/matches/40d77688/Leicester-City-Newcastle-United-September-29-2019-Premier-League
+2,2019-10-06,Sun,Premier League,Matchweek 8,Home,W 1–0,Newcastle Utd,Manchester Utd,N,FW,35,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,0,0,3,6,50.0,1,8,0,0,0,/en/matches/e4a80056/Newcastle-United-Manchester-United-October-6-2019-Premier-League
+3,2019-10-19,Sat,Premier League,Matchweek 9,Away,L 0–1,Newcastle Utd,Chelsea,N,FW,21,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,3,0,1,1,/en/matches/c17538b0/Chelsea-Newcastle-United-October-19-2019-Premier-League
+4,2019-11-02,Sat,Premier League,Matchweek 11,Away,W 3–2,Newcastle Utd,West Ham,N,FW,2,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0,/en/matches/ac4523c2/West-Ham-United-Newcastle-United-November-2-2019-Premier-League
+5,2019-11-09,Sat,Premier League,Matchweek 12,Home,W 2–1,Newcastle Utd,Bournemouth,N,FW,8,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,0,0,/en/matches/698f846d/Newcastle-United-Bournemouth-November-9-2019-Premier-League
+6,2019-11-25,Mon,Premier League,Matchweek 13,Away,L 0–2,Newcastle Utd,Aston Villa,N,FW,28,0,0,0,0,1,1,0,0,18,1,0,0,0.0,0.0,0.0,2,0,7,12,58.3,2,5,0,1,1,/en/matches/f6f8808e/Aston-Villa-Newcastle-United-November-25-2019-Premier-League
+7,2019-12-05,Thu,Premier League,Matchweek 15,Away,W 2–0,Newcastle Utd,Sheffield Utd,Y,FW,71,0,1,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.3,2,2,7,16,43.8,1,6,0,0,0,/en/matches/8a9fa2d9/Sheffield-United-Newcastle-United-December-5-2019-Premier-League
+8,2019-12-08,Sun,Premier League,Matchweek 16,Home,W 2–1,Newcastle Utd,Southampton,N,FW,32,0,1,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.1,1,1,9,17,52.9,2,10,0,0,0,/en/matches/5d9f7fe3/Newcastle-United-Southampton-December-8-2019-Premier-League
+9,2019-12-14,Sat,Premier League,Matchweek 17,Away,L 0–1,Newcastle Utd,Burnley,Y*,FW,90,0,0,0,0,2,0,1,0,37,1,0,0,0.3,0.3,0.1,2,0,18,30,60.0,1,20,0,1,1,/en/matches/4c3c57fa/Burnley-Newcastle-United-December-14-2019-Premier-League
+10,2019-12-21,Sat,Premier League,Matchweek 18,Home,W 1–0,Newcastle Utd,Crystal Palace,Y,FW,90,0,0,0,0,2,0,0,0,39,0,1,1,0.1,0.1,0.0,2,0,14,24,58.3,1,23,0,2,0,/en/matches/5e599d06/Newcastle-United-Crystal-Palace-December-21-2019-Premier-League
+11,2019-12-28,Sat,Premier League,Matchweek 20,Home,L 1–2,Newcastle Utd,Everton,Y,"FW,RW",90,0,1,0,0,5,1,0,0,48,0,0,1,0.2,0.2,0.5,3,1,18,33,54.5,3,14,0,2,2,/en/matches/6edbd555/Newcastle-United-Everton-December-28-2019-Premier-League
+12,2020-01-11,Sat,Premier League,Matchweek 22,Away,D 1–1,Newcastle Utd,Wolves,N,FW,12,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,4,0,2,1,/en/matches/d5b1eda9/Wolverhampton-Wanderers-Newcastle-United-January-11-2020-Premier-League
+13,2020-01-14,Tue,FA Cup,Third round,Home,W 4–1,Newcastle Utd,Rochdale,N,,29,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/b1b251e0/Newcastle-United-Rochdale-January-14-2020-FA-Cup
+14,2020-06-21,Sun,Premier League,Matchweek 30,Home,W 3–0,Newcastle Utd,Sheffield Utd,N,FW,12,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,2,5,2,1,0,/en/matches/4e501da1/Newcastle-United-Sheffield-United-June-21-2020-Premier-League
+15,2020-06-24,Wed,Premier League,Matchweek 31,Home,D 1–1,Newcastle Utd,Aston Villa,N,FW,27,0,1,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.3,2,0,7,11,63.6,0,9,2,0,0,/en/matches/66027e20/Newcastle-United-Aston-Villa-June-24-2020-Premier-League
+16,2020-06-28,Sun,FA Cup,Quarter-finals,Home,L 0–2,Newcastle Utd,Manchester City,Y,FW,63,0,0,0,0,1,1,1,0,,,0,,,,,,,,,,,,,,,/en/matches/5ed71076/Newcastle-United-Manchester-City-June-28-2020-FA-Cup
+17,2020-07-01,Wed,Premier League,Matchweek 32,Away,W 4–1,Newcastle Utd,Bournemouth,N,FW,29,0,0,0,0,2,1,0,0,20,0,0,0,0.2,0.2,0.0,3,1,11,13,84.6,2,8,0,0,0,/en/matches/92aaad57/Bournemouth-Newcastle-United-July-1-2020-Premier-League
+18,2020-07-05,Sun,Premier League,Matchweek 33,Home,D 2–2,Newcastle Utd,West Ham,N,FW,10,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,2,0,0,0,/en/matches/3d549d43/Newcastle-United-West-Ham-United-July-5-2020-Premier-League
+19,2020-07-20,Mon,Premier League,Matchweek 37,Away,D 0–0,Newcastle Utd,Brighton,N,FW,17,0,0,0,0,2,0,0,0,9,0,1,0,0.3,0.3,0.0,1,0,2,5,40.0,0,1,0,0,0,/en/matches/9defdd38/Brighton-and-Hove-Albion-Newcastle-United-July-20-2020-Premier-League
+20,2020-07-26,Sun,Premier League,Matchweek 38,Home,L 1–3,Newcastle Utd,Liverpool,N,FW,21,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,4,0,1,0,/en/matches/b6b1209d/Newcastle-United-Liverpool-July-26-2020-Premier-League

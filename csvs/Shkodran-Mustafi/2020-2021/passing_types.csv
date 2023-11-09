@@ -1,10 +1,23 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2020-10-25,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-10-25,Sun,Matchweek 9,Away,D 0–0,Arsenal,Leeds United,N,"On matchday squad, but did not play",/en/matches/0dd6b39b/Leeds-United-Arsenal-November-22-2020-Premier-League,,,,,,,,,,,,,,,,
-2,2020-10-25,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2020-10-25,Sun,Matchweek 11,Away,L 0–2,Arsenal,Tottenham,N,"On matchday squad, but did not play",/en/matches/35abfa2f/North-London-Derby-Tottenham-Hotspur-Arsenal-December-6-2020-Premier-League,,,,,,,,,,,,,,,,
-4,2020-10-25,Sun,Matchweek 12,Home,L 0–1,Arsenal,Burnley,N,"On matchday squad, but did not play",/en/matches/e4dc55d0/Arsenal-Burnley-December-13-2020-Premier-League,,,,,,,,,,,,,,,,
-5,2020-10-25,Wed,Matchweek 13,Home,D 1–1,Arsenal,Southampton,N,"On matchday squad, but did not play",/en/matches/0ceceee4/Arsenal-Southampton-December-16-2020-Premier-League,,,,,,,,,,,,,,,,
-6,2020-10-25,Sat,Matchweek 14,Away,L 1–2,Arsenal,Everton,N,"On matchday squad, but did not play",/en/matches/72fa1993/Everton-Arsenal-December-19-2020-Premier-League,,,,,,,,,,,,,,,,
-7,2020-10-25,Sat,Matchweek 15,Home,W 3–1,Arsenal,Chelsea,N,CB,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/c5de8a0c/North-West-London-Derby-Arsenal-Chelsea-December-26-2020-Premier-League
-8,2020-10-25,Tue,Matchweek 16,Away,W 1–0,Arsenal,Brighton,N,"On matchday squad, but did not play",/en/matches/fdca0bef/Brighton-and-Hove-Albion-Arsenal-December-29-2020-Premier-League,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-10-25,Sun,Premier League,Matchweek 6,Home,L 0–1,Arsenal,Leicester City,N,CB,42,0,0,0,0,0,0,0,0,53,1,0,1,0.0,0.0,0.0,0,0,44,50,88.0,7,43,0,0,0,/en/matches/bcd3a9b4/Arsenal-Leicester-City-October-25-2020-Premier-League
+1,2020-10-29,Thu,Europa Lg,Group stage,Home,W 3–0,eng Arsenal,ie Dundalk,Y,CB,61,0,0,0,0,0,0,0,0,42,2,1,0,0.0,0.0,0.0,1,0,34,38,89.5,8,28,0,0,0,/en/matches/6578dff1/Arsenal-Dundalk-October-29-2020-Europa-League
+2,2020-11-01,Sun,Premier League,Matchweek 7,Away,W 1–0,Arsenal,Manchester Utd,N,CB,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,/en/matches/75dd1359/Manchester-United-Arsenal-November-1-2020-Premier-League
+3,2020-11-05,Thu,Europa Lg,Group stage,Home,W 4–1,eng Arsenal,no Molde,Y,CB,90,0,0,0,0,2,0,0,0,79,1,0,2,0.1,0.1,0.0,1,0,59,70,84.3,5,54,2,0,0,/en/matches/69b23a15/Arsenal-Molde-November-5-2020-Europa-League
+4,2020-11-26,Thu,Europa Lg,Group stage,Away,W 3–0,eng Arsenal,no Molde,Y,CB,90,0,0,0,0,0,0,0,0,66,3,4,3,0.0,0.0,0.0,1,0,45,52,86.5,3,26,0,1,1,/en/matches/de32a3cc/Molde-Arsenal-November-26-2020-Europa-League
+5,2020-12-03,Thu,Europa Lg,Group stage,Home,W 4–1,eng Arsenal,at Rapid Wien,Y,CB,69,0,0,0,0,2,0,1,0,54,0,0,1,0.1,0.1,0.0,1,0,45,49,91.8,4,43,0,0,0,/en/matches/bca73bdc/Arsenal-Rapid-Wien-December-3-2020-Europa-League
+6,2020-12-10,Thu,Europa Lg,Group stage,Away,W 4–2,eng Arsenal,ie Dundalk,Y*,CB,90,0,0,0,0,0,0,0,0,87,0,1,0,0.0,0.0,0.1,1,0,76,82,92.7,9,71,0,0,0,/en/matches/3a6e4eda/Dundalk-Arsenal-December-10-2020-Europa-League
+7,2020-12-22,Tue,EFL Cup,Quarter-finals,Home,L 1–4,Arsenal,Manchester City,Y,CB,90,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,/en/matches/3453fb20/Arsenal-Manchester-City-December-22-2020-EFL-Cup
+8,2020-12-26,Sat,Premier League,Matchweek 15,Home,W 3–1,Arsenal,Chelsea,N,CB,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,/en/matches/c5de8a0c/North-West-London-Derby-Arsenal-Chelsea-December-26-2020-Premier-League
+9,2021-02-06,Sat,Bundesliga,Matchweek 20,Home,L 0–3,Schalke 04,RB Leipzig,Y,CB,90,0,0,0,0,1,0,0,0,55,1,2,2,0.1,0.1,0.0,0,0,26,41,63.4,0,23,0,0,0,/en/matches/97155cb7/Schalke-04-RB-Leipzig-February-6-2021-Bundesliga
+10,2021-02-13,Sat,Bundesliga,Matchweek 21,Away,D 0–0,Schalke 04,Union Berlin,Y,CB,90,0,0,0,0,0,0,0,0,80,1,3,1,0.0,0.0,0.0,1,0,56,67,83.6,1,32,0,1,1,/en/matches/82ffa7e7/Union-Berlin-Schalke-04-February-13-2021-Bundesliga
+11,2021-02-27,Sat,Bundesliga,Matchweek 23,Away,L 1–5,Schalke 04,Stuttgart,Y,CB,90,0,0,0,0,0,0,0,0,76,2,1,1,0.0,0.0,0.0,0,0,58,66,87.9,4,51,0,0,0,/en/matches/3c1ba3f2/Stuttgart-Schalke-04-February-27-2021-Bundesliga
+12,2021-03-05,Fri,Bundesliga,Matchweek 24,Home,D 0–0,Schalke 04,Mainz 05,Y,CB,90,0,0,0,0,1,1,0,0,89,2,7,3,0.1,0.1,0.0,0,0,54,67,80.6,3,44,0,1,0,/en/matches/f7d71118/Schalke-04-Mainz-05-March-5-2021-Bundesliga
+13,2021-03-13,Sat,Bundesliga,Matchweek 25,Away,L 0–5,Schalke 04,Wolfsburg,Y,CB,90,0,0,0,0,1,0,0,0,72,1,2,1,0.1,0.1,0.0,0,0,46,55,83.6,0,39,0,1,0,/en/matches/8cf2990f/Wolfsburg-Schalke-04-March-13-2021-Bundesliga
+14,2021-03-20,Sat,Bundesliga,Matchweek 26,Home,L 0–3,Schalke 04,M'Gladbach,Y,CB,90,0,0,0,0,0,0,0,0,63,2,3,2,0.0,0.0,0.0,0,0,45,51,88.2,2,43,0,1,0,/en/matches/7bcab333/Schalke-04-Monchengladbach-March-20-2021-Bundesliga
+15,2021-04-11,Sun,Bundesliga,Matchweek 28,Home,W 1–0,Schalke 04,Augsburg,N,CM,12,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,/en/matches/2e133e63/Schalke-04-Augsburg-April-11-2021-Bundesliga
+16,2021-04-17,Sat,Bundesliga,Matchweek 29,Away,L 0–4,Schalke 04,Freiburg,N,CM,35,0,0,0,0,0,0,0,0,15,0,2,0,0.0,0.0,0.0,1,0,9,13,69.2,1,7,0,0,0,/en/matches/09039b5e/Freiburg-Schalke-04-April-17-2021-Bundesliga
+17,2021-04-20,Tue,Bundesliga,Matchweek 30,Away,L 0–1,Schalke 04,Arminia,Y,CB,90,0,0,0,0,1,0,0,0,66,0,0,2,0.1,0.1,0.0,0,0,42,53,79.2,3,33,3,0,0,/en/matches/f4064614/Arminia-Schalke-04-April-20-2021-Bundesliga
+18,2021-05-08,Sat,Bundesliga,Matchweek 32,Away,L 2–4,Schalke 04,Hoffenheim,Y,CB,90,1,0,0,0,1,1,0,0,52,1,4,2,0.1,0.1,0.0,1,0,29,37,78.4,0,27,0,1,1,/en/matches/0ffa8d16/Hoffenheim-Schalke-04-May-8-2021-Bundesliga
+19,2021-05-12,Wed,Bundesliga,Matchweek 31,Home,L 1–2,Schalke 04,Hertha BSC,Y,CB,90,0,0,0,0,3,0,1,0,95,1,1,3,0.2,0.2,0.0,1,0,56,78,71.8,8,54,4,0,0,/en/matches/23806e0a/Schalke-04-Hertha-BSC-May-12-2021-Bundesliga
+20,2021-05-15,Sat,Bundesliga,Matchweek 33,Home,W 4–3,Schalke 04,Eint Frankfurt,Y,CB,90,0,0,0,0,1,0,0,0,41,1,2,2,0.0,0.0,0.0,0,0,18,25,72.0,0,21,0,0,0,/en/matches/16deff9a/Schalke-04-Eintracht-Frankfurt-May-15-2021-Bundesliga
+21,2021-05-22,Sat,Bundesliga,Matchweek 34,Away,L 0–1,Schalke 04,Köln,Y,CB,90,0,0,0,0,0,0,0,0,44,4,5,0,0.0,0.0,0.0,0,0,10,24,41.7,0,13,0,0,0,/en/matches/93407279/Koln-Schalke-04-May-22-2021-Bundesliga

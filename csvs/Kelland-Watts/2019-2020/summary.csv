@@ -1,3 +1,27 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,2020-01-11,Mon,Matchweek 37,Away,D 0–0,Newcastle Utd,Brighton,N,"On matchday squad, but did not play",/en/matches/9defdd38/Brighton-and-Hove-Albion-Newcastle-United-July-20-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-01-11,Sun,Matchweek 38,Home,L 1–3,Newcastle Utd,Liverpool,N,CB,17,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,/en/matches/b6b1209d/Newcastle-United-Liverpool-July-26-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-12,Mon,PL2 — Div. 2,Matchweek 1,Away,L 0–6,Newcastle Utd,Reading,Y,CB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/6160bbd0/Reading-U23-Newcastle-United-U23-August-12-2019-Premier-League-2----Division-2
+1,2019-08-17,Sat,League Two,Matchweek 3,Away,D 0–0,Stevenage,Leyton Orient,Y,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/680d5b83/Leyton-Orient-Stevenage-August-17-2019-League-Two
+2,2019-08-20,Tue,League Two,Matchweek 4,Home,L 0–1,Stevenage,Bradford City,Y,CB,90,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/de7da4b2/Stevenage-Bradford-City-August-20-2019-League-Two
+3,2019-08-24,Sat,League Two,Matchweek 5,Away,D 0–0,Stevenage,Mansfield Town,Y,CB,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/a3b42b8e/Mansfield-Town-Stevenage-August-24-2019-League-Two
+4,2019-08-31,Sat,League Two,Matchweek 6,Home,D 2–2,Stevenage,Macclesfield,Y,CB,90,0,0,0,0,3,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/a52e15e8/Stevenage-Macclesfield-Town-August-31-2019-League-Two
+5,2019-09-07,Sat,League Two,Matchweek 7,Away,L 2–4,Stevenage,Cheltenham,Y,CB,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/bc43bd47/Cheltenham-Town-Stevenage-September-7-2019-League-Two
+6,2019-09-14,Sat,League Two,Matchweek 8,Home,L 2–3,Stevenage,Carlisle United,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/5c1af6e5/Stevenage-Carlisle-United-September-14-2019-League-Two
+7,2019-09-17,Tue,League Two,Matchweek 9,Home,L 0–1,Stevenage,Northampton,Y,CB,90,0,0,0,0,3,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/70701a62/Stevenage-Northampton-Town-September-17-2019-League-Two
+8,2019-09-21,Sat,League Two,Matchweek 10,Away,D 0–0,Stevenage,FG Rovers,N,,20,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/cb40fcea/Forest-Green-Rovers-Stevenage-September-21-2019-League-Two
+9,2019-09-28,Sat,League Two,Matchweek 11,Home,D 1–1,Stevenage,Cambridge Utd,N,,25,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/fde1e143/Stevenage-Cambridge-United-September-28-2019-League-Two
+10,2019-10-05,Sat,League Two,Matchweek 12,Away,L 1–3,Stevenage,Colchester Utd,Y,RB,90,0,0,0,0,0,0,0,0,,,5,,,,,,,,,,,,,,,/en/matches/ce72d0fe/Colchester-United-Stevenage-October-5-2019-League-Two
+11,2019-10-12,Sat,League Two,Matchweek 13,Home,W 2–1,Stevenage,Grimsby Town,Y,CM,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/ef65a260/Stevenage-Grimsby-Town-October-12-2019-League-Two
+12,2019-10-19,Sat,League Two,Matchweek 14,Away,D 1–1,Stevenage,Port Vale,Y,CM,90,0,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/15aab6ba/Port-Vale-Stevenage-October-19-2019-League-Two
+13,2019-10-22,Tue,League Two,Matchweek 15,Away,L 0–1,Stevenage,Swindon Town,Y,CM,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/704e9e84/Swindon-Town-Stevenage-October-22-2019-League-Two
+14,2019-10-26,Sat,League Two,Matchweek 16,Home,W 1–0,Stevenage,Morecambe,Y,CM,90,0,0,0,0,5,3,1,0,,,0,,,,,,,,,,,,,,,/en/matches/93ab53e9/Stevenage-Morecambe-October-26-2019-League-Two
+15,2019-11-02,Sat,League Two,Matchweek 17,Away,D 0–0,Stevenage,Scunthorpe Utd,Y,AM,90,0,0,0,0,3,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/816e241b/Scunthorpe-United-Stevenage-November-2-2019-League-Two
+16,2019-11-09,Sat,FA Cup,First round,Home,D 1–1,Stevenage,P'borough Utd,Y,CM,11,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/78dc69ad/Stevenage-Peterborough-United-November-9-2019-FA-Cup
+17,2020-01-04,Sat,League Two,Matchweek 26,Home,D 0–0,Stevenage,Colchester Utd,Y,FW,56,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/57fc23a5/Stevenage-Colchester-United-January-4-2020-League-Two
+18,2020-01-28,Tue,League Two,Matchweek 30,Away,L 1–3,Mansfield Town,Oldham Athletic,Y,CM,90,0,0,0,0,3,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/27d7b82d/Oldham-Athletic-Mansfield-Town-January-28-2020-League-Two
+19,2020-02-01,Sat,League Two,Matchweek 31,Home,D 2–2,Mansfield Town,Carlisle United,Y,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/6810906b/Mansfield-Town-Carlisle-United-February-1-2020-League-Two
+20,2020-02-08,Sat,League Two,Matchweek 32,Away,D 1–1,Mansfield Town,Morecambe,Y,CB,90,0,0,0,0,1,1,1,0,,,0,,,,,,,,,,,,,,,/en/matches/7e9109d8/Morecambe-Mansfield-Town-February-8-2020-League-Two
+21,2020-02-11,Tue,League Two,Matchweek 33,Away,L 1–2,Mansfield Town,Leyton Orient,Y,CB,90,1,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/00c272c6/Leyton-Orient-Mansfield-Town-February-11-2020-League-Two
+22,2020-02-15,Sat,League Two,Matchweek 34,Home,W 1–0,Mansfield Town,Newport County,Y,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/bf77253f/Mansfield-Town-Newport-County-February-15-2020-League-Two
+23,2020-02-22,Sat,League Two,Matchweek 35,Away,L 0–1,Mansfield Town,Cheltenham,Y,CB,85,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/f1dae330/Cheltenham-Town-Mansfield-Town-February-22-2020-League-Two
+24,2020-03-07,Sat,League Two,Matchweek 37,Away,W 2–1,Mansfield Town,Northampton,Y,CB,86,0,0,0,0,2,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/1e023532/Northampton-Town-Mansfield-Town-March-7-2020-League-Two
+25,2020-07-26,Sun,Premier League,Matchweek 38,Home,L 1–3,Newcastle Utd,Liverpool,N,CB,17,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,/en/matches/b6b1209d/Newcastle-United-Liverpool-July-26-2020-Premier-League

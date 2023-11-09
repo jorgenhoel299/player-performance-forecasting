@@ -1,13 +1,21 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2020-01-12,Tue,Matchweek 24,Home,W 2–1,Aston Villa,Watford,N,FW,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/3deb145e/Aston-Villa-Watford-January-21-2020-Premier-League
-1,2020-01-12,,,,,,,,,,,,,,,,,,,,,,,,
-2,2020-01-12,Wed,Matchweek 28,Home,D 0–0,Aston Villa,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/18961bf7/Aston-Villa-Sheffield-United-June-17-2020-Premier-League,,,,,,,,,,,,,,,
-3,2020-01-12,Sun,Matchweek 30,Home,L 1–2,Aston Villa,Chelsea,N,"On matchday squad, but did not play",/en/matches/827d4651/Aston-Villa-Chelsea-June-21-2020-Premier-League,,,,,,,,,,,,,,,
-4,2020-01-12,Wed,Matchweek 31,Away,D 1–1,Aston Villa,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/66027e20/Newcastle-United-Aston-Villa-June-24-2020-Premier-League,,,,,,,,,,,,,,,
-5,2020-01-12,Sat,Matchweek 32,Home,L 0–1,Aston Villa,Wolves,N,"On matchday squad, but did not play",/en/matches/b4483d72/Aston-Villa-Wolverhampton-Wanderers-June-27-2020-Premier-League,,,,,,,,,,,,,,,
-6,2020-01-12,Sun,Matchweek 33,Away,L 0–2,Aston Villa,Liverpool,N,LM,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/c2481cad/Liverpool-Aston-Villa-July-5-2020-Premier-League
-7,2020-01-12,Thu,Matchweek 34,Home,L 0–3,Aston Villa,Manchester Utd,N,CM,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/61422f26/Aston-Villa-Manchester-United-July-9-2020-Premier-League
-8,2020-01-12,,,,,,,,,,,,,,,,,,,,,,,,
-9,2020-01-12,Thu,Matchweek 36,Away,D 1–1,Aston Villa,Everton,N,"On matchday squad, but did not play",/en/matches/f855bc55/Everton-Aston-Villa-July-16-2020-Premier-League,,,,,,,,,,,,,,,
-10,2020-01-12,Tue,Matchweek 37,Home,W 1–0,Aston Villa,Arsenal,N,"On matchday squad, but did not play",/en/matches/ca0b21bc/Aston-Villa-Arsenal-July-21-2020-Premier-League,,,,,,,,,,,,,,,
-11,2020-01-12,Sun,Matchweek 38,Away,D 1–1,Aston Villa,West Ham,N,"On matchday squad, but did not play",/en/matches/a3f59c8e/West-Ham-United-Aston-Villa-July-26-2020-Premier-League,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-09,Fri,PL2 — Div. 2,Matchweek 1,Away,L 0–1,Aston Villa,Middlesbrough,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/3a0aefbe/Middlesbrough-U23-Aston-Villa-U23-August-9-2019-Premier-League-2----Division-2
+1,2019-08-19,Mon,PL2 — Div. 2,Matchweek 2,Away,D 1–1,Aston Villa,Swansea City,Y,CM,49,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4a251707/Swansea-City-U23-Aston-Villa-U23-August-19-2019-Premier-League-2----Division-2
+2,2019-08-24,Sat,PL2 — Div. 2,Matchweek 3,Home,D 1–1,Aston Villa,Norwich City,N,,19,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/a3b2a369/Aston-Villa-U23-Norwich-City-U23-August-24-2019-Premier-League-2----Division-2
+3,2019-08-30,Fri,PL2 — Div. 2,Matchweek 4,Away,W 2–1,Aston Villa,Sunderland,N,,19,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/7af9f414/Sunderland-U23-Aston-Villa-U23-August-30-2019-Premier-League-2----Division-2
+4,2019-09-16,Mon,PL2 — Div. 2,Matchweek 5,Away,L 0–2,Aston Villa,Stoke City,Y,FW,61,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/e96844d5/Stoke-City-U23-Aston-Villa-U23-September-16-2019-Premier-League-2----Division-2
+5,2019-09-23,Mon,PL2 — Div. 2,Matchweek 6,Home,W 4–1,Aston Villa,Manchester Utd,Y,FW,90,1,1,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/97c2dfbd/Aston-Villa-U23-Manchester-United-U23-September-23-2019-Premier-League-2----Division-2
+6,2019-10-21,Mon,PL2 — Div. 2,Matchweek 8,Home,W 1–0,Aston Villa,Fulham,N,,11,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/282c7777/Aston-Villa-U23-Fulham-U23-October-21-2019-Premier-League-2----Division-2
+7,2019-10-28,Mon,PL2 — Div. 2,Matchweek 9,Away,D 3–3,Aston Villa,Reading,Y,FW,82,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/f8bc3bb0/Reading-U23-Aston-Villa-U23-October-28-2019-Premier-League-2----Division-2
+8,2019-11-04,Mon,PL2 — Div. 2,Matchweek 10,Home,W 3–2,Aston Villa,Newcastle Utd,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/86047ca1/Aston-Villa-U23-Newcastle-United-U23-November-4-2019-Premier-League-2----Division-2
+9,2019-11-22,Fri,PL2 — Div. 2,Matchweek 11,Away,L 0–4,Aston Villa,West Ham,Y,FW,71,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/9cb44ee1/West-Ham-United-U23-Aston-Villa-U23-November-22-2019-Premier-League-2----Division-2
+10,2019-12-09,Mon,PL2 — Div. 2,Matchweek 12,Home,W 5–3,Aston Villa,Middlesbrough,Y,FW,90,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/0234a69c/Aston-Villa-U23-Middlesbrough-U23-December-9-2019-Premier-League-2----Division-2
+11,2019-12-16,Mon,PL2 — Div. 2,Matchweek 13,Home,D 1–1,Aston Villa,Swansea City,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/e8382661/Aston-Villa-U23-Swansea-City-U23-December-16-2019-Premier-League-2----Division-2
+12,2020-01-04,Sat,FA Cup,Third round,Away,L 1–2,Aston Villa,Fulham,N,,11,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/6424e85c/Fulham-Aston-Villa-January-4-2020-FA-Cup
+13,2020-01-06,Mon,PL2 — Div. 2,Matchweek 14,Home,W 4–0,Aston Villa,Sunderland,Y,FW,61,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/8309442c/Aston-Villa-U23-Sunderland-U23-January-6-2020-Premier-League-2----Division-2
+14,2020-01-08,Wed,EFL Cup,Semi-finals,Away,D 1–1,Aston Villa,Leicester City,N,,17,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/00a88285/Leicester-City-Aston-Villa-January-8-2020-EFL-Cup
+15,2020-01-18,Sat,Premier League,Matchweek 23,Away,D 1–1,Aston Villa,Brighton,N,FW,24,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,1,1,/en/matches/bd044bad/Brighton-and-Hove-Albion-Aston-Villa-January-18-2020-Premier-League
+16,2020-01-21,Tue,Premier League,Matchweek 24,Home,W 2–1,Aston Villa,Watford,N,FW,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,/en/matches/3deb145e/Aston-Villa-Watford-January-21-2020-Premier-League
+17,2020-02-03,Mon,PL2 — Div. 2,Matchweek 16,Home,L 0–1,Aston Villa,West Brom,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/6ff048cd/Aston-Villa-U23-West-Bromwich-Albion-U23-February-3-2020-Premier-League-2----Division-2
+18,2020-07-05,Sun,Premier League,Matchweek 33,Away,L 0–2,Aston Villa,Liverpool,N,LM,6,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,4,0,0,0,/en/matches/c2481cad/Liverpool-Aston-Villa-July-5-2020-Premier-League
+19,2020-07-09,Thu,Premier League,Matchweek 34,Home,L 0–3,Aston Villa,Manchester Utd,N,CM,7,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,/en/matches/61422f26/Aston-Villa-Manchester-United-July-9-2020-Premier-League

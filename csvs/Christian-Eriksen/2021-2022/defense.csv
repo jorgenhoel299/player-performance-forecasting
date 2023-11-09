@@ -1,11 +1,18 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2022-02-26,Sat,Matchweek 29,Home,W 2–0,Brentford,Burnley,Y,CM,90,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,/en/matches/9718a901/Brentford-Burnley-March-12-2022-Premier-League
-1,2022-02-26,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,2022-02-26,Sat,Matchweek 31,Away,W 4–1,Brentford,Chelsea,Y,CM,90,3,2,1,1,1,1,2,50.0,1,0,0,0,1,4,4,0,/en/matches/c0037074/Chelsea-Brentford-April-2-2022-Premier-League
-3,2022-02-26,Sun,Matchweek 32,Home,W 2–0,Brentford,West Ham,Y,LM,90,3,1,2,0,1,1,2,50.0,1,2,1,1,2,5,1,0,/en/matches/6bb36736/Brentford-West-Ham-United-April-10-2022-Premier-League
-4,2022-02-26,Sat,Matchweek 33,Away,W 2–1,Brentford,Watford,Y,LM,90,2,1,1,1,0,2,3,66.7,1,2,0,2,1,3,1,0,/en/matches/3b17352d/Watford-Brentford-April-16-2022-Premier-League
-5,2022-02-26,Sat,Matchweek 34,Home,D 0–0,Brentford,Tottenham,Y,CM,90,1,0,0,1,0,1,1,100.0,0,1,0,1,1,2,1,0,/en/matches/9c939b7f/Brentford-Tottenham-Hotspur-April-23-2022-Premier-League
-6,2022-02-26,Mon,Matchweek 35,Away,L 0–3,Brentford,Manchester Utd,Y,CM,90,2,1,0,0,2,2,2,100.0,0,1,0,1,0,2,0,0,/en/matches/c9b4c96a/Manchester-United-Brentford-May-2-2022-Premier-League
-7,2022-02-26,Sat,Matchweek 36,Home,W 3–0,Brentford,Southampton,Y,LM,90,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,2,0,/en/matches/74a74729/Brentford-Southampton-May-7-2022-Premier-League
-8,2022-02-26,Sun,Matchweek 37,Away,W 3–2,Brentford,Everton,Y,"CM,LM",90,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,/en/matches/1b07c16e/Everton-Brentford-May-15-2022-Premier-League
-9,2022-02-26,Sun,Matchweek 38,Home,L 1–2,Brentford,Leeds United,Y,"LM,CM",90,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,1,0,/en/matches/076ca089/Brentford-Leeds-United-May-22-2022-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2022-02-26,Sat,Premier League,Matchweek 27,Home,L 0–2,Brentford,Newcastle Utd,N,RM,39,0,0,0,0,0,0,0,0,35,1,0,1,0.0,0.0,0.0,2,0,15,29,51.7,3,12,0,2,0,/en/matches/fd61d442/Brentford-Newcastle-United-February-26-2022-Premier-League
+1,2022-03-05,Sat,Premier League,Matchweek 28,Away,W 3–1,Brentford,Norwich City,Y,CM,90,0,0,0,0,1,0,1,0,64,1,2,2,0.0,0.0,0.0,3,2,42,53,79.2,3,29,1,1,1,/en/matches/fcb61cff/Norwich-City-Brentford-March-5-2022-Premier-League
+2,2022-03-12,Sat,Premier League,Matchweek 29,Home,W 2–0,Brentford,Burnley,Y,CM,90,0,1,0,0,2,1,0,0,69,0,0,0,0.1,0.1,0.5,4,2,45,62,72.6,5,48,5,1,1,/en/matches/9718a901/Brentford-Burnley-March-12-2022-Premier-League
+3,2022-03-26,Sat,Friendlies (M),Friendlies (M),Neutral,L 2–4,dk Denmark,nl Netherlands,N,,45,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4073d8ce/Netherlands-Denmark-March-26-2022-Friendlies-M
+4,2022-03-29,Tue,Friendlies (M),Friendlies (M),Neutral,W 3–0,dk Denmark,rs Serbia,Y*,CM,79,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/cfd42a80/Denmark-Serbia-March-29-2022-Friendlies-M
+5,2022-04-02,Sat,Premier League,Matchweek 31,Away,W 4–1,Brentford,Chelsea,Y,CM,90,1,0,0,0,2,1,0,0,57,3,1,0,0.5,0.5,0.2,7,1,32,41,78.0,6,28,0,0,0,/en/matches/c0037074/Chelsea-Brentford-April-2-2022-Premier-League
+6,2022-04-10,Sun,Premier League,Matchweek 32,Home,W 2–0,Brentford,West Ham,Y,LM,90,0,0,0,0,2,2,0,0,85,3,2,2,0.1,0.1,0.1,3,0,60,74,81.1,8,52,0,3,1,/en/matches/6bb36736/Brentford-West-Ham-United-April-10-2022-Premier-League
+7,2022-04-16,Sat,Premier League,Matchweek 33,Away,W 2–1,Brentford,Watford,Y,LM,90,0,1,0,0,3,1,0,0,70,2,1,2,0.1,0.1,1.0,7,1,45,60,75.0,8,30,2,3,1,/en/matches/3b17352d/Watford-Brentford-April-16-2022-Premier-League
+8,2022-04-23,Sat,Premier League,Matchweek 34,Home,D 0–0,Brentford,Tottenham,Y,CM,90,0,0,0,0,3,1,0,0,70,1,1,1,0.1,0.1,0.2,7,0,42,62,67.7,8,38,3,2,1,/en/matches/9c939b7f/Brentford-Tottenham-Hotspur-April-23-2022-Premier-League
+9,2022-05-02,Mon,Premier League,Matchweek 35,Away,L 0–3,Brentford,Manchester Utd,Y,CM,90,0,0,0,0,3,2,0,0,76,2,0,1,0.1,0.1,0.2,4,0,47,66,71.2,11,41,2,1,1,/en/matches/c9b4c96a/Manchester-United-Brentford-May-2-2022-Premier-League
+10,2022-05-07,Sat,Premier League,Matchweek 36,Home,W 3–0,Brentford,Southampton,Y,LM,90,0,1,0,0,2,0,0,0,64,0,1,0,0.1,0.1,0.4,7,0,42,55,76.4,7,31,1,0,0,/en/matches/74a74729/Brentford-Southampton-May-7-2022-Premier-League
+11,2022-05-15,Sun,Premier League,Matchweek 37,Away,W 3–2,Brentford,Everton,Y,"CM,LM",90,0,1,0,0,3,0,0,0,90,0,0,0,0.2,0.2,0.7,7,1,68,84,81.0,19,62,4,0,0,/en/matches/1b07c16e/Everton-Brentford-May-15-2022-Premier-League
+12,2022-05-22,Sun,Premier League,Matchweek 38,Home,L 1–2,Brentford,Leeds United,Y,"LM,CM",90,0,0,0,0,1,0,0,0,60,0,1,0,0.0,0.0,0.2,6,0,40,53,75.5,4,38,3,3,2,/en/matches/076ca089/Brentford-Leeds-United-May-22-2022-Premier-League
+13,2022-06-03,Fri,UEFA Nations League,League A,Away,W 2–1,dk Denmark,fr France,Y,AM,90,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/aea31bd3/France-Denmark-June-3-2022-UEFA-Nations-League
+14,2022-06-06,Mon,UEFA Nations League,League A,Away,W 2–1,dk Denmark,at Austria,Y,AM,90,0,1,0,0,2,2,0,0,,,0,,,,,,,,,,,,,,,/en/matches/25555100/Austria-Denmark-June-6-2022-UEFA-Nations-League
+15,2022-06-10,Fri,UEFA Nations League,League A,Home,L 0–1,dk Denmark,hr Croatia,Y*,DM,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/f355343d/Denmark-Croatia-June-10-2022-UEFA-Nations-League
+16,2022-06-13,Mon,UEFA Nations League,League A,Home,W 2–0,dk Denmark,at Austria,N,,15,0,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/3e1c6432/Denmark-Austria-June-13-2022-UEFA-Nations-League

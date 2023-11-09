@@ -1,34 +1,30 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,2019-08-11,Sat,Matchweek 3,Away,W 2–1,Leicester City,Sheffield Utd,Y,"CM,DM",90,0,0,0,0,0,0,0,0,55,1,5,5,0.0,0.0,0.0,1,0,31,36,86.1,1,29,0,0,0,/en/matches/48fcf75b/Sheffield-United-Leicester-City-August-24-2019-Premier-League
-1,2019-08-11,Sat,Matchweek 4,Home,W 3–1,Leicester City,Bournemouth,N,"CM,DM",20,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,18,19,94.7,0,16,2,0,0,/en/matches/3d899563/Leicester-City-Bournemouth-August-31-2019-Premier-League
-2,2019-08-11,Sat,Matchweek 5,Away,L 0–1,Leicester City,Manchester Utd,Y,CM,56,0,0,0,0,1,1,0,0,41,4,1,0,0.0,0.0,0.0,1,0,26,30,86.7,4,28,0,1,0,/en/matches/6d0266a1/Manchester-United-Leicester-City-September-14-2019-Premier-League
-3,2019-08-11,Sat,Matchweek 6,Home,W 2–1,Leicester City,Tottenham,N,LM,7,0,1,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,1,2,2,100.0,0,1,0,0,0,/en/matches/e30adc4b/Leicester-City-Tottenham-Hotspur-September-21-2019-Premier-League
-4,2019-08-11,Sun,Matchweek 7,Home,W 5–0,Leicester City,Newcastle Utd,N,CM,12,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,10,11,90.9,1,8,0,0,0,/en/matches/40d77688/Leicester-City-Newcastle-United-September-29-2019-Premier-League
-5,2019-08-11,Sat,Matchweek 8,Away,L 1–2,Leicester City,Liverpool,N,AM,5,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,/en/matches/aaed1c4e/Liverpool-Leicester-City-October-5-2019-Premier-League
-6,2019-08-11,Sat,Matchweek 9,Home,W 2–1,Leicester City,Burnley,N,"On matchday squad, but did not play",/en/matches/3529c097/Leicester-City-Burnley-October-19-2019-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,2019-08-11,Fri,Matchweek 10,Away,W 9–0,Leicester City,Southampton,N,"On matchday squad, but did not play",/en/matches/3e9712d7/Southampton-Leicester-City-October-25-2019-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9,2019-08-11,Sat,Matchweek 12,Home,W 2–0,Leicester City,Arsenal,N,"On matchday squad, but did not play",/en/matches/8e13e609/Leicester-City-Arsenal-November-9-2019-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11,2019-08-11,Sun,Matchweek 14,Home,W 2–1,Leicester City,Everton,N,"On matchday squad, but did not play",/en/matches/aa2284c2/Leicester-City-Everton-December-1-2019-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-12,2019-08-11,Wed,Matchweek 15,Home,W 2–0,Leicester City,Watford,N,"DM,CM",22,0,0,0,0,0,0,0,0,22,0,2,0,0.0,0.0,0.0,0,0,16,19,84.2,2,13,0,1,0,/en/matches/8b04b0d5/Leicester-City-Watford-December-4-2019-Premier-League
-13,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,2019-08-11,Thu,Matchweek 19,Home,L 0–4,Leicester City,Liverpool,N,CM,15,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,0,0,13,14,92.9,0,16,0,1,0,/en/matches/4b8063da/Leicester-City-Liverpool-December-26-2019-Premier-League
-15,2019-08-11,Sat,Matchweek 20,Away,W 2–1,Leicester City,West Ham,Y,CM,90,0,0,0,0,1,0,1,0,57,1,2,0,0.1,0.1,0.0,1,0,42,51,82.4,3,39,1,1,1,/en/matches/1f2bd890/West-Ham-United-Leicester-City-December-28-2019-Premier-League
-16,2019-08-11,Wed,Matchweek 21,Away,W 3–0,Leicester City,Newcastle Utd,N,CM,14,1,0,0,0,1,1,0,0,24,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,1,12,0,0,0,/en/matches/a7902bb1/Newcastle-United-Leicester-City-January-1-2020-Premier-League
-17,2019-08-11,Sat,Matchweek 22,Home,L 1–2,Leicester City,Southampton,Y,"DM,CM",90,0,0,0,0,0,0,0,0,60,2,3,1,0.0,0.0,0.0,0,0,36,42,85.7,5,33,0,2,1,/en/matches/bf752bf7/Leicester-City-Southampton-January-11-2020-Premier-League
-18,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-19,2019-08-11,Sat,Matchweek 25,Home,D 2–2,Leicester City,Chelsea,Y,DM,90,0,0,0,0,1,0,0,0,57,4,3,0,0.1,0.1,0.0,1,0,40,45,88.9,1,28,0,0,0,/en/matches/270dc7ba/Leicester-City-Chelsea-February-1-2020-Premier-League
-20,2019-08-11,Fri,Matchweek 26,Away,D 0–0,Leicester City,Wolves,Y,DM,75,0,0,0,0,0,0,2,1,58,3,3,4,0.0,0.0,0.0,1,0,37,44,84.1,3,33,1,1,1,/en/matches/a11273b7/Wolverhampton-Wanderers-Leicester-City-February-14-2020-Premier-League
-21,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-22,2019-08-11,Fri,Matchweek 28,Away,L 0–1,Leicester City,Norwich City,Y,DM,66,0,0,0,0,1,0,0,0,35,0,0,1,0.0,0.0,0.0,1,0,24,30,80.0,2,20,0,0,0,/en/matches/8edf3e12/Norwich-City-Leicester-City-February-28-2020-Premier-League
-23,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-24,2019-08-11,Sat,Matchweek 30,Away,D 1–1,Leicester City,Watford,N,CM,15,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,1,7,0,0,0,/en/matches/e5f403c2/Watford-Leicester-City-June-20-2020-Premier-League
-25,2019-08-11,Tue,Matchweek 31,Home,D 0–0,Leicester City,Brighton,N,"On matchday squad, but did not play",/en/matches/481a9a3a/Leicester-City-Brighton-and-Hove-Albion-June-23-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-26,2019-08-11,Wed,Matchweek 32,Away,L 1–2,Leicester City,Everton,N,"On matchday squad, but did not play",/en/matches/c2c7ebbf/Everton-Leicester-City-July-1-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-27,2019-08-11,Sat,Matchweek 33,Home,W 3–0,Leicester City,Crystal Palace,N,CB,2,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,/en/matches/88e800c1/Leicester-City-Crystal-Palace-July-4-2020-Premier-League
-28,2019-08-11,Tue,Matchweek 34,Away,D 1–1,Leicester City,Arsenal,N,"On matchday squad, but did not play",/en/matches/a26b0a22/Arsenal-Leicester-City-July-7-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-29,2019-08-11,Sun,Matchweek 35,Away,L 1–4,Leicester City,Bournemouth,N,"On matchday squad, but did not play",/en/matches/d2adf574/Bournemouth-Leicester-City-July-12-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-30,2019-08-11,Thu,Matchweek 36,Home,W 2–0,Leicester City,Sheffield Utd,N,RW,20,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,4,9,44.4,0,5,0,0,0,/en/matches/0903cee0/Leicester-City-Sheffield-United-July-16-2020-Premier-League
-31,2019-08-11,Sun,Matchweek 37,Away,L 0–3,Leicester City,Tottenham,N,"On matchday squad, but did not play",/en/matches/d4ce66f6/Tottenham-Hotspur-Leicester-City-July-19-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-32,2019-08-11,Sun,Matchweek 38,Home,L 0–2,Leicester City,Manchester Utd,Y,CM,72,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,0,26,29,89.7,1,26,1,0,0,/en/matches/3873cc78/Leicester-City-Manchester-United-July-26-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-11,Sun,Premier League,Matchweek 1,Home,D 0–0,Leicester City,Wolves,Y,CM,60,0,0,0,0,1,0,0,0,64,1,1,1,0.0,0.0,0.0,1,0,51,54,94.4,4,48,0,2,0,/en/matches/bf4afd61/Leicester-City-Wolverhampton-Wanderers-August-11-2019-Premier-League
+1,2019-08-18,Sun,Premier League,Matchweek 2,Away,D 1–1,Leicester City,Chelsea,Y,CM,72,0,0,0,0,1,0,0,0,34,1,2,1,0.0,0.0,0.0,1,0,16,26,61.5,3,16,0,1,0,/en/matches/aebf58b9/Chelsea-Leicester-City-August-18-2019-Premier-League
+2,2019-08-24,Sat,Premier League,Matchweek 3,Away,W 2–1,Leicester City,Sheffield Utd,Y,"CM,DM",90,0,0,0,0,0,0,0,0,55,1,5,5,0.0,0.0,0.0,1,0,31,36,86.1,1,29,0,0,0,/en/matches/48fcf75b/Sheffield-United-Leicester-City-August-24-2019-Premier-League
+3,2019-08-28,Wed,EFL Cup,Second round,Away,D 1 (4)–1 (2),Leicester City,Newcastle Utd,Y,DM,45,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,/en/matches/551a9edd/Newcastle-United-Leicester-City-August-28-2019-EFL-Cup
+4,2019-08-31,Sat,Premier League,Matchweek 4,Home,W 3–1,Leicester City,Bournemouth,N,"CM,DM",20,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,18,19,94.7,0,16,2,0,0,/en/matches/3d899563/Leicester-City-Bournemouth-August-31-2019-Premier-League
+5,2019-09-14,Sat,Premier League,Matchweek 5,Away,L 0–1,Leicester City,Manchester Utd,Y,CM,56,0,0,0,0,1,1,0,0,41,4,1,0,0.0,0.0,0.0,1,0,26,30,86.7,4,28,0,1,0,/en/matches/6d0266a1/Manchester-United-Leicester-City-September-14-2019-Premier-League
+6,2019-09-21,Sat,Premier League,Matchweek 6,Home,W 2–1,Leicester City,Tottenham,N,LM,7,0,1,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,1,2,2,100.0,0,1,0,0,0,/en/matches/e30adc4b/Leicester-City-Tottenham-Hotspur-September-21-2019-Premier-League
+7,2019-09-24,Tue,EFL Cup,Third round,Away,W 4–0,Leicester City,Luton Town,N,,14,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/6244e915/Luton-Town-Leicester-City-September-24-2019-EFL-Cup
+8,2019-09-29,Sun,Premier League,Matchweek 7,Home,W 5–0,Leicester City,Newcastle Utd,N,CM,12,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,10,11,90.9,1,8,0,0,0,/en/matches/40d77688/Leicester-City-Newcastle-United-September-29-2019-Premier-League
+9,2019-10-05,Sat,Premier League,Matchweek 8,Away,L 1–2,Leicester City,Liverpool,N,AM,5,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0,/en/matches/aaed1c4e/Liverpool-Leicester-City-October-5-2019-Premier-League
+10,2019-10-29,Tue,EFL Cup,Fourth round,Away,W 3–1,Leicester City,Burton Albion,Y,DM,87,0,0,0,0,1,0,0,0,,,8,,,,,,,,,,,,,,,/en/matches/85106595/Burton-Albion-Leicester-City-October-29-2019-EFL-Cup
+11,2019-12-04,Wed,Premier League,Matchweek 15,Home,W 2–0,Leicester City,Watford,N,"DM,CM",22,0,0,0,0,0,0,0,0,22,0,2,0,0.0,0.0,0.0,0,0,16,19,84.2,2,13,0,1,0,/en/matches/8b04b0d5/Leicester-City-Watford-December-4-2019-Premier-League
+12,2019-12-18,Wed,EFL Cup,Quarter-finals,Away,D 2 (4)–2 (2),Leicester City,Everton,N,,35,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/0db919e8/Everton-Leicester-City-December-18-2019-EFL-Cup
+13,2019-12-26,Thu,Premier League,Matchweek 19,Home,L 0–4,Leicester City,Liverpool,N,CM,15,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,0,0,13,14,92.9,0,16,0,1,0,/en/matches/4b8063da/Leicester-City-Liverpool-December-26-2019-Premier-League
+14,2019-12-28,Sat,Premier League,Matchweek 20,Away,W 2–1,Leicester City,West Ham,Y,CM,90,0,0,0,0,1,0,1,0,57,1,2,0,0.1,0.1,0.0,1,0,42,51,82.4,3,39,1,1,1,/en/matches/1f2bd890/West-Ham-United-Leicester-City-December-28-2019-Premier-League
+15,2020-01-01,Wed,Premier League,Matchweek 21,Away,W 3–0,Leicester City,Newcastle Utd,N,CM,14,1,0,0,0,1,1,0,0,24,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,1,12,0,0,0,/en/matches/a7902bb1/Newcastle-United-Leicester-City-January-1-2020-Premier-League
+16,2020-01-04,Sat,FA Cup,Third round,Home,W 2–0,Leicester City,Wigan Athletic,Y,FW,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/5e1d79b5/Leicester-City-Wigan-Athletic-January-4-2020-FA-Cup
+17,2020-01-08,Wed,EFL Cup,Semi-finals,Home,D 1–1,Leicester City,Aston Villa,N,,45,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/00a88285/Leicester-City-Aston-Villa-January-8-2020-EFL-Cup
+18,2020-01-11,Sat,Premier League,Matchweek 22,Home,L 1–2,Leicester City,Southampton,Y,"DM,CM",90,0,0,0,0,0,0,0,0,60,2,3,1,0.0,0.0,0.0,0,0,36,42,85.7,5,33,0,2,1,/en/matches/bf752bf7/Leicester-City-Southampton-January-11-2020-Premier-League
+19,2020-01-25,Sat,FA Cup,Fourth round,Away,W 1–0,Leicester City,Brentford,Y,DM,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/eac53bf0/Brentford-Leicester-City-January-25-2020-FA-Cup
+20,2020-02-01,Sat,Premier League,Matchweek 25,Home,D 2–2,Leicester City,Chelsea,Y,DM,90,0,0,0,0,1,0,0,0,57,4,3,0,0.1,0.1,0.0,1,0,40,45,88.9,1,28,0,0,0,/en/matches/270dc7ba/Leicester-City-Chelsea-February-1-2020-Premier-League
+21,2020-02-14,Fri,Premier League,Matchweek 26,Away,D 0–0,Leicester City,Wolves,Y,DM,75,0,0,0,0,0,0,2,1,58,3,3,4,0.0,0.0,0.0,1,0,37,44,84.1,3,33,1,1,1,/en/matches/a11273b7/Wolverhampton-Wanderers-Leicester-City-February-14-2020-Premier-League
+22,2020-02-28,Fri,Premier League,Matchweek 28,Away,L 0–1,Leicester City,Norwich City,Y,DM,66,0,0,0,0,1,0,0,0,35,0,0,1,0.0,0.0,0.0,1,0,24,30,80.0,2,20,0,0,0,/en/matches/8edf3e12/Norwich-City-Leicester-City-February-28-2020-Premier-League
+23,2020-03-04,Wed,FA Cup,Fifth round,Home,W 1–0,Leicester City,Birmingham City,N,,7,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/1f5c8699/Leicester-City-Birmingham-City-March-4-2020-FA-Cup
+24,2020-06-20,Sat,Premier League,Matchweek 30,Away,D 1–1,Leicester City,Watford,N,CM,15,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,1,7,0,0,0,/en/matches/e5f403c2/Watford-Leicester-City-June-20-2020-Premier-League
+25,2020-06-28,Sun,FA Cup,Quarter-finals,Home,L 0–1,Leicester City,Chelsea,N,,34,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/40607a06/Leicester-City-Chelsea-June-28-2020-FA-Cup
+26,2020-07-04,Sat,Premier League,Matchweek 33,Home,W 3–0,Leicester City,Crystal Palace,N,CB,2,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,/en/matches/88e800c1/Leicester-City-Crystal-Palace-July-4-2020-Premier-League
+27,2020-07-16,Thu,Premier League,Matchweek 36,Home,W 2–0,Leicester City,Sheffield Utd,N,RW,20,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,4,9,44.4,0,5,0,0,0,/en/matches/0903cee0/Leicester-City-Sheffield-United-July-16-2020-Premier-League
+28,2020-07-26,Sun,Premier League,Matchweek 38,Home,L 0–2,Leicester City,Manchester Utd,Y,CM,72,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,0,26,29,89.7,1,26,1,0,0,/en/matches/3873cc78/Leicester-City-Manchester-United-July-26-2020-Premier-League

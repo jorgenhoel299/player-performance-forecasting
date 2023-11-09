@@ -1,30 +1,25 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
-0,2019-08-11,Sat,Matchweek 3,Away,L 1–3,Arsenal,Liverpool,N,"On matchday squad, but did not play",/en/matches/102b241e/Liverpool-Arsenal-August-24-2019-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-1,2019-08-11,Sun,Matchweek 4,Home,D 2–2,Arsenal,Tottenham,N,"On matchday squad, but did not play",/en/matches/0b6b8aaf/North-London-Derby-Arsenal-Tottenham-Hotspur-September-1-2019-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-2,2019-08-11,Sun,Matchweek 5,Away,D 2–2,Arsenal,Watford,N,LW,20,4,5,80.0,68,34,1,1,100.0,3,4,75.0,0,0,,0,0.0,0.0,0,0,1,0,2,/en/matches/8257eda8/Watford-Arsenal-September-15-2019-Premier-League
-3,2019-08-11,Sun,Matchweek 6,Home,W 3–2,Arsenal,Aston Villa,N,"On matchday squad, but did not play",/en/matches/d5fa0563/Arsenal-Aston-Villa-September-22-2019-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-4,2019-08-11,Mon,Matchweek 7,Away,D 1–1,Arsenal,Manchester Utd,N,RW,17,6,7,85.7,101,52,3,3,100.0,3,3,100.0,0,0,,0,0.0,0.0,0,0,0,0,1,/en/matches/ce7501cd/Manchester-United-Arsenal-September-30-2019-Premier-League
-5,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2019-08-11,Sat,Matchweek 13,Home,D 2–2,Arsenal,Southampton,N,"On matchday squad, but did not play",/en/matches/19a8b14e/Arsenal-Southampton-November-23-2019-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-7,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2019-08-11,Thu,Matchweek 15,Home,L 1–2,Arsenal,Brighton,N,"On matchday squad, but did not play",/en/matches/372828cb/Arsenal-Brighton-and-Hove-Albion-December-5-2019-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-9,2019-08-11,Mon,Matchweek 16,Away,W 3–1,Arsenal,West Ham,N,RW,3,5,5,100.0,62,14,2,2,100.0,2,2,100.0,0,0,,0,0.0,0.0,0,0,0,0,0,/en/matches/a48c4638/West-Ham-United-Arsenal-December-9-2019-Premier-League
-10,2019-08-11,Sun,Matchweek 17,Home,L 0–3,Arsenal,Manchester City,N,"On matchday squad, but did not play",/en/matches/bed05936/Arsenal-Manchester-City-December-15-2019-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-11,2019-08-11,Sat,Matchweek 18,Away,D 0–0,Arsenal,Everton,Y,RW,90,21,29,72.4,313,102,14,15,93.3,6,9,66.7,1,1,100.0,0,0.0,0.0,1,0,0,0,1,/en/matches/b9d1d1a7/Everton-Arsenal-December-21-2019-Premier-League
-12,2019-08-11,Thu,Matchweek 19,Away,D 1–1,Arsenal,Bournemouth,Y,RW,81,30,39,76.9,360,105,23,25,92.0,6,6,100.0,0,4,0.0,0,0.1,0.2,1,2,2,0,5,/en/matches/5b1ecf02/Bournemouth-Arsenal-December-26-2019-Premier-League
-13,2019-08-11,Sun,Matchweek 20,Home,L 1–2,Arsenal,Chelsea,Y,RW,85,20,25,80.0,270,62,13,14,92.9,6,8,75.0,1,1,100.0,0,0.0,0.1,0,1,2,0,4,/en/matches/850e18c6/North-West-London-Derby-Arsenal-Chelsea-December-29-2019-Premier-League
-14,2019-08-11,Wed,Matchweek 21,Home,W 2–0,Arsenal,Manchester Utd,N,RW,29,11,13,84.6,161,26,6,6,100.0,3,5,60.0,1,1,100.0,0,0.0,0.0,0,1,0,0,1,/en/matches/f6b7d570/Arsenal-Manchester-United-January-1-2020-Premier-League
-15,2019-08-11,Sat,Matchweek 22,Away,D 1–1,Arsenal,Crystal Palace,N,LW,1,1,1,100.0,50,36,0,0,,0,0,,1,1,100.0,0,0.0,0.0,0,1,0,0,0,/en/matches/e1fdc1f9/Crystal-Palace-Arsenal-January-11-2020-Premier-League
-16,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-17,2019-08-11,Sun,Matchweek 27,Home,W 3–2,Arsenal,Everton,N,"On matchday squad, but did not play",/en/matches/485003ed/Arsenal-Everton-February-23-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-18,2019-08-11,Sat,Matchweek 29,Home,W 1–0,Arsenal,West Ham,N,"RW,RM",22,3,4,75.0,57,27,1,2,50.0,2,2,100.0,0,0,,0,0.0,0.0,0,0,0,0,0,/en/matches/bf382825/Arsenal-West-Ham-United-March-7-2020-Premier-League
-19,2019-08-11,Wed,Matchweek 28,Away,L 0–3,Arsenal,Manchester City,N,RM,24,2,5,40.0,28,0,1,2,50.0,1,1,100.0,0,1,0.0,0,0.0,0.0,0,0,0,0,0,/en/matches/5825b217/Manchester-City-Arsenal-June-17-2020-Premier-League
-20,2019-08-11,Sat,Matchweek 30,Away,L 1–2,Arsenal,Brighton,N,RM,4,3,4,75.0,45,0,1,1,100.0,2,2,100.0,0,1,0.0,0,0.0,0.0,0,0,0,0,0,/en/matches/1abcdcde/Brighton-and-Hove-Albion-Arsenal-June-20-2020-Premier-League
-21,2019-08-11,Thu,Matchweek 31,Away,W 2–0,Arsenal,Southampton,N,"On matchday squad, but did not play",/en/matches/38757aa1/Southampton-Arsenal-June-25-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-22,2019-08-11,Wed,Matchweek 32,Home,W 4–0,Arsenal,Norwich City,Y,RW,57,17,18,94.4,209,39,10,10,100.0,2,2,100.0,2,3,66.7,0,0.2,0.3,3,0,1,0,1,/en/matches/cb52b4c8/Arsenal-Norwich-City-July-1-2020-Premier-League
-23,2019-08-11,Sat,Matchweek 33,Away,W 2–0,Arsenal,Wolves,N,"On matchday squad, but did not play",/en/matches/df13ee5b/Wolverhampton-Wanderers-Arsenal-July-4-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-24,2019-08-11,Tue,Matchweek 34,Home,D 1–1,Arsenal,Leicester City,N,"On matchday squad, but did not play",/en/matches/a26b0a22/Arsenal-Leicester-City-July-7-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-25,2019-08-11,Sun,Matchweek 35,Away,L 1–2,Arsenal,Tottenham,N,RW,7,3,3,100.0,36,10,1,1,100.0,1,1,100.0,0,0,,0,0.0,0.0,0,0,0,0,1,/en/matches/6630c721/North-London-Derby-Tottenham-Hotspur-Arsenal-July-12-2020-Premier-League
-26,2019-08-11,Wed,Matchweek 36,Home,W 2–1,Arsenal,Liverpool,Y,RW,57,7,10,70.0,96,25,5,6,83.3,0,0,,1,2,50.0,0,0.0,0.0,0,0,0,0,2,/en/matches/12f95828/Arsenal-Liverpool-July-15-2020-Premier-League
-27,2019-08-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-28,2019-08-11,Sun,Matchweek 38,Home,W 3–2,Arsenal,Watford,N,RW,19,5,7,71.4,115,11,1,1,100.0,2,3,66.7,2,3,66.7,0,0.1,0.1,1,0,1,1,0,/en/matches/5ecaeb4b/Arsenal-Watford-July-26-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-11,Sun,Premier League,Matchweek 1,Away,W 1–0,Arsenal,Newcastle Utd,Y,LW,70,0,0,0,0,0,0,1,0,52,0,0,1,0.0,0.0,0.1,4,0,39,46,84.8,1,40,3,4,3,/en/matches/1405a610/Newcastle-United-Arsenal-August-11-2019-Premier-League
+1,2019-08-17,Sat,Premier League,Matchweek 2,Home,W 2–1,Arsenal,Burnley,Y,LW,45,0,0,0,0,2,1,0,0,14,0,0,0,0.1,0.1,0.0,2,0,9,11,81.8,1,10,1,0,0,/en/matches/ff7eda21/Arsenal-Burnley-August-17-2019-Premier-League
+2,2019-09-15,Sun,Premier League,Matchweek 5,Away,D 2–2,Arsenal,Watford,N,LW,20,0,0,0,0,1,1,0,0,11,2,0,0,0.1,0.1,0.0,0,0,4,5,80.0,2,7,1,1,0,/en/matches/8257eda8/Watford-Arsenal-September-15-2019-Premier-League
+3,2019-09-24,Tue,EFL Cup,Third round,Home,W 5–0,Arsenal,Nott'ham Forest,Y,AM,90,1,1,0,0,4,2,1,0,,,0,,,,,,,,,,,,,,,/en/matches/37d4aeed/Arsenal-Nottingham-Forest-September-24-2019-EFL-Cup
+4,2019-09-30,Mon,Premier League,Matchweek 7,Away,D 1–1,Arsenal,Manchester Utd,N,RW,17,0,0,0,0,1,1,0,0,11,1,0,2,0.1,0.1,0.0,0,0,6,7,85.7,1,4,2,1,1,/en/matches/ce7501cd/Manchester-United-Arsenal-September-30-2019-Premier-League
+5,2019-10-03,Thu,Europa Lg,Group stage,Home,W 4–0,eng Arsenal,be Standard Liège,Y,LW,78,0,1,0,0,4,1,0,0,60,1,1,0,0.1,0.1,1.1,8,3,34,43,79.1,4,43,8,6,2,/en/matches/f3398a45/Arsenal-Standard-Liege-October-3-2019-Europa-League
+6,2019-11-01,Fri,PL2 — Div. 1,Matchweek 10,Away,W 3–1,Arsenal,Tottenham,Y,FW,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/442d7663/Tottenham-Hotspur-U23-Arsenal-U23-November-1-2019-Premier-League-2----Division-1
+7,2019-12-09,Mon,Premier League,Matchweek 16,Away,W 3–1,Arsenal,West Ham,N,RW,3,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,3,0,0,0,/en/matches/a48c4638/West-Ham-United-Arsenal-December-9-2019-Premier-League
+8,2019-12-12,Thu,Europa Lg,Group stage,Away,D 2–2,eng Arsenal,be Standard Liège,Y,"LW,RW",90,0,0,0,0,2,1,0,0,50,1,0,0,0.5,0.5,0.2,3,0,34,43,79.1,5,32,4,2,1,/en/matches/b4a27458/Standard-Liege-Arsenal-December-12-2019-Europa-League
+9,2019-12-21,Sat,Premier League,Matchweek 18,Away,D 0–0,Arsenal,Everton,Y,RW,90,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,2,0,21,29,72.4,1,26,4,9,5,/en/matches/b9d1d1a7/Everton-Arsenal-December-21-2019-Premier-League
+10,2019-12-26,Thu,Premier League,Matchweek 19,Away,D 1–1,Arsenal,Bournemouth,Y,RW,81,0,0,0,0,3,0,0,0,55,1,1,3,0.2,0.2,0.1,5,1,30,39,76.9,5,36,7,5,2,/en/matches/5b1ecf02/Bournemouth-Arsenal-December-26-2019-Premier-League
+11,2019-12-29,Sun,Premier League,Matchweek 20,Home,L 1–2,Arsenal,Chelsea,Y,RW,85,0,0,0,0,0,0,0,0,34,0,1,2,0.0,0.0,0.0,0,0,20,25,80.0,4,21,5,4,1,/en/matches/850e18c6/North-West-London-Derby-Arsenal-Chelsea-December-29-2019-Premier-League
+12,2020-01-01,Wed,Premier League,Matchweek 21,Home,W 2–0,Arsenal,Manchester Utd,N,RW,29,0,0,0,0,1,0,0,0,18,0,0,1,0.1,0.1,0.0,0,0,11,13,84.6,1,12,0,0,0,/en/matches/f6b7d570/Arsenal-Manchester-United-January-1-2020-Premier-League
+13,2020-01-06,Mon,FA Cup,Third round,Home,W 1–0,Arsenal,Leeds United,Y,AM,66,1,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/846567ab/Arsenal-Leeds-United-January-6-2020-FA-Cup
+14,2020-01-11,Sat,Premier League,Matchweek 22,Away,D 1–1,Arsenal,Crystal Palace,N,LW,1,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,/en/matches/e1fdc1f9/Crystal-Palace-Arsenal-January-11-2020-Premier-League
+15,2020-02-28,Fri,PL2 — Div. 1,Matchweek 18,Home,L 2–4,Arsenal,Manchester City,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b2bd88b1/Arsenal-U23-Manchester-City-U23-February-28-2020-Premier-League-2----Division-1
+16,2020-03-02,Mon,FA Cup,Fifth round,Away,W 2–0,Arsenal,Portsmouth,Y,AM,89,0,1,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/f6dfb9eb/Portsmouth-Arsenal-March-2-2020-FA-Cup
+17,2020-03-07,Sat,Premier League,Matchweek 29,Home,W 1–0,Arsenal,West Ham,N,"RW,RM",22,0,0,0,0,1,0,0,0,11,1,1,2,0.0,0.0,0.0,0,0,3,4,75.0,0,4,1,0,0,/en/matches/bf382825/Arsenal-West-Ham-United-March-7-2020-Premier-League
+18,2020-06-17,Wed,Premier League,Matchweek 28,Away,L 0–3,Arsenal,Manchester City,N,RM,24,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,6,2,1,1,/en/matches/5825b217/Manchester-City-Arsenal-June-17-2020-Premier-League
+19,2020-06-20,Sat,Premier League,Matchweek 30,Away,L 1–2,Arsenal,Brighton,N,RM,4,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,/en/matches/1abcdcde/Brighton-and-Hove-Albion-Arsenal-June-20-2020-Premier-League
+20,2020-07-01,Wed,Premier League,Matchweek 32,Home,W 4–0,Arsenal,Norwich City,Y,RW,57,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.2,3,0,17,18,94.4,1,18,0,2,1,/en/matches/cb52b4c8/Arsenal-Norwich-City-July-1-2020-Premier-League
+21,2020-07-12,Sun,Premier League,Matchweek 35,Away,L 1–2,Arsenal,Tottenham,N,RW,7,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0,/en/matches/6630c721/North-London-Derby-Tottenham-Hotspur-Arsenal-July-12-2020-Premier-League
+22,2020-07-15,Wed,Premier League,Matchweek 36,Home,W 2–1,Arsenal,Liverpool,Y,RW,57,1,0,0,0,1,1,0,0,15,2,0,0,0.3,0.3,0.0,0,0,7,10,70.0,2,8,0,1,0,/en/matches/12f95828/Arsenal-Liverpool-July-15-2020-Premier-League
+23,2020-07-26,Sun,Premier League,Matchweek 38,Home,W 3–2,Arsenal,Watford,N,RW,19,0,0,0,0,1,0,0,0,10,1,0,0,0.1,0.1,0.1,3,0,5,7,71.4,0,10,4,4,3,/en/matches/5ecaeb4b/Arsenal-Watford-July-26-2020-Premier-League

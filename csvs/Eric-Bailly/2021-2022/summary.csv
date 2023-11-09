@@ -1,25 +1,16 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,2021-09-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2021-09-11,Sat,Matchweek 7,Home,D 1–1,Manchester Utd,Everton,N,"On matchday squad, but did not play",/en/matches/2129c7e9/Manchester-United-Everton-October-2-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,2021-09-11,Sat,Matchweek 8,Away,L 2–4,Manchester Utd,Leicester City,N,"On matchday squad, but did not play",/en/matches/45502ded/Leicester-City-Manchester-United-October-16-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2021-09-11,Sun,Matchweek 9,Home,L 0–5,Manchester Utd,Liverpool,N,"On matchday squad, but did not play",/en/matches/b886bec4/North-West-Derby-Manchester-United-Liverpool-October-24-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,2021-09-11,Sat,Matchweek 10,Away,W 3–0,Manchester Utd,Tottenham,N,"On matchday squad, but did not play",/en/matches/5a2b8c26/Tottenham-Hotspur-Manchester-United-October-30-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2021-09-11,Sat,Matchweek 11,Home,L 0–2,Manchester Utd,Manchester City,Y,CB,45,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,16,22,72.7,2,15,1,1,0,/en/matches/5fa5be28/Manchester-Derby-Manchester-United-Manchester-City-November-6-2021-Premier-League
-6,2021-09-11,Sat,Matchweek 12,Away,L 1–4,Manchester Utd,Watford,N,"On matchday squad, but did not play",/en/matches/31a03035/Watford-Manchester-United-November-20-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,2021-09-11,Sun,Matchweek 13,Away,D 1–1,Manchester Utd,Chelsea,Y,CB,90,0,0,0,0,0,0,1,0,39,2,1,1,0.0,0.0,0.0,0,0,24,26,92.3,1,20,0,0,0,/en/matches/08b3c5d8/Chelsea-Manchester-United-November-28-2021-Premier-League
-8,2021-09-11,Thu,Matchweek 14,Home,W 3–2,Manchester Utd,Arsenal,N,"On matchday squad, but did not play",/en/matches/4323a38f/Manchester-United-Arsenal-December-2-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-9,2021-09-11,Sun,Matchweek 15,Home,W 1–0,Manchester Utd,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/8d10c8d4/Manchester-United-Crystal-Palace-December-5-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,2021-09-11,Sat,Matchweek 16,Away,W 1–0,Manchester Utd,Norwich City,N,CB,17,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,/en/matches/11a67612/Norwich-City-Manchester-United-December-11-2021-Premier-League
-11,2021-09-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12,2021-09-11,Thu,Matchweek 20,Home,W 3–1,Manchester Utd,Burnley,Y,CB,65,0,0,0,0,0,0,0,0,42,2,2,2,0.0,0.0,0.0,1,0,27,34,79.4,2,20,0,0,0,/en/matches/bbfa96c9/Manchester-United-Burnley-December-30-2021-Premier-League
-13,2021-09-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,2021-09-11,Sun,Matchweek 28,Away,L 1–4,Manchester Utd,Manchester City,N,"On matchday squad, but did not play",/en/matches/2dc5b8b0/Manchester-Derby-Manchester-City-Manchester-United-March-6-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-15,2021-09-11,Sat,Matchweek 29,Home,W 3–2,Manchester Utd,Tottenham,N,"On matchday squad, but did not play",/en/matches/e5e7becb/Manchester-United-Tottenham-Hotspur-March-12-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-16,2021-09-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-17,2021-09-11,Sat,Matchweek 33,Home,W 3–2,Manchester Utd,Norwich City,N,"On matchday squad, but did not play",/en/matches/1c3ec7cf/Manchester-United-Norwich-City-April-16-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-18,2021-09-11,Tue,Matchweek 30,Away,L 0–4,Manchester Utd,Liverpool,N,"On matchday squad, but did not play",/en/matches/09f1bef7/North-West-Derby-Liverpool-Manchester-United-April-19-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-19,2021-09-11,Sat,Matchweek 34,Away,L 1–3,Manchester Utd,Arsenal,N,"On matchday squad, but did not play",/en/matches/b9f7c065/Arsenal-Manchester-United-April-23-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,2021-09-11,Thu,Matchweek 37,Home,D 1–1,Manchester Utd,Chelsea,N,"On matchday squad, but did not play",/en/matches/39f0deaa/Manchester-United-Chelsea-April-28-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-21,2021-09-11,Mon,Matchweek 35,Home,W 3–0,Manchester Utd,Brentford,N,"On matchday squad, but did not play",/en/matches/c9b4c96a/Manchester-United-Brentford-May-2-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-22,2021-09-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-23,2021-09-11,Sun,Matchweek 38,Away,L 0–1,Manchester Utd,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/19173099/Crystal-Palace-Manchester-United-May-22-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-09-06,Mon,WCQ,Second round,Home,W 2–1,ci Côte d'Ivoire,cm Cameroon,Y,CB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/97e0084e/Cote-dIvoire-Cameroon-September-6-2021-WCQ----CAF-M
+1,2021-09-22,Wed,EFL Cup,Third round,Home,L 0–1,Manchester Utd,West Ham,Y,CB,90,0,0,0,0,3,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/6cb102d3/Manchester-United-West-Ham-United-September-22-2021-EFL-Cup
+2,2021-10-11,Mon,WCQ,Second round,Home,W 2–1,ci Côte d'Ivoire,mw Malawi,Y,CB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/4e834fd0/Cote-dIvoire-Malawi-October-11-2021-WCQ----CAF-M
+3,2021-11-02,Tue,Champions Lg,Group stage,Away,D 2–2,eng Manchester Utd,it Atalanta,Y,CB,90,0,0,0,0,0,0,0,0,64,2,4,4,0.0,0.0,0.0,0,0,45,53,84.9,4,30,1,1,1,/en/matches/16b0abb7/Atalanta-Manchester-United-November-2-2021-Champions-League
+4,2021-11-06,Sat,Premier League,Matchweek 11,Home,L 0–2,Manchester Utd,Manchester City,Y,CB,45,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,16,22,72.7,2,15,1,1,0,/en/matches/5fa5be28/Manchester-Derby-Manchester-United-Manchester-City-November-6-2021-Premier-League
+5,2021-11-16,Tue,WCQ,Second round,Away,L 0–1,ci Côte d'Ivoire,cm Cameroon,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/8dae68fb/Cameroon-Cote-dIvoire-November-16-2021-WCQ----CAF-M
+6,2021-11-28,Sun,Premier League,Matchweek 13,Away,D 1–1,Manchester Utd,Chelsea,Y,CB,90,0,0,0,0,0,0,1,0,39,2,1,1,0.0,0.0,0.0,0,0,24,26,92.3,1,20,0,0,0,/en/matches/08b3c5d8/Chelsea-Manchester-United-November-28-2021-Premier-League
+7,2021-12-08,Wed,Champions Lg,Group stage,Home,D 1–1,eng Manchester Utd,ch Young Boys,Y,CB,90,0,0,0,0,0,0,0,0,71,1,1,2,0.0,0.0,0.0,0,0,54,60,90.0,2,47,0,0,0,/en/matches/e7f6d2d5/Manchester-United-Young-Boys-December-8-2021-Champions-League
+8,2021-12-11,Sat,Premier League,Matchweek 16,Away,W 1–0,Manchester Utd,Norwich City,N,CB,17,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0,/en/matches/11a67612/Norwich-City-Manchester-United-December-11-2021-Premier-League
+9,2021-12-30,Thu,Premier League,Matchweek 20,Home,W 3–1,Manchester Utd,Burnley,Y,CB,65,0,0,0,0,0,0,0,0,42,2,2,2,0.0,0.0,0.0,1,0,27,34,79.4,2,20,0,0,0,/en/matches/bbfa96c9/Manchester-United-Burnley-December-30-2021-Premier-League
+10,2022-01-12,Wed,Africa Cup of Nations,Group stage,Neutral,W 1–0,ci Côte d'Ivoire,gq Equ. Guinea,Y,CB,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/719b9e7d/Equatorial-Guinea-Cote-dIvoire-January-12-2022-Africa-Cup-of-Nations
+11,2022-01-16,Sun,Africa Cup of Nations,Group stage,Neutral,D 2–2,ci Côte d'Ivoire,sl Sierra Leone,Y,CB,89,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/6f18084f/Cote-dIvoire-Sierra-Leone-January-16-2022-Africa-Cup-of-Nations
+12,2022-01-26,Wed,Africa Cup of Nations,Round of 16,Neutral,D 0 (4)–0 (5),ci Côte d'Ivoire,eg Egypt,Y,CB,120,0,0,0,0,0,0,1,0,,,3,,,,,,,,,,,,,,,/en/matches/ddd18729/Cote-dIvoire-Egypt-January-26-2022-Africa-Cup-of-Nations
+13,2022-03-25,Fri,Friendlies (M),Friendlies (M),Neutral,L 1–2,ci Côte d'Ivoire,fr France,Y,CB,67,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/85ebb18f/France-Cote-dIvoire-March-25-2022-Friendlies-M
+14,2022-03-29,Tue,Friendlies (M),Friendlies (M),Neutral,L 0–3,ci Côte d'Ivoire,eng England,Y,CB,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ed214e41/England-Cote-dIvoire-March-29-2022-Friendlies-M

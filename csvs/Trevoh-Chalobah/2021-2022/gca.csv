@@ -1,35 +1,32 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2021-08-14,Sat,Matchweek 3,Away,D 1–1,Chelsea,Liverpool,N,CM,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/78aa75e6/Liverpool-Chelsea-August-28-2021-Premier-League
-1,2021-08-14,Sat,Matchweek 4,Home,W 3–0,Chelsea,Aston Villa,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/67bbc3a5/Chelsea-Aston-Villa-September-11-2021-Premier-League
-2,2021-08-14,Sun,Matchweek 5,Away,W 3–0,Chelsea,Tottenham,N,"On matchday squad, but did not play",/en/matches/eaf98461/Tottenham-Hotspur-Chelsea-September-19-2021-Premier-League,,,,,,,,,,,,,,,
-3,2021-08-14,Sat,Matchweek 6,Home,L 0–1,Chelsea,Manchester City,N,"On matchday squad, but did not play",/en/matches/fc59faf7/Chelsea-Manchester-City-September-25-2021-Premier-League,,,,,,,,,,,,,,,
-4,2021-08-14,Sat,Matchweek 7,Home,W 3–1,Chelsea,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/a6466617/Chelsea-Southampton-October-2-2021-Premier-League
-5,2021-08-14,Sat,Matchweek 8,Away,W 1–0,Chelsea,Brentford,Y,CB,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/866cfb1f/Brentford-Chelsea-October-16-2021-Premier-League
-6,2021-08-14,Sat,Matchweek 9,Home,W 7–0,Chelsea,Norwich City,Y,CB,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/a6ff9cf9/Chelsea-Norwich-City-October-23-2021-Premier-League
-7,2021-08-14,Sat,Matchweek 10,Away,W 3–0,Chelsea,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/49478cd2/Newcastle-United-Chelsea-October-30-2021-Premier-League,,,,,,,,,,,,,,,
-8,2021-08-14,Sat,Matchweek 11,Home,D 1–1,Chelsea,Burnley,N,"On matchday squad, but did not play",/en/matches/316c0296/Chelsea-Burnley-November-6-2021-Premier-League,,,,,,,,,,,,,,,
-9,2021-08-14,Sat,Matchweek 12,Away,W 3–0,Chelsea,Leicester City,Y,CB,90,2,2,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/2fd486d6/Leicester-City-Chelsea-November-20-2021-Premier-League
-10,2021-08-14,Sun,Matchweek 13,Home,D 1–1,Chelsea,Manchester Utd,Y,CB,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/08b3c5d8/Chelsea-Manchester-United-November-28-2021-Premier-League
-11,2021-08-14,Wed,Matchweek 14,Away,W 2–1,Chelsea,Watford,Y,"CB,CM",59,1,0,0,0,0,1,0,0,0,0,0,0,0,0,/en/matches/f475576b/Watford-Chelsea-December-1-2021-Premier-League
-12,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,
-13,2021-08-14,Thu,Matchweek 17,Home,D 1–1,Chelsea,Everton,N,CB,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/70209eb1/Chelsea-Everton-December-16-2021-Premier-League
-14,2021-08-14,Sun,Matchweek 18,Away,D 0–0,Chelsea,Wolves,Y,CM,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/73d478fb/Wolverhampton-Wanderers-Chelsea-December-19-2021-Premier-League
-15,2021-08-14,Sun,Matchweek 19,Away,W 3–1,Chelsea,Aston Villa,Y,CB,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/61396bd8/Aston-Villa-Chelsea-December-26-2021-Premier-League
-16,2021-08-14,Wed,Matchweek 20,Home,D 1–1,Chelsea,Brighton,N,CB,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/8fbe2e12/Chelsea-Brighton-and-Hove-Albion-December-29-2021-Premier-League
-17,2021-08-14,Sun,Matchweek 21,Home,D 2–2,Chelsea,Liverpool,Y,CB,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/3480cc09/Chelsea-Liverpool-January-2-2022-Premier-League
-18,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,
-19,2021-08-14,Sun,Matchweek 23,Home,W 2–0,Chelsea,Tottenham,N,"On matchday squad, but did not play",/en/matches/29e164e3/Chelsea-Tottenham-Hotspur-January-23-2022-Premier-League,,,,,,,,,,,,,,,
-20,2021-08-14,Sat,Matchweek 26,Away,W 1–0,Chelsea,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/ddd2eed6/Crystal-Palace-Chelsea-February-19-2022-Premier-League,,,,,,,,,,,,,,,
-21,2021-08-14,Sat,Matchweek 28,Away,W 4–0,Chelsea,Burnley,Y,CB,90,1,1,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/926192f8/Burnley-Chelsea-March-5-2022-Premier-League
-22,2021-08-14,Thu,Matchweek 30,Away,W 3–1,Chelsea,Norwich City,Y,CB,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/4371c286/Norwich-City-Chelsea-March-10-2022-Premier-League
-23,2021-08-14,Sun,Matchweek 29,Home,W 1–0,Chelsea,Newcastle Utd,Y,RB,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/0dcf103b/Chelsea-Newcastle-United-March-13-2022-Premier-League
-24,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,
-25,2021-08-14,Sat,Matchweek 32,Away,W 6–0,Chelsea,Southampton,N,"On matchday squad, but did not play",/en/matches/70d15cf0/Southampton-Chelsea-April-9-2022-Premier-League,,,,,,,,,,,,,,,
-26,2021-08-14,Wed,Matchweek 25,Home,L 2–4,Chelsea,Arsenal,N,"On matchday squad, but did not play",/en/matches/cf8c0df6/North-West-London-Derby-Chelsea-Arsenal-April-20-2022-Premier-League,,,,,,,,,,,,,,,
-27,2021-08-14,Sun,Matchweek 34,Home,W 1–0,Chelsea,West Ham,Y,CB,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/cfcd90ed/Chelsea-West-Ham-United-April-24-2022-Premier-League
-28,2021-08-14,Thu,Matchweek 37,Away,D 1–1,Chelsea,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/39f0deaa/Manchester-United-Chelsea-April-28-2022-Premier-League,,,,,,,,,,,,,,,
-29,2021-08-14,Sun,Matchweek 35,Away,L 0–1,Chelsea,Everton,N,"On matchday squad, but did not play",/en/matches/4ed4a295/Everton-Chelsea-May-1-2022-Premier-League,,,,,,,,,,,,,,,
-30,2021-08-14,Sat,Matchweek 36,Home,D 2–2,Chelsea,Wolves,N,"On matchday squad, but did not play",/en/matches/7c8a79d2/Chelsea-Wolverhampton-Wanderers-May-7-2022-Premier-League,,,,,,,,,,,,,,,
-31,2021-08-14,Wed,Matchweek 33,Away,W 3–0,Chelsea,Leeds United,Y,CB,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/6f225dc6/Leeds-United-Chelsea-May-11-2022-Premier-League
-32,2021-08-14,Thu,Matchweek 27,Home,D 1–1,Chelsea,Leicester City,Y,CB,90,1,0,0,0,1,0,0,0,0,0,0,0,0,0,/en/matches/75d8f6e0/Chelsea-Leicester-City-May-19-2022-Premier-League
-33,2021-08-14,Sun,Matchweek 38,Home,W 2–1,Chelsea,Watford,N,"On matchday squad, but did not play",/en/matches/df85b298/Chelsea-Watford-May-22-2022-Premier-League,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-11,Wed,Super Cup,UEFA Super Cup,Home,D 1 (6)–1 (5),eng Chelsea,es Villarreal,Y,CB,120,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/fe78a4ae/Chelsea-Villarreal-August-11-2021-UEFA-Super-Cup
+1,2021-08-14,Sat,Premier League,Matchweek 1,Home,W 3–0,Chelsea,Crystal Palace,Y,CB,90,1,0,0,0,1,1,0,0,89,0,2,0,0.0,0.0,0.0,0,0,77,83,92.8,8,44,2,1,1,/en/matches/6f454493/Chelsea-Crystal-Palace-August-14-2021-Premier-League
+2,2021-08-28,Sat,Premier League,Matchweek 3,Away,D 1–1,Chelsea,Liverpool,N,CM,4,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,1,4,25.0,0,3,0,1,1,/en/matches/78aa75e6/Liverpool-Chelsea-August-28-2021-Premier-League
+3,2021-09-11,Sat,Premier League,Matchweek 4,Home,W 3–0,Chelsea,Aston Villa,Y,CB,90,0,0,0,0,0,0,0,0,60,4,1,2,0.0,0.0,0.0,0,0,36,47,76.6,4,15,3,2,2,/en/matches/67bbc3a5/Chelsea-Aston-Villa-September-11-2021-Premier-League
+4,2021-09-22,Wed,EFL Cup,Third round,Home,D 1 (4)–1 (3),Chelsea,Aston Villa,Y,CB,90,0,0,0,0,1,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/29251311/Chelsea-Aston-Villa-September-22-2021-EFL-Cup
+5,2021-09-29,Wed,Champions Lg,Group stage,Away,L 0–1,eng Chelsea,it Juventus,N,"CB,DM",29,0,0,0,0,1,0,0,0,39,0,2,0,0.0,0.0,0.0,0,0,26,33,78.8,1,26,0,0,0,/en/matches/8d8d9475/Juventus-Chelsea-September-29-2021-Champions-League
+6,2021-10-02,Sat,Premier League,Matchweek 7,Home,W 3–1,Chelsea,Southampton,Y,CB,90,1,0,0,0,1,1,0,0,81,5,0,2,0.6,0.6,0.0,0,0,59,66,89.4,4,22,0,2,2,/en/matches/a6466617/Chelsea-Southampton-October-2-2021-Premier-League
+7,2021-10-16,Sat,Premier League,Matchweek 8,Away,W 1–0,Chelsea,Brentford,Y,CB,90,0,0,0,0,0,0,0,0,64,5,0,3,0.0,0.0,0.0,1,0,46,54,85.2,2,42,1,0,0,/en/matches/866cfb1f/Brentford-Chelsea-October-16-2021-Premier-League
+8,2021-10-23,Sat,Premier League,Matchweek 9,Home,W 7–0,Chelsea,Norwich City,Y,CB,90,0,0,0,0,0,0,0,0,66,1,0,0,0.0,0.0,0.0,2,0,60,64,93.8,5,45,2,0,0,/en/matches/a6ff9cf9/Chelsea-Norwich-City-October-23-2021-Premier-League
+9,2021-10-26,Tue,EFL Cup,Fourth round,Home,D 1 (4)–1 (3),Chelsea,Southampton,Y,CB,90,0,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/026f8b03/Chelsea-Southampton-October-26-2021-EFL-Cup
+10,2021-11-20,Sat,Premier League,Matchweek 12,Away,W 3–0,Chelsea,Leicester City,Y,CB,90,0,0,0,0,1,0,0,0,80,0,1,0,0.0,0.0,0.0,2,1,69,77,89.6,5,48,2,1,1,/en/matches/2fd486d6/Leicester-City-Chelsea-November-20-2021-Premier-League
+11,2021-11-23,Tue,Champions Lg,Group stage,Home,W 4–0,eng Chelsea,it Juventus,Y,CB,90,1,0,0,0,2,1,0,0,55,0,1,0,0.4,0.4,0.0,1,0,41,50,82.0,0,29,1,1,1,/en/matches/8b15222a/Chelsea-Juventus-November-23-2021-Champions-League
+12,2021-11-28,Sun,Premier League,Matchweek 13,Home,D 1–1,Chelsea,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,95,2,3,1,0.0,0.0,0.0,1,0,73,86,84.9,8,66,1,0,0,/en/matches/08b3c5d8/Chelsea-Manchester-United-November-28-2021-Premier-League
+13,2021-12-01,Wed,Premier League,Matchweek 14,Away,W 2–1,Chelsea,Watford,Y,"CB,CM",59,0,0,0,0,0,0,0,0,45,0,1,1,0.0,0.0,0.0,1,0,30,37,81.1,1,16,0,0,0,/en/matches/f475576b/Watford-Chelsea-December-1-2021-Premier-League
+14,2021-12-16,Thu,Premier League,Matchweek 17,Home,D 1–1,Chelsea,Everton,N,CB,12,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,28,29,96.6,6,16,1,0,0,/en/matches/70209eb1/Chelsea-Everton-December-16-2021-Premier-League
+15,2021-12-19,Sun,Premier League,Matchweek 18,Away,D 0–0,Chelsea,Wolves,Y,CM,45,0,0,0,0,0,0,1,0,33,1,2,1,0.0,0.0,0.0,0,0,21,24,87.5,2,13,0,1,0,/en/matches/73d478fb/Wolverhampton-Wanderers-Chelsea-December-19-2021-Premier-League
+16,2021-12-22,Wed,EFL Cup,Quarter-finals,Away,W 2–0,Chelsea,Brentford,Y,CB,90,0,0,0,0,1,1,0,0,,,2,,,,,,,,,,,,,,,/en/matches/195bfa06/Brentford-Chelsea-December-22-2021-EFL-Cup
+17,2021-12-26,Sun,Premier League,Matchweek 19,Away,W 3–1,Chelsea,Aston Villa,Y,CB,45,0,0,0,0,0,0,0,0,60,1,2,2,0.0,0.0,0.0,0,0,50,50,100.0,3,25,0,0,0,/en/matches/61396bd8/Aston-Villa-Chelsea-December-26-2021-Premier-League
+18,2021-12-29,Wed,Premier League,Matchweek 20,Home,D 1–1,Chelsea,Brighton,N,CB,45,0,0,0,0,1,1,0,0,23,0,1,0,0.0,0.0,0.0,0,0,13,14,92.9,0,11,0,0,0,/en/matches/8fbe2e12/Chelsea-Brighton-and-Hove-Albion-December-29-2021-Premier-League
+19,2022-01-02,Sun,Premier League,Matchweek 21,Home,D 2–2,Chelsea,Liverpool,Y,CB,69,0,0,0,0,0,0,0,0,78,3,3,1,0.0,0.0,0.0,0,0,59,68,86.8,7,53,0,0,0,/en/matches/3480cc09/Chelsea-Liverpool-January-2-2022-Premier-League
+20,2022-02-05,Sat,FA Cup,Fourth round proper,Home,W 2–1,Chelsea,Plymouth Argyle,N,,9,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/9503ec9a/Chelsea-Plymouth-Argyle-February-5-2022-FA-Cup
+21,2022-02-27,Sun,EFL Cup,Final,Home,D 0 (10)–0 (11),Chelsea,Liverpool,Y,CB,120,0,0,0,0,0,0,0,0,,,7,,,,,,,,,,,,,,,/en/matches/d3c5d3d5/Chelsea-Liverpool-February-27-2022-EFL-Cup
+22,2022-03-05,Sat,Premier League,Matchweek 28,Away,W 4–0,Chelsea,Burnley,Y,CB,90,0,1,0,0,0,0,0,0,112,3,0,0,0.0,0.0,0.1,1,1,98,106,92.5,7,66,0,0,0,/en/matches/926192f8/Burnley-Chelsea-March-5-2022-Premier-League
+23,2022-03-10,Thu,Premier League,Matchweek 30,Away,W 3–1,Chelsea,Norwich City,Y,CB,90,1,0,0,0,1,1,1,0,77,5,0,0,0.2,0.2,0.0,1,0,63,66,95.5,1,43,1,1,1,/en/matches/4371c286/Norwich-City-Chelsea-March-10-2022-Premier-League
+24,2022-03-13,Sun,Premier League,Matchweek 29,Home,W 1–0,Chelsea,Newcastle Utd,Y,RB,90,0,0,0,0,0,0,0,0,86,5,0,0,0.0,0.0,0.0,1,0,58,73,79.5,5,43,1,1,1,/en/matches/0dcf103b/Chelsea-Newcastle-United-March-13-2022-Premier-League
+25,2022-03-16,Wed,Champions Lg,Round of 16,Away,W 2–1,eng Chelsea,fr Lille,N,CB,58,0,0,0,0,0,0,1,0,35,0,0,1,0.0,0.0,0.0,0,0,24,29,82.8,2,24,0,0,0,/en/matches/92acd78c/Lille-Chelsea-March-16-2022-Champions-League
+26,2022-04-24,Sun,Premier League,Matchweek 34,Home,W 1–0,Chelsea,West Ham,Y,CB,90,0,0,0,0,1,1,0,0,82,0,0,1,0.0,0.0,0.2,2,0,71,76,93.4,7,51,4,2,1,/en/matches/cfcd90ed/Chelsea-West-Ham-United-April-24-2022-Premier-League
+27,2022-05-08,Sun,PL2 — Div. 1,Matchweek 20,Home,W 2–1,Chelsea,Tottenham,Y,RB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/7156f3b9/Chelsea-U23-Tottenham-Hotspur-U23-May-8-2022-Premier-League-2----Division-1
+28,2022-05-11,Wed,Premier League,Matchweek 33,Away,W 3–0,Chelsea,Leeds United,Y,CB,90,0,0,0,0,1,0,0,0,149,4,2,0,0.0,0.0,0.0,1,0,132,140,94.3,10,97,4,0,0,/en/matches/6f225dc6/Leeds-United-Chelsea-May-11-2022-Premier-League
+29,2022-05-14,Sat,FA Cup,Final,Home,D 0 (5)–0 (6),Chelsea,Liverpool,Y,CB,104,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/42e0c267/Chelsea-Liverpool-May-14-2022-FA-Cup
+30,2022-05-19,Thu,Premier League,Matchweek 27,Home,D 1–1,Chelsea,Leicester City,Y,CB,90,0,0,0,0,2,2,0,0,126,1,0,2,0.2,0.2,0.0,1,0,114,119,95.8,3,97,2,0,0,/en/matches/75d8f6e0/Chelsea-Leicester-City-May-19-2022-Premier-League

@@ -1,28 +1,11 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2020-10-03,Sun,Matchweek 6,Away,L 0–2,Everton,Southampton,N,"On matchday squad, but did not play",/en/matches/6439c025/Southampton-Everton-October-25-2020-Premier-League,,,,,,,,,,,,,,,,,
-1,2020-10-03,Sun,Matchweek 7,Away,L 1–2,Everton,Newcastle Utd,Y,LB,68,4,3,1,2,1,3,6,50.0,3,3,0,3,0,4,4,0,/en/matches/448a43ee/Newcastle-United-Everton-November-1-2020-Premier-League
-2,2020-10-03,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2020-10-03,Sat,Matchweek 14,Home,W 2–1,Everton,Arsenal,N,"On matchday squad, but did not play",/en/matches/72fa1993/Everton-Arsenal-December-19-2020-Premier-League,,,,,,,,,,,,,,,,,
-4,2020-10-03,Sat,Matchweek 15,Away,W 1–0,Everton,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/870d9436/Sheffield-United-Everton-December-26-2020-Premier-League,,,,,,,,,,,,,,,,,
-5,2020-10-03,Fri,Matchweek 17,Home,L 0–1,Everton,West Ham,N,"On matchday squad, but did not play",/en/matches/0cd189c5/Everton-West-Ham-United-January-1-2021-Premier-League,,,,,,,,,,,,,,,,,
-6,2020-10-03,Tue,Matchweek 18,Away,W 2–1,Everton,Wolves,N,"On matchday squad, but did not play",/en/matches/8cbb9119/Wolverhampton-Wanderers-Everton-January-12-2021-Premier-League,,,,,,,,,,,,,,,,,
-7,2020-10-03,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2020-10-03,Wed,Matchweek 22,Away,W 2–1,Everton,Leeds United,N,"On matchday squad, but did not play",/en/matches/d9b96ee1/Leeds-United-Everton-February-3-2021-Premier-League,,,,,,,,,,,,,,,,,
-9,2020-10-03,Sat,Matchweek 23,Away,D 3–3,Everton,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/6504b158/Manchester-United-Everton-February-6-2021-Premier-League,,,,,,,,,,,,,,,,,
-10,2020-10-03,Sun,Matchweek 24,Home,L 0–2,Everton,Fulham,N,"On matchday squad, but did not play",/en/matches/46f84386/Everton-Fulham-February-14-2021-Premier-League,,,,,,,,,,,,,,,,,
-11,2020-10-03,Wed,Matchweek 16,Home,L 1–3,Everton,Manchester City,N,"On matchday squad, but did not play",/en/matches/78270b8a/Everton-Manchester-City-February-17-2021-Premier-League,,,,,,,,,,,,,,,,,
-12,2020-10-03,Sat,Matchweek 25,Away,W 2–0,Everton,Liverpool,N,"On matchday squad, but did not play",/en/matches/e4ac45fb/Merseyside-Derby-Liverpool-Everton-February-20-2021-Premier-League,,,,,,,,,,,,,,,,,
-13,2020-10-03,Mon,Matchweek 26,Home,W 1–0,Everton,Southampton,N,"On matchday squad, but did not play",/en/matches/a81e1c82/Everton-Southampton-March-1-2021-Premier-League,,,,,,,,,,,,,,,,,
-14,2020-10-03,Thu,Matchweek 29,Away,W 1–0,Everton,West Brom,N,"On matchday squad, but did not play",/en/matches/ee055741/West-Bromwich-Albion-Everton-March-4-2021-Premier-League,,,,,,,,,,,,,,,,,
-15,2020-10-03,Mon,Matchweek 27,Away,L 0–2,Everton,Chelsea,N,"On matchday squad, but did not play",/en/matches/7e4a240e/Chelsea-Everton-March-8-2021-Premier-League,,,,,,,,,,,,,,,,,
-16,2020-10-03,Sat,Matchweek 28,Home,L 1–2,Everton,Burnley,N,"On matchday squad, but did not play",/en/matches/91cce376/Everton-Burnley-March-13-2021-Premier-League,,,,,,,,,,,,,,,,,
-17,2020-10-03,Mon,Matchweek 30,Home,D 1–1,Everton,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/66f16cd5/Everton-Crystal-Palace-April-5-2021-Premier-League,,,,,,,,,,,,,,,,,
-18,2020-10-03,Mon,Matchweek 31,Away,D 0–0,Everton,Brighton,N,"On matchday squad, but did not play",/en/matches/ac6ac8f8/Brighton-and-Hove-Albion-Everton-April-12-2021-Premier-League,,,,,,,,,,,,,,,,,
-19,2020-10-03,Fri,Matchweek 32,Home,D 2–2,Everton,Tottenham,N,"On matchday squad, but did not play",/en/matches/ebeb462d/Everton-Tottenham-Hotspur-April-16-2021-Premier-League,,,,,,,,,,,,,,,,,
-20,2020-10-03,Fri,Matchweek 33,Away,W 1–0,Everton,Arsenal,N,"On matchday squad, but did not play",/en/matches/30f36320/Arsenal-Everton-April-23-2021-Premier-League,,,,,,,,,,,,,,,,,
-21,2020-10-03,Sat,Matchweek 34,Home,L 1–2,Everton,Aston Villa,N,"On matchday squad, but did not play",/en/matches/2452619d/Everton-Aston-Villa-May-1-2021-Premier-League,,,,,,,,,,,,,,,,,
-22,2020-10-03,Sun,Matchweek 35,Away,W 1–0,Everton,West Ham,N,"On matchday squad, but did not play",/en/matches/57632a35/West-Ham-United-Everton-May-9-2021-Premier-League,,,,,,,,,,,,,,,,,
-23,2020-10-03,Thu,Matchweek 19,Away,D 0–0,Everton,Aston Villa,N,"On matchday squad, but did not play",/en/matches/b5b24fd8/Aston-Villa-Everton-May-13-2021-Premier-League,,,,,,,,,,,,,,,,,
-24,2020-10-03,Sun,Matchweek 36,Home,L 0–1,Everton,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/707d5282/Everton-Sheffield-United-May-16-2021-Premier-League,,,,,,,,,,,,,,,,,
-25,2020-10-03,Wed,Matchweek 37,Home,W 1–0,Everton,Wolves,N,"On matchday squad, but did not play",/en/matches/eb7bd01f/Everton-Wolverhampton-Wanderers-May-19-2021-Premier-League,,,,,,,,,,,,,,,,,
-26,2020-10-03,Sun,Matchweek 38,Away,L 0–5,Everton,Manchester City,N,LW,13,0,0,0,0,0,0,2,0.0,2,1,0,1,0,0,0,0,/en/matches/12d3970f/Manchester-City-Everton-May-23-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-16,Wed,EFL Cup,Second round,Home,W 3–0,Everton,Salford City,Y,LB,90,0,0,0,0,2,1,0,0,,,2,,,,,,,,,,,,,,,/en/matches/ece40780/Everton-Salford-City-September-16-2020-EFL-Cup
+1,2020-09-23,Wed,EFL Cup,Third round,Away,W 5–2,Everton,Fleetwood Town,Y,LB,90,0,1,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/70412de8/Fleetwood-Town-Everton-September-23-2020-EFL-Cup
+2,2020-09-30,Wed,EFL Cup,Fourth round,Home,W 4–1,Everton,West Ham,Y,LB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/9219349f/Everton-West-Ham-United-September-30-2020-EFL-Cup
+3,2020-11-01,Sun,Premier League,Matchweek 7,Away,L 1–2,Everton,Newcastle Utd,Y,LB,68,0,0,0,0,1,0,1,0,51,4,0,3,0.0,0.0,0.0,1,0,26,31,83.9,1,20,2,3,1,/en/matches/448a43ee/Newcastle-United-Everton-November-1-2020-Premier-League
+4,2020-11-08,Sun,PL2 — Div. 1,Matchweek 8,Home,W 2–0,Everton,Chelsea,Y,LB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/4ddfffe2/Everton-U23-Chelsea-U23-November-8-2020-Premier-League-2----Division-1
+5,2021-01-09,Sat,FA Cup,Third round proper,Home,W 2–1,Everton,Rotherham Utd,N,,26,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/e562a9d8/Everton-Rotherham-United-January-9-2021-FA-Cup
+6,2021-01-18,Mon,PL2 — Div. 1,Matchweek 14,Home,D 1–1,Everton,Liverpool,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d9f232ab/Everton-U23-Liverpool-U23-January-18-2021-Premier-League-2----Division-1
+7,2021-04-19,Mon,PL2 — Div. 1,Matchweek 24,Away,L 1–2,Everton,West Ham,Y,LB,68,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/5e3153b0/West-Ham-United-U23-Everton-U23-April-19-2021-Premier-League-2----Division-1
+8,2021-04-24,Sat,PL2 — Div. 1,Matchweek 25,Home,D 1–1,Everton,Brighton,Y,LB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/607a368a/Everton-U23-Brighton-and-Hove-Albion-U23-April-24-2021-Premier-League-2----Division-1
+9,2021-05-23,Sun,Premier League,Matchweek 38,Away,L 0–5,Everton,Manchester City,N,LW,13,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,1,4,2,1,1,/en/matches/12d3970f/Manchester-City-Everton-May-23-2021-Premier-League

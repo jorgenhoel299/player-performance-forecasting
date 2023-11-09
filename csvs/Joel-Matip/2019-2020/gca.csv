@@ -1,18 +1,14 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2019-08-09,Sat,Matchweek 3,Home,W 3–1,Liverpool,Arsenal,Y,CB,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/102b241e/Liverpool-Arsenal-August-24-2019-Premier-League
-1,2019-08-09,Sat,Matchweek 4,Away,W 3–0,Liverpool,Burnley,Y,CB,90,1,0,0,0,0,0,1,0,0,0,0,0,0,0,/en/matches/af072d61/Burnley-Liverpool-August-31-2019-Premier-League
-2,2019-08-09,Sat,Matchweek 5,Home,W 3–1,Liverpool,Newcastle Utd,Y,CB,90,3,3,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/cde24fee/Liverpool-Newcastle-United-September-14-2019-Premier-League
-3,2019-08-09,Sun,Matchweek 6,Away,W 2–1,Liverpool,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/02e3ae79/Chelsea-Liverpool-September-22-2019-Premier-League
-4,2019-08-09,Sat,Matchweek 7,Away,W 1–0,Liverpool,Sheffield Utd,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/1224c8ae/Sheffield-United-Liverpool-September-28-2019-Premier-League
-5,2019-08-09,,,,,,,,,,,,,,,,,,,,,,,,
-6,2019-08-09,Sun,Matchweek 9,Away,D 1–1,Liverpool,Manchester Utd,Y,CB,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/95c3f0c8/North-West-Derby-Manchester-United-Liverpool-October-20-2019-Premier-League
-7,2019-08-09,,,,,,,,,,,,,,,,,,,,,,,,
-8,2019-08-09,Sun,Matchweek 23,Home,W 2–0,Liverpool,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/d2a888b6/North-West-Derby-Liverpool-Manchester-United-January-19-2020-Premier-League,,,,,,,,,,,,,,,
-9,2019-08-09,Thu,Matchweek 24,Away,W 2–1,Liverpool,Wolves,N,"On matchday squad, but did not play",/en/matches/efd768f0/Wolverhampton-Wanderers-Liverpool-January-23-2020-Premier-League,,,,,,,,,,,,,,,
-10,2019-08-09,Wed,Matchweek 18,Away,W 2–0,Liverpool,West Ham,N,"On matchday squad, but did not play",/en/matches/7b057bc1/West-Ham-United-Liverpool-January-29-2020-Premier-League,,,,,,,,,,,,,,,
-11,2019-08-09,Sat,Matchweek 25,Home,W 4–0,Liverpool,Southampton,N,"On matchday squad, but did not play",/en/matches/ab9e9e23/Liverpool-Southampton-February-1-2020-Premier-League,,,,,,,,,,,,,,,
-12,2019-08-09,,,,,,,,,,,,,,,,,,,,,,,,
-13,2019-08-09,Mon,Matchweek 27,Home,W 3–2,Liverpool,West Ham,N,CB,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/3aee1ba7/Liverpool-West-Ham-United-February-24-2020-Premier-League
-14,2019-08-09,Sat,Matchweek 28,Away,L 0–3,Liverpool,Watford,N,"On matchday squad, but did not play",/en/matches/4df69c15/Watford-Liverpool-February-29-2020-Premier-League,,,,,,,,,,,,,,,
-15,2019-08-09,Sat,Matchweek 29,Home,W 2–1,Liverpool,Bournemouth,N,"On matchday squad, but did not play",/en/matches/a24ed8fc/Liverpool-Bournemouth-March-7-2020-Premier-League,,,,,,,,,,,,,,,
-16,2019-08-09,Sun,Matchweek 30,Away,D 0–0,Liverpool,Everton,Y,CB,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/603174fb/Merseyside-Derby-Everton-Liverpool-June-21-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-04,Sun,Community Shield,FA Community Shield,Neutral,D 1 (4)–1 (5),Liverpool,Manchester City,N,,54,1,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/a0579b11/Liverpool-Manchester-City-August-4-2019-FA-Community-Shield
+1,2019-08-14,Wed,Super Cup,UEFA Super Cup,Home,D 2 (5)–2 (4),eng Liverpool,eng Chelsea,Y,CB,120,0,0,0,0,1,1,0,0,,,6,,,,,,,,,,,,,,,/en/matches/4a69dd20/Liverpool-Chelsea-August-14-2019-UEFA-Super-Cup
+2,2019-08-17,Sat,Premier League,Matchweek 2,Away,W 2–1,Liverpool,Southampton,Y,CB,90,0,0,0,0,1,0,0,0,79,1,2,1,0.1,0.1,0.0,2,0,51,63,81.0,3,40,1,0,0,/en/matches/b2a48847/Southampton-Liverpool-August-17-2019-Premier-League
+3,2019-08-24,Sat,Premier League,Matchweek 3,Home,W 3–1,Liverpool,Arsenal,Y,CB,90,1,0,0,0,1,1,0,0,49,3,3,1,0.1,0.1,0.0,2,0,30,40,75.0,3,31,1,0,0,/en/matches/102b241e/Liverpool-Arsenal-August-24-2019-Premier-League
+4,2019-08-31,Sat,Premier League,Matchweek 4,Away,W 3–0,Liverpool,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,69,0,1,2,0.0,0.0,0.0,1,0,45,64,70.3,2,45,1,0,0,/en/matches/af072d61/Burnley-Liverpool-August-31-2019-Premier-League
+5,2019-09-14,Sat,Premier League,Matchweek 5,Home,W 3–1,Liverpool,Newcastle Utd,Y,CB,90,0,0,0,0,1,0,0,0,119,3,2,0,0.0,0.0,0.0,3,0,96,109,88.1,6,91,0,0,0,/en/matches/cde24fee/Liverpool-Newcastle-United-September-14-2019-Premier-League
+6,2019-09-17,Tue,Champions Lg,Group stage,Away,L 0–2,eng Liverpool,it Napoli,Y,CB,90,0,0,0,0,0,0,0,0,74,2,1,1,0.0,0.0,0.0,0,0,56,63,88.9,2,52,0,1,0,/en/matches/83579d2e/Napoli-Liverpool-September-17-2019-Champions-League
+7,2019-09-22,Sun,Premier League,Matchweek 6,Away,W 2–1,Liverpool,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,61,3,2,1,0.0,0.0,0.0,0,0,29,42,69.0,3,31,0,0,0,/en/matches/02e3ae79/Chelsea-Liverpool-September-22-2019-Premier-League
+8,2019-09-28,Sat,Premier League,Matchweek 7,Away,W 1–0,Liverpool,Sheffield Utd,Y,CB,90,0,0,0,0,0,0,0,0,108,1,0,2,0.0,0.0,0.0,0,0,89,99,89.9,4,81,1,2,2,/en/matches/1224c8ae/Sheffield-United-Liverpool-September-28-2019-Premier-League
+9,2019-10-20,Sun,Premier League,Matchweek 9,Away,D 1–1,Liverpool,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,88,1,2,1,0.0,0.0,0.0,1,0,71,78,91.0,7,56,0,0,0,/en/matches/95c3f0c8/North-West-Derby-Manchester-United-Liverpool-October-20-2019-Premier-League
+10,2020-01-26,Sun,FA Cup,Fourth round,Away,D 2–2,Liverpool,Shrewsbury,Y,CB,78,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/064bfd18/Shrewsbury-Town-Liverpool-January-26-2020-FA-Cup
+11,2020-02-24,Mon,Premier League,Matchweek 27,Home,W 3–2,Liverpool,West Ham,N,CB,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,/en/matches/3aee1ba7/Liverpool-West-Ham-United-February-24-2020-Premier-League
+12,2020-06-21,Sun,Premier League,Matchweek 30,Away,D 0–0,Liverpool,Everton,Y,CB,72,0,0,0,0,1,0,0,0,66,1,0,0,0.1,0.1,0.0,0,0,58,62,93.5,8,51,2,0,0,/en/matches/603174fb/Merseyside-Derby-Everton-Liverpool-June-21-2020-Premier-League

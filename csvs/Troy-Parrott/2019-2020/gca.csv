@@ -1,4 +1,8 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2019-11-03,Sat,Matchweek 16,Home,W 5–0,Tottenham,Burnley,N,FW,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/56da163b/Tottenham-Hotspur-Burnley-December-7-2019-Premier-League
-1,2019-11-03,,,,,,,,,,,,,,,,,,,,,,,,
-2,2019-11-03,Sun,Matchweek 28,Home,L 2–3,Tottenham,Wolves,N,FW,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/2475762d/Tottenham-Hotspur-Wolverhampton-Wanderers-March-1-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-16,Fri,PL2 — Div. 1,Matchweek 2,Home,W 3–1,Tottenham,Manchester City,Y,FW,60,2,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/951fff71/Tottenham-Hotspur-U23-Manchester-City-U23-August-16-2019-Premier-League-2----Division-1
+1,2019-09-24,Tue,EFL Cup,Third round,Away,D 0 (3)–0 (4),Tottenham,Colchester Utd,Y,FW,65,0,0,0,0,4,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/e19b8e86/Colchester-United-Tottenham-Hotspur-September-24-2019-EFL-Cup
+2,2019-11-14,Thu,Friendlies (M),Friendlies (M),Home,W 3–1,ie Rep. of Ireland,nz New Zealand,Y,FW,61,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/afdd173e/Republic-of-Ireland-New-Zealand-November-14-2019-Friendlies-M
+3,2019-12-07,Sat,Premier League,Matchweek 16,Home,W 5–0,Tottenham,Burnley,N,FW,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,5,0,0,0,/en/matches/56da163b/Tottenham-Hotspur-Burnley-December-7-2019-Premier-League
+4,2020-03-01,Sun,Premier League,Matchweek 28,Home,L 2–3,Tottenham,Wolves,N,FW,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,/en/matches/2475762d/Tottenham-Hotspur-Wolverhampton-Wanderers-March-1-2020-Premier-League
+5,2020-03-02,Mon,PL2 — Div. 1,Matchweek 18,Home,W 3–2,Tottenham,Wolves,Y,FW,45,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/2d48a38e/Tottenham-Hotspur-U23-Wolverhampton-Wanderers-U23-March-2-2020-Premier-League-2----Division-1
+6,2020-03-04,Wed,FA Cup,Fifth round,Home,D 1 (2)–1 (3),Tottenham,Norwich City,N,,25,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/43fc06fc/Tottenham-Hotspur-Norwich-City-March-4-2020-FA-Cup

@@ -1,28 +1,24 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2020-09-13,Sat,Matchweek 3,Home,D 3–3,West Brom,Chelsea,N,FW,25,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,/en/matches/d725a16c/West-Bromwich-Albion-Chelsea-September-26-2020-Premier-League
-1,2020-09-13,Sun,Matchweek 4,Away,L 0–2,West Brom,Southampton,N,FW,31,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,/en/matches/39864083/Southampton-West-Bromwich-Albion-October-4-2020-Premier-League
-2,2020-09-13,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2020-09-13,Sat,Matchweek 9,Away,L 0–1,West Brom,Manchester Utd,N,FW,29,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/50004f43/Manchester-United-West-Bromwich-Albion-November-21-2020-Premier-League
-4,2020-09-13,Sat,Matchweek 10,Home,W 1–0,West Brom,Sheffield Utd,N,FW,26,1,0,1,0,0,0,0,,0,0,0,0,0,1,0,0,/en/matches/bd68404c/West-Bromwich-Albion-Sheffield-United-November-28-2020-Premier-League
-5,2020-09-13,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2020-09-13,Sat,Matchweek 19,Away,W 3–2,West Brom,Wolves,N,FW,22,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/93420516/Wolverhampton-Wanderers-West-Bromwich-Albion-January-16-2021-Premier-League
-7,2020-09-13,Tue,Matchweek 18,Away,L 1–2,West Brom,West Ham,N,FW,11,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/42daddbb/West-Ham-United-West-Bromwich-Albion-January-19-2021-Premier-League
-8,2020-09-13,Tue,Matchweek 20,Home,L 0–5,West Brom,Manchester City,N,FW,27,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/83f7b656/West-Bromwich-Albion-Manchester-City-January-26-2021-Premier-League
-9,2020-09-13,Sat,Matchweek 21,Home,D 2–2,West Brom,Fulham,N,"On matchday squad, but did not play",/en/matches/d1517c30/West-Bromwich-Albion-Fulham-January-30-2021-Premier-League,,,,,,,,,,,,,,,,,
-10,2020-09-13,Tue,Matchweek 22,Away,L 1–2,West Brom,Sheffield Utd,N,FW,23,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/2d3d863d/Sheffield-United-West-Bromwich-Albion-February-2-2021-Premier-League
-11,2020-09-13,Sun,Matchweek 23,Away,L 0–2,West Brom,Tottenham,N,"On matchday squad, but did not play",/en/matches/4a652b81/Tottenham-Hotspur-West-Bromwich-Albion-February-7-2021-Premier-League,,,,,,,,,,,,,,,,,
-12,2020-09-13,Sun,Matchweek 24,Home,D 1–1,West Brom,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/80124feb/West-Bromwich-Albion-Manchester-United-February-14-2021-Premier-League,,,,,,,,,,,,,,,,,
-13,2020-09-13,Sat,Matchweek 25,Away,D 0–0,West Brom,Burnley,N,"On matchday squad, but did not play",/en/matches/072e8501/Burnley-West-Bromwich-Albion-February-20-2021-Premier-League,,,,,,,,,,,,,,,,,
-14,2020-09-13,Sat,Matchweek 26,Home,W 1–0,West Brom,Brighton,N,FW,8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/ff18265a/West-Bromwich-Albion-Brighton-and-Hove-Albion-February-27-2021-Premier-League
-15,2020-09-13,Thu,Matchweek 29,Home,L 0–1,West Brom,Everton,N,CM,13,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,/en/matches/ee055741/West-Bromwich-Albion-Everton-March-4-2021-Premier-League
-16,2020-09-13,Sun,Matchweek 27,Home,D 0–0,West Brom,Newcastle Utd,N,FW,7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/a096c32f/West-Bromwich-Albion-Newcastle-United-March-7-2021-Premier-League
-17,2020-09-13,Sat,Matchweek 28,Away,L 0–1,West Brom,Crystal Palace,N,FW,28,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/29954372/Crystal-Palace-West-Bromwich-Albion-March-13-2021-Premier-League
-18,2020-09-13,Sat,Matchweek 30,Away,W 5–2,West Brom,Chelsea,N,"On matchday squad, but did not play",/en/matches/c5d6a493/Chelsea-West-Bromwich-Albion-April-3-2021-Premier-League,,,,,,,,,,,,,,,,,
-19,2020-09-13,Mon,Matchweek 31,Home,W 3–0,West Brom,Southampton,N,FW,15,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/3dee3681/West-Bromwich-Albion-Southampton-April-12-2021-Premier-League
-20,2020-09-13,Thu,Matchweek 32,Away,L 0–3,West Brom,Leicester City,N,FW,30,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,/en/matches/be6edfdf/Leicester-City-West-Bromwich-Albion-April-22-2021-Premier-League
-21,2020-09-13,Sun,Matchweek 33,Away,D 2–2,West Brom,Aston Villa,N,"On matchday squad, but did not play",/en/matches/2ab535fa/Aston-Villa-West-Bromwich-Albion-April-25-2021-Premier-League,,,,,,,,,,,,,,,,,
-22,2020-09-13,Mon,Matchweek 34,Home,D 1–1,West Brom,Wolves,N,"On matchday squad, but did not play",/en/matches/378a8a95/West-Bromwich-Albion-Wolverhampton-Wanderers-May-3-2021-Premier-League,,,,,,,,,,,,,,,,,
-23,2020-09-13,Sun,Matchweek 35,Away,L 1–3,West Brom,Arsenal,N,FW,35,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,/en/matches/49369ed5/Arsenal-West-Bromwich-Albion-May-9-2021-Premier-League
-24,2020-09-13,Sun,Matchweek 36,Home,L 1–2,West Brom,Liverpool,Y,FW,81,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,/en/matches/6a834f6e/West-Bromwich-Albion-Liverpool-May-16-2021-Premier-League
-25,2020-09-13,Wed,Matchweek 37,Home,L 1–3,West Brom,West Ham,Y,FW,88,0,0,0,0,0,0,0,,0,1,0,1,1,1,0,0,/en/matches/88927a77/West-Bromwich-Albion-West-Ham-United-May-19-2021-Premier-League
-26,2020-09-13,Sun,Matchweek 38,Away,L 1–3,West Brom,Leeds United,N,FW,31,1,1,0,0,1,0,0,,0,0,0,0,0,1,2,0,/en/matches/9ade2b5d/Leeds-United-West-Bromwich-Albion-May-23-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-06,Sun,UEFA Nations League,League B,Home,W 1–0,wls Wales,bg Bulgaria,N,,30,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/a6f27500/Wales-Bulgaria-September-6-2020-UEFA-Nations-League
+1,2020-09-13,Sun,Premier League,Matchweek 1,Home,L 0–3,West Brom,Leicester City,N,FW,31,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0,/en/matches/7dd01ca9/West-Bromwich-Albion-Leicester-City-September-13-2020-Premier-League
+2,2020-09-16,Wed,EFL Cup,Second round,Home,W 3–0,West Brom,Harrogate,Y*,FW,60,1,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/037017fd/West-Bromwich-Albion-Harrogate-September-16-2020-EFL-Cup
+3,2020-09-22,Tue,EFL Cup,Third round,Home,D 2 (4)–2 (5),West Brom,Brentford,Y*,FW,84,2,0,2,2,3,2,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c3e41820/West-Bromwich-Albion-Brentford-September-22-2020-EFL-Cup
+4,2020-09-26,Sat,Premier League,Matchweek 3,Home,D 3–3,West Brom,Chelsea,N,FW,25,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,2,0,3,5,60.0,1,9,2,1,1,/en/matches/d725a16c/West-Bromwich-Albion-Chelsea-September-26-2020-Premier-League
+5,2020-10-04,Sun,Premier League,Matchweek 4,Away,L 0–2,West Brom,Southampton,N,FW,31,0,0,0,0,1,1,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,5,0,0,0,/en/matches/39864083/Southampton-West-Bromwich-Albion-October-4-2020-Premier-League
+6,2020-11-21,Sat,Premier League,Matchweek 9,Away,L 0–1,West Brom,Manchester Utd,N,FW,29,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,1,4,0,0,0,/en/matches/50004f43/Manchester-United-West-Bromwich-Albion-November-21-2020-Premier-League
+7,2020-11-28,Sat,Premier League,Matchweek 10,Home,W 1–0,West Brom,Sheffield Utd,N,FW,26,0,0,0,0,1,1,0,0,9,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,1,0,0,/en/matches/bd68404c/West-Bromwich-Albion-Sheffield-United-November-28-2020-Premier-League
+8,2021-01-16,Sat,Premier League,Matchweek 19,Away,W 3–2,West Brom,Wolves,N,FW,22,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,3,0,1,0,/en/matches/93420516/Wolverhampton-Wanderers-West-Bromwich-Albion-January-16-2021-Premier-League
+9,2021-01-19,Tue,Premier League,Matchweek 18,Away,L 1–2,West Brom,West Ham,N,FW,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,6,0,1,0,/en/matches/42daddbb/West-Ham-United-West-Bromwich-Albion-January-19-2021-Premier-League
+10,2021-01-26,Tue,Premier League,Matchweek 20,Home,L 0–5,West Brom,Manchester City,N,FW,27,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,1,0,/en/matches/83f7b656/West-Bromwich-Albion-Manchester-City-January-26-2021-Premier-League
+11,2021-02-02,Tue,Premier League,Matchweek 22,Away,L 1–2,West Brom,Sheffield Utd,N,FW,23,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,1,0,/en/matches/2d3d863d/Sheffield-United-West-Bromwich-Albion-February-2-2021-Premier-League
+12,2021-02-27,Sat,Premier League,Matchweek 26,Home,W 1–0,West Brom,Brighton,N,FW,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,1,1,/en/matches/ff18265a/West-Bromwich-Albion-Brighton-and-Hove-Albion-February-27-2021-Premier-League
+13,2021-03-04,Thu,Premier League,Matchweek 29,Home,L 0–1,West Brom,Everton,N,CM,13,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,3,3,100.0,0,4,0,0,0,/en/matches/ee055741/West-Bromwich-Albion-Everton-March-4-2021-Premier-League
+14,2021-03-07,Sun,Premier League,Matchweek 27,Home,D 0–0,West Brom,Newcastle Utd,N,FW,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,/en/matches/a096c32f/West-Bromwich-Albion-Newcastle-United-March-7-2021-Premier-League
+15,2021-03-13,Sat,Premier League,Matchweek 28,Away,L 0–1,West Brom,Crystal Palace,N,FW,28,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,5,6,83.3,3,6,1,1,1,/en/matches/29954372/Crystal-Palace-West-Bromwich-Albion-March-13-2021-Premier-League
+16,2021-03-27,Sat,Friendlies (M),Friendlies (M),Home,W 1–0,wls Wales,mx Mexico,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/811cb437/Wales-Mexico-March-27-2021-Friendlies-M
+17,2021-04-12,Mon,Premier League,Matchweek 31,Home,W 3–0,West Brom,Southampton,N,FW,15,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,5,0,1,0,/en/matches/3dee3681/West-Bromwich-Albion-Southampton-April-12-2021-Premier-League
+18,2021-04-22,Thu,Premier League,Matchweek 32,Away,L 0–3,West Brom,Leicester City,N,FW,30,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,1,0,1,3,33.3,0,7,0,2,1,/en/matches/be6edfdf/Leicester-City-West-Bromwich-Albion-April-22-2021-Premier-League
+19,2021-05-09,Sun,Premier League,Matchweek 35,Away,L 1–3,West Brom,Arsenal,N,FW,35,0,0,0,0,0,0,1,0,9,0,0,1,0.0,0.0,0.0,1,0,2,4,50.0,1,6,0,0,0,/en/matches/49369ed5/Arsenal-West-Bromwich-Albion-May-9-2021-Premier-League
+20,2021-05-16,Sun,Premier League,Matchweek 36,Home,L 1–2,West Brom,Liverpool,Y,FW,81,1,0,0,0,3,2,0,0,24,0,0,0,0.7,0.7,0.0,1,0,7,10,70.0,1,14,3,2,1,/en/matches/6a834f6e/West-Bromwich-Albion-Liverpool-May-16-2021-Premier-League
+21,2021-05-19,Wed,Premier League,Matchweek 37,Home,L 1–3,West Brom,West Ham,Y,FW,88,0,0,0,0,2,0,0,0,31,0,1,1,0.1,0.1,0.1,3,0,16,21,76.2,3,19,1,2,1,/en/matches/88927a77/West-Bromwich-Albion-West-Ham-United-May-19-2021-Premier-League
+22,2021-05-23,Sun,Premier League,Matchweek 38,Away,L 1–3,West Brom,Leeds United,N,FW,31,1,0,0,0,4,2,0,0,12,1,0,0,0.3,0.3,0.0,1,0,3,4,75.0,1,8,0,0,0,/en/matches/9ade2b5d/Leeds-United-West-Bromwich-Albion-May-23-2021-Premier-League

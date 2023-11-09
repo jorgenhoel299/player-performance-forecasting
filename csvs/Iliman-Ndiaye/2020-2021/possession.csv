@@ -1,7 +1,2 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
-0,2021-02-02,Sun,Matchweek 26,Home,L 0–2,Sheffield Utd,Liverpool,N,"On matchday squad, but did not play",/en/matches/3826d9aa/Sheffield-United-Liverpool-February-28-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-1,2021-02-02,Wed,Matchweek 29,Home,W 1–0,Sheffield Utd,Aston Villa,N,"On matchday squad, but did not play",/en/matches/3a9c1c4d/Sheffield-United-Aston-Villa-March-3-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-2,2021-02-02,Sat,Matchweek 27,Home,L 0–2,Sheffield Utd,Southampton,N,"On matchday squad, but did not play",/en/matches/9d08bb4e/Sheffield-United-Southampton-March-6-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-3,2021-02-02,Sun,Matchweek 28,Away,L 0–5,Sheffield Utd,Leicester City,N,CM,12,7,0,0,4,3,0,7,0,0,,0,,2,26,16,0,0,0,1,0,3,0,/en/matches/d3bc5214/Leicester-City-Sheffield-United-March-14-2021-Premier-League
-4,2021-02-02,Sat,Matchweek 30,Away,L 1–2,Sheffield Utd,Leeds United,N,"On matchday squad, but did not play",/en/matches/c4ed64b9/Leeds-United-Sheffield-United-April-3-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-5,2021-02-02,Sun,Matchweek 31,Home,L 0–3,Sheffield Utd,Arsenal,N,"On matchday squad, but did not play",/en/matches/34395b54/Sheffield-United-Arsenal-April-11-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-03-14,Sun,Premier League,Matchweek 28,Away,L 0–5,Sheffield Utd,Leicester City,N,CM,12,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,/en/matches/d3bc5214/Leicester-City-Sheffield-United-March-14-2021-Premier-League

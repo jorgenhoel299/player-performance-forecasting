@@ -1,5 +1,9 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
-0,2021-02-07,Sun,Matchweek 18,Away,W 2–0,Tottenham,Aston Villa,N,"On matchday squad, but did not play",/en/matches/faf3633c/Aston-Villa-Tottenham-Hotspur-March-21-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-1,2021-02-07,Sun,Matchweek 30,Away,D 2–2,Tottenham,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/7a399858/Newcastle-United-Tottenham-Hotspur-April-4-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-2,2021-02-07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2021-02-07,Sun,Matchweek 38,Away,W 4–2,Tottenham,Leicester City,N,"On matchday squad, but did not play",/en/matches/0d04cd74/Leicester-City-Tottenham-Hotspur-May-23-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-11-26,Thu,Europa Lg,Group stage,Home,W 4–0,eng Tottenham,bg Ludogorets,N,LW,9,0,0,0,0,1,1,0,0,7,0,0,0,0.5,0.5,0.0,1,0,3,4,75.0,0,5,0,0,0,/en/matches/6faf2661/Tottenham-Hotspur-Ludogorets-Razgrad-November-26-2020-Europa-League
+1,2020-12-14,Mon,PL2 — Div. 1,Matchweek 11,Away,L 2–3,Tottenham,Chelsea,Y,AM,85,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4ce48c95/Chelsea-U23-Tottenham-Hotspur-U23-December-14-2020-Premier-League-2----Division-1
+2,2021-01-15,Fri,PL2 — Div. 1,Matchweek 14,Away,W 5–1,Tottenham,Brighton,N,,27,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/1ce2d03e/Brighton-and-Hove-Albion-U23-Tottenham-Hotspur-U23-January-15-2021-Premier-League-2----Division-1
+3,2021-01-29,Fri,PL2 — Div. 1,Matchweek 16,Home,D 1–1,Tottenham,Arsenal,Y,AM,90,0,0,0,1,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b3063f53/Tottenham-Hotspur-U23-Arsenal-U23-January-29-2021-Premier-League-2----Division-1
+4,2021-02-07,Sun,Premier League,Matchweek 23,Home,W 2–0,Tottenham,West Brom,N,LW,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,/en/matches/4a652b81/Tottenham-Hotspur-West-Bromwich-Albion-February-7-2021-Premier-League
+5,2021-02-24,Wed,Europa Lg,Round of 32,Neutral,W 4–0,eng Tottenham,at Wolfsberger AC,N,LW,10,0,1,0,0,1,0,0,0,3,1,0,0,0.1,0.1,0.1,1,1,0,1,0.0,0,3,0,0,0,/en/matches/acfaa840/Tottenham-Hotspur-Wolfsberger-AC-February-24-2021-Europa-League
+6,2021-02-26,Fri,PL2 — Div. 1,Matchweek 20,Home,D 1–1,Tottenham,Blackburn,N,,19,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d93dcc55/Tottenham-Hotspur-U23-Blackburn-Rovers-U23-February-26-2021-Premier-League-2----Division-1
+7,2021-05-07,Fri,PL2 — Div. 1,Matchweek 13,Home,L 1–6,Tottenham,Manchester City,Y,FW,64,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/dce94fba/Tottenham-Hotspur-U23-Manchester-City-U23-May-7-2021-Premier-League-2----Division-1

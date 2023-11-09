@@ -1,28 +1,19 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2020-10-04,Sat,Matchweek 6,Home,D 0–0,Manchester Utd,Chelsea,Y,RW,57,35,31,4,0,0,1,5,0,4,0,3,1,27,0,1,/en/matches/3aaf7c62/Manchester-United-Chelsea-October-24-2020-Premier-League
-1,2020-10-04,Sun,Matchweek 7,Home,L 0–1,Manchester Utd,Arsenal,N,"On matchday squad, but did not play",/en/matches/75dd1359/Manchester-United-Arsenal-November-1-2020-Premier-League,,,,,,,,,,,,,,,,
-2,2020-10-04,Sat,Matchweek 8,Away,W 3–1,Manchester Utd,Everton,Y,RW,81,27,26,1,1,0,0,1,0,0,0,0,0,19,0,1,/en/matches/ab9f408d/Everton-Manchester-United-November-7-2020-Premier-League
-3,2020-10-04,Sat,Matchweek 9,Home,W 1–0,Manchester Utd,West Brom,Y,RW,62,35,33,2,2,0,1,2,0,0,0,0,0,30,0,1,/en/matches/50004f43/Manchester-United-West-Bromwich-Albion-November-21-2020-Premier-League
-4,2020-10-04,Sun,Matchweek 10,Away,W 3–2,Manchester Utd,Southampton,N,"On matchday squad, but did not play",/en/matches/e0a84e7e/Southampton-Manchester-United-November-29-2020-Premier-League,,,,,,,,,,,,,,,,
-5,2020-10-04,Sat,Matchweek 11,Away,W 3–1,Manchester Utd,West Ham,N,RW,29,17,17,0,0,1,0,0,0,0,0,0,0,15,0,1,/en/matches/c2206b97/West-Ham-United-Manchester-United-December-5-2020-Premier-League
-6,2020-10-04,Sat,Matchweek 12,Home,D 0–0,Manchester Utd,Manchester City,N,"On matchday squad, but did not play",/en/matches/85cc70bb/Manchester-Derby-Manchester-United-Manchester-City-December-12-2020-Premier-League,,,,,,,,,,,,,,,,
-7,2020-10-04,Thu,Matchweek 13,Away,W 3–2,Manchester Utd,Sheffield Utd,N,RW,17,9,9,0,0,0,0,0,0,0,0,0,0,5,0,0,/en/matches/3b3cc5f6/Sheffield-United-Manchester-United-December-17-2020-Premier-League
-8,2020-10-04,Sun,Matchweek 14,Home,W 6–2,Manchester Utd,Leeds United,N,"On matchday squad, but did not play",/en/matches/b7ab53b3/Manchester-United-Leeds-United-December-20-2020-Premier-League,,,,,,,,,,,,,,,,
-9,2020-10-04,,,,,,,,,,,,,,,,,,,,,,,,,
-10,2020-10-04,Tue,Matchweek 16,Home,W 1–0,Manchester Utd,Wolves,N,"On matchday squad, but did not play",/en/matches/a8d659e4/Manchester-United-Wolverhampton-Wanderers-December-29-2020-Premier-League,,,,,,,,,,,,,,,,
-11,2020-10-04,Fri,Matchweek 17,Home,W 2–1,Manchester Utd,Aston Villa,N,"On matchday squad, but did not play",/en/matches/0ae3a66d/Manchester-United-Aston-Villa-January-1-2021-Premier-League,,,,,,,,,,,,,,,,
-12,2020-10-04,Tue,Matchweek 1,Away,W 1–0,Manchester Utd,Burnley,N,"On matchday squad, but did not play",/en/matches/2c8aa556/Burnley-Manchester-United-January-12-2021-Premier-League,,,,,,,,,,,,,,,,
-13,2020-10-04,Sun,Matchweek 19,Away,D 0–0,Manchester Utd,Liverpool,N,"On matchday squad, but did not play",/en/matches/7e1384ef/North-West-Derby-Liverpool-Manchester-United-January-17-2021-Premier-League,,,,,,,,,,,,,,,,
-14,2020-10-04,Wed,Matchweek 18,Away,W 2–1,Manchester Utd,Fulham,N,"On matchday squad, but did not play",/en/matches/2a3855db/Fulham-Manchester-United-January-20-2021-Premier-League,,,,,,,,,,,,,,,,
-15,2020-10-04,Wed,Matchweek 20,Home,L 1–2,Manchester Utd,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/6e963555/Manchester-United-Sheffield-United-January-27-2021-Premier-League,,,,,,,,,,,,,,,,
-16,2020-10-04,,,,,,,,,,,,,,,,,,,,,,,,,
-17,2020-10-04,Sun,Matchweek 25,Home,W 3–1,Manchester Utd,Newcastle Utd,N,RW,3,7,7,0,0,0,0,0,0,0,0,0,0,6,0,1,/en/matches/401e0d48/Manchester-United-Newcastle-United-February-21-2021-Premier-League
-18,2020-10-04,,,,,,,,,,,,,,,,,,,,,,,,,
-19,2020-10-04,Sun,Matchweek 31,Away,W 3–1,Manchester Utd,Tottenham,N,"On matchday squad, but did not play",/en/matches/a51d567c/Tottenham-Hotspur-Manchester-United-April-11-2021-Premier-League,,,,,,,,,,,,,,,,
-20,2020-10-04,Sun,Matchweek 32,Home,W 3–1,Manchester Utd,Burnley,N,"On matchday squad, but did not play",/en/matches/3e00561f/Manchester-United-Burnley-April-18-2021-Premier-League,,,,,,,,,,,,,,,,
-21,2020-10-04,Sun,Matchweek 33,Away,D 0–0,Manchester Utd,Leeds United,N,"On matchday squad, but did not play",/en/matches/8422804d/Leeds-United-Manchester-United-April-25-2021-Premier-League,,,,,,,,,,,,,,,,
-22,2020-10-04,Sun,Matchweek 35,Away,W 3–1,Manchester Utd,Aston Villa,N,"On matchday squad, but did not play",/en/matches/c80d17ca/Aston-Villa-Manchester-United-May-9-2021-Premier-League,,,,,,,,,,,,,,,,
-23,2020-10-04,Tue,Matchweek 36,Home,L 1–2,Manchester Utd,Leicester City,Y,"AM,RW",90,51,48,3,0,0,1,2,0,1,1,0,0,40,0,2,/en/matches/855994bf/Manchester-United-Leicester-City-May-11-2021-Premier-League
-24,2020-10-04,Thu,Matchweek 34,Home,L 2–4,Manchester Utd,Liverpool,N,"On matchday squad, but did not play",/en/matches/9f0275a4/North-West-Derby-Manchester-United-Liverpool-May-13-2021-Premier-League,,,,,,,,,,,,,,,,
-25,2020-10-04,Tue,Matchweek 37,Home,D 1–1,Manchester Utd,Fulham,N,"On matchday squad, but did not play",/en/matches/d8018048/Manchester-United-Fulham-May-18-2021-Premier-League,,,,,,,,,,,,,,,,
-26,2020-10-04,Sun,Matchweek 38,Away,W 2–1,Manchester Utd,Wolves,Y,AM,81,52,50,2,1,1,0,0,0,0,0,0,0,46,0,0,/en/matches/2c081c94/Wolverhampton-Wanderers-Manchester-United-May-23-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-22,Tue,EFL Cup,Third round,Away,W 3–0,Manchester Utd,Luton Town,Y,AM,77,1,0,1,1,4,3,0,0,,,0,,,,,,,,,,,,,,,/en/matches/8b6d5b78/Luton-Town-Manchester-United-September-22-2020-EFL-Cup
+1,2020-09-30,Wed,EFL Cup,Fourth round,Away,W 3–0,Manchester Utd,Brighton,Y*,AM,90,1,1,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/310f1db8/Brighton-and-Hove-Albion-Manchester-United-September-30-2020-EFL-Cup
+2,2020-10-17,Sat,Premier League,Matchweek 5,Away,W 4–1,Manchester Utd,Newcastle Utd,Y,RW,89,0,1,0,0,1,1,0,0,72,0,1,2,0.1,0.1,0.1,10,3,61,67,91.0,12,59,5,0,0,/en/matches/0b8239de/Newcastle-United-Manchester-United-October-17-2020-Premier-League
+3,2020-10-24,Sat,Premier League,Matchweek 6,Home,D 0–0,Manchester Utd,Chelsea,Y,RW,57,0,0,0,0,1,1,0,0,39,0,0,0,0.1,0.1,0.1,5,0,27,35,77.1,1,15,2,0,0,/en/matches/3aaf7c62/Manchester-United-Chelsea-October-24-2020-Premier-League
+4,2020-11-04,Wed,Champions Lg,Group stage,Away,L 1–2,eng Manchester Utd,tr Başakşehir,Y,RW,60,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,26,28,92.9,1,17,1,1,0,/en/matches/4efb3cb4/Istanbul-Basaksehir-Manchester-United-November-4-2020-Champions-League
+5,2020-11-07,Sat,Premier League,Matchweek 8,Away,W 3–1,Manchester Utd,Everton,Y,RW,81,0,0,0,0,1,0,0,0,30,1,0,0,0.1,0.1,0.0,1,1,19,27,70.4,1,16,0,0,0,/en/matches/ab9f408d/Everton-Manchester-United-November-7-2020-Premier-League
+6,2020-11-21,Sat,Premier League,Matchweek 9,Home,W 1–0,Manchester Utd,West Brom,Y,RW,62,0,0,0,0,0,0,0,0,37,0,0,1,0.0,0.0,0.1,1,0,30,35,85.7,3,23,0,0,0,/en/matches/50004f43/Manchester-United-West-Bromwich-Albion-November-21-2020-Premier-League
+7,2020-12-05,Sat,Premier League,Matchweek 11,Away,W 3–1,Manchester Utd,West Ham,N,RW,29,0,1,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.5,2,1,15,17,88.2,2,11,1,0,0,/en/matches/c2206b97/West-Ham-United-Manchester-United-December-5-2020-Premier-League
+8,2020-12-17,Thu,Premier League,Matchweek 13,Away,W 3–2,Manchester Utd,Sheffield Utd,N,RW,17,0,0,0,0,1,1,0,0,12,0,0,0,0.1,0.1,0.0,0,0,5,9,55.6,1,10,1,2,1,/en/matches/3b3cc5f6/Sheffield-United-Manchester-United-December-17-2020-Premier-League
+9,2021-01-09,Sat,FA Cup,Third round proper,Home,W 1–0,Manchester Utd,Watford,Y,AM,90,0,0,0,0,4,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/2cccbd68/Manchester-United-Watford-January-9-2021-FA-Cup
+10,2021-02-18,Thu,Europa Lg,Round of 32,Neutral,W 4–0,eng Manchester Utd,es Real Sociedad,N,AM,8,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,2,0,0,0,/en/matches/905b5745/Real-Sociedad-Manchester-United-February-18-2021-Europa-League
+11,2021-02-21,Sun,Premier League,Matchweek 25,Home,W 3–1,Manchester Utd,Newcastle Utd,N,RW,3,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,4,0,0,0,/en/matches/401e0d48/Manchester-United-Newcastle-United-February-21-2021-Premier-League
+12,2021-04-15,Thu,Europa Lg,Quarter-finals,Home,W 2–0,eng Manchester Utd,es Granada,N,RW,18,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,1,5,0,0,0,/en/matches/e0a56f66/Manchester-United-Granada-April-15-2021-Europa-League
+13,2021-04-29,Thu,Europa Lg,Semi-finals,Home,W 6–2,eng Manchester Utd,it Roma,N,LW,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0,/en/matches/8a8090f1/Manchester-United-Roma-April-29-2021-Europa-League
+14,2021-05-06,Thu,Europa Lg,Semi-finals,Away,L 2–3,eng Manchester Utd,it Roma,N,AM,7,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,2,0,6,7,85.7,0,4,0,0,0,/en/matches/8d7537d2/Roma-Manchester-United-May-6-2021-Europa-League
+15,2021-05-11,Tue,Premier League,Matchweek 36,Home,L 1–2,Manchester Utd,Leicester City,Y,"AM,RW",90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,40,51,78.4,0,27,0,1,1,/en/matches/855994bf/Manchester-United-Leicester-City-May-11-2021-Premier-League
+16,2021-05-23,Sun,Premier League,Matchweek 38,Away,W 2–1,Manchester Utd,Wolves,Y,AM,81,1,0,1,1,0,0,0,0,59,0,2,0,0.8,0.0,0.0,1,0,46,52,88.5,3,50,4,0,0,/en/matches/2c081c94/Wolverhampton-Wanderers-Manchester-United-May-23-2021-Premier-League
+17,2021-05-26,Wed,Europa Lg,Final,Away,D 1 (10)–1 (11),eng Manchester Utd,es Villarreal,N,DM,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,/en/matches/efe255bf/Villarreal-Manchester-United-May-26-2021-Europa-League

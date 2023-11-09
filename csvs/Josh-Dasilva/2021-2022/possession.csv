@@ -1,10 +1,11 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
-0,2022-02-09,Sat,Matchweek 26,Away,L 1–2,Brentford,Arsenal,Y,CM,67,26,4,10,12,5,0,26,2,1,50.0,1,50.0,16,93,34,1,0,0,2,2,11,2,/en/matches/401c8cc8/Arsenal-Brentford-February-19-2022-Premier-League
-1,2022-02-09,Sat,Matchweek 27,Home,L 0–2,Brentford,Newcastle Utd,Y,RW,10,4,0,0,2,2,0,4,0,0,,0,,3,10,4,0,0,0,0,0,3,0,/en/matches/fd61d442/Brentford-Newcastle-United-February-26-2022-Premier-League
-2,2022-02-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2022-02-09,Sat,Matchweek 33,Away,W 2–1,Brentford,Watford,N,"On matchday squad, but did not play",/en/matches/3b17352d/Watford-Brentford-April-16-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-4,2022-02-09,Sat,Matchweek 34,Home,D 0–0,Brentford,Tottenham,N,CM,13,5,0,2,1,2,0,5,0,0,,0,,4,23,0,0,0,0,0,0,4,1,/en/matches/9c939b7f/Brentford-Tottenham-Hotspur-April-23-2022-Premier-League
-5,2022-02-09,Mon,Matchweek 35,Away,L 0–3,Brentford,Manchester Utd,N,CM,20,13,0,0,7,6,0,13,1,1,100.0,0,0.0,10,90,79,2,1,0,0,0,12,0,/en/matches/c9b4c96a/Manchester-United-Brentford-May-2-2022-Premier-League
-6,2022-02-09,Sat,Matchweek 36,Home,W 3–0,Brentford,Southampton,N,"LW,RW",23,6,0,0,3,3,1,6,4,1,25.0,3,75.0,4,40,0,0,0,0,0,0,3,2,/en/matches/74a74729/Brentford-Southampton-May-7-2022-Premier-League
-7,2022-02-09,Sun,Matchweek 37,Away,W 3–2,Brentford,Everton,N,"CM,WB",32,17,0,3,3,11,3,17,3,3,100.0,0,0.0,12,149,124,5,3,3,0,1,15,3,/en/matches/1b07c16e/Everton-Brentford-May-15-2022-Premier-League
-8,2022-02-09,Sun,Matchweek 38,Home,L 1–2,Brentford,Leeds United,N,"LM,RM,CM",33,22,2,6,14,2,0,22,0,0,,0,,12,60,43,1,1,0,2,1,10,1,/en/matches/076ca089/Brentford-Leeds-United-May-22-2022-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2022-02-05,Sat,FA Cup,Fourth round proper,Away,L 1–4,Brentford,Everton,N,,19,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/311b1a4c/Everton-Brentford-February-5-2022-FA-Cup
+1,2022-02-09,Wed,Premier League,Matchweek 24,Away,L 0–2,Brentford,Manchester City,N,"CM,FW",29,0,0,0,0,0,0,0,0,14,0,1,1,0.0,0.0,0.0,0,0,8,10,80.0,2,7,0,0,0,/en/matches/3b077554/Manchester-City-Brentford-February-9-2022-Premier-League
+2,2022-02-12,Sat,Premier League,Matchweek 25,Home,D 0–0,Brentford,Crystal Palace,N,CM,30,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,1,0,6,12,50.0,1,6,1,1,1,/en/matches/427597d4/Brentford-Crystal-Palace-February-12-2022-Premier-League
+3,2022-02-19,Sat,Premier League,Matchweek 26,Away,L 1–2,Brentford,Arsenal,Y,CM,67,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.1,2,0,11,14,78.6,3,16,1,2,1,/en/matches/401c8cc8/Arsenal-Brentford-February-19-2022-Premier-League
+4,2022-02-26,Sat,Premier League,Matchweek 27,Home,L 0–2,Brentford,Newcastle Utd,Y,RW,10,0,0,0,0,0,0,0,1,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,/en/matches/fd61d442/Brentford-Newcastle-United-February-26-2022-Premier-League
+5,2022-04-23,Sat,Premier League,Matchweek 34,Home,D 0–0,Brentford,Tottenham,N,CM,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,0,0,0,/en/matches/9c939b7f/Brentford-Tottenham-Hotspur-April-23-2022-Premier-League
+6,2022-05-02,Mon,Premier League,Matchweek 35,Away,L 0–3,Brentford,Manchester Utd,N,CM,20,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,2,0,13,13,100.0,2,10,2,1,1,/en/matches/c9b4c96a/Manchester-United-Brentford-May-2-2022-Premier-League
+7,2022-05-07,Sat,Premier League,Matchweek 36,Home,W 3–0,Brentford,Southampton,N,"LW,RW",23,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,1,0,1,1,100.0,0,4,0,4,1,/en/matches/74a74729/Brentford-Southampton-May-7-2022-Premier-League
+8,2022-05-15,Sun,Premier League,Matchweek 37,Away,W 3–2,Brentford,Everton,N,"CM,WB",32,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,2,0,15,17,88.2,2,12,5,3,3,/en/matches/1b07c16e/Everton-Brentford-May-15-2022-Premier-League
+9,2022-05-22,Sun,Premier League,Matchweek 38,Home,L 1–2,Brentford,Leeds United,N,"LM,RM,CM",33,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,1,12,1,0,0,/en/matches/076ca089/Brentford-Leeds-United-May-22-2022-Premier-League

@@ -1,35 +1,36 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,
-1,2019-08-10,Sat,Matchweek 5,Away,W 1–0,Southampton,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/e5f9905d/Sheffield-United-Southampton-September-14-2019-Premier-League,,,,,,,,,,,,,,,
-2,2019-08-10,Fri,Matchweek 6,Home,L 1–3,Southampton,Bournemouth,N,LB,45,3,3,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/ebbb65f5/Southampton-Bournemouth-September-20-2019-Premier-League
-3,2019-08-10,Sat,Matchweek 7,Away,L 1–2,Southampton,Tottenham,Y,"WB,LB",90,4,1,2,0,0,1,0,0,0,0,0,0,0,0,/en/matches/23ec5db0/Tottenham-Hotspur-Southampton-September-28-2019-Premier-League
-4,2019-08-10,Sun,Matchweek 8,Home,L 1–4,Southampton,Chelsea,Y,LB,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/078b24d4/Southampton-Chelsea-October-6-2019-Premier-League
-5,2019-08-10,Sat,Matchweek 9,Away,D 1–1,Southampton,Wolves,Y,WB,90,5,4,1,0,0,0,0,0,0,0,0,0,0,0,/en/matches/644a3723/Wolverhampton-Wanderers-Southampton-October-19-2019-Premier-League
-6,2019-08-10,Fri,Matchweek 10,Home,L 0–9,Southampton,Leicester City,Y,WB,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/3e9712d7/Southampton-Leicester-City-October-25-2019-Premier-League
-7,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,
-8,2019-08-10,Sat,Matchweek 13,Away,D 2–2,Southampton,Arsenal,Y,LB,90,2,1,1,0,0,0,0,1,0,1,0,0,0,0,/en/matches/19a8b14e/Arsenal-Southampton-November-23-2019-Premier-League
-9,2019-08-10,Sat,Matchweek 14,Home,W 2–1,Southampton,Watford,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/3f1fdbad/Southampton-Watford-November-30-2019-Premier-League
-10,2019-08-10,Wed,Matchweek 15,Home,W 2–1,Southampton,Norwich City,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/367829b6/Southampton-Norwich-City-December-4-2019-Premier-League
-11,2019-08-10,Sun,Matchweek 16,Away,L 1–2,Southampton,Newcastle Utd,Y,LB,90,3,1,1,0,1,0,0,0,0,0,0,0,0,0,/en/matches/5d9f7fe3/Newcastle-United-Southampton-December-8-2019-Premier-League
-12,2019-08-10,Sat,Matchweek 17,Home,L 0–1,Southampton,West Ham,Y,"LB,CB",90,1,0,1,0,0,0,0,0,0,0,0,0,0,0,/en/matches/a47901a8/Southampton-West-Ham-United-December-14-2019-Premier-League
-13,2019-08-10,Sat,Matchweek 18,Away,W 3–1,Southampton,Aston Villa,Y,LB,90,2,1,1,0,0,0,0,0,0,0,0,0,0,0,/en/matches/d50390a8/Aston-Villa-Southampton-December-21-2019-Premier-League
-14,2019-08-10,Thu,Matchweek 19,Away,W 2–0,Southampton,Chelsea,Y,LB,90,1,0,0,0,0,1,0,0,0,0,0,0,0,0,/en/matches/d9a73d72/Chelsea-Southampton-December-26-2019-Premier-League
-15,2019-08-10,Sat,Matchweek 20,Home,D 1–1,Southampton,Crystal Palace,Y,LB,90,2,1,1,0,0,0,0,0,0,0,0,0,0,0,/en/matches/a8ab1213/Southampton-Crystal-Palace-December-28-2019-Premier-League
-16,2019-08-10,Wed,Matchweek 21,Home,W 1–0,Southampton,Tottenham,Y,LB,90,3,3,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/ce2fad1e/Southampton-Tottenham-Hotspur-January-1-2020-Premier-League
-17,2019-08-10,Sat,Matchweek 22,Away,W 2–1,Southampton,Leicester City,Y,LB,90,5,3,2,0,0,0,0,0,0,0,0,0,0,0,/en/matches/bf752bf7/Leicester-City-Southampton-January-11-2020-Premier-League
-18,2019-08-10,Sat,Matchweek 23,Home,L 2–3,Southampton,Wolves,Y,LB,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/9d6674f8/Southampton-Wolverhampton-Wanderers-January-18-2020-Premier-League
-19,2019-08-10,Tue,Matchweek 24,Away,W 2–0,Southampton,Crystal Palace,Y,LB,90,3,1,2,0,0,0,0,0,0,0,0,0,0,0,/en/matches/003ce1e3/Crystal-Palace-Southampton-January-21-2020-Premier-League
-20,2019-08-10,Sat,Matchweek 25,Away,L 0–4,Southampton,Liverpool,Y,LB,90,5,5,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/ab9e9e23/Liverpool-Southampton-February-1-2020-Premier-League
-21,2019-08-10,Sat,Matchweek 26,Home,L 1–2,Southampton,Burnley,Y,"LB,CB",90,5,5,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/738ade70/Southampton-Burnley-February-15-2020-Premier-League
-22,2019-08-10,Sat,Matchweek 27,Home,W 2–0,Southampton,Aston Villa,Y,LB,90,5,3,1,0,0,1,0,0,0,0,0,0,0,0,/en/matches/66823ac4/Southampton-Aston-Villa-February-22-2020-Premier-League
-23,2019-08-10,Sat,Matchweek 28,Away,L 1–3,Southampton,West Ham,Y,"LB,WB",90,3,1,2,0,0,0,0,0,0,0,0,0,0,0,/en/matches/2cb790f2/West-Ham-United-Southampton-February-29-2020-Premier-League
-24,2019-08-10,Sat,Matchweek 29,Home,L 0–1,Southampton,Newcastle Utd,Y,LB,90,2,1,1,0,0,0,0,0,0,0,0,0,0,0,/en/matches/947a04e9/Southampton-Newcastle-United-March-7-2020-Premier-League
-25,2019-08-10,Fri,Matchweek 30,Away,W 3–0,Southampton,Norwich City,Y,LB,90,4,3,1,0,0,0,0,0,0,0,0,0,0,0,/en/matches/d659cbdf/Norwich-City-Southampton-June-19-2020-Premier-League
-26,2019-08-10,Thu,Matchweek 31,Home,L 0–2,Southampton,Arsenal,Y,LB,90,3,2,1,0,0,0,0,0,0,0,0,0,0,0,/en/matches/38757aa1/Southampton-Arsenal-June-25-2020-Premier-League
-27,2019-08-10,Sun,Matchweek 32,Away,W 3–1,Southampton,Watford,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/37720dc3/Watford-Southampton-June-28-2020-Premier-League
-28,2019-08-10,Sun,Matchweek 33,Home,W 1–0,Southampton,Manchester City,Y,LB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/260c5c31/Southampton-Manchester-City-July-5-2020-Premier-League
-29,2019-08-10,Thu,Matchweek 34,Away,D 1–1,Southampton,Everton,Y,LB,90,3,3,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/1357ee3b/Everton-Southampton-July-9-2020-Premier-League
-30,2019-08-10,Mon,Matchweek 35,Away,D 2–2,Southampton,Manchester Utd,Y,LB,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/668c9423/Manchester-United-Southampton-July-13-2020-Premier-League
-31,2019-08-10,Thu,Matchweek 36,Home,D 1–1,Southampton,Brighton,N,"On matchday squad, but did not play",/en/matches/793f900e/Southampton-Brighton-and-Hove-Albion-July-16-2020-Premier-League,,,,,,,,,,,,,,,
-32,2019-08-10,Sun,Matchweek 37,Away,W 2–0,Southampton,Bournemouth,Y,LB,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/bbd4160f/Bournemouth-Southampton-July-19-2020-Premier-League
-33,2019-08-10,Sun,Matchweek 38,Home,W 3–1,Southampton,Sheffield Utd,Y,LB,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/3e5b45b7/Southampton-Sheffield-United-July-26-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-10,Sat,Premier League,Matchweek 1,Away,L 0–3,Southampton,Burnley,Y,"WB,LB",90,0,0,0,0,1,0,0,0,51,1,1,1,0.1,0.1,0.0,1,0,28,40,70.0,5,19,2,1,1,/en/matches/34b99058/Burnley-Southampton-August-10-2019-Premier-League
+1,2019-08-17,Sat,Premier League,Matchweek 2,Home,L 1–2,Southampton,Liverpool,Y,WB,76,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,22,36,61.1,4,13,3,0,0,/en/matches/b2a48847/Southampton-Liverpool-August-17-2019-Premier-League
+2,2019-09-20,Fri,Premier League,Matchweek 6,Home,L 1–3,Southampton,Bournemouth,N,LB,45,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.2,3,0,25,29,86.2,4,16,1,0,0,/en/matches/ebbb65f5/Southampton-Bournemouth-September-20-2019-Premier-League
+3,2019-09-24,Tue,EFL Cup,Third round,Away,W 4–0,Southampton,Portsmouth,Y,LB,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/5f8e6b6f/Portsmouth-Southampton-September-24-2019-EFL-Cup
+4,2019-09-28,Sat,Premier League,Matchweek 7,Away,L 1–2,Southampton,Tottenham,Y,"WB,LB",90,0,0,0,0,0,0,0,0,88,2,3,0,0.0,0.0,0.2,4,0,59,76,77.6,4,46,7,1,0,/en/matches/23ec5db0/Tottenham-Hotspur-Southampton-September-28-2019-Premier-League
+5,2019-10-06,Sun,Premier League,Matchweek 8,Home,L 1–4,Southampton,Chelsea,Y,LB,90,0,0,0,0,0,0,0,0,48,2,1,0,0.0,0.0,0.0,2,0,21,41,51.2,2,22,0,1,1,/en/matches/078b24d4/Southampton-Chelsea-October-6-2019-Premier-League
+6,2019-10-19,Sat,Premier League,Matchweek 9,Away,D 1–1,Southampton,Wolves,Y,WB,90,0,0,0,0,1,0,1,0,67,0,2,3,0.0,0.0,0.1,5,0,43,52,82.7,6,30,3,1,0,/en/matches/644a3723/Wolverhampton-Wanderers-Southampton-October-19-2019-Premier-League
+7,2019-10-25,Fri,Premier League,Matchweek 10,Home,L 0–9,Southampton,Leicester City,Y,WB,11,0,0,0,0,0,0,0,1,7,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,0,0,/en/matches/3e9712d7/Southampton-Leicester-City-October-25-2019-Premier-League
+8,2019-11-23,Sat,Premier League,Matchweek 13,Away,D 2–2,Southampton,Arsenal,Y,LB,90,0,1,0,0,0,0,1,0,52,3,2,1,0.0,0.0,0.1,2,1,33,44,75.0,3,18,2,0,0,/en/matches/19a8b14e/Arsenal-Southampton-November-23-2019-Premier-League
+9,2019-11-30,Sat,Premier League,Matchweek 14,Home,W 2–1,Southampton,Watford,Y,LB,90,0,0,0,0,0,0,0,0,91,1,3,1,0.0,0.0,0.0,0,0,64,80,80.0,10,44,6,1,0,/en/matches/3f1fdbad/Southampton-Watford-November-30-2019-Premier-League
+10,2019-12-04,Wed,Premier League,Matchweek 15,Home,W 2–1,Southampton,Norwich City,Y,LB,90,1,0,0,0,1,1,0,0,54,0,2,0,0.6,0.6,0.0,0,0,33,48,68.8,3,17,3,0,0,/en/matches/367829b6/Southampton-Norwich-City-December-4-2019-Premier-League
+11,2019-12-08,Sun,Premier League,Matchweek 16,Away,L 1–2,Southampton,Newcastle Utd,Y,LB,90,0,0,0,0,3,0,0,0,65,3,1,2,0.6,0.6,0.0,3,0,35,49,71.4,4,22,4,0,0,/en/matches/5d9f7fe3/Newcastle-United-Southampton-December-8-2019-Premier-League
+12,2019-12-14,Sat,Premier League,Matchweek 17,Home,L 0–1,Southampton,West Ham,Y,"LB,CB",90,0,0,0,0,0,0,0,0,52,1,1,0,0.0,0.0,0.0,1,0,36,47,76.6,5,27,1,0,0,/en/matches/a47901a8/Southampton-West-Ham-United-December-14-2019-Premier-League
+13,2019-12-21,Sat,Premier League,Matchweek 18,Away,W 3–1,Southampton,Aston Villa,Y,LB,90,0,0,0,0,1,0,0,0,37,0,0,1,0.1,0.1,0.8,2,0,18,36,50.0,2,12,1,0,0,/en/matches/d50390a8/Aston-Villa-Southampton-December-21-2019-Premier-League
+14,2019-12-26,Thu,Premier League,Matchweek 19,Away,W 2–0,Southampton,Chelsea,Y,LB,90,0,0,0,0,0,0,1,0,59,2,1,1,0.0,0.0,0.0,1,0,26,45,57.8,4,21,2,1,0,/en/matches/d9a73d72/Chelsea-Southampton-December-26-2019-Premier-League
+15,2019-12-28,Sat,Premier League,Matchweek 20,Home,D 1–1,Southampton,Crystal Palace,Y,LB,90,0,0,0,0,0,0,0,0,68,2,1,0,0.0,0.0,0.0,2,0,48,61,78.7,1,43,2,1,1,/en/matches/a8ab1213/Southampton-Crystal-Palace-December-28-2019-Premier-League
+16,2020-01-01,Wed,Premier League,Matchweek 21,Home,W 1–0,Southampton,Tottenham,Y,LB,90,0,0,0,0,1,0,0,0,47,1,0,2,0.0,0.0,0.0,3,0,29,39,74.4,3,21,1,0,0,/en/matches/ce2fad1e/Southampton-Tottenham-Hotspur-January-1-2020-Premier-League
+17,2020-01-11,Sat,Premier League,Matchweek 22,Away,W 2–1,Southampton,Leicester City,Y,LB,90,0,0,0,0,0,0,0,0,59,2,4,0,0.0,0.0,0.6,5,0,27,45,60.0,3,18,2,3,0,/en/matches/bf752bf7/Leicester-City-Southampton-January-11-2020-Premier-League
+18,2020-01-18,Sat,Premier League,Matchweek 23,Home,L 2–3,Southampton,Wolves,Y,LB,90,0,0,0,0,0,0,0,0,78,0,3,0,0.0,0.0,0.1,2,0,49,70,70.0,1,30,4,1,0,/en/matches/9d6674f8/Southampton-Wolverhampton-Wanderers-January-18-2020-Premier-League
+19,2020-01-21,Tue,Premier League,Matchweek 24,Away,W 2–0,Southampton,Crystal Palace,Y,LB,90,0,0,0,0,1,0,0,0,77,5,1,2,0.0,0.0,0.1,3,0,44,61,72.1,7,31,2,0,0,/en/matches/003ce1e3/Crystal-Palace-Southampton-January-21-2020-Premier-League
+20,2020-01-25,Sat,FA Cup,Fourth round,Home,D 1–1,Southampton,Tottenham,Y,LB,90,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,/en/matches/ed614e15/Southampton-Tottenham-Hotspur-January-25-2020-FA-Cup
+21,2020-02-01,Sat,Premier League,Matchweek 25,Away,L 0–4,Southampton,Liverpool,Y,LB,90,0,0,0,0,0,0,0,0,55,2,1,2,0.0,0.0,0.0,5,0,37,47,78.7,10,24,3,1,1,/en/matches/ab9e9e23/Liverpool-Southampton-February-1-2020-Premier-League
+22,2020-02-05,Wed,FA Cup,Fourth round,Away,L 2–3,Southampton,Tottenham,Y,LB,90,0,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/eb64465e/Tottenham-Hotspur-Southampton-February-5-2020-FA-Cup
+23,2020-02-15,Sat,Premier League,Matchweek 26,Home,L 1–2,Southampton,Burnley,Y,"LB,CB",90,0,0,0,0,1,0,0,0,80,2,1,0,0.1,0.1,0.3,5,0,59,73,80.8,9,43,4,1,0,/en/matches/738ade70/Southampton-Burnley-February-15-2020-Premier-League
+24,2020-02-22,Sat,Premier League,Matchweek 27,Home,W 2–0,Southampton,Aston Villa,Y,LB,90,0,0,0,0,3,1,0,0,62,1,0,0,0.1,0.1,0.1,5,0,38,54,70.4,4,20,1,2,1,/en/matches/66823ac4/Southampton-Aston-Villa-February-22-2020-Premier-League
+25,2020-02-29,Sat,Premier League,Matchweek 28,Away,L 1–3,Southampton,West Ham,Y,"LB,WB",90,0,0,0,0,1,1,0,0,78,3,0,0,0.0,0.0,0.0,3,0,51,66,77.3,3,34,2,3,2,/en/matches/2cb790f2/West-Ham-United-Southampton-February-29-2020-Premier-League
+26,2020-03-07,Sat,Premier League,Matchweek 29,Home,L 0–1,Southampton,Newcastle Utd,Y,LB,90,0,0,0,0,0,0,0,0,62,1,1,4,0.0,0.0,0.4,2,0,35,52,67.3,1,19,0,1,1,/en/matches/947a04e9/Southampton-Newcastle-United-March-7-2020-Premier-League
+27,2020-06-19,Fri,Premier League,Matchweek 30,Away,W 3–0,Southampton,Norwich City,Y,LB,90,0,0,0,0,3,0,0,0,66,4,1,0,0.1,0.1,0.1,4,0,41,53,77.4,2,33,0,3,1,/en/matches/d659cbdf/Norwich-City-Southampton-June-19-2020-Premier-League
+28,2020-06-25,Thu,Premier League,Matchweek 31,Home,L 0–2,Southampton,Arsenal,Y,LB,90,0,0,0,0,0,0,0,0,87,3,0,1,0.0,0.0,0.1,3,0,60,80,75.0,6,48,0,0,0,/en/matches/38757aa1/Southampton-Arsenal-June-25-2020-Premier-League
+29,2020-06-28,Sun,Premier League,Matchweek 32,Away,W 3–1,Southampton,Watford,Y,LB,90,0,0,0,0,0,0,0,0,76,1,0,1,0.0,0.0,0.0,0,0,50,68,73.5,1,29,1,0,0,/en/matches/37720dc3/Watford-Southampton-June-28-2020-Premier-League
+30,2020-07-05,Sun,Premier League,Matchweek 33,Home,W 1–0,Southampton,Manchester City,Y,LB,90,0,0,0,0,0,0,0,0,43,3,2,1,0.0,0.0,0.0,0,0,21,34,61.8,0,15,0,0,0,/en/matches/260c5c31/Southampton-Manchester-City-July-5-2020-Premier-League
+31,2020-07-09,Thu,Premier League,Matchweek 34,Away,D 1–1,Southampton,Everton,Y,LB,90,0,0,0,0,0,0,0,0,77,0,2,1,0.0,0.0,0.1,3,0,57,72,79.2,9,54,7,0,0,/en/matches/1357ee3b/Everton-Southampton-July-9-2020-Premier-League
+32,2020-07-13,Mon,Premier League,Matchweek 35,Away,D 2–2,Southampton,Manchester Utd,Y,LB,90,0,0,0,0,0,0,0,0,73,0,0,2,0.0,0.0,0.0,1,0,53,68,77.9,3,33,4,0,0,/en/matches/668c9423/Manchester-United-Southampton-July-13-2020-Premier-League
+33,2020-07-19,Sun,Premier League,Matchweek 37,Away,W 2–0,Southampton,Bournemouth,Y,LB,90,0,0,0,0,1,0,0,0,67,1,3,1,0.1,0.1,0.1,2,0,42,57,73.7,3,28,3,2,2,/en/matches/bbd4160f/Bournemouth-Southampton-July-19-2020-Premier-League
+34,2020-07-26,Sun,Premier League,Matchweek 38,Home,W 3–1,Southampton,Sheffield Utd,Y,LB,90,0,0,0,0,0,0,0,0,75,0,0,0,0.0,0.0,0.0,1,0,64,75,85.3,8,56,7,0,0,/en/matches/3e5b45b7/Southampton-Sheffield-United-July-26-2020-Premier-League

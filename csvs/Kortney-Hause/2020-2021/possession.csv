@@ -1,18 +1,13 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
-0,2020-09-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-09-21,Sat,Matchweek 12,Away,W 1–0,Aston Villa,Wolves,N,"On matchday squad, but did not play",/en/matches/f809a014/Wolverhampton-Wanderers-Aston-Villa-December-12-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-2,2020-09-21,Thu,Matchweek 13,Home,D 0–0,Aston Villa,Burnley,Y,CB,90,42,5,20,20,2,2,42,0,0,,0,,9,35,14,0,0,0,1,0,12,0,/en/matches/5d89f60c/Aston-Villa-Burnley-December-17-2020-Premier-League
-3,2020-09-21,Sun,Matchweek 14,Away,W 3–0,Aston Villa,West Brom,Y,CB,90,65,5,32,32,2,1,65,0,0,,0,,41,177,70,0,0,0,0,0,39,0,/en/matches/4bbe55ff/West-Bromwich-Albion-Aston-Villa-December-20-2020-Premier-League
-4,2020-09-21,Sat,Matchweek 15,Home,W 3–0,Aston Villa,Crystal Palace,Y,CB,90,39,10,20,16,3,3,39,0,0,,0,,9,38,6,0,0,0,0,0,9,0,/en/matches/537b6ef8/Aston-Villa-Crystal-Palace-December-26-2020-Premier-League
-5,2020-09-21,Mon,Matchweek 16,Away,D 1–1,Aston Villa,Chelsea,Y,CB,90,45,6,25,18,2,1,45,0,0,,0,,34,191,78,0,1,0,0,0,30,0,/en/matches/ac7d1071/Chelsea-Aston-Villa-December-28-2020-Premier-League
-6,2020-09-21,Fri,Matchweek 17,Away,L 1–2,Aston Villa,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/0ae3a66d/Manchester-United-Aston-Villa-January-1-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-7,2020-09-21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2020-09-21,Sat,Matchweek 31,Away,L 1–2,Aston Villa,Liverpool,N,"On matchday squad, but did not play",/en/matches/20bdebdc/Liverpool-Aston-Villa-April-10-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-9,2020-09-21,Wed,Matchweek 32,Home,L 1–2,Aston Villa,Manchester City,N,"On matchday squad, but did not play",/en/matches/ac46a079/Aston-Villa-Manchester-City-April-21-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-10,2020-09-21,Sun,Matchweek 33,Home,D 2–2,Aston Villa,West Brom,N,"On matchday squad, but did not play",/en/matches/2ab535fa/Aston-Villa-West-Bromwich-Albion-April-25-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-11,2020-09-21,Sat,Matchweek 34,Away,W 2–1,Aston Villa,Everton,N,"On matchday squad, but did not play",/en/matches/2452619d/Everton-Aston-Villa-May-1-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-12,2020-09-21,Sun,Matchweek 35,Home,L 1–3,Aston Villa,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/c80d17ca/Aston-Villa-Manchester-United-May-9-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-13,2020-09-21,Thu,Matchweek 19,Home,D 0–0,Aston Villa,Everton,N,"On matchday squad, but did not play",/en/matches/b5b24fd8/Aston-Villa-Everton-May-13-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-14,2020-09-21,Sun,Matchweek 36,Away,L 2–3,Aston Villa,Crystal Palace,Y,CB,90,47,10,28,17,3,2,47,0,0,,0,,23,159,95,1,1,0,0,0,20,0,/en/matches/7b21d5b9/Crystal-Palace-Aston-Villa-May-16-2021-Premier-League
-15,2020-09-21,Wed,Matchweek 37,Away,W 2–1,Aston Villa,Tottenham,Y,CB,90,38,7,22,16,0,0,38,0,0,,0,,18,100,69,0,0,0,0,0,16,0,/en/matches/d4273555/Tottenham-Hotspur-Aston-Villa-May-19-2021-Premier-League
-16,2020-09-21,Sun,Matchweek 38,Home,W 2–1,Aston Villa,Chelsea,Y,CB,90,38,16,33,5,0,0,38,0,0,,0,,12,76,27,0,0,0,0,0,13,0,/en/matches/0143966a/Aston-Villa-Chelsea-May-23-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-15,Tue,EFL Cup,Second round,Away,W 3–1,Aston Villa,Burton Albion,Y,CB,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/84027e41/Burton-Albion-Aston-Villa-September-15-2020-EFL-Cup
+1,2020-09-24,Thu,EFL Cup,Third round,Away,W 3–0,Aston Villa,Bristol City,Y,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/c92b74a3/Bristol-City-Aston-Villa-September-24-2020-EFL-Cup
+2,2020-10-01,Thu,EFL Cup,Fourth round,Home,L 0–1,Aston Villa,Stoke City,Y,CB,57,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/8f27b32d/Aston-Villa-Stoke-City-October-1-2020-EFL-Cup
+3,2020-12-13,Sun,PL2 — Div. 2,Matchweek 11,Away,L 2–3,Aston Villa,Leeds United,Y,CB,63,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/1621e527/Leeds-United-U23-Aston-Villa-U23-December-13-2020-Premier-League-2----Division-2
+4,2020-12-17,Thu,Premier League,Matchweek 13,Home,D 0–0,Aston Villa,Burnley,Y,CB,90,0,0,0,0,1,0,0,0,42,0,1,1,0.1,0.1,0.0,1,0,21,32,65.6,2,9,0,0,0,/en/matches/5d89f60c/Aston-Villa-Burnley-December-17-2020-Premier-League
+5,2020-12-20,Sun,Premier League,Matchweek 14,Away,W 3–0,Aston Villa,West Brom,Y,CB,90,0,0,0,0,0,0,1,0,65,2,1,0,0.0,0.0,0.0,0,0,48,55,87.3,3,41,0,0,0,/en/matches/4bbe55ff/West-Bromwich-Albion-Aston-Villa-December-20-2020-Premier-League
+6,2020-12-26,Sat,Premier League,Matchweek 15,Home,W 3–0,Aston Villa,Crystal Palace,Y,CB,90,1,0,0,0,1,1,0,0,39,0,1,1,0.8,0.8,0.0,0,0,12,20,60.0,0,9,0,0,0,/en/matches/537b6ef8/Aston-Villa-Crystal-Palace-December-26-2020-Premier-League
+7,2020-12-28,Mon,Premier League,Matchweek 16,Away,D 1–1,Aston Villa,Chelsea,Y,CB,90,0,0,0,0,1,0,0,0,45,1,2,0,0.1,0.1,0.0,0,0,25,34,73.5,1,34,0,0,0,/en/matches/ac7d1071/Chelsea-Aston-Villa-December-28-2020-Premier-League
+8,2021-04-16,Fri,PL2 — Div. 2,Matchweek 24,Home,L 1–2,Aston Villa,Leeds United,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b1e28293/Aston-Villa-U23-Leeds-United-U23-April-16-2021-Premier-League-2----Division-2
+9,2021-05-16,Sun,Premier League,Matchweek 36,Away,L 2–3,Aston Villa,Crystal Palace,Y,CB,90,0,0,0,0,2,0,1,0,47,0,0,1,0.1,0.1,0.0,0,0,25,37,67.6,3,23,1,0,0,/en/matches/7b21d5b9/Crystal-Palace-Aston-Villa-May-16-2021-Premier-League
+10,2021-05-19,Wed,Premier League,Matchweek 37,Away,W 2–1,Aston Villa,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,38,1,1,1,0.0,0.0,0.0,0,0,26,32,81.3,1,18,0,0,0,/en/matches/d4273555/Tottenham-Hotspur-Aston-Villa-May-19-2021-Premier-League
+11,2021-05-23,Sun,Premier League,Matchweek 38,Home,W 2–1,Aston Villa,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,38,0,2,0,0.0,0.0,0.0,0,0,16,22,72.7,0,12,0,0,0,/en/matches/0143966a/Aston-Villa-Chelsea-May-23-2021-Premier-League

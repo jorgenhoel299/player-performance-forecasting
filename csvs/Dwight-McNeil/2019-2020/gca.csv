@@ -1,37 +1,41 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2019-08-10,Sun,Matchweek 3,Away,D 1–1,Burnley,Wolves,Y,LM,85,3,2,0,0,1,0,0,1,1,0,0,0,0,0,/en/matches/16119ef2/Wolverhampton-Wanderers-Burnley-August-25-2019-Premier-League
-1,2019-08-10,Sat,Matchweek 4,Home,L 0–3,Burnley,Liverpool,Y,LM,90,2,1,1,0,0,0,0,0,0,0,0,0,0,0,/en/matches/af072d61/Burnley-Liverpool-August-31-2019-Premier-League
-2,2019-08-10,Sat,Matchweek 5,Away,D 1–1,Burnley,Brighton,Y,LM,90,4,3,1,0,0,0,0,1,1,0,0,0,0,0,/en/matches/1d3bbc27/Brighton-and-Hove-Albion-Burnley-September-14-2019-Premier-League
-3,2019-08-10,Sat,Matchweek 6,Home,W 2–0,Burnley,Norwich City,Y,LM,78,4,3,0,1,0,0,0,1,1,0,0,0,0,0,/en/matches/f97b0ce8/Burnley-Norwich-City-September-21-2019-Premier-League
-4,2019-08-10,Sat,Matchweek 7,Away,D 2–2,Burnley,Aston Villa,Y,"LM,CM",90,3,1,2,0,0,0,0,0,0,0,0,0,0,0,/en/matches/37a51188/Aston-Villa-Burnley-September-28-2019-Premier-League
-5,2019-08-10,Sat,Matchweek 8,Home,W 1–0,Burnley,Everton,Y,LM,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/2f9439d0/Burnley-Everton-October-5-2019-Premier-League
-6,2019-08-10,Sat,Matchweek 9,Away,L 1–2,Burnley,Leicester City,Y,"RM,LM",90,1,1,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/3529c097/Leicester-City-Burnley-October-19-2019-Premier-League
-7,2019-08-10,Sat,Matchweek 10,Home,L 2–4,Burnley,Chelsea,Y,"LM,RM",90,5,3,1,0,1,0,0,1,1,0,0,0,0,0,/en/matches/082dc9ef/Burnley-Chelsea-October-26-2019-Premier-League
-8,2019-08-10,Sat,Matchweek 11,Away,L 0–3,Burnley,Sheffield Utd,Y,LM,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/21606115/Sheffield-United-Burnley-November-2-2019-Premier-League
-9,2019-08-10,Sat,Matchweek 12,Home,W 3–0,Burnley,West Ham,Y,"LM,LW",90,6,2,3,1,0,0,0,3,1,1,1,0,0,0,/en/matches/559f666e/Burnley-West-Ham-United-November-9-2019-Premier-League
-10,2019-08-10,Sat,Matchweek 13,Away,W 3–0,Burnley,Watford,Y,LM,90,2,1,1,0,0,0,0,0,0,0,0,0,0,0,/en/matches/d4aea4c0/Watford-Burnley-November-23-2019-Premier-League
-11,2019-08-10,Sat,Matchweek 14,Home,L 0–2,Burnley,Crystal Palace,Y,LM,90,5,0,3,0,1,1,0,0,0,0,0,0,0,0,/en/matches/86428aca/Burnley-Crystal-Palace-November-30-2019-Premier-League
-12,2019-08-10,Tue,Matchweek 15,Home,L 1–4,Burnley,Manchester City,Y,LM,74,1,0,0,0,1,0,0,0,0,0,0,0,0,0,/en/matches/4d718594/Burnley-Manchester-City-December-3-2019-Premier-League
-13,2019-08-10,Sat,Matchweek 16,Away,L 0–5,Burnley,Tottenham,Y,"RM,LM",90,3,3,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/56da163b/Tottenham-Hotspur-Burnley-December-7-2019-Premier-League
-14,2019-08-10,Sat,Matchweek 17,Home,W 1–0,Burnley,Newcastle Utd,Y,LM,90,2,1,1,0,0,0,0,0,0,0,0,0,0,0,/en/matches/4c3c57fa/Burnley-Newcastle-United-December-14-2019-Premier-League
-15,2019-08-10,Sat,Matchweek 18,Away,W 1–0,Burnley,Bournemouth,Y,LM,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/e8b74ca0/Bournemouth-Burnley-December-21-2019-Premier-League
-16,2019-08-10,Thu,Matchweek 19,Away,L 0–1,Burnley,Everton,Y,"LM,RM",90,3,1,2,0,0,0,0,0,0,0,0,0,0,0,/en/matches/b23c6c90/Everton-Burnley-December-26-2019-Premier-League
-17,2019-08-10,Sat,Matchweek 20,Home,L 0–2,Burnley,Manchester Utd,Y,"LM,CM",90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/f66bbb03/Burnley-Manchester-United-December-28-2019-Premier-League
-18,2019-08-10,Wed,Matchweek 21,Home,L 1–2,Burnley,Aston Villa,Y,LM,90,5,4,0,1,0,0,0,0,0,0,0,0,0,0,/en/matches/ac409026/Burnley-Aston-Villa-January-1-2020-Premier-League
-19,2019-08-10,Sat,Matchweek 22,Away,L 0–3,Burnley,Chelsea,Y,LM,90,2,0,1,0,1,0,0,0,0,0,0,0,0,0,/en/matches/17a5a8ef/Chelsea-Burnley-January-11-2020-Premier-League
-20,2019-08-10,Sun,Matchweek 23,Home,W 2–1,Burnley,Leicester City,Y,LM,90,4,2,1,0,0,1,0,0,0,0,0,0,0,0,/en/matches/bd102a2b/Burnley-Leicester-City-January-19-2020-Premier-League
-21,2019-08-10,Wed,Matchweek 24,Away,W 2–0,Burnley,Manchester Utd,Y,LM,90,1,0,1,0,0,0,0,0,0,0,0,0,0,0,/en/matches/709e2aa4/Manchester-United-Burnley-January-22-2020-Premier-League
-22,2019-08-10,Sun,Matchweek 25,Home,D 0–0,Burnley,Arsenal,Y,LM,90,5,5,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/a6b40849/Burnley-Arsenal-February-2-2020-Premier-League
-23,2019-08-10,Sat,Matchweek 26,Away,W 2–1,Burnley,Southampton,Y,LM,90,3,2,0,1,0,0,0,0,0,0,0,0,0,0,/en/matches/738ade70/Southampton-Burnley-February-15-2020-Premier-League
-24,2019-08-10,Sat,Matchweek 27,Home,W 3–0,Burnley,Bournemouth,Y,LM,89,5,4,1,0,0,0,0,1,1,0,0,0,0,0,/en/matches/bcdc3fb0/Burnley-Bournemouth-February-22-2020-Premier-League
-25,2019-08-10,Sat,Matchweek 28,Away,D 0–0,Burnley,Newcastle Utd,Y,"LM,RM",90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/5d623dc0/Newcastle-United-Burnley-February-29-2020-Premier-League
-26,2019-08-10,Sat,Matchweek 29,Home,D 1–1,Burnley,Tottenham,Y,LM,90,6,3,1,1,1,0,0,0,0,0,0,0,0,0,/en/matches/1b4c17ec/Burnley-Tottenham-Hotspur-March-7-2020-Premier-League
-27,2019-08-10,Mon,Matchweek 30,Away,L 0–5,Burnley,Manchester City,Y,"LM,FW",90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/b1d3ebde/Manchester-City-Burnley-June-22-2020-Premier-League
-28,2019-08-10,Thu,Matchweek 31,Home,W 1–0,Burnley,Watford,Y,"LM,FW",90,2,2,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/965fbb94/Burnley-Watford-June-25-2020-Premier-League
-29,2019-08-10,Mon,Matchweek 32,Away,W 1–0,Burnley,Crystal Palace,Y,"FW,CM",90,3,0,0,1,0,1,1,1,0,0,0,0,1,0,/en/matches/d7661a5f/Crystal-Palace-Burnley-June-29-2020-Premier-League
-30,2019-08-10,Sun,Matchweek 33,Home,D 1–1,Burnley,Sheffield Utd,Y,"LM,RM",90,3,1,1,0,0,1,0,1,0,1,0,0,0,0,/en/matches/c2378113/Burnley-Sheffield-United-July-5-2020-Premier-League
-31,2019-08-10,Wed,Matchweek 34,Away,W 1–0,Burnley,West Ham,Y,LM,90,5,4,1,0,0,0,0,1,1,0,0,0,0,0,/en/matches/5c57bea6/West-Ham-United-Burnley-July-8-2020-Premier-League
-32,2019-08-10,Sat,Matchweek 35,Away,D 1–1,Burnley,Liverpool,Y,LM,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/267d7e78/Liverpool-Burnley-July-11-2020-Premier-League
-33,2019-08-10,Wed,Matchweek 36,Home,D 1–1,Burnley,Wolves,Y,"LM,CM",90,1,0,0,0,0,1,0,0,0,0,0,0,0,0,/en/matches/a7c5d31f/Burnley-Wolverhampton-Wanderers-July-15-2020-Premier-League
-34,2019-08-10,Sat,Matchweek 37,Away,W 2–0,Burnley,Norwich City,Y,LM,90,9,6,0,1,1,1,0,0,0,0,0,0,0,0,/en/matches/9594e0b4/Norwich-City-Burnley-July-18-2020-Premier-League
-35,2019-08-10,Sun,Matchweek 38,Home,L 1–2,Burnley,Brighton,Y,LM,90,5,4,1,0,0,0,0,0,0,0,0,0,0,0,/en/matches/d4360fcd/Burnley-Brighton-and-Hove-Albion-July-26-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-10,Sat,Premier League,Matchweek 1,Home,W 3–0,Burnley,Southampton,Y,LM,83,0,0,0,0,0,0,0,0,32,4,1,1,0.0,0.0,0.0,0,0,13,21,61.9,2,21,2,4,4,/en/matches/34b99058/Burnley-Southampton-August-10-2019-Premier-League
+1,2019-08-17,Sat,Premier League,Matchweek 2,Away,L 1–2,Burnley,Arsenal,Y,LM,90,0,0,0,0,4,0,0,0,32,2,0,0,0.2,0.2,0.1,7,1,11,18,61.1,1,13,3,4,2,/en/matches/ff7eda21/Arsenal-Burnley-August-17-2019-Premier-League
+2,2019-08-25,Sun,Premier League,Matchweek 3,Away,D 1–1,Burnley,Wolves,Y,LM,85,0,1,0,0,1,0,0,0,33,0,0,0,0.0,0.0,0.1,3,1,18,27,66.7,4,19,1,1,1,/en/matches/16119ef2/Wolverhampton-Wanderers-Burnley-August-25-2019-Premier-League
+3,2019-08-28,Wed,EFL Cup,Second round,Home,L 1–3,Burnley,Sunderland,Y,LM,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/9aacde1d/Burnley-Sunderland-August-28-2019-EFL-Cup
+4,2019-08-31,Sat,Premier League,Matchweek 4,Home,L 0–3,Burnley,Liverpool,Y,LM,90,0,0,0,0,2,0,0,0,44,0,1,2,0.1,0.1,0.1,2,0,16,32,50.0,0,22,4,5,2,/en/matches/af072d61/Burnley-Liverpool-August-31-2019-Premier-League
+5,2019-09-14,Sat,Premier League,Matchweek 5,Away,D 1–1,Burnley,Brighton,Y,LM,90,0,0,0,0,1,0,0,0,33,2,2,1,0.0,0.0,0.0,4,1,15,22,68.2,3,16,4,3,1,/en/matches/1d3bbc27/Brighton-and-Hove-Albion-Burnley-September-14-2019-Premier-League
+6,2019-09-21,Sat,Premier League,Matchweek 6,Home,W 2–0,Burnley,Norwich City,Y,LM,78,0,1,0,0,0,0,0,0,42,1,0,3,0.0,0.0,1.0,4,1,27,36,75.0,4,30,2,2,2,/en/matches/f97b0ce8/Burnley-Norwich-City-September-21-2019-Premier-League
+7,2019-09-28,Sat,Premier League,Matchweek 7,Away,D 2–2,Burnley,Aston Villa,Y,"LM,CM",90,0,0,0,0,2,1,0,0,39,2,0,0,0.1,0.1,0.2,3,0,14,22,63.6,1,14,1,4,0,/en/matches/37a51188/Aston-Villa-Burnley-September-28-2019-Premier-League
+8,2019-10-05,Sat,Premier League,Matchweek 8,Home,W 1–0,Burnley,Everton,Y,LM,90,0,0,0,0,0,0,0,0,51,1,2,0,0.0,0.0,0.0,2,0,25,37,67.6,2,31,8,4,2,/en/matches/2f9439d0/Burnley-Everton-October-5-2019-Premier-League
+9,2019-10-19,Sat,Premier League,Matchweek 9,Away,L 1–2,Burnley,Leicester City,Y,"RM,LM",90,0,1,0,0,2,0,0,0,41,1,1,4,0.1,0.1,0.1,1,1,20,29,69.0,0,18,1,3,1,/en/matches/3529c097/Leicester-City-Burnley-October-19-2019-Premier-League
+10,2019-10-26,Sat,Premier League,Matchweek 10,Home,L 2–4,Burnley,Chelsea,Y,"LM,RM",90,1,0,0,0,2,1,0,0,47,0,0,1,0.1,0.1,0.1,5,1,24,31,77.4,0,31,5,9,6,/en/matches/082dc9ef/Burnley-Chelsea-October-26-2019-Premier-League
+11,2019-11-02,Sat,Premier League,Matchweek 11,Away,L 0–3,Burnley,Sheffield Utd,Y,LM,58,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,16,22,72.7,0,19,1,2,0,/en/matches/21606115/Sheffield-United-Burnley-November-2-2019-Premier-League
+12,2019-11-09,Sat,Premier League,Matchweek 12,Home,W 3–0,Burnley,West Ham,Y,"LM,LW",90,0,1,0,0,1,1,0,0,52,0,1,0,0.0,0.0,0.8,6,3,29,41,70.7,2,35,6,11,6,/en/matches/559f666e/Burnley-West-Ham-United-November-9-2019-Premier-League
+13,2019-11-23,Sat,Premier League,Matchweek 13,Away,W 3–0,Burnley,Watford,Y,LM,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.3,2,0,17,24,70.8,1,22,4,1,0,/en/matches/d4aea4c0/Watford-Burnley-November-23-2019-Premier-League
+14,2019-11-30,Sat,Premier League,Matchweek 14,Home,L 0–2,Burnley,Crystal Palace,Y,LM,90,0,0,0,0,3,2,1,0,52,2,0,1,0.1,0.1,0.1,5,0,24,40,60.0,1,29,8,2,1,/en/matches/86428aca/Burnley-Crystal-Palace-November-30-2019-Premier-League
+15,2019-12-03,Tue,Premier League,Matchweek 15,Home,L 1–4,Burnley,Manchester City,Y,LM,74,0,0,0,0,2,1,0,0,28,0,1,1,0.1,0.1,0.0,1,0,10,18,55.6,0,13,2,2,1,/en/matches/4d718594/Burnley-Manchester-City-December-3-2019-Premier-League
+16,2019-12-07,Sat,Premier League,Matchweek 16,Away,L 0–5,Burnley,Tottenham,Y,"RM,LM",90,0,0,0,0,0,0,0,0,60,1,1,0,0.0,0.0,0.5,3,0,36,49,73.5,4,43,6,10,6,/en/matches/56da163b/Tottenham-Hotspur-Burnley-December-7-2019-Premier-League
+17,2019-12-14,Sat,Premier League,Matchweek 17,Home,W 1–0,Burnley,Newcastle Utd,Y,LM,90,0,0,0,0,1,1,0,0,47,3,2,1,0.0,0.0,0.2,2,0,26,32,81.3,2,32,3,5,3,/en/matches/4c3c57fa/Burnley-Newcastle-United-December-14-2019-Premier-League
+18,2019-12-21,Sat,Premier League,Matchweek 18,Away,W 1–0,Burnley,Bournemouth,Y,LM,81,0,0,0,0,0,0,1,0,28,1,0,3,0.0,0.0,0.0,0,0,10,19,52.6,1,15,2,2,0,/en/matches/e8b74ca0/Bournemouth-Burnley-December-21-2019-Premier-League
+19,2019-12-26,Thu,Premier League,Matchweek 19,Away,L 0–1,Burnley,Everton,Y,"LM,RM",90,0,0,0,0,0,0,0,0,36,1,1,2,0.0,0.0,0.1,3,0,16,27,59.3,1,16,2,1,0,/en/matches/b23c6c90/Everton-Burnley-December-26-2019-Premier-League
+20,2019-12-28,Sat,Premier League,Matchweek 20,Home,L 0–2,Burnley,Manchester Utd,Y,"LM,CM",90,0,0,0,0,1,0,1,0,43,1,2,4,0.0,0.0,0.0,2,0,20,31,64.5,3,27,4,3,3,/en/matches/f66bbb03/Burnley-Manchester-United-December-28-2019-Premier-League
+21,2020-01-01,Wed,Premier League,Matchweek 21,Home,L 1–2,Burnley,Aston Villa,Y,LM,90,0,0,0,0,1,0,0,0,61,0,1,1,0.0,0.0,0.2,5,0,43,53,81.1,3,37,2,4,2,/en/matches/ac409026/Burnley-Aston-Villa-January-1-2020-Premier-League
+22,2020-01-11,Sat,Premier League,Matchweek 22,Away,L 0–3,Burnley,Chelsea,Y,LM,90,0,0,0,0,2,1,1,0,44,3,2,2,0.1,0.1,0.2,2,0,23,33,69.7,1,27,4,5,5,/en/matches/17a5a8ef/Chelsea-Burnley-January-11-2020-Premier-League
+23,2020-01-19,Sun,Premier League,Matchweek 23,Home,W 2–1,Burnley,Leicester City,Y,LM,90,0,0,0,0,1,0,0,0,55,1,1,0,0.1,0.1,0.1,4,0,30,42,71.4,4,37,1,5,2,/en/matches/bd102a2b/Burnley-Leicester-City-January-19-2020-Premier-League
+24,2020-01-22,Wed,Premier League,Matchweek 24,Away,W 2–0,Burnley,Manchester Utd,Y,LM,90,0,0,0,0,1,0,0,0,49,5,2,4,0.1,0.1,0.0,1,0,18,33,54.5,3,25,2,2,0,/en/matches/709e2aa4/Manchester-United-Burnley-January-22-2020-Premier-League
+25,2020-01-25,Sat,FA Cup,Fourth round,Home,L 1–2,Burnley,Norwich City,N,,11,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/2598b638/Burnley-Norwich-City-January-25-2020-FA-Cup
+26,2020-02-02,Sun,Premier League,Matchweek 25,Home,D 0–0,Burnley,Arsenal,Y,LM,90,0,0,0,0,3,0,0,0,55,2,0,1,0.1,0.1,1.2,5,0,28,43,65.1,2,38,6,5,2,/en/matches/a6b40849/Burnley-Arsenal-February-2-2020-Premier-League
+27,2020-02-15,Sat,Premier League,Matchweek 26,Away,W 2–1,Burnley,Southampton,Y,LM,90,0,0,0,0,0,0,0,0,44,1,0,3,0.0,0.0,0.1,3,0,18,31,58.1,1,26,4,4,2,/en/matches/738ade70/Southampton-Burnley-February-15-2020-Premier-League
+28,2020-02-22,Sat,Premier League,Matchweek 27,Home,W 3–0,Burnley,Bournemouth,Y,LM,89,1,1,0,0,3,2,0,0,50,3,1,1,0.1,0.1,0.9,5,1,25,35,71.4,4,36,10,4,1,/en/matches/bcdc3fb0/Burnley-Bournemouth-February-22-2020-Premier-League
+29,2020-02-29,Sat,Premier League,Matchweek 28,Away,D 0–0,Burnley,Newcastle Utd,Y,"LM,RM",90,0,0,0,0,0,0,0,0,31,2,0,1,0.0,0.0,0.1,1,0,12,20,60.0,0,22,3,2,0,/en/matches/5d623dc0/Newcastle-United-Burnley-February-29-2020-Premier-League
+30,2020-03-07,Sat,Premier League,Matchweek 29,Home,D 1–1,Burnley,Tottenham,Y,LM,90,0,0,0,0,2,1,0,0,66,2,1,0,0.1,0.1,0.2,6,0,38,59,64.4,8,46,7,6,6,/en/matches/1b4c17ec/Burnley-Tottenham-Hotspur-March-7-2020-Premier-League
+31,2020-06-22,Mon,Premier League,Matchweek 30,Away,L 0–5,Burnley,Manchester City,Y,"LM,FW",90,0,0,0,0,1,0,0,0,34,1,0,2,0.0,0.0,0.0,0,0,17,24,70.8,3,21,3,6,3,/en/matches/b1d3ebde/Manchester-City-Burnley-June-22-2020-Premier-League
+32,2020-06-25,Thu,Premier League,Matchweek 31,Home,W 1–0,Burnley,Watford,Y,"LM,FW",90,0,1,0,0,1,0,1,0,65,0,1,5,0.0,0.0,0.3,2,1,41,53,77.4,7,39,3,2,1,/en/matches/965fbb94/Burnley-Watford-June-25-2020-Premier-League
+33,2020-06-29,Mon,Premier League,Matchweek 32,Away,W 1–0,Burnley,Crystal Palace,Y,"FW,CM",90,0,0,0,0,4,2,0,0,51,1,2,3,0.2,0.2,0.0,3,1,24,31,77.4,6,35,2,8,5,/en/matches/d7661a5f/Crystal-Palace-Burnley-June-29-2020-Premier-League
+34,2020-07-05,Sun,Premier League,Matchweek 33,Home,D 1–1,Burnley,Sheffield Utd,Y,"LM,RM",90,0,0,0,0,1,0,0,0,52,0,0,4,0.3,0.3,0.0,3,1,32,43,74.4,1,28,1,1,1,/en/matches/c2378113/Burnley-Sheffield-United-July-5-2020-Premier-League
+35,2020-07-08,Wed,Premier League,Matchweek 34,Away,W 1–0,Burnley,West Ham,Y,LM,90,0,0,0,0,0,0,0,0,52,1,0,2,0.0,0.0,0.1,5,1,35,43,81.4,0,37,4,5,4,/en/matches/5c57bea6/West-Ham-United-Burnley-July-8-2020-Premier-League
+36,2020-07-11,Sat,Premier League,Matchweek 35,Away,D 1–1,Burnley,Liverpool,Y,LM,90,0,0,0,0,1,0,0,0,39,1,3,3,0.0,0.0,0.0,1,0,10,28,35.7,1,23,8,4,1,/en/matches/267d7e78/Liverpool-Burnley-July-11-2020-Premier-League
+37,2020-07-15,Wed,Premier League,Matchweek 36,Home,D 1–1,Burnley,Wolves,Y,"LM,CM",90,0,0,0,0,1,0,0,0,51,0,0,1,0.0,0.0,0.0,1,0,28,42,66.7,5,31,3,0,0,/en/matches/a7c5d31f/Burnley-Wolverhampton-Wanderers-July-15-2020-Premier-League
+38,2020-07-18,Sat,Premier League,Matchweek 37,Away,W 2–0,Burnley,Norwich City,Y,LM,90,0,0,0,0,3,1,0,0,73,1,1,2,0.1,0.1,0.2,9,0,47,65,72.3,10,55,11,1,1,/en/matches/9594e0b4/Norwich-City-Burnley-July-18-2020-Premier-League
+39,2020-07-26,Sun,Premier League,Matchweek 38,Home,L 1–2,Burnley,Brighton,Y,LM,90,0,0,0,0,1,0,0,0,52,1,0,0,0.0,0.0,0.2,5,0,38,49,77.6,6,37,3,0,0,/en/matches/d4360fcd/Burnley-Brighton-and-Hove-Albion-July-26-2020-Premier-League

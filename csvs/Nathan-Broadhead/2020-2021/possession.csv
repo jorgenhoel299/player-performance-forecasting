@@ -1,7 +1,20 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
-0,2021-03-01,Mon,Matchweek 27,Away,L 0–2,Everton,Chelsea,N,"On matchday squad, but did not play",/en/matches/7e4a240e/Chelsea-Everton-March-8-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-1,2021-03-01,Sat,Matchweek 28,Home,L 1–2,Everton,Burnley,N,"On matchday squad, but did not play",/en/matches/91cce376/Everton-Burnley-March-13-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-2,2021-03-01,Mon,Matchweek 30,Home,D 1–1,Everton,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/66f16cd5/Everton-Crystal-Palace-April-5-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-3,2021-03-01,Mon,Matchweek 31,Away,D 0–0,Everton,Brighton,N,FW,3,3,0,1,2,0,0,3,0,0,,0,,0,0,0,0,0,0,0,0,2,0,/en/matches/ac6ac8f8/Brighton-and-Hove-Albion-Everton-April-12-2021-Premier-League
-4,2021-03-01,Fri,Matchweek 32,Home,D 2–2,Everton,Tottenham,N,"On matchday squad, but did not play",/en/matches/ebeb462d/Everton-Tottenham-Hotspur-April-16-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-5,2021-03-01,Fri,Matchweek 33,Away,W 1–0,Everton,Arsenal,N,"On matchday squad, but did not play",/en/matches/30f36320/Arsenal-Everton-April-23-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-13,Sun,PL2 — Div. 1,Matchweek 1,Away,L 0–1,Everton,Liverpool,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/5e811044/Liverpool-U23-Everton-U23-September-13-2020-Premier-League-2----Division-1
+1,2020-09-21,Mon,PL2 — Div. 1,Matchweek 2,Home,W 3–0,Everton,Leicester City,Y,FW,14,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/9ad1581e/Everton-U23-Leicester-City-U23-September-21-2020-Premier-League-2----Division-1
+2,2020-10-23,Fri,PL2 — Div. 1,Matchweek 6,Away,L 1–2,Everton,Manchester Utd,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/04e72706/Manchester-United-U23-Everton-U23-October-23-2020-Premier-League-2----Division-1
+3,2020-11-08,Sun,PL2 — Div. 1,Matchweek 8,Home,W 2–0,Everton,Chelsea,Y,FW,83,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4ddfffe2/Everton-U23-Chelsea-U23-November-8-2020-Premier-League-2----Division-1
+4,2020-11-20,Fri,PL2 — Div. 1,Matchweek 9,Away,L 0–1,Everton,Arsenal,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/a955afce/Arsenal-U23-Everton-U23-November-20-2020-Premier-League-2----Division-1
+5,2020-11-27,Fri,PL2 — Div. 1,Matchweek 10,Away,D 1–1,Everton,Blackburn,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/c2007a13/Blackburn-Rovers-U23-Everton-U23-November-27-2020-Premier-League-2----Division-1
+6,2021-01-18,Mon,PL2 — Div. 1,Matchweek 14,Home,D 1–1,Everton,Liverpool,Y,AM,89,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d9f232ab/Everton-U23-Liverpool-U23-January-18-2021-Premier-League-2----Division-1
+7,2021-01-25,Mon,PL2 — Div. 1,Matchweek 15,Away,W 4–2,Everton,Leicester City,Y,FW,90,1,2,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b357ec29/Leicester-City-U23-Everton-U23-January-25-2021-Premier-League-2----Division-1
+8,2021-02-01,Mon,PL2 — Div. 1,Matchweek 16,Away,W 3–1,Everton,Derby County,Y,FW,89,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/bf79f015/Derby-County-U23-Everton-U23-February-1-2021-Premier-League-2----Division-1
+9,2021-02-05,Fri,PL2 — Div. 1,Matchweek 17,Away,L 1–3,Everton,Manchester City,Y,FW,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/2e39d12f/Manchester-City-U23-Everton-U23-February-5-2021-Premier-League-2----Division-1
+10,2021-02-22,Mon,PL2 — Div. 1,Matchweek 19,Home,W 3–1,Everton,Manchester Utd,Y*,FW,90,3,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/68349ea0/Everton-U23-Manchester-United-U23-February-22-2021-Premier-League-2----Division-1
+11,2021-03-05,Fri,PL2 — Div. 1,Matchweek 18,Away,L 1–2,Everton,Tottenham,Y*,FW,90,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/c64e897c/Tottenham-Hotspur-U23-Everton-U23-March-5-2021-Premier-League-2----Division-1
+12,2021-03-12,Fri,PL2 — Div. 1,Matchweek 21,Away,L 1–2,Everton,Chelsea,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/fcb5697e/Chelsea-U23-Everton-U23-March-12-2021-Premier-League-2----Division-1
+13,2021-03-21,Sun,PL2 — Div. 1,Matchweek 22,Home,D 1–1,Everton,Arsenal,Y*,FW,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4970cc81/Everton-U23-Arsenal-U23-March-21-2021-Premier-League-2----Division-1
+14,2021-04-09,Fri,PL2 — Div. 1,Matchweek 23,Home,W 2–1,Everton,Blackburn,Y*,FW,64,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/27459b9d/Everton-U23-Blackburn-Rovers-U23-April-9-2021-Premier-League-2----Division-1
+15,2021-04-12,Mon,Premier League,Matchweek 31,Away,D 0–0,Everton,Brighton,N,FW,3,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,/en/matches/ac6ac8f8/Brighton-and-Hove-Albion-Everton-April-12-2021-Premier-League
+16,2021-04-19,Mon,PL2 — Div. 1,Matchweek 24,Away,L 1–2,Everton,West Ham,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/5e3153b0/West-Ham-United-U23-Everton-U23-April-19-2021-Premier-League-2----Division-1
+17,2021-04-24,Sat,PL2 — Div. 1,Matchweek 25,Home,D 1–1,Everton,Brighton,Y*,FW,90,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/607a368a/Everton-U23-Brighton-and-Hove-Albion-U23-April-24-2021-Premier-League-2----Division-1
+18,2021-05-02,Sun,PL2 — Div. 1,Matchweek 26,Away,W 5–0,Everton,Southampton,Y*,FW,77,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/a8507671/Southampton-U23-Everton-U23-May-2-2021-Premier-League-2----Division-1

@@ -1,7 +1,14 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2020-06-25,Sun,Matchweek 33,Home,W 1–0,Southampton,Manchester City,N,"On matchday squad, but did not play",/en/matches/260c5c31/Southampton-Manchester-City-July-5-2020-Premier-League,,,,,,,,,,,,,,,,,
-1,2020-06-25,Thu,Matchweek 34,Away,D 1–1,Southampton,Everton,N,"On matchday squad, but did not play",/en/matches/1357ee3b/Everton-Southampton-July-9-2020-Premier-League,,,,,,,,,,,,,,,,,
-2,2020-06-25,Mon,Matchweek 35,Away,D 2–2,Southampton,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/668c9423/Manchester-United-Southampton-July-13-2020-Premier-League,,,,,,,,,,,,,,,,,
-3,2020-06-25,Thu,Matchweek 36,Home,D 1–1,Southampton,Brighton,Y,LB,90,2,2,0,0,2,1,1,100.0,0,0,0,0,0,2,1,0,/en/matches/793f900e/Southampton-Brighton-and-Hove-Albion-July-16-2020-Premier-League
-4,2020-06-25,Sun,Matchweek 37,Away,W 2–0,Southampton,Bournemouth,N,"On matchday squad, but did not play",/en/matches/bbd4160f/Bournemouth-Southampton-July-19-2020-Premier-League,,,,,,,,,,,,,,,,,
-5,2020-06-25,Sun,Matchweek 38,Home,W 3–1,Southampton,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/3e5b45b7/Southampton-Sheffield-United-July-26-2020-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-11,Sun,PL2 — Div. 1,Matchweek 1,Away,W 4–3,Southampton,Manchester City,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/7dc6aa5d/Manchester-City-U23-Southampton-U23-August-11-2019-Premier-League-2----Division-1
+1,2019-08-19,Mon,PL2 — Div. 1,Matchweek 2,Home,L 0–1,Southampton,Derby County,Y,LM,86,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/10f34062/Southampton-U23-Derby-County-U23-August-19-2019-Premier-League-2----Division-1
+2,2019-08-26,Mon,PL2 — Div. 1,Matchweek 3,Home,L 2–4,Southampton,Liverpool,Y,LM,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/546a2791/Southampton-U23-Liverpool-U23-August-26-2019-Premier-League-2----Division-1
+3,2019-08-30,Fri,PL2 — Div. 1,Matchweek 4,Away,L 2–8,Southampton,Everton,Y,LM,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/f1ea9660/Everton-U23-Southampton-U23-August-30-2019-Premier-League-2----Division-1
+4,2019-09-13,Fri,PL2 — Div. 1,Matchweek 5,Away,D 2–2,Southampton,Tottenham,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/2946ba6a/Tottenham-Hotspur-U23-Southampton-U23-September-13-2019-Premier-League-2----Division-1
+5,2019-09-21,Sat,PL2 — Div. 1,Matchweek 6,Home,L 0–2,Southampton,Chelsea,Y,LM,83,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/3cc382d2/Southampton-U23-Chelsea-U23-September-21-2019-Premier-League-2----Division-1
+6,2019-09-27,Fri,PL2 — Div. 1,Matchweek 7,Away,W 2–1,Southampton,Wolves,Y,LB,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b4589cdd/Wolverhampton-Wanderers-U23-Southampton-U23-September-27-2019-Premier-League-2----Division-1
+7,2019-10-25,Fri,PL2 — Div. 1,Matchweek 9,Away,L 0–3,Southampton,Leicester City,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/17df8e2f/Leicester-City-U23-Southampton-U23-October-25-2019-Premier-League-2----Division-1
+8,2019-10-29,Tue,EFL Cup,Fourth round,Away,L 1–3,Southampton,Manchester City,N,,1,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/dc030e24/Manchester-City-Southampton-October-29-2019-EFL-Cup
+9,2019-12-16,Mon,PL2 — Div. 1,Matchweek 13,Away,L 2–4,Southampton,Derby County,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/f3774891/Derby-County-U23-Southampton-U23-December-16-2019-Premier-League-2----Division-1
+10,2020-01-04,Sat,FA Cup,Third round,Home,W 2–0,Southampton,Huddersfield,Y,LB,90,1,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c880e3a6/Southampton-Huddersfield-Town-January-4-2020-FA-Cup
+11,2020-03-02,Mon,PL2 — Div. 1,Matchweek 18,Home,L 1–3,Southampton,Leicester City,Y,LM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/6f06a51c/Southampton-U23-Leicester-City-U23-March-2-2020-Premier-League-2----Division-1
+12,2020-07-16,Thu,Premier League,Matchweek 36,Home,D 1–1,Southampton,Brighton,Y,LB,90,0,0,0,0,1,0,0,0,80,2,0,0,0.0,0.0,0.1,1,0,57,71,80.3,3,42,4,1,0,/en/matches/793f900e/Southampton-Brighton-and-Hove-Albion-July-16-2020-Premier-League

@@ -1,8 +1,17 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,2019-08-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2019-08-09,Sat,Matchweek 6,Away,L 0–2,Norwich City,Burnley,N,CM,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,3,0,0,0,/en/matches/f97b0ce8/Burnley-Norwich-City-September-21-2019-Premier-League
-2,2019-08-09,Sat,Matchweek 7,Away,L 0–2,Norwich City,Crystal Palace,N,RW,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,2,0,3,3,/en/matches/3b180c0d/Crystal-Palace-Norwich-City-September-28-2019-Premier-League
-3,2019-08-09,Sat,Matchweek 8,Home,L 1–5,Norwich City,Aston Villa,N,RW,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,2,0,3,4,75.0,1,4,1,1,1,/en/matches/e50b8e5b/Norwich-City-Aston-Villa-October-5-2019-Premier-League
-4,2019-08-09,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2019-08-09,Sat,Matchweek 13,Away,W 2–0,Norwich City,Everton,N,"On matchday squad, but did not play",/en/matches/464461f5/Everton-Norwich-City-November-23-2019-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2019-08-09,Sun,Matchweek 14,Home,D 2–2,Norwich City,Arsenal,N,"On matchday squad, but did not play",/en/matches/39fce32e/Norwich-City-Arsenal-December-1-2019-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-27,Tue,EFL Cup,Second round,Away,L 0–1,Norwich City,Crawley Town,Y,AM,90,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/d86cf223/Crawley-Town-Norwich-City-August-27-2019-EFL-Cup
+1,2019-09-21,Sat,Premier League,Matchweek 6,Away,L 0–2,Norwich City,Burnley,N,CM,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,3,0,0,0,/en/matches/f97b0ce8/Burnley-Norwich-City-September-21-2019-Premier-League
+2,2019-09-28,Sat,Premier League,Matchweek 7,Away,L 0–2,Norwich City,Crystal Palace,N,RW,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,2,0,3,3,/en/matches/3b180c0d/Crystal-Palace-Norwich-City-September-28-2019-Premier-League
+3,2019-10-05,Sat,Premier League,Matchweek 8,Home,L 1–5,Norwich City,Aston Villa,N,RW,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,2,0,3,4,75.0,1,4,1,1,1,/en/matches/e50b8e5b/Norwich-City-Aston-Villa-October-5-2019-Premier-League
+4,2019-10-18,Fri,PL2 — Div. 2,Matchweek 8,Home,L 2–4,Norwich City,West Brom,Y,RM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b6d769a3/Norwich-City-U23-West-Bromwich-Albion-U23-October-18-2019-Premier-League-2----Division-2
+5,2020-01-05,Sun,FA Cup,Third round,Home,D 1–1,Middlesbrough,Tottenham,Y,AM,68,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/4ba982c5/Middlesbrough-Tottenham-Hotspur-January-5-2020-FA-Cup
+6,2020-01-11,Sat,Championship,Matchweek 27,Home,D 2–2,Middlesbrough,Derby County,Y,AM,79,0,0,0,0,1,0,0,0,30,0,0,0,0.4,0.4,0.5,9,3,15,20,75.0,3,15,3,5,2,/en/matches/b32d05dd/Middlesbrough-Derby-County-January-11-2020-Championship
+7,2020-01-17,Fri,Championship,Matchweek 28,Away,L 0–1,Middlesbrough,Fulham,Y,"AM,RW",90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.1,3,0,10,17,58.8,5,14,2,8,5,/en/matches/5fb27cb9/Fulham-Middlesbrough-January-17-2020-Championship
+8,2020-01-21,Tue,Championship,Matchweek 29,Home,D 1–1,Middlesbrough,Birmingham City,Y,AM,24,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,0,5,0,2,1,/en/matches/cfba1f05/Middlesbrough-Birmingham-City-January-21-2020-Championship
+9,2020-06-20,Sat,Championship,Matchweek 38,Home,L 0–3,Middlesbrough,Swansea City,N,RW,45,0,0,0,0,2,0,1,0,30,1,0,0,0.1,0.1,0.0,1,0,16,24,66.7,1,26,2,2,1,/en/matches/de74098e/Middlesbrough-Swansea-City-June-20-2020-Championship
+10,2020-06-27,Sat,Championship,Matchweek 39,Away,W 2–0,Middlesbrough,Stoke City,Y,RW,60,0,1,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.2,3,1,9,13,69.2,0,5,2,4,1,/en/matches/dd9da684/Stoke-City-Middlesbrough-June-27-2020-Championship
+11,2020-07-02,Thu,Championship,Matchweek 40,Away,L 1–2,Middlesbrough,Hull City,Y,RW,62,0,0,0,0,3,0,0,0,33,1,0,0,0.2,0.2,0.0,3,0,12,19,63.2,1,23,4,6,3,/en/matches/3e12a998/Hull-City-Middlesbrough-July-2-2020-Championship
+12,2020-07-05,Sun,Championship,Matchweek 41,Home,L 0–1,Middlesbrough,QPR,Y,RM,79,0,0,0,0,3,0,0,0,36,0,1,0,0.2,0.2,0.2,5,0,13,26,50.0,2,21,9,5,3,/en/matches/8906afbb/Middlesbrough-Queens-Park-Rangers-July-5-2020-Championship
+13,2020-07-11,Sat,Championship,Matchweek 43,Home,L 1–3,Middlesbrough,Bristol City,N,"RW,RM",25,0,0,0,0,2,0,0,0,17,0,0,0,0.4,0.4,0.0,1,0,10,12,83.3,0,16,4,2,1,/en/matches/9a0620ad/Middlesbrough-Bristol-City-July-11-2020-Championship
+14,2020-07-14,Tue,Championship,Matchweek 44,Away,W 2–1,Middlesbrough,Reading,Y,AM,87,1,1,0,0,2,2,0,0,47,2,0,0,0.2,0.2,0.3,9,1,26,38,68.4,6,40,6,5,2,/en/matches/89005b1f/Reading-Middlesbrough-July-14-2020-Championship
+15,2020-07-18,Sat,Championship,Matchweek 45,Home,L 1–3,Middlesbrough,Cardiff City,Y,AM,57,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.1,4,0,11,17,64.7,1,14,1,2,1,/en/matches/762b2689/Middlesbrough-Cardiff-City-July-18-2020-Championship

@@ -1,1 +1,12 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-30,Fri,PL2 — Div. 1,Matchweek 4,Home,D 2–2,Chelsea,Tottenham,N,,9,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/add967f2/Chelsea-U23-Tottenham-Hotspur-U23-August-30-2019-Premier-League-2----Division-1
+1,2019-10-18,Fri,PL2 — Div. 1,Matchweek 8,Home,W 3–1,Chelsea,Arsenal,N,,8,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/8eb0b0da/Chelsea-U23-Arsenal-U23-October-18-2019-Premier-League-2----Division-1
+2,2019-11-02,Sat,PL2 — Div. 1,Matchweek 10,Home,W 2–1,Chelsea,Blackburn,N,,35,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b97f9a44/Chelsea-U23-Blackburn-Rovers-U23-November-2-2019-Premier-League-2----Division-1
+3,2019-12-07,Sat,PL2 — Div. 1,Matchweek 12,Home,D 3–3,Chelsea,Derby County,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4488e3f4/Chelsea-U23-Derby-County-U23-December-7-2019-Premier-League-2----Division-1
+4,2019-12-14,Sat,PL2 — Div. 1,Matchweek 13,Away,D 1–1,Chelsea,Liverpool,N,,37,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/8127d0e1/Liverpool-U23-Chelsea-U23-December-14-2019-Premier-League-2----Division-1
+5,2020-01-06,Mon,PL2 — Div. 1,Matchweek 14,Away,W 1–0,Chelsea,Tottenham,Y,AM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/bb74f19d/Tottenham-Hotspur-U23-Chelsea-U23-January-6-2020-Premier-League-2----Division-1
+6,2020-01-11,Sat,PL2 — Div. 1,Matchweek 15,Home,W 2–1,Chelsea,Manchester City,N,,28,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ef6858d0/Chelsea-U23-Manchester-City-U23-January-11-2020-Premier-League-2----Division-1
+7,2020-01-24,Fri,PL2 — Div. 1,Matchweek 9,Away,D 2–2,Chelsea,Everton,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/0ac390af/Everton-U23-Chelsea-U23-January-24-2020-Premier-League-2----Division-1
+8,2020-01-31,Fri,PL2 — Div. 1,Matchweek 16,Home,D 2–2,Chelsea,Leicester City,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/75a9743e/Chelsea-U23-Leicester-City-U23-January-31-2020-Premier-League-2----Division-1
+9,2020-02-17,Mon,PL2 — Div. 1,Matchweek 17,Away,W 2–1,Chelsea,Arsenal,Y,FW,90,1,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/bafcde18/Arsenal-U23-Chelsea-U23-February-17-2020-Premier-League-2----Division-1
+10,2020-03-08,Sun,Premier League,Matchweek 29,Home,W 4–0,Chelsea,Everton,N,FW,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,4,0,0,0,/en/matches/c062bff0/Chelsea-Everton-March-8-2020-Premier-League

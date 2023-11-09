@@ -1,14 +1,23 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
-0,2021-08-14,Sat,Matchweek 3,Home,L 1–2,Norwich City,Leicester City,Y,"RW,RM",90,1,0,0,1,1,1,1,1,3,0,0,0,4,0,2,0.0,/en/matches/78c685cc/Norwich-City-Leicester-City-August-28-2021-Premier-League
-1,2021-08-14,Sat,Matchweek 4,Away,L 0–1,Norwich City,Arsenal,N,"RW,RM",29,0,0,0,0,0,0,1,0,1,0,0,0,2,1,0,100.0,/en/matches/4ac58f71/Arsenal-Norwich-City-September-11-2021-Premier-League
-2,2021-08-14,Sat,Matchweek 5,Home,L 1–3,Norwich City,Watford,N,"CM,AM",21,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,/en/matches/835fa19c/Norwich-City-Watford-September-18-2021-Premier-League
-3,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,2021-08-14,Sat,Matchweek 12,Home,W 2–1,Norwich City,Southampton,Y,LW,45,0,0,0,1,1,0,0,0,1,0,0,0,2,1,1,50.0,/en/matches/4bddaba4/Norwich-City-Southampton-November-20-2021-Premier-League
-5,2021-08-14,Sat,Matchweek 13,Home,D 0–0,Norwich City,Wolves,N,"On matchday squad, but did not play",/en/matches/ff3bd755/Norwich-City-Wolverhampton-Wanderers-November-27-2021-Premier-League,,,,,,,,,,,,,,,,,
-6,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,2021-08-14,Sun,Matchweek 15,Away,L 0–3,Norwich City,Tottenham,N,"On matchday squad, but did not play",/en/matches/78e62deb/Tottenham-Hotspur-Norwich-City-December-5-2021-Premier-League,,,,,,,,,,,,,,,,,
-8,2021-08-14,Sat,Matchweek 16,Home,L 0–1,Norwich City,Manchester Utd,N,RW,21,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,,/en/matches/11a67612/Norwich-City-Manchester-United-December-11-2021-Premier-League
-9,2021-08-14,Tue,Matchweek 17,Home,L 0–2,Norwich City,Aston Villa,Y,LW,60,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,,/en/matches/c78a1d7d/Norwich-City-Aston-Villa-December-14-2021-Premier-League
-10,2021-08-14,Sun,Matchweek 19,Home,L 0–5,Norwich City,Arsenal,N,"On matchday squad, but did not play",/en/matches/83ce723b/Norwich-City-Arsenal-December-26-2021-Premier-League,,,,,,,,,,,,,,,,,
-11,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,
-12,2021-08-14,Sat,Matchweek 22,Home,W 2–1,Norwich City,Everton,N,"On matchday squad, but did not play",/en/matches/4574a1a6/Norwich-City-Everton-January-15-2022-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-14,Sat,Premier League,Matchweek 1,Home,L 0–3,Norwich City,Liverpool,Y,RW,85,0,0,0,0,1,0,1,0,39,5,1,0,0.0,0.0,0.1,5,0,24,29,82.8,3,29,1,1,0,/en/matches/c52500ad/Norwich-City-Liverpool-August-14-2021-Premier-League
+1,2021-08-21,Sat,Premier League,Matchweek 2,Away,L 0–5,Norwich City,Manchester City,Y,RW,90,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.0,0,0,23,25,92.0,0,21,0,2,1,/en/matches/ab6db0d6/Manchester-City-Norwich-City-August-21-2021-Premier-League
+2,2021-08-28,Sat,Premier League,Matchweek 3,Home,L 1–2,Norwich City,Leicester City,Y,"RW,RM",90,0,0,0,0,3,0,1,0,46,4,1,0,0.1,0.1,0.0,2,1,29,34,85.3,2,26,0,3,2,/en/matches/78c685cc/Norwich-City-Leicester-City-August-28-2021-Premier-League
+3,2021-09-11,Sat,Premier League,Matchweek 4,Away,L 0–1,Norwich City,Arsenal,N,"RW,RM",29,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,10,15,66.7,1,12,0,1,0,/en/matches/4ac58f71/Arsenal-Norwich-City-September-11-2021-Premier-League
+4,2021-09-18,Sat,Premier League,Matchweek 5,Home,L 1–3,Norwich City,Watford,N,"CM,AM",21,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,12,14,85.7,2,11,0,0,0,/en/matches/835fa19c/Norwich-City-Watford-September-18-2021-Premier-League
+5,2021-10-22,Fri,PL2 — Div. 2,Matchweek 9,Home,W 2–1,Norwich City,Birmingham City,Y*,CM,90,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/33c454f4/Norwich-City-U23-Birmingham-City-U23-October-22-2021-Premier-League-2----Division-2
+6,2021-11-05,Fri,PL2 — Div. 2,Matchweek 11,Home,W 4–2,Norwich City,Nottingham Forest,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b885a1fa/Norwich-City-U23-Nottingham-Forest-U23-November-5-2021-Premier-League-2----Division-2
+7,2021-11-20,Sat,Premier League,Matchweek 12,Home,W 2–1,Norwich City,Southampton,Y,LW,45,0,0,0,0,0,0,0,0,19,1,0,1,0.0,0.0,0.0,0,0,10,13,76.9,1,8,0,0,0,/en/matches/4bddaba4/Norwich-City-Southampton-November-20-2021-Premier-League
+8,2021-12-11,Sat,Premier League,Matchweek 16,Home,L 0–1,Norwich City,Manchester Utd,N,RW,21,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,2,0,6,6,100.0,0,6,0,2,1,/en/matches/11a67612/Norwich-City-Manchester-United-December-11-2021-Premier-League
+9,2021-12-14,Tue,Premier League,Matchweek 17,Home,L 0–2,Norwich City,Aston Villa,Y,LW,60,0,0,0,0,1,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,16,21,76.2,1,15,1,1,1,/en/matches/c78a1d7d/Norwich-City-Aston-Villa-December-14-2021-Premier-League
+10,2022-02-06,Sun,FA Cup,Fourth round proper,Home,L 0–1,Bournemouth,Boreham Wood,N,,45,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/cdf21be2/Bournemouth-Boreham-Wood-February-6-2022-FA-Cup
+11,2022-02-09,Wed,Championship,Matchweek 31,Home,W 3–1,Bournemouth,Birmingham City,Y,RM,59,0,0,0,0,0,0,0,0,44,0,0,1,0.0,0.0,0.2,2,0,29,37,78.4,2,26,0,0,0,/en/matches/00eb3628/Bournemouth-Birmingham-City-February-9-2022-Championship
+12,2022-02-12,Sat,Championship,Matchweek 32,Away,W 2–1,Bournemouth,Blackpool,Y,RM,90,0,0,0,0,2,2,0,0,66,1,0,2,0.1,0.1,0.1,4,1,37,52,71.2,5,46,3,7,6,/en/matches/58e98214/Blackpool-Bournemouth-February-12-2022-Championship
+13,2022-02-26,Sat,Championship,Matchweek 35,Home,W 2–1,Bournemouth,Stoke City,Y,RM,90,0,0,0,0,3,2,0,0,62,0,2,1,0.2,0.2,0.2,4,1,42,52,80.8,4,43,2,3,3,/en/matches/10b0484b/Bournemouth-Stoke-City-February-26-2022-Championship
+14,2022-03-05,Sat,Championship,Matchweek 36,Away,L 1–2,Bournemouth,Preston,Y,RM,79,0,0,0,0,1,1,0,0,49,1,0,0,0.0,0.0,0.0,2,0,24,42,57.1,4,31,2,2,2,/en/matches/3310e321/Preston-North-End-Bournemouth-March-5-2022-Championship
+15,2022-03-08,Tue,Championship,Matchweek 26,Home,D 1–1,Bournemouth,P'borough Utd,Y,RM,90,0,0,0,0,0,0,0,0,56,0,0,1,0.0,0.0,0.3,3,0,40,50,80.0,7,50,5,3,2,/en/matches/94b616cb/Bournemouth-Peterborough-United-March-8-2022-Championship
+16,2022-03-12,Sat,Championship,Matchweek 37,Home,W 2–0,Bournemouth,Derby County,Y,RM,65,0,0,0,0,1,1,1,0,45,1,0,0,0.1,0.1,0.1,2,0,28,38,73.7,5,26,5,0,0,/en/matches/2532312e/Bournemouth-Derby-County-March-12-2022-Championship
+17,2022-03-15,Tue,Championship,Matchweek 38,Home,D 1–1,Bournemouth,Reading,Y,LM,45,0,0,0,0,1,1,1,0,25,0,2,0,0.0,0.0,0.1,1,0,18,23,78.3,0,17,0,0,0,/en/matches/68d582ad/Bournemouth-Reading-March-15-2022-Championship
+18,2022-03-19,Sat,Championship,Matchweek 39,Away,W 3–0,Bournemouth,Huddersfield,N,LM,11,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.2,2,0,13,15,86.7,1,10,1,0,0,/en/matches/028fe655/Huddersfield-Town-Bournemouth-March-19-2022-Championship
+19,2022-04-06,Wed,Championship,Matchweek 30,Away,L 0–2,Bournemouth,West Brom,N,"RM,CM",36,0,0,0,0,1,0,0,0,33,1,0,0,0.0,0.0,0.0,1,0,14,25,56.0,1,18,3,1,0,/en/matches/18934d45/West-Bromwich-Albion-Bournemouth-April-6-2022-Championship
+20,2022-04-15,Fri,Championship,Matchweek 42,Home,D 0–0,Bournemouth,Middlesbrough,Y,LW,62,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.2,2,0,23,27,85.2,1,20,4,1,1,/en/matches/e995280f/Bournemouth-Middlesbrough-April-15-2022-Championship
+21,2022-04-23,Sat,Championship,Matchweek 44,Home,D 1–1,Bournemouth,Fulham,N,CM,12,0,0,0,0,1,0,0,0,17,1,0,1,0.1,0.1,0.0,0,0,6,9,66.7,4,10,0,1,0,/en/matches/a86d4598/Bournemouth-Fulham-April-23-2022-Championship

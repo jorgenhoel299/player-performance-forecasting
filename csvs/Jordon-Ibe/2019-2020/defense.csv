@@ -1,8 +1,5 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2019-08-10,Sun,Matchweek 3,Home,L 1–3,Bournemouth,Manchester City,N,RB,23,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/7728bd7e/Bournemouth-Manchester-City-August-25-2019-Premier-League
-1,2019-08-10,Sat,Matchweek 4,Away,L 1–3,Bournemouth,Leicester City,N,WB,27,2,2,2,0,0,1,1,100.0,0,0,0,0,0,2,1,0,/en/matches/3d899563/Leicester-City-Bournemouth-August-31-2019-Premier-League
-2,2019-08-10,Sun,Matchweek 5,Home,W 3–1,Bournemouth,Everton,N,"On matchday squad, but did not play",/en/matches/886c59ae/Bournemouth-Everton-September-15-2019-Premier-League,,,,,,,,,,,,,,,,,
-3,2019-08-10,Fri,Matchweek 6,Away,W 3–1,Bournemouth,Southampton,N,"On matchday squad, but did not play",/en/matches/ebbb65f5/Southampton-Bournemouth-September-20-2019-Premier-League,,,,,,,,,,,,,,,,,
-4,2019-08-10,Sat,Matchweek 7,Home,D 2–2,Bournemouth,West Ham,N,"On matchday squad, but did not play",/en/matches/704e536e/Bournemouth-West-Ham-United-September-28-2019-Premier-League,,,,,,,,,,,,,,,,,
-5,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2019-08-10,Sat,Matchweek 16,Home,L 0–3,Bournemouth,Liverpool,N,"On matchday squad, but did not play",/en/matches/b7f0ca17/Bournemouth-Liverpool-December-7-2019-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-25,Sun,Premier League,Matchweek 3,Home,L 1–3,Bournemouth,Manchester City,N,RB,23,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,1,2,1,/en/matches/7728bd7e/Bournemouth-Manchester-City-August-25-2019-Premier-League
+1,2019-08-28,Wed,EFL Cup,Second round,Home,D 0 (3)–0 (0),Bournemouth,FG Rovers,Y,LM,120,0,0,0,0,6,2,0,0,,,1,,,,,,,,,,,,,,,/en/matches/7622c110/Bournemouth-Forest-Green-Rovers-August-28-2019-EFL-Cup
+2,2019-08-31,Sat,Premier League,Matchweek 4,Away,L 1–3,Bournemouth,Leicester City,N,WB,27,0,0,0,0,0,0,0,0,22,2,0,0,0.0,0.0,0.0,0,0,15,18,83.3,2,14,3,0,0,/en/matches/3d899563/Leicester-City-Bournemouth-August-31-2019-Premier-League
+3,2019-09-25,Wed,EFL Cup,Third round,Away,L 0–2,Bournemouth,Burton Albion,Y,AM,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/a33fa522/Burton-Albion-Bournemouth-September-25-2019-EFL-Cup

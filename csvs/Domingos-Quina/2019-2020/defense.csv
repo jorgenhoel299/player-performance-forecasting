@@ -1,21 +1,10 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2019-08-17,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2019-08-17,Sat,Matchweek 7,Away,L 0–2,Watford,Wolves,N,"On matchday squad, but did not play",/en/matches/4c088365/Wolverhampton-Wanderers-Watford-September-28-2019-Premier-League,,,,,,,,,,,,,,,,,
-2,2019-08-17,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2019-08-17,Sat,Matchweek 10,Home,D 0–0,Watford,Bournemouth,N,"On matchday squad, but did not play",/en/matches/1ef8e186/Watford-Bournemouth-October-26-2019-Premier-League,,,,,,,,,,,,,,,,,
-4,2019-08-17,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2019-08-17,Sat,Matchweek 14,Away,L 1–2,Watford,Southampton,N,"On matchday squad, but did not play",/en/matches/3f1fdbad/Southampton-Watford-November-30-2019-Premier-League,,,,,,,,,,,,,,,,,
-6,2019-08-17,Wed,Matchweek 15,Away,L 0–2,Watford,Leicester City,N,LM,8,1,0,0,1,0,1,2,50.0,1,2,0,2,0,1,0,0,/en/matches/8b04b0d5/Leicester-City-Watford-December-4-2019-Premier-League
-7,2019-08-17,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2019-08-17,Sat,Matchweek 17,Away,L 0–2,Watford,Liverpool,N,AM,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/f33bb4b3/Liverpool-Watford-December-14-2019-Premier-League
-9,2019-08-17,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,2019-08-17,Thu,Matchweek 19,Away,D 1–1,Watford,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/960ce979/Sheffield-United-Watford-December-26-2019-Premier-League,,,,,,,,,,,,,,,,,
-11,2019-08-17,Sat,Matchweek 20,Home,W 3–0,Watford,Aston Villa,N,"On matchday squad, but did not play",/en/matches/36dc1eb8/Watford-Aston-Villa-December-28-2019-Premier-League,,,,,,,,,,,,,,,,,
-12,2019-08-17,Wed,Matchweek 21,Home,W 2–1,Watford,Wolves,N,"On matchday squad, but did not play",/en/matches/dc2a86e8/Watford-Wolverhampton-Wanderers-January-1-2020-Premier-League,,,,,,,,,,,,,,,,,
-13,2019-08-17,Sun,Matchweek 22,Away,W 3–0,Watford,Bournemouth,N,AM,5,1,0,1,0,0,0,0,,0,0,0,0,0,1,0,0,/en/matches/76ce7bd8/Bournemouth-Watford-January-12-2020-Premier-League
-14,2019-08-17,Sat,Matchweek 23,Home,D 0–0,Watford,Tottenham,N,"On matchday squad, but did not play",/en/matches/46697bf6/Watford-Tottenham-Hotspur-January-18-2020-Premier-League,,,,,,,,,,,,,,,,,
-15,2019-08-17,Tue,Matchweek 24,Away,L 1–2,Watford,Aston Villa,N,"On matchday squad, but did not play",/en/matches/3deb145e/Aston-Villa-Watford-January-21-2020-Premier-League,,,,,,,,,,,,,,,,,
-16,2019-08-17,,,,,,,,,,,,,,,,,,,,,,,,,,
-17,2019-08-17,Fri,Matchweek 36,Away,L 1–3,Watford,West Ham,N,"On matchday squad, but did not play",/en/matches/249bbdaa/West-Ham-United-Watford-July-17-2020-Premier-League,,,,,,,,,,,,,,,,,
-18,2019-08-17,Tue,Matchweek 37,Home,L 0–4,Watford,Manchester City,N,"On matchday squad, but did not play",/en/matches/9979847f/Watford-Manchester-City-July-21-2020-Premier-League,,,,,,,,,,,,,,,,,
-19,2019-08-17,Sun,Matchweek 38,Away,L 2–3,Watford,Arsenal,N,"On matchday squad, but did not play",/en/matches/5ecaeb4b/Arsenal-Watford-July-26-2020-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-24,Sat,Premier League,Matchweek 3,Home,L 1–3,Watford,West Ham,N,FW,5,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,4,1,1,0,/en/matches/89fbf2a3/Watford-West-Ham-United-August-24-2019-Premier-League
+1,2019-08-27,Tue,EFL Cup,Second round,Home,W 3–0,Watford,Coventry City,Y,CM,90,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c7a16180/Watford-Coventry-City-August-27-2019-EFL-Cup
+2,2019-09-24,Tue,EFL Cup,Third round,Home,W 2–1,Watford,Swansea City,Y,RW,55,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/d1dfea31/Watford-Swansea-City-September-24-2019-EFL-Cup
+3,2019-10-29,Tue,EFL Cup,Fourth round,Away,L 0–2,Watford,Everton,Y,CM,38,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/bd7203ba/Everton-Watford-October-29-2019-EFL-Cup
+4,2019-12-04,Wed,Premier League,Matchweek 15,Away,L 0–2,Watford,Leicester City,N,LM,8,0,0,0,0,1,1,0,0,7,1,0,2,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,0,0,/en/matches/8b04b0d5/Leicester-City-Watford-December-4-2019-Premier-League
+5,2019-12-14,Sat,Premier League,Matchweek 17,Away,L 0–2,Watford,Liverpool,N,AM,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,/en/matches/f33bb4b3/Liverpool-Watford-December-14-2019-Premier-League
+6,2020-01-04,Sat,FA Cup,Third round,Home,D 3–3,Watford,Tranmere Rovers,Y,CM,60,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/e7a3e376/Watford-Tranmere-Rovers-January-4-2020-FA-Cup
+7,2020-01-12,Sun,Premier League,Matchweek 22,Away,W 3–0,Watford,Bournemouth,N,AM,5,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,6,0,1,1,/en/matches/76ce7bd8/Bournemouth-Watford-January-12-2020-Premier-League
+8,2020-01-23,Thu,FA Cup,Third round,Away,L 1–2,Watford,Tranmere Rovers,Y,CM,104,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/868ec0b7/Tranmere-Rovers-Watford-January-23-2020-FA-Cup

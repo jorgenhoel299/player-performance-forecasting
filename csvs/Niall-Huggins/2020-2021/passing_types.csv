@@ -1,10 +1,19 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2021-01-02,Wed,Matchweek 22,Home,L 1–2,Leeds United,Everton,N,"On matchday squad, but did not play",/en/matches/d9b96ee1/Leeds-United-Everton-February-3-2021-Premier-League,,,,,,,,,,,,,,,,
-1,2021-01-02,Mon,Matchweek 23,Home,W 2–0,Leeds United,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/ff2cee2b/Leeds-United-Crystal-Palace-February-8-2021-Premier-League,,,,,,,,,,,,,,,,
-2,2021-01-02,Sun,Matchweek 24,Away,L 2–4,Leeds United,Arsenal,N,RB,38,19,18,1,0,0,0,1,1,0,0,0,0,16,0,0,/en/matches/85624e5e/Arsenal-Leeds-United-February-14-2021-Premier-League
-3,2021-01-02,Fri,Matchweek 25,Away,L 0–1,Leeds United,Wolves,N,"On matchday squad, but did not play",/en/matches/ae2d6f15/Wolverhampton-Wanderers-Leeds-United-February-19-2021-Premier-League,,,,,,,,,,,,,,,,
-4,2021-01-02,Tue,Matchweek 18,Home,W 3–0,Leeds United,Southampton,N,"On matchday squad, but did not play",/en/matches/6a198933/Leeds-United-Southampton-February-23-2021-Premier-League,,,,,,,,,,,,,,,,
-5,2021-01-02,Sat,Matchweek 26,Home,L 0–1,Leeds United,Aston Villa,N,"On matchday squad, but did not play",/en/matches/70056c3b/Leeds-United-Aston-Villa-February-27-2021-Premier-League,,,,,,,,,,,,,,,,
-6,2021-01-02,Mon,Matchweek 27,Away,L 0–2,Leeds United,West Ham,N,"On matchday squad, but did not play",/en/matches/c3b4d1ba/West-Ham-United-Leeds-United-March-8-2021-Premier-League,,,,,,,,,,,,,,,,
-7,2021-01-02,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2021-01-02,Sat,Matchweek 34,Away,L 0–2,Leeds United,Brighton,N,"On matchday squad, but did not play",/en/matches/1e2ba709/Brighton-and-Hove-Albion-Leeds-United-May-1-2021-Premier-League,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-14,Mon,PL2 — Div. 2,Matchweek 1,Away,L 0–4,Leeds United,Stoke City,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/1c86b292/Stoke-City-U23-Leeds-United-U23-September-14-2020-Premier-League-2----Division-2
+1,2020-09-18,Fri,PL2 — Div. 2,Matchweek 2,Home,D 2–2,Leeds United,Wolves,Y,LM,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/e59625f5/Leeds-United-U23-Wolverhampton-Wanderers-U23-September-18-2020-Premier-League-2----Division-2
+2,2020-10-16,Fri,PL2 — Div. 2,Matchweek 5,Away,L 2–3,Leeds United,Reading,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/1988d394/Reading-U23-Leeds-United-U23-October-16-2020-Premier-League-2----Division-2
+3,2020-11-01,Sun,PL2 — Div. 2,Matchweek 7,Home,W 4–1,Leeds United,Crystal Palace,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/7f43f110/Leeds-United-U23-Crystal-Palace-U23-November-1-2020-Premier-League-2----Division-2
+4,2020-11-06,Fri,PL2 — Div. 2,Matchweek 8,Away,L 3–4,Leeds United,Newcastle Utd,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ca89edd6/Newcastle-United-U23-Leeds-United-U23-November-6-2020-Premier-League-2----Division-2
+5,2020-11-23,Mon,PL2 — Div. 2,Matchweek 9,Home,W 2–1,Leeds United,West Brom,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/5f4bc052/Leeds-United-U23-West-Bromwich-Albion-U23-November-23-2020-Premier-League-2----Division-2
+6,2020-12-13,Sun,PL2 — Div. 2,Matchweek 11,Home,W 3–2,Leeds United,Aston Villa,Y,LW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/1621e527/Leeds-United-U23-Aston-Villa-U23-December-13-2020-Premier-League-2----Division-2
+7,2020-12-21,Mon,PL2 — Div. 2,Matchweek 12,Home,W 7–1,Leeds United,Fulham,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/06afebb8/Leeds-United-U23-Fulham-U23-December-21-2020-Premier-League-2----Division-2
+8,2021-01-11,Mon,PL2 — Div. 2,Matchweek 13,Away,W 4–1,Leeds United,Burnley,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/730c539c/Burnley-U23-Leeds-United-U23-January-11-2021-Premier-League-2----Division-2
+9,2021-01-18,Mon,PL2 — Div. 2,Matchweek 14,Home,W 1–0,Leeds United,Stoke City,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/dde9092a/Leeds-United-U23-Stoke-City-U23-January-18-2021-Premier-League-2----Division-2
+10,2021-02-01,Mon,PL2 — Div. 2,Matchweek 16,Home,W 2–0,Leeds United,Sunderland,Y,DM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d025f54d/Leeds-United-U23-Sunderland-U23-February-1-2021-Premier-League-2----Division-2
+11,2021-02-14,Sun,Premier League,Matchweek 24,Away,L 2–4,Leeds United,Arsenal,N,RB,38,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,16,19,84.2,1,13,1,0,0,/en/matches/85624e5e/Arsenal-Leeds-United-February-14-2021-Premier-League
+12,2021-02-15,Mon,PL2 — Div. 2,Matchweek 18,Home,W 3–0,Leeds United,Reading,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/781be05f/Leeds-United-U23-Reading-U23-February-15-2021-Premier-League-2----Division-2
+13,2021-03-01,Mon,PL2 — Div. 2,Matchweek 20,Away,L 0–2,Leeds United,Crystal Palace,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/1a328c30/Crystal-Palace-U23-Leeds-United-U23-March-1-2021-Premier-League-2----Division-2
+14,2021-03-15,Mon,PL2 — Div. 2,Matchweek 21,Home,W 2–1,Leeds United,Newcastle Utd,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b3b7aeac/Leeds-United-U23-Newcastle-United-U23-March-15-2021-Premier-League-2----Division-2
+15,2021-04-16,Fri,PL2 — Div. 2,Matchweek 24,Away,W 2–1,Leeds United,Aston Villa,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b1e28293/Aston-Villa-U23-Leeds-United-U23-April-16-2021-Premier-League-2----Division-2
+16,2021-04-26,Mon,PL2 — Div. 2,Matchweek 25,Away,D 1–1,Leeds United,Fulham,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/40803845/Fulham-U23-Leeds-United-U23-April-26-2021-Premier-League-2----Division-2
+17,2021-05-03,Mon,PL2 — Div. 2,Matchweek 26,Home,W 5–2,Leeds United,Burnley,Y,AM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d6b21d80/Leeds-United-U23-Burnley-U23-May-3-2021-Premier-League-2----Division-2
