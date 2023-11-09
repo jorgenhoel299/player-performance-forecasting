@@ -1,3 +1,10 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
-0,2020-09-14,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-09-14,Sun,Matchweek 4,Home,W 1–0,Wolves,Fulham,N,"On matchday squad, but did not play",/en/matches/8f989671/Wolverhampton-Wanderers-Fulham-October-4-2020-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-14,Mon,Premier League,Matchweek 1,Away,W 2–0,Wolves,Sheffield Utd,N,WB,22,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,14,15,93.3,0,8,1,0,0,/en/matches/a3eb7a37/Sheffield-United-Wolverhampton-Wanderers-September-14-2020-Premier-League
+1,2020-09-17,Thu,EFL Cup,Second round,Home,L 0–1,Wolves,Stoke City,Y,RM,65,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/21edac67/Wolverhampton-Wanderers-Stoke-City-September-17-2020-EFL-Cup
+2,2020-10-19,Mon,PL2 — Div. 2,Matchweek 5,Home,L 1–3,Wolves,Aston Villa,Y,RM,83,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ab43453f/Wolverhampton-Wanderers-U23-Aston-Villa-U23-October-19-2020-Premier-League-2----Division-2
+3,2020-10-26,Mon,PL2 — Div. 2,Matchweek 6,Away,L 1–2,Wolves,Crystal Palace,Y,RM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/e31aed2c/Crystal-Palace-U23-Wolverhampton-Wanderers-U23-October-26-2020-Premier-League-2----Division-2
+4,2020-11-02,Mon,PL2 — Div. 2,Matchweek 7,Home,W 3–0,Wolves,Fulham,Y,RB,45,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4bdb4ae3/Wolverhampton-Wanderers-U23-Fulham-U23-November-2-2020-Premier-League-2----Division-2
+5,2020-11-20,Fri,PL2 — Div. 2,Matchweek 9,Home,L 1–4,Wolves,Middlesbrough,Y,RB,77,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d67b0f9a/Wolverhampton-Wanderers-U23-Middlesbrough-U23-November-20-2020-Premier-League-2----Division-2
+6,2020-11-30,Mon,PL2 — Div. 2,Matchweek 10,Away,W 3–0,Wolves,Newcastle Utd,Y,RB,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/6061367e/Newcastle-United-U23-Wolverhampton-Wanderers-U23-November-30-2020-Premier-League-2----Division-2
+7,2020-12-14,Mon,PL2 — Div. 2,Matchweek 11,Away,W 4–2,Wolves,West Brom,Y,RM,84,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/c0c1bf92/West-Bromwich-Albion-U23-Wolverhampton-Wanderers-U23-December-14-2020-Premier-League-2----Division-2
+8,2020-12-21,Mon,PL2 — Div. 2,Matchweek 12,Away,W 2–1,Wolves,Norwich City,Y,RM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/0e7018eb/Norwich-City-U23-Wolverhampton-Wanderers-U23-December-21-2020-Premier-League-2----Division-2

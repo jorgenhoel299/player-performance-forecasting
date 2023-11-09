@@ -1,16 +1,12 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
-0,2020-10-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-10-04,Sun,Matchweek 11,Home,W 4–0,Liverpool,Wolves,Y,GK,90,31,27,31,0,0,0,31,0,0,,0,,21,59,37,0,0,0,0,0,16,0,/en/matches/25249736/Liverpool-Wolverhampton-Wanderers-December-6-2020-Premier-League
-2,2020-10-04,Sun,Matchweek 12,Away,D 1–1,Liverpool,Fulham,N,"On matchday squad, but did not play",/en/matches/5abb0bd1/Fulham-Liverpool-December-13-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-3,2020-10-04,Wed,Matchweek 13,Home,W 2–1,Liverpool,Tottenham,N,"On matchday squad, but did not play",/en/matches/966f86fe/Liverpool-Tottenham-Hotspur-December-16-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-4,2020-10-04,Sat,Matchweek 14,Away,W 7–0,Liverpool,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/d05715a8/Crystal-Palace-Liverpool-December-19-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-5,2020-10-04,Sun,Matchweek 15,Home,D 1–1,Liverpool,West Brom,N,"On matchday squad, but did not play",/en/matches/daa09f69/Liverpool-West-Bromwich-Albion-December-27-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-6,2020-10-04,Wed,Matchweek 16,Away,D 0–0,Liverpool,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/385cda3f/Newcastle-United-Liverpool-December-30-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-7,2020-10-04,Mon,Matchweek 17,Away,L 0–1,Liverpool,Southampton,N,"On matchday squad, but did not play",/en/matches/d0482032/Southampton-Liverpool-January-4-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-8,2020-10-04,Sun,Matchweek 19,Home,D 0–0,Liverpool,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/7e1384ef/North-West-Derby-Liverpool-Manchester-United-January-17-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-9,2020-10-04,Thu,Matchweek 18,Home,L 0–1,Liverpool,Burnley,N,"On matchday squad, but did not play",/en/matches/787d11cc/Liverpool-Burnley-January-21-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-10,2020-10-04,Thu,Matchweek 20,Away,W 3–1,Liverpool,Tottenham,N,"On matchday squad, but did not play",/en/matches/17bac3d1/Tottenham-Hotspur-Liverpool-January-28-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-11,2020-10-04,Sun,Matchweek 21,Away,W 3–1,Liverpool,West Ham,N,"On matchday squad, but did not play",/en/matches/3de3a736/West-Ham-United-Liverpool-January-31-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-12,2020-10-04,Wed,Matchweek 22,Home,L 0–1,Liverpool,Brighton,Y,GK,90,39,29,38,1,0,0,39,0,0,,0,,18,57,38,0,0,0,0,0,18,0,/en/matches/314c860f/Liverpool-Brighton-and-Hove-Albion-February-3-2021-Premier-League
-13,2020-10-04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,2020-10-04,Thu,Matchweek 34,Away,W 4–2,Liverpool,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/9f0275a4/North-West-Derby-Manchester-United-Liverpool-May-13-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-13,Sun,PL2 — Div. 1,Matchweek 1,Home,W 1–0,Liverpool,Everton,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/5e811044/Liverpool-U23-Everton-U23-September-13-2020-Premier-League-2----Division-1
+1,2020-10-30,Fri,PL2 — Div. 1,Matchweek 7,Away,W 1–0,Liverpool,Arsenal,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/f35a2c59/Arsenal-U23-Liverpool-U23-October-30-2020-Premier-League-2----Division-1
+2,2020-11-06,Fri,PL2 — Div. 1,Matchweek 8,Away,W 4–2,Liverpool,West Ham,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/0baba9ae/West-Ham-United-U23-Liverpool-U23-November-6-2020-Premier-League-2----Division-1
+3,2020-11-21,Sat,PL2 — Div. 1,Matchweek 9,Home,D 0–0,Liverpool,Southampton,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4e69793c/Liverpool-U23-Southampton-U23-November-21-2020-Premier-League-2----Division-1
+4,2020-11-28,Sat,PL2 — Div. 1,Matchweek 10,Home,L 2–7,Liverpool,Manchester City,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/34b1f8f6/Liverpool-U23-Manchester-City-U23-November-28-2020-Premier-League-2----Division-1
+5,2020-12-01,Tue,Champions Lg,Group stage,Home,W 1–0,eng Liverpool,nl Ajax,Y,GK,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,38,50,76.0,0,36,0,0,0,/en/matches/912c702e/Liverpool-Ajax-December-1-2020-Champions-League
+6,2020-12-06,Sun,Premier League,Matchweek 11,Home,W 4–0,Liverpool,Wolves,Y,GK,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,21,28,75.0,0,21,0,0,0,/en/matches/25249736/Liverpool-Wolverhampton-Wanderers-December-6-2020-Premier-League
+7,2020-12-09,Wed,Champions Lg,Group stage,Away,D 1–1,eng Liverpool,dk Midtjylland,Y,GK,90,0,0,0,0,0,0,1,0,48,0,0,0,0.0,0.0,0.0,0,0,31,45,68.9,0,26,0,0,0,/en/matches/a6b14ad5/Midtjylland-Liverpool-December-9-2020-Champions-League
+8,2021-01-08,Fri,FA Cup,Third round proper,Away,W 4–1,Liverpool,Aston Villa,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/24cfaad6/Aston-Villa-Liverpool-January-8-2021-FA-Cup
+9,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 0–1,Liverpool,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,30,36,83.3,0,18,0,0,0,/en/matches/314c860f/Liverpool-Brighton-and-Hove-Albion-February-3-2021-Premier-League
+10,2021-06-08,Tue,Friendlies (M),Friendlies (M),Away,D 0–0,ie Rep. of Ireland,hu Hungary,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/7493947f/Hungary-Republic-of-Ireland-June-8-2021-Friendlies-M

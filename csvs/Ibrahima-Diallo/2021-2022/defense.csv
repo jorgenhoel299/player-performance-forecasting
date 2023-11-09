@@ -1,37 +1,31 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2021-08-14,Sat,Matchweek 3,Away,D 2–2,Southampton,Newcastle Utd,N,CM,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/d81af076/Newcastle-United-Southampton-August-28-2021-Premier-League
-1,2021-08-14,Sat,Matchweek 4,Home,D 0–0,Southampton,West Ham,N,CM,38,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/ddff1858/Southampton-West-Ham-United-September-11-2021-Premier-League
-2,2021-08-14,Sat,Matchweek 5,Away,D 0–0,Southampton,Manchester City,N,"On matchday squad, but did not play",/en/matches/1576c578/Manchester-City-Southampton-September-18-2021-Premier-League,,,,,,,,,,,,,,,,,
-3,2021-08-14,Sun,Matchweek 6,Home,L 0–1,Southampton,Wolves,N,"On matchday squad, but did not play",/en/matches/d99f984c/Southampton-Wolverhampton-Wanderers-September-26-2021-Premier-League,,,,,,,,,,,,,,,,,
-4,2021-08-14,Sat,Matchweek 7,Away,L 1–3,Southampton,Chelsea,N,CM,45,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,/en/matches/a6466617/Chelsea-Southampton-October-2-2021-Premier-League
-5,2021-08-14,Sat,Matchweek 8,Home,W 1–0,Southampton,Leeds United,Y,CM,90,2,2,1,0,1,1,3,33.3,2,1,0,1,1,3,0,0,/en/matches/8bde822c/Southampton-Leeds-United-October-16-2021-Premier-League
-6,2021-08-14,Sat,Matchweek 9,Home,D 2–2,Southampton,Burnley,Y,CM,90,1,0,1,0,0,0,1,0.0,1,0,0,0,1,2,0,0,/en/matches/d5164fbe/Southampton-Burnley-October-23-2021-Premier-League
-7,2021-08-14,Sat,Matchweek 10,Away,W 1–0,Southampton,Watford,N,CM,11,1,0,0,1,0,0,0,,0,0,0,0,0,1,1,0,/en/matches/e3521093/Watford-Southampton-October-30-2021-Premier-League
-8,2021-08-14,Fri,Matchweek 11,Home,W 1–0,Southampton,Aston Villa,N,"DM,AM",15,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,/en/matches/868bd31f/Southampton-Aston-Villa-November-5-2021-Premier-League
-9,2021-08-14,Sat,Matchweek 12,Away,L 1–2,Southampton,Norwich City,Y,"RM,CM",90,3,2,1,1,1,2,4,50.0,2,0,0,0,0,3,0,0,/en/matches/4bddaba4/Norwich-City-Southampton-November-20-2021-Premier-League
-10,2021-08-14,Sat,Matchweek 13,Away,L 0–4,Southampton,Liverpool,N,"On matchday squad, but did not play",/en/matches/aa9b882d/Liverpool-Southampton-November-27-2021-Premier-League,,,,,,,,,,,,,,,,,
-11,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,
-12,2021-08-14,Sat,Matchweek 15,Home,D 1–1,Southampton,Brighton,N,"On matchday squad, but did not play",/en/matches/27fd5d70/Southampton-Brighton-and-Hove-Albion-December-4-2021-Premier-League,,,,,,,,,,,,,,,,,
-13,2021-08-14,Sat,Matchweek 16,Away,L 0–3,Southampton,Arsenal,Y,CM,90,2,0,2,0,0,1,1,100.0,0,1,0,1,2,4,0,0,/en/matches/6a35f07c/Arsenal-Southampton-December-11-2021-Premier-League
-14,2021-08-14,Wed,Matchweek 17,Away,D 2–2,Southampton,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/9ebb60f0/Crystal-Palace-Southampton-December-15-2021-Premier-League,,,,,,,,,,,,,,,,,
-15,2021-08-14,Sun,Matchweek 19,Away,W 3–2,Southampton,West Ham,N,DM,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/36a056cf/West-Ham-United-Southampton-December-26-2021-Premier-League
-16,2021-08-14,Tue,Matchweek 20,Home,D 1–1,Southampton,Tottenham,Y,CM,90,5,2,2,2,1,2,3,66.7,1,0,0,0,0,5,1,0,/en/matches/08d5ef01/Southampton-Tottenham-Hotspur-December-28-2021-Premier-League
-17,2021-08-14,Tue,Matchweek 18,Home,W 4–1,Southampton,Brentford,Y,CM,90,3,2,2,1,0,0,2,0.0,2,2,0,2,1,4,3,0,/en/matches/0859817d/Southampton-Brentford-January-11-2022-Premier-League
-18,2021-08-14,Sat,Matchweek 22,Away,L 1–3,Southampton,Wolves,Y,CM,45,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0,/en/matches/dd7b8b8b/Wolverhampton-Wanderers-Southampton-January-15-2022-Premier-League
-19,2021-08-14,Sat,Matchweek 23,Home,D 1–1,Southampton,Manchester City,N,RM,9,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,/en/matches/9bfa5945/Southampton-Manchester-City-January-22-2022-Premier-League
-20,2021-08-14,Wed,Matchweek 24,Away,W 3–2,Southampton,Tottenham,N,LM,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/0613df22/Tottenham-Hotspur-Southampton-February-9-2022-Premier-League
-21,2021-08-14,Sat,Matchweek 25,Away,D 1–1,Southampton,Manchester Utd,N,CM,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/d15dca2c/Manchester-United-Southampton-February-12-2022-Premier-League
-22,2021-08-14,Sat,Matchweek 26,Home,W 2–0,Southampton,Everton,N,"On matchday squad, but did not play",/en/matches/53cc3dbd/Southampton-Everton-February-19-2022-Premier-League,,,,,,,,,,,,,,,,,
-23,2021-08-14,Fri,Matchweek 27,Home,W 2–0,Southampton,Norwich City,N,"On matchday squad, but did not play",/en/matches/17c79d36/Southampton-Norwich-City-February-25-2022-Premier-League,,,,,,,,,,,,,,,,,
-24,2021-08-14,Sat,Matchweek 28,Away,L 0–4,Southampton,Aston Villa,N,CM,14,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,/en/matches/1aa40463/Aston-Villa-Southampton-March-5-2022-Premier-League
-25,2021-08-14,Thu,Matchweek 21,Home,L 1–2,Southampton,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/2d6fb488/Southampton-Newcastle-United-March-10-2022-Premier-League,,,,,,,,,,,,,,,,,
-26,2021-08-14,Sun,Matchweek 29,Home,L 1–2,Southampton,Watford,N,"On matchday squad, but did not play",/en/matches/2c627dd8/Southampton-Watford-March-13-2022-Premier-League,,,,,,,,,,,,,,,,,
-27,2021-08-14,Sat,Matchweek 31,Away,D 1–1,Southampton,Leeds United,Y,"LM,CM",90,1,1,0,1,0,0,0,,0,2,0,2,2,3,1,0,/en/matches/abc88be4/Leeds-United-Southampton-April-2-2022-Premier-League
-28,2021-08-14,Sat,Matchweek 32,Home,L 0–6,Southampton,Chelsea,N,CM,45,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,/en/matches/70d15cf0/Southampton-Chelsea-April-9-2022-Premier-League
-29,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,
-30,2021-08-14,Thu,Matchweek 30,Away,L 0–2,Southampton,Burnley,N,"On matchday squad, but did not play",/en/matches/73ef622b/Burnley-Southampton-April-21-2022-Premier-League,,,,,,,,,,,,,,,,,
-31,2021-08-14,Sun,Matchweek 34,Away,D 2–2,Southampton,Brighton,N,"On matchday squad, but did not play",/en/matches/32a11932/Brighton-and-Hove-Albion-Southampton-April-24-2022-Premier-League,,,,,,,,,,,,,,,,,
-32,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,
-33,2021-08-14,Sat,Matchweek 36,Away,L 0–3,Southampton,Brentford,Y,CM,63,2,1,0,2,0,2,4,50.0,2,0,0,0,0,2,1,0,/en/matches/74a74729/Brentford-Southampton-May-7-2022-Premier-League
-34,2021-08-14,Tue,Matchweek 37,Home,L 1–2,Southampton,Liverpool,Y,CM,70,2,1,1,1,0,2,2,100.0,0,0,0,0,0,2,1,0,/en/matches/733409b2/Southampton-Liverpool-May-17-2022-Premier-League
-35,2021-08-14,Sun,Matchweek 38,Away,L 1–4,Southampton,Leicester City,N,"On matchday squad, but did not play",/en/matches/16e2761e/Leicester-City-Southampton-May-22-2022-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-14,Sat,Premier League,Matchweek 1,Away,L 1–3,Southampton,Everton,N,CM,11,0,0,0,0,1,0,0,0,12,0,0,0,0.2,0.2,0.0,0,0,8,9,88.9,0,8,0,0,0,/en/matches/c99ebbf5/Everton-Southampton-August-14-2021-Premier-League
+1,2021-08-22,Sun,Premier League,Matchweek 2,Home,D 1–1,Southampton,Manchester Utd,N,CM,21,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,0,3,0,0,0,/en/matches/345b3989/Southampton-Manchester-United-August-22-2021-Premier-League
+2,2021-08-25,Wed,EFL Cup,Second round,Away,W 8–0,Southampton,Newport County,Y,CM,90,0,0,0,0,1,0,1,0,,,2,,,,,,,,,,,,,,,/en/matches/ea9d95ea/Newport-County-Southampton-August-25-2021-EFL-Cup
+3,2021-08-28,Sat,Premier League,Matchweek 3,Away,D 2–2,Southampton,Newcastle Utd,N,CM,3,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,4,0,2,2,/en/matches/d81af076/Newcastle-United-Southampton-August-28-2021-Premier-League
+4,2021-09-11,Sat,Premier League,Matchweek 4,Home,D 0–0,Southampton,West Ham,N,CM,38,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,8,10,80.0,2,10,1,0,0,/en/matches/ddff1858/Southampton-West-Ham-United-September-11-2021-Premier-League
+5,2021-09-21,Tue,EFL Cup,Third round,Away,D 2 (4)–2 (2),Southampton,Sheffield Utd,Y,DM,120,1,0,0,0,4,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/0d6f7957/Sheffield-United-Southampton-September-21-2021-EFL-Cup
+6,2021-10-02,Sat,Premier League,Matchweek 7,Away,L 1–3,Southampton,Chelsea,N,CM,45,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.2,2,1,13,15,86.7,4,9,0,1,1,/en/matches/a6466617/Chelsea-Southampton-October-2-2021-Premier-League
+7,2021-10-16,Sat,Premier League,Matchweek 8,Home,W 1–0,Southampton,Leeds United,Y,CM,90,0,0,0,0,0,0,0,0,52,2,1,1,0.0,0.0,0.0,2,0,37,44,84.1,4,22,1,5,4,/en/matches/8bde822c/Southampton-Leeds-United-October-16-2021-Premier-League
+8,2021-10-23,Sat,Premier League,Matchweek 9,Home,D 2–2,Southampton,Burnley,Y,CM,90,0,1,0,0,2,1,0,0,54,1,1,0,0.0,0.0,0.1,2,1,40,48,83.3,9,41,3,1,0,/en/matches/d5164fbe/Southampton-Burnley-October-23-2021-Premier-League
+9,2021-10-26,Tue,EFL Cup,Fourth round,Away,D 1 (3)–1 (4),Southampton,Chelsea,Y,CM,76,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/026f8b03/Chelsea-Southampton-October-26-2021-EFL-Cup
+10,2021-10-30,Sat,Premier League,Matchweek 10,Away,W 1–0,Southampton,Watford,N,CM,11,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,3,0,0,0,/en/matches/e3521093/Watford-Southampton-October-30-2021-Premier-League
+11,2021-11-05,Fri,Premier League,Matchweek 11,Home,W 1–0,Southampton,Aston Villa,N,"DM,AM",15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,/en/matches/868bd31f/Southampton-Aston-Villa-November-5-2021-Premier-League
+12,2021-11-20,Sat,Premier League,Matchweek 12,Away,L 1–2,Southampton,Norwich City,Y,"RM,CM",90,0,0,0,0,0,0,0,0,54,3,0,0,0.0,0.0,0.2,4,0,41,49,83.7,6,38,1,2,2,/en/matches/4bddaba4/Norwich-City-Southampton-November-20-2021-Premier-League
+13,2021-12-11,Sat,Premier League,Matchweek 16,Away,L 0–3,Southampton,Arsenal,Y,CM,90,0,0,0,0,0,0,0,0,36,2,2,1,0.0,0.0,0.0,2,0,18,27,66.7,7,19,0,0,0,/en/matches/6a35f07c/Arsenal-Southampton-December-11-2021-Premier-League
+14,2021-12-26,Sun,Premier League,Matchweek 19,Away,W 3–2,Southampton,West Ham,N,DM,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,1,0,0,0,/en/matches/36a056cf/West-Ham-United-Southampton-December-26-2021-Premier-League
+15,2021-12-28,Tue,Premier League,Matchweek 20,Home,D 1–1,Southampton,Tottenham,Y,CM,90,0,0,0,0,0,0,0,0,43,5,0,0,0.0,0.0,0.1,5,0,29,35,82.9,2,22,0,2,2,/en/matches/08d5ef01/Southampton-Tottenham-Hotspur-December-28-2021-Premier-League
+16,2022-01-08,Sat,FA Cup,Third round proper,Away,W 3–2,Southampton,Swansea City,N,,56,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/19af61c5/Swansea-City-Southampton-January-8-2022-FA-Cup
+17,2022-01-11,Tue,Premier League,Matchweek 18,Home,W 4–1,Southampton,Brentford,Y,CM,90,0,1,0,0,2,1,0,0,62,3,1,2,0.0,0.0,0.3,4,1,42,48,87.5,7,42,6,2,2,/en/matches/0859817d/Southampton-Brentford-January-11-2022-Premier-League
+18,2022-01-15,Sat,Premier League,Matchweek 22,Away,L 1–3,Southampton,Wolves,Y,CM,45,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,2,0,16,21,76.2,3,16,2,2,1,/en/matches/dd7b8b8b/Wolverhampton-Wanderers-Southampton-January-15-2022-Premier-League
+19,2022-01-22,Sat,Premier League,Matchweek 23,Home,D 1–1,Southampton,Manchester City,N,RM,9,0,0,0,0,1,1,0,0,8,0,1,0,0.0,0.0,0.0,0,0,5,5,100.0,1,6,1,2,1,/en/matches/9bfa5945/Southampton-Manchester-City-January-22-2022-Premier-League
+20,2022-02-05,Sat,FA Cup,Fourth round proper,Home,W 2–1,Southampton,Coventry City,Y,CM,120,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/ccccb0d1/Southampton-Coventry-City-February-5-2022-FA-Cup
+21,2022-02-09,Wed,Premier League,Matchweek 24,Away,W 3–2,Southampton,Tottenham,N,LM,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,/en/matches/0613df22/Tottenham-Hotspur-Southampton-February-9-2022-Premier-League
+22,2022-02-12,Sat,Premier League,Matchweek 25,Away,D 1–1,Southampton,Manchester Utd,N,CM,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,/en/matches/d15dca2c/Manchester-United-Southampton-February-12-2022-Premier-League
+23,2022-03-02,Wed,FA Cup,Fifth round proper,Home,W 3–1,Southampton,West Ham,Y,CM,89,0,0,0,0,1,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/c29212bb/Southampton-West-Ham-United-March-2-2022-FA-Cup
+24,2022-03-05,Sat,Premier League,Matchweek 28,Away,L 0–4,Southampton,Aston Villa,N,CM,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,2,0,8,8,100.0,0,6,0,0,0,/en/matches/1aa40463/Aston-Villa-Southampton-March-5-2022-Premier-League
+25,2022-03-20,Sun,FA Cup,Quarter-finals,Home,L 1–4,Southampton,Manchester City,N,,3,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/776bdea8/Southampton-Manchester-City-March-20-2022-FA-Cup
+26,2022-04-02,Sat,Premier League,Matchweek 31,Away,D 1–1,Southampton,Leeds United,Y,"LM,CM",90,0,0,0,0,1,1,0,0,42,1,2,2,0.0,0.0,0.0,0,0,20,34,58.8,3,12,2,1,1,/en/matches/abc88be4/Leeds-United-Southampton-April-2-2022-Premier-League
+27,2022-04-09,Sat,Premier League,Matchweek 32,Home,L 0–6,Southampton,Chelsea,N,CM,45,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,1,0,7,10,70.0,2,12,0,1,0,/en/matches/70d15cf0/Southampton-Chelsea-April-9-2022-Premier-League
+28,2022-05-07,Sat,Premier League,Matchweek 36,Away,L 0–3,Southampton,Brentford,Y,CM,63,0,0,0,0,0,0,1,0,50,2,0,0,0.0,0.0,0.1,3,0,37,45,82.2,5,35,0,0,0,/en/matches/74a74729/Brentford-Southampton-May-7-2022-Premier-League
+29,2022-05-17,Tue,Premier League,Matchweek 37,Home,L 1–2,Southampton,Liverpool,Y,CM,70,0,0,0,0,0,0,0,0,25,2,0,0,0.0,0.0,0.0,0,0,10,16,62.5,1,11,0,0,0,/en/matches/733409b2/Southampton-Liverpool-May-17-2022-Premier-League

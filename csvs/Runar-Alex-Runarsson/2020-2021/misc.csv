@@ -1,24 +1,12 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
-0,2020-09-28,Sat,Matchweek 5,Away,L 0–1,Arsenal,Manchester City,N,"On matchday squad, but did not play",/en/matches/e95b8546/Manchester-City-Arsenal-October-17-2020-Premier-League,,,,,,,,,,,,,,,,,
-1,2020-09-28,Sun,Matchweek 6,Home,L 0–1,Arsenal,Leicester City,N,"On matchday squad, but did not play",/en/matches/bcd3a9b4/Arsenal-Leicester-City-October-25-2020-Premier-League,,,,,,,,,,,,,,,,,
-2,2020-09-28,Sun,Matchweek 7,Away,W 1–0,Arsenal,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/75dd1359/Manchester-United-Arsenal-November-1-2020-Premier-League,,,,,,,,,,,,,,,,,
-3,2020-09-28,Sun,Matchweek 8,Home,L 0–3,Arsenal,Aston Villa,N,"On matchday squad, but did not play",/en/matches/90fd3597/Arsenal-Aston-Villa-November-8-2020-Premier-League,,,,,,,,,,,,,,,,,
-4,2020-09-28,Sun,Matchweek 9,Away,D 0–0,Arsenal,Leeds United,N,"On matchday squad, but did not play",/en/matches/0dd6b39b/Leeds-United-Arsenal-November-22-2020-Premier-League,,,,,,,,,,,,,,,,,
-5,2020-09-28,Sun,Matchweek 10,Home,L 1–2,Arsenal,Wolves,N,"On matchday squad, but did not play",/en/matches/fa17687c/Arsenal-Wolverhampton-Wanderers-November-29-2020-Premier-League,,,,,,,,,,,,,,,,,
-6,2020-09-28,Sun,Matchweek 11,Away,L 0–2,Arsenal,Tottenham,N,"On matchday squad, but did not play",/en/matches/35abfa2f/North-London-Derby-Tottenham-Hotspur-Arsenal-December-6-2020-Premier-League,,,,,,,,,,,,,,,,,
-7,2020-09-28,Sun,Matchweek 12,Home,L 0–1,Arsenal,Burnley,N,"On matchday squad, but did not play",/en/matches/e4dc55d0/Arsenal-Burnley-December-13-2020-Premier-League,,,,,,,,,,,,,,,,,
-8,2020-09-28,Wed,Matchweek 13,Home,D 1–1,Arsenal,Southampton,N,"On matchday squad, but did not play",/en/matches/0ceceee4/Arsenal-Southampton-December-16-2020-Premier-League,,,,,,,,,,,,,,,,,
-9,2020-09-28,Sat,Matchweek 14,Away,L 1–2,Arsenal,Everton,N,"On matchday squad, but did not play",/en/matches/72fa1993/Everton-Arsenal-December-19-2020-Premier-League,,,,,,,,,,,,,,,,,
-10,2020-09-28,Sat,Matchweek 15,Home,W 3–1,Arsenal,Chelsea,N,"On matchday squad, but did not play",/en/matches/c5de8a0c/North-West-London-Derby-Arsenal-Chelsea-December-26-2020-Premier-League,,,,,,,,,,,,,,,,,
-11,2020-09-28,Tue,Matchweek 16,Away,W 1–0,Arsenal,Brighton,N,"On matchday squad, but did not play",/en/matches/fdca0bef/Brighton-and-Hove-Albion-Arsenal-December-29-2020-Premier-League,,,,,,,,,,,,,,,,,
-12,2020-09-28,Sat,Matchweek 17,Away,W 4–0,Arsenal,West Brom,N,"On matchday squad, but did not play",/en/matches/a56531b0/West-Bromwich-Albion-Arsenal-January-2-2021-Premier-League,,,,,,,,,,,,,,,,,
-13,2020-09-28,Thu,Matchweek 18,Home,D 0–0,Arsenal,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/0476b43a/Arsenal-Crystal-Palace-January-14-2021-Premier-League,,,,,,,,,,,,,,,,,
-14,2020-09-28,Mon,Matchweek 19,Home,W 3–0,Arsenal,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/620df215/Arsenal-Newcastle-United-January-18-2021-Premier-League,,,,,,,,,,,,,,,,,
-15,2020-09-28,,,,,,,,,,,,,,,,,,,,,,,,,,
-16,2020-09-28,Sat,Matchweek 21,Home,D 0–0,Arsenal,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/0fcaaa5f/Arsenal-Manchester-United-January-30-2021-Premier-League,,,,,,,,,,,,,,,,,
-17,2020-09-28,Tue,Matchweek 22,Away,L 1–2,Arsenal,Wolves,N,"GK,DM",16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,/en/matches/558fa672/Wolverhampton-Wanderers-Arsenal-February-2-2021-Premier-League
-18,2020-09-28,Sat,Matchweek 23,Away,L 0–1,Arsenal,Aston Villa,N,"On matchday squad, but did not play",/en/matches/224bcfc4/Aston-Villa-Arsenal-February-6-2021-Premier-League,,,,,,,,,,,,,,,,,
-19,2020-09-28,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,2020-09-28,Sun,Matchweek 35,Home,W 3–1,Arsenal,West Brom,N,"On matchday squad, but did not play",/en/matches/49369ed5/Arsenal-West-Bromwich-Albion-May-9-2021-Premier-League,,,,,,,,,,,,,,,,,
-21,2020-09-28,,,,,,,,,,,,,,,,,,,,,,,,,,
-22,2020-09-28,Sun,Matchweek 38,Home,W 2–0,Arsenal,Brighton,N,"On matchday squad, but did not play",/en/matches/9f6c52f8/Arsenal-Brighton-and-Hove-Albion-May-23-2021-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-10-14,Wed,UEFA Nations League,League A,Home,L 1–2,is Iceland,be Belgium,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/2e919b6a/Iceland-Belgium-October-14-2020-UEFA-Nations-League
+1,2020-10-29,Thu,Europa Lg,Group stage,Home,W 3–0,eng Arsenal,ie Dundalk,Y,GK,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,0,11,0,0,0,/en/matches/6578dff1/Arsenal-Dundalk-October-29-2020-Europa-League
+2,2020-11-15,Sun,UEFA Nations League,League A,Away,L 1–2,is Iceland,dk Denmark,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/4c05f71e/Denmark-Iceland-November-15-2020-UEFA-Nations-League
+3,2020-11-26,Thu,Europa Lg,Group stage,Away,W 3–0,eng Arsenal,no Molde,Y,GK,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,40,43,93.0,0,26,0,0,0,/en/matches/de32a3cc/Molde-Arsenal-November-26-2020-Europa-League
+4,2020-12-03,Thu,Europa Lg,Group stage,Home,W 4–1,eng Arsenal,at Rapid Wien,Y,GK,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,39,47,83.0,0,36,0,0,0,/en/matches/bca73bdc/Arsenal-Rapid-Wien-December-3-2020-Europa-League
+5,2020-12-10,Thu,Europa Lg,Group stage,Away,W 4–2,eng Arsenal,ie Dundalk,Y,GK,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,19,23,82.6,1,16,0,0,0,/en/matches/3a6e4eda/Dundalk-Arsenal-December-10-2020-Europa-League
+6,2020-12-22,Tue,EFL Cup,Quarter-finals,Home,L 1–4,Arsenal,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/3453fb20/Arsenal-Manchester-City-December-22-2020-EFL-Cup
+7,2021-02-02,Tue,Premier League,Matchweek 22,Away,L 1–2,Arsenal,Wolves,N,"GK,DM",16,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,7,11,63.6,0,5,0,0,0,/en/matches/558fa672/Wolverhampton-Wanderers-Arsenal-February-2-2021-Premier-League
+8,2021-03-31,Wed,WCQ,First round,Away,W 4–1,is Iceland,li Liechtenstein,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/f66a919e/Liechtenstein-Iceland-March-31-2021-WCQ----UEFA-M
+9,2021-05-29,Sat,Friendlies (M),Friendlies (M),Away,L 1–2,is Iceland,mx Mexico,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/36e40cb0/Mexico-Iceland-May-29-2021-Friendlies-M
+10,2021-06-08,Tue,Friendlies (M),Friendlies (M),Away,D 2–2,is Iceland,pl Poland,Y,GK,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ce8d3a85/Poland-Iceland-June-8-2021-Friendlies-M

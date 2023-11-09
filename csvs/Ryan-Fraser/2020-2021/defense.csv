@@ -1,23 +1,32 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-09-12,Sat,Matchweek 4,Home,W 3–1,Newcastle Utd,Burnley,N,LM,18,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,/en/matches/34ba607f/Newcastle-United-Burnley-October-3-2020-Premier-League
-2,2020-09-12,Sat,Matchweek 5,Home,L 1–4,Newcastle Utd,Manchester Utd,N,RM,19,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/0b8239de/Newcastle-United-Manchester-United-October-17-2020-Premier-League
-3,2020-09-12,Sun,Matchweek 6,Away,D 1–1,Newcastle Utd,Wolves,Y,CM,77,2,0,2,0,0,0,1,0.0,1,0,0,0,0,2,1,0,/en/matches/76661e3c/Wolverhampton-Wanderers-Newcastle-United-October-25-2020-Premier-League
-4,2020-09-12,Sun,Matchweek 7,Home,W 2–1,Newcastle Utd,Everton,N,FW,17,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/448a43ee/Newcastle-United-Everton-November-1-2020-Premier-League
-5,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2020-09-12,Wed,Matchweek 13,Away,L 2–5,Newcastle Utd,Leeds United,Y,LM,74,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,/en/matches/b52c441b/Leeds-United-Newcastle-United-December-16-2020-Premier-League
-7,2020-09-12,Sat,Matchweek 14,Home,D 1–1,Newcastle Utd,Fulham,N,LM,12,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,/en/matches/3ae84056/Newcastle-United-Fulham-December-19-2020-Premier-League
-8,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,
-9,2020-09-12,Tue,Matchweek 18,Away,L 0–1,Newcastle Utd,Sheffield Utd,Y,LM,44,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,/en/matches/18ccfdb9/Sheffield-United-Newcastle-United-January-12-2021-Premier-League
-10,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,
-11,2020-09-12,Sat,Matchweek 11,Away,L 0–2,Newcastle Utd,Aston Villa,N,RB,20,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/b2143993/Aston-Villa-Newcastle-United-January-23-2021-Premier-League
-12,2020-09-12,Tue,Matchweek 20,Home,L 1–2,Newcastle Utd,Leeds United,Y,"FW,LM,RM",76,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,/en/matches/831d8a36/Newcastle-United-Leeds-United-January-26-2021-Premier-League
-13,2020-09-12,Sat,Matchweek 21,Away,W 2–0,Newcastle Utd,Everton,Y,FW,66,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/88053fb0/Everton-Newcastle-United-January-30-2021-Premier-League
-14,2020-09-12,Tue,Matchweek 22,Home,L 1–2,Newcastle Utd,Crystal Palace,Y,"FW,RB,WB",90,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,1,0,/en/matches/ca8297c0/Newcastle-United-Crystal-Palace-February-2-2021-Premier-League
-15,2020-09-12,Sat,Matchweek 23,Home,W 3–2,Newcastle Utd,Southampton,N,"On matchday squad, but did not play",/en/matches/5313627a/Newcastle-United-Southampton-February-6-2021-Premier-League,,,,,,,,,,,,,,,,,
-16,2020-09-12,Mon,Matchweek 24,Away,L 0–2,Newcastle Utd,Chelsea,N,LW,19,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/dd033287/Chelsea-Newcastle-United-February-15-2021-Premier-League
-17,2020-09-12,Sun,Matchweek 25,Away,L 1–3,Newcastle Utd,Manchester Utd,N,FW,36,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/401e0d48/Manchester-United-Newcastle-United-February-21-2021-Premier-League
-18,2020-09-12,Sat,Matchweek 26,Home,D 1–1,Newcastle Utd,Wolves,N,"FW,LW",45,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/99e5e3dc/Newcastle-United-Wolverhampton-Wanderers-February-27-2021-Premier-League
-19,2020-09-12,Sun,Matchweek 27,Away,D 0–0,Newcastle Utd,West Brom,Y,FW,89,1,1,0,1,0,1,2,50.0,1,1,0,1,0,1,0,0,/en/matches/a096c32f/West-Bromwich-Albion-Newcastle-United-March-7-2021-Premier-League
-20,2020-09-12,Fri,Matchweek 28,Home,D 1–1,Newcastle Utd,Aston Villa,Y,FW,78,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/5ac8e391/Newcastle-United-Aston-Villa-March-12-2021-Premier-League
-21,2020-09-12,Sat,Matchweek 29,Away,L 0–3,Newcastle Utd,Brighton,Y,LW,90,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,/en/matches/1daf63a9/Brighton-and-Hove-Albion-Newcastle-United-March-20-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-15,Tue,EFL Cup,Second round,Home,W 1–0,Newcastle Utd,Blackburn,Y,LM,57,1,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/b1979b09/Newcastle-United-Blackburn-Rovers-September-15-2020-EFL-Cup
+1,2020-09-20,Sun,Premier League,Matchweek 2,Home,L 0–3,Newcastle Utd,Brighton,N,"LM,RW,RM",58,0,0,0,0,0,0,0,0,28,0,3,0,0.0,0.0,0.0,0,0,16,25,64.0,1,14,0,0,0,/en/matches/845f6a86/Newcastle-United-Brighton-and-Hove-Albion-September-20-2020-Premier-League
+2,2020-09-23,Wed,EFL Cup,Third round,Away,W 7–0,Newcastle Utd,Morecambe,N,,45,0,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/8c754b9c/Morecambe-Newcastle-United-September-23-2020-EFL-Cup
+3,2020-09-30,Wed,EFL Cup,Fourth round,Away,D 1 (5)–1 (4),Newcastle Utd,Newport County,Y,AM,90,0,0,0,0,3,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/23c0879d/Newport-County-Newcastle-United-September-30-2020-EFL-Cup
+4,2020-10-03,Sat,Premier League,Matchweek 4,Home,W 3–1,Newcastle Utd,Burnley,N,LM,18,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,1,1,7,11,63.6,1,11,0,0,0,/en/matches/34ba607f/Newcastle-United-Burnley-October-3-2020-Premier-League
+5,2020-10-08,Thu,UEFA Euro Qualifying,Semi-finals,Home,D 0 (5)–0 (3),sct Scotland,il Israel,N,,37,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/b2ea5359/Scotland-Israel-October-8-2020-UEFA-Euro-Qualifying
+6,2020-10-11,Sun,UEFA Nations League,League B,Home,W 1–0,sct Scotland,sk Slovakia,Y,FW,84,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/0a841e64/Scotland-Slovakia-October-11-2020-UEFA-Nations-League
+7,2020-10-14,Wed,UEFA Nations League,League B,Home,W 1–0,sct Scotland,cz Czech Republic,Y,FW,69,1,0,0,0,3,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/50b21b8e/Scotland-Czech-Republic-October-14-2020-UEFA-Nations-League
+8,2020-10-17,Sat,Premier League,Matchweek 5,Home,L 1–4,Newcastle Utd,Manchester Utd,N,RM,19,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,7,28.6,0,2,2,0,0,/en/matches/0b8239de/Newcastle-United-Manchester-United-October-17-2020-Premier-League
+9,2020-10-25,Sun,Premier League,Matchweek 6,Away,D 1–1,Newcastle Utd,Wolves,Y,CM,77,0,0,0,0,0,0,0,0,29,2,0,0,0.0,0.0,0.0,0,0,18,27,66.7,0,16,1,0,0,/en/matches/76661e3c/Wolverhampton-Wanderers-Newcastle-United-October-25-2020-Premier-League
+10,2020-11-01,Sun,Premier League,Matchweek 7,Home,W 2–1,Newcastle Utd,Everton,N,FW,17,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,6,0,0,0,/en/matches/448a43ee/Newcastle-United-Everton-November-1-2020-Premier-League
+11,2020-12-16,Wed,Premier League,Matchweek 13,Away,L 2–5,Newcastle Utd,Leeds United,Y,LM,74,0,1,0,0,1,1,0,0,34,0,1,0,0.0,0.0,0.2,4,1,17,25,68.0,2,12,2,1,1,/en/matches/b52c441b/Leeds-United-Newcastle-United-December-16-2020-Premier-League
+12,2020-12-19,Sat,Premier League,Matchweek 14,Home,D 1–1,Newcastle Utd,Fulham,N,LM,12,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,11,13,84.6,1,12,0,0,0,/en/matches/3ae84056/Newcastle-United-Fulham-December-19-2020-Premier-League
+13,2020-12-22,Tue,EFL Cup,Quarter-finals,Away,L 0–1,Newcastle Utd,Brentford,Y,AM,64,0,0,0,0,2,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/4da977e2/Brentford-Newcastle-United-December-22-2020-EFL-Cup
+14,2021-01-12,Tue,Premier League,Matchweek 18,Away,L 0–1,Newcastle Utd,Sheffield Utd,Y,LM,44,0,0,0,0,0,0,2,1,17,0,0,0,0.0,0.0,0.1,1,0,9,15,60.0,0,11,2,0,0,/en/matches/18ccfdb9/Sheffield-United-Newcastle-United-January-12-2021-Premier-League
+15,2021-01-23,Sat,Premier League,Matchweek 11,Away,L 0–2,Newcastle Utd,Aston Villa,N,RB,20,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.0,1,0,6,9,66.7,3,6,0,0,0,/en/matches/b2143993/Aston-Villa-Newcastle-United-January-23-2021-Premier-League
+16,2021-01-26,Tue,Premier League,Matchweek 20,Home,L 1–2,Newcastle Utd,Leeds United,Y,"FW,LM,RM",76,0,0,0,0,2,0,0,0,29,0,0,0,0.1,0.1,0.1,1,0,16,22,72.7,3,15,1,1,0,/en/matches/831d8a36/Newcastle-United-Leeds-United-January-26-2021-Premier-League
+17,2021-01-30,Sat,Premier League,Matchweek 21,Away,W 2–0,Newcastle Utd,Everton,Y,FW,66,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.4,4,0,16,27,59.3,3,18,0,0,0,/en/matches/88053fb0/Everton-Newcastle-United-January-30-2021-Premier-League
+18,2021-02-02,Tue,Premier League,Matchweek 22,Home,L 1–2,Newcastle Utd,Crystal Palace,Y,"FW,RB,WB",90,0,0,0,0,2,2,0,0,67,1,0,0,0.4,0.4,0.7,9,0,44,60,73.3,1,29,0,0,0,/en/matches/ca8297c0/Newcastle-United-Crystal-Palace-February-2-2021-Premier-League
+19,2021-02-15,Mon,Premier League,Matchweek 24,Away,L 0–2,Newcastle Utd,Chelsea,N,LW,19,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,2,0,5,9,55.6,0,4,1,0,0,/en/matches/dd033287/Chelsea-Newcastle-United-February-15-2021-Premier-League
+20,2021-02-21,Sun,Premier League,Matchweek 25,Away,L 1–3,Newcastle Utd,Manchester Utd,N,FW,36,0,0,0,0,1,1,0,0,7,0,0,0,0.0,0.0,0.0,2,0,4,5,80.0,0,5,1,0,0,/en/matches/401e0d48/Manchester-United-Newcastle-United-February-21-2021-Premier-League
+21,2021-02-27,Sat,Premier League,Matchweek 26,Home,D 1–1,Newcastle Utd,Wolves,N,"FW,LW",45,0,1,0,0,1,0,0,0,20,0,0,0,0.0,0.0,0.2,5,1,11,17,64.7,0,9,1,0,0,/en/matches/99e5e3dc/Newcastle-United-Wolverhampton-Wanderers-February-27-2021-Premier-League
+22,2021-03-07,Sun,Premier League,Matchweek 27,Away,D 0–0,Newcastle Utd,West Brom,Y,FW,89,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.2,3,0,12,32,37.5,2,16,4,0,0,/en/matches/a096c32f/West-Bromwich-Albion-Newcastle-United-March-7-2021-Premier-League
+23,2021-03-12,Fri,Premier League,Matchweek 28,Home,D 1–1,Newcastle Utd,Aston Villa,Y,FW,78,0,0,0,0,2,1,0,0,38,0,0,0,0.1,0.1,0.1,3,0,22,33,66.7,0,20,3,0,0,/en/matches/5ac8e391/Newcastle-United-Aston-Villa-March-12-2021-Premier-League
+24,2021-03-20,Sat,Premier League,Matchweek 29,Away,L 0–3,Newcastle Utd,Brighton,Y,LW,90,0,0,0,0,2,1,0,0,40,0,1,0,0.1,0.1,0.0,1,0,21,31,67.7,1,35,3,2,2,/en/matches/1daf63a9/Brighton-and-Hove-Albion-Newcastle-United-March-20-2021-Premier-League
+25,2021-03-28,Sun,WCQ,First round,Away,D 1–1,sct Scotland,il Israel,Y,FW,85,1,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c2f00158/Israel-Scotland-March-28-2021-WCQ----UEFA-M
+26,2021-03-31,Wed,WCQ,First round,Home,W 4–0,sct Scotland,fo Faroe Islands,Y,RM,78,1,0,0,0,2,2,0,0,,,1,,,,,,,,,,,,,,,/en/matches/9931d889/Scotland-Faroe-Islands-March-31-2021-WCQ----UEFA-M
+27,2021-06-02,Wed,Friendlies (M),Friendlies (M),Away,D 2–2,sct Scotland,nl Netherlands,N,,30,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/5ad0dffb/Netherlands-Scotland-June-2-2021-Friendlies-M
+28,2021-06-06,Sun,Friendlies (M),Friendlies (M),Away,W 1–0,sct Scotland,lu Luxembourg,N,,27,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b1555038/Luxembourg-Scotland-June-6-2021-Friendlies-M
+29,2021-06-14,Mon,UEFA Euro,Group stage,Neutral,L 0–2,sct Scotland,cz Czech Republic,N,CM,24,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,9,1,0,0,/en/matches/6599f4ab/Scotland-Czech-Republic-June-14-2021-UEFA-Euro
+30,2021-06-22,Tue,UEFA Euro,Group stage,Neutral,L 1–3,sct Scotland,hr Croatia,N,CM,21,0,0,0,0,2,0,0,0,12,0,0,0,0.1,0.1,0.4,2,0,7,10,70.0,1,9,3,0,0,/en/matches/0305e42c/Croatia-Scotland-June-22-2021-UEFA-Euro

@@ -1,2 +1,32 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2021-08-14,Sun,Matchweek 3,Away,D 1–1,Leeds United,Burnley,N,"On matchday squad, but did not play",/en/matches/2e5db698/Burnley-Leeds-United-August-29-2021-Premier-League,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-14,Sat,Premier League,Matchweek 1,Away,L 1–5,Leeds United,Manchester Utd,N,LM,22,0,0,0,0,1,0,0,0,9,0,0,1,0.0,0.0,0.0,1,0,5,5,100.0,0,6,0,0,0,/en/matches/e62685d4/Manchester-United-Leeds-United-August-14-2021-Premier-League
+1,2021-08-24,Tue,EFL Cup,Second round,Home,W 3–0,Leeds United,Crewe Alexandra,Y,AM,90,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/904a62ea/Leeds-United-Crewe-Alexandra-August-24-2021-EFL-Cup
+2,2021-09-19,Sun,La Liga,Matchweek 5,Home,L 1–2,Valencia,Real Madrid,N,"LW,FW",12,0,0,0,0,0,0,0,0,4,0,1,1,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0,/en/matches/140f4110/Valencia-Real-Madrid-September-19-2021-La-Liga
+3,2021-10-02,Sat,La Liga,Matchweek 8,Away,D 0–0,Valencia,Cádiz,N,RM,6,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.2,2,0,5,8,62.5,1,5,1,0,0,/en/matches/ff2e7855/Cadiz-Valencia-October-2-2021-La-Liga
+4,2021-10-17,Sun,La Liga,Matchweek 9,Away,L 1–3,Valencia,Barcelona,N,"RM,CM",5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,1,2,1,0,0,/en/matches/2a3e67f6/Barcelona-Valencia-October-17-2021-La-Liga
+5,2021-10-23,Sat,La Liga,Matchweek 10,Home,D 2–2,Valencia,Mallorca,Y,RM,90,0,0,0,0,1,0,0,0,48,2,0,0,0.1,0.1,0.2,4,1,29,40,72.5,3,32,3,4,1,/en/matches/8dd835a6/Valencia-Mallorca-October-23-2021-La-Liga
+6,2021-10-27,Wed,La Liga,Matchweek 11,Away,L 1–4,Valencia,Betis,N,LM,31,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,5,12,41.7,0,6,3,4,2,/en/matches/7b7dbd26/Real-Betis-Valencia-October-27-2021-La-Liga
+7,2021-10-30,Sat,La Liga,Matchweek 12,Home,W 2–0,Valencia,Villarreal,Y,"RM,LM",90,0,0,0,0,1,0,0,0,33,2,1,0,0.0,0.0,0.0,2,0,10,17,58.8,3,16,0,5,1,/en/matches/e4633fbd/Valencia-Villarreal-October-30-2021-La-Liga
+8,2021-11-07,Sun,La Liga,Matchweek 13,Home,D 3–3,Valencia,Atlético Madrid,Y,"LM,RM",84,0,0,0,0,1,0,0,0,40,2,1,2,0.0,0.0,0.0,3,0,16,23,69.6,1,24,3,7,4,/en/matches/5a71490e/Valencia-Atletico-Madrid-November-7-2021-La-Liga
+9,2021-11-12,Fri,WCQ,Second round,Home,D 2–2,ao Angola,eg Egypt,Y,AM,87,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/796c5f50/Angola-Egypt-November-12-2021-WCQ----CAF-M
+10,2021-11-16,Tue,WCQ,Second round,Away,D 1–1,ao Angola,ly Libya,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/061e36ad/Libya-Angola-November-16-2021-WCQ----CAF-M
+11,2021-11-21,Sun,La Liga,Matchweek 14,Away,D 0–0,Valencia,Real Sociedad,Y,RW,90,0,0,0,0,0,0,1,0,34,3,0,1,0.0,0.0,0.3,2,0,13,22,59.1,2,17,4,6,2,/en/matches/457fefd4/Real-Sociedad-Valencia-November-21-2021-La-Liga
+12,2021-11-27,Sat,La Liga,Matchweek 15,Home,D 1–1,Valencia,Rayo Vallecano,Y,"LM,RW",81,0,0,0,0,1,0,0,0,24,1,0,4,0.0,0.0,0.0,1,0,5,11,45.5,0,14,3,3,1,/en/matches/5ed758ee/Valencia-Rayo-Vallecano-November-27-2021-La-Liga
+13,2021-12-02,Thu,Copa del Rey,First round,Away,W 3–0,Valencia,CD Utrillas,N,,13,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/ad57a8d4/CD-Utrillas-Valencia-December-2-2021-Copa-del-Rey
+14,2021-12-05,Sun,La Liga,Matchweek 16,Away,W 2–1,Valencia,Celta Vigo,Y,RW,82,0,0,0,0,1,1,0,0,28,1,0,0,0.0,0.0,0.2,1,0,8,14,57.1,2,17,2,6,1,/en/matches/1eebab4b/Celta-Vigo-Valencia-December-5-2021-La-Liga
+15,2021-12-11,Sat,La Liga,Matchweek 17,Home,W 2–1,Valencia,Elche,Y,RM,81,0,0,0,0,3,1,0,0,40,1,0,1,0.1,0.1,0.2,6,0,16,22,72.7,3,22,8,6,2,/en/matches/4aab63b0/Valencia-Elche-December-11-2021-La-Liga
+16,2021-12-16,Thu,Copa del Rey,Second round,Away,W 3–1,Valencia,Arenteiro,N,,33,0,1,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/171727a9/Arenteiro-Valencia-December-16-2021-Copa-del-Rey
+17,2021-12-20,Mon,La Liga,Matchweek 18,Away,W 4–3,Valencia,Levante,Y,RM,90,0,0,0,0,0,0,1,0,36,2,0,1,0.0,0.0,0.2,5,0,18,29,62.1,9,22,3,2,2,/en/matches/e9bf296a/Levante-Valencia-December-20-2021-La-Liga
+18,2021-12-31,Fri,La Liga,Matchweek 19,Home,L 1–2,Valencia,Espanyol,Y,RM,83,0,1,0,0,0,0,0,0,34,2,0,0,0.0,0.0,0.3,4,1,16,25,64.0,2,23,3,6,4,/en/matches/72bd4a17/Valencia-Espanyol-December-31-2021-La-Liga
+19,2022-01-05,Wed,Copa del Rey,Round of 32,Away,W 2–1,Valencia,Cartagena,Y,FW,58,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/ab1b9550/Cartagena-Valencia-January-5-2022-Copa-del-Rey
+20,2022-01-08,Sat,La Liga,Matchweek 20,Away,L 1–4,Valencia,Real Madrid,Y,RM,65,0,0,0,0,0,0,0,0,23,3,0,0,0.0,0.0,0.0,3,0,9,18,50.0,2,12,2,1,1,/en/matches/aa6e8a1e/Real-Madrid-Valencia-January-8-2022-La-Liga
+21,2022-02-02,Wed,Copa del Rey,Quarter-finals,Home,W 2–1,Valencia,Cádiz,N,,3,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/ebcc8abf/Valencia-Cadiz-February-2-2022-Copa-del-Rey
+22,2022-02-10,Thu,Copa del Rey,Semi-finals,Away,D 1–1,Valencia,Athletic Club,N,,7,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/bd510848/Athletic-Club-Valencia-February-10-2022-Copa-del-Rey
+23,2022-02-13,Sun,La Liga,Matchweek 24,Away,L 1–2,Valencia,Alavés,Y,RM,45,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.1,1,0,7,9,77.8,1,6,0,0,0,/en/matches/8b2bc30e/Alaves-Valencia-February-13-2022-La-Liga
+24,2022-02-26,Sat,La Liga,Matchweek 26,Away,W 1–0,Valencia,Mallorca,N,"WB,CM,RM",13,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,3,0,1,0,/en/matches/ac7f7afd/Mallorca-Valencia-February-26-2022-La-Liga
+25,2022-03-05,Sat,La Liga,Matchweek 27,Home,W 3–1,Valencia,Granada,N,RW,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,3,0,0,0,/en/matches/3960fc57/Valencia-Granada-March-5-2022-La-Liga
+26,2022-03-12,Sat,La Liga,Matchweek 28,Away,D 0–0,Valencia,Getafe,N,WB,1,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,1,1,0,0,0,/en/matches/c8ccb7d3/Getafe-Valencia-March-12-2022-La-Liga
+27,2022-03-19,Sat,La Liga,Matchweek 29,Away,W 1–0,Valencia,Elche,N,RW,5,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,/en/matches/201b86f7/Elche-Valencia-March-19-2022-La-Liga
+28,2022-04-03,Sun,La Liga,Matchweek 30,Home,D 0–0,Valencia,Cádiz,N,RW,5,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0,/en/matches/8067a7c1/Valencia-Cadiz-April-3-2022-La-Liga
+29,2022-04-16,Sat,La Liga,Matchweek 32,Home,L 1–2,Valencia,Osasuna,Y,RM,64,0,0,0,0,0,0,0,0,23,2,0,2,0.0,0.0,0.0,1,0,8,12,66.7,0,18,2,2,0,/en/matches/a1a60233/Valencia-Osasuna-April-16-2022-La-Liga
+30,2022-04-19,Tue,La Liga,Matchweek 33,Away,L 0–2,Valencia,Villarreal,Y,FW,90,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,1,0,16,25,64.0,1,21,1,5,2,/en/matches/c910f5b5/Villarreal-Valencia-April-19-2022-La-Liga

@@ -1,10 +1,23 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2021-08-14,Sat,Matchweek 9,Away,D 1–1,Wolves,Leeds United,N,"On matchday squad, but did not play",/en/matches/49b3afe3/Leeds-United-Wolverhampton-Wanderers-October-23-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2021-08-14,Wed,Matchweek 14,Home,D 0–0,Wolves,Burnley,N,"On matchday squad, but did not play",/en/matches/a3fc2ddc/Wolverhampton-Wanderers-Burnley-December-1-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,2021-08-14,Sat,Matchweek 15,Home,L 0–1,Wolves,Liverpool,N,"On matchday squad, but did not play",/en/matches/37d61ff3/Wolverhampton-Wanderers-Liverpool-December-4-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2021-08-14,Sat,Matchweek 22,Home,W 3–1,Wolves,Southampton,N,"On matchday squad, but did not play",/en/matches/dd7b8b8b/Wolverhampton-Wanderers-Southampton-January-15-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2021-08-14,Fri,Matchweek 32,Away,L 0–1,Wolves,Newcastle Utd,N,AM,13,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,1,0,9,10,90.0,0,5,0,0,0,/en/matches/739d8264/Newcastle-United-Wolverhampton-Wanderers-April-8-2022-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-16,Mon,PL2 — Div. 2,Matchweek 1,Home,W 2–1,Wolves,Middlesbrough,Y,FW,78,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/f14184aa/Wolverhampton-Wanderers-U23-Middlesbrough-U23-August-16-2021-Premier-League-2----Division-2
+1,2021-08-27,Fri,PL2 — Div. 2,Matchweek 3,Home,W 1–0,Wolves,Nottingham Forest,Y,CM,78,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ecd1a93d/Wolverhampton-Wanderers-U23-Nottingham-Forest-U23-August-27-2021-Premier-League-2----Division-2
+2,2021-09-20,Mon,PL2 — Div. 2,Matchweek 5,Home,W 2–1,Wolves,Fulham,Y,LM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/da3077ef/Wolverhampton-Wanderers-U23-Fulham-U23-September-20-2021-Premier-League-2----Division-2
+3,2021-09-27,Mon,PL2 — Div. 2,Matchweek 6,Home,L 1–3,Wolves,Sunderland,Y,FW,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/e9c7e021/Wolverhampton-Wanderers-U23-Sunderland-U23-September-27-2021-Premier-League-2----Division-2
+4,2021-10-01,Fri,PL2 — Div. 2,Matchweek 7,Away,D 0–0,Wolves,Aston Villa,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/501dfd64/Aston-Villa-U23-Wolverhampton-Wanderers-U23-October-1-2021-Premier-League-2----Division-2
+5,2021-10-18,Mon,PL2 — Div. 2,Matchweek 8,Home,L 0–1,Wolves,Southampton,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/2cab0cf9/Wolverhampton-Wanderers-U23-Southampton-U23-October-18-2021-Premier-League-2----Division-2
+6,2021-10-25,Mon,PL2 — Div. 2,Matchweek 9,Away,W 3–2,Wolves,Newcastle Utd,Y,FW,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/be4473fd/Newcastle-United-U23-Wolverhampton-Wanderers-U23-October-25-2021-Premier-League-2----Division-2
+7,2021-11-01,Mon,PL2 — Div. 2,Matchweek 10,Away,L 0–2,Wolves,Stoke City,Y*,FW,90,0,0,0,1,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/35f5bcf8/Stoke-City-U23-Wolverhampton-Wanderers-U23-November-1-2021-Premier-League-2----Division-2
+8,2021-11-05,Fri,PL2 — Div. 2,Matchweek 11,Home,D 1–1,Wolves,West Brom,Y*,AM,72,1,0,0,0,,,0,1,,,,,,,,,,,,,,,,,,/en/matches/0044ddd5/Wolverhampton-Wanderers-U23-West-Bromwich-Albion-U23-November-5-2021-Premier-League-2----Division-2
+9,2022-01-17,Mon,PL2 — Div. 2,Matchweek 17,Home,D 1–1,Wolves,Burnley,Y,CM,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d89a03b0/Wolverhampton-Wanderers-U23-Burnley-U23-January-17-2022-Premier-League-2----Division-2
+10,2022-01-24,Mon,PL2 — Div. 2,Matchweek 18,Away,W 2–1,Wolves,Sunderland,Y,FW,90,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/0f35d65c/Sunderland-U23-Wolverhampton-Wanderers-U23-January-24-2022-Premier-League-2----Division-2
+11,2022-02-28,Mon,PL2 — Div. 2,Matchweek 21,Home,W 4–3,Wolves,Reading,Y,AM,81,3,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/e622cb55/Wolverhampton-Wanderers-U23-Reading-U23-February-28-2022-Premier-League-2----Division-2
+12,2022-03-14,Mon,PL2 — Div. 2,Matchweek 22,Away,W 4–0,Wolves,West Brom,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ebb83724/West-Bromwich-Albion-U23-Wolverhampton-Wanderers-U23-March-14-2022-Premier-League-2----Division-2
+13,2022-03-18,Fri,PL2 — Div. 2,Matchweek 23,Home,W 3–0,Wolves,Aston Villa,Y,FW,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/08c28b4b/Wolverhampton-Wanderers-U23-Aston-Villa-U23-March-18-2022-Premier-League-2----Division-2
+14,2022-03-25,Fri,PL2 — Div. 2,Matchweek 16,Away,W 4–2,Wolves,Southampton,Y,FW,90,0,2,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/9804e217/Southampton-U23-Wolverhampton-Wanderers-U23-March-25-2022-Premier-League-2----Division-2
+15,2022-04-01,Fri,PL2 — Div. 2,Matchweek 24,Away,L 0–1,Wolves,Nottingham Forest,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/e2dc3222/Nottingham-Forest-U23-Wolverhampton-Wanderers-U23-April-1-2022-Premier-League-2----Division-2
+16,2022-04-08,Fri,Premier League,Matchweek 32,Away,L 0–1,Wolves,Newcastle Utd,N,AM,13,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,1,0,9,10,90.0,0,5,0,0,0,/en/matches/739d8264/Newcastle-United-Wolverhampton-Wanderers-April-8-2022-Premier-League
+17,2022-04-15,Fri,PL2 — Div. 2,Matchweek 20,Away,W 3–0,Wolves,Middlesbrough,Y,FW,90,1,1,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/3c4df2f0/Middlesbrough-U23-Wolverhampton-Wanderers-U23-April-15-2022-Premier-League-2----Division-2
+18,2022-04-18,Mon,PL2 — Div. 2,Matchweek 15,Home,W 4–2,Wolves,Newcastle Utd,Y,AM,90,0,2,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/0df1d40e/Wolverhampton-Wanderers-U23-Newcastle-United-U23-April-18-2022-Premier-League-2----Division-2
+19,2022-04-25,Mon,PL2 — Div. 2,Matchweek 25,Home,D 2–2,Wolves,Stoke City,Y,FW,89,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/c3c8ddc7/Wolverhampton-Wanderers-U23-Stoke-City-U23-April-25-2022-Premier-League-2----Division-2
+20,2022-05-17,Tue,PL2 — Div. 2,Semi-finals,Home,D 1 (5)–1 (4),Wolves,Norwich City,Y,FW,120,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/530be5fb/Wolverhampton-Wanderers-U23-Norwich-City-U23-May-17-2022-Premier-League-2----Division-2
+21,2022-05-23,Mon,PL2 — Div. 2,Final,Home,W 2–0,Wolves,Stoke City,Y,FW,85,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/3f739da5/Wolverhampton-Wanderers-U23-Stoke-City-U23-May-23-2022-Premier-League-2----Division-2

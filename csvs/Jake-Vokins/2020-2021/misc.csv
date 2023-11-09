@@ -1,9 +1,14 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
-0,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-09-12,Sun,Matchweek 6,Home,W 2–0,Southampton,Everton,N,"On matchday squad, but did not play",/en/matches/6439c025/Southampton-Everton-October-25-2020-Premier-League,,,,,,,,,,,,,,,,,
-2,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2020-09-12,Sat,Matchweek 15,Away,D 0–0,Southampton,Fulham,N,"On matchday squad, but did not play",/en/matches/cf86c208/Fulham-Southampton-December-26-2020-Premier-League,,,,,,,,,,,,,,,,,
-4,2020-09-12,Tue,Matchweek 16,Home,D 0–0,Southampton,West Ham,N,"On matchday squad, but did not play",/en/matches/7577b54b/Southampton-West-Ham-United-December-29-2020-Premier-League,,,,,,,,,,,,,,,,,
-5,2020-09-12,Mon,Matchweek 17,Home,W 1–0,Southampton,Liverpool,N,"On matchday squad, but did not play",/en/matches/d0482032/Southampton-Liverpool-January-4-2021-Premier-League,,,,,,,,,,,,,,,,,
-6,2020-09-12,Sat,Matchweek 19,Away,L 0–2,Southampton,Leicester City,N,"On matchday squad, but did not play",/en/matches/85d4ec49/Leicester-City-Southampton-January-16-2021-Premier-League,,,,,,,,,,,,,,,,,
-7,2020-09-12,Tue,Matchweek 20,Home,L 1–3,Southampton,Arsenal,Y,LB,66,0,0,0,2,0,1,3,0,0,0,0,0,0,0,0,,/en/matches/ac54f8a6/Southampton-Arsenal-January-26-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-10-18,Sun,PL2 — Div. 1,Matchweek 5,Home,L 0–1,Southampton,Blackburn,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ca54d142/Southampton-U23-Blackburn-Rovers-U23-October-18-2020-Premier-League-2----Division-1
+1,2020-11-07,Sat,PL2 — Div. 1,Matchweek 8,Home,W 5–2,Southampton,Manchester City,Y,LB,90,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/959f9b8a/Southampton-U23-Manchester-City-U23-November-7-2020-Premier-League-2----Division-1
+2,2020-11-30,Mon,PL2 — Div. 1,Matchweek 10,Home,L 0–1,Southampton,Brighton,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/e502c486/Southampton-U23-Brighton-and-Hove-Albion-U23-November-30-2020-Premier-League-2----Division-1
+3,2020-12-12,Sat,PL2 — Div. 1,Matchweek 11,Home,W 5–2,Southampton,Leicester City,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/c7dd99e7/Southampton-U23-Leicester-City-U23-December-12-2020-Premier-League-2----Division-1
+4,2021-01-19,Tue,FA Cup,Third round proper,Home,W 2–0,Southampton,Shrewsbury,Y,LB,90,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/8ca72c38/Southampton-Shrewsbury-Town-January-19-2021-FA-Cup
+5,2021-01-26,Tue,Premier League,Matchweek 20,Home,L 1–3,Southampton,Arsenal,Y,LB,66,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.1,1,0,19,23,82.6,3,11,1,0,0,/en/matches/ac54f8a6/Southampton-Arsenal-January-26-2021-Premier-League
+6,2021-02-06,Sat,League One,Matchweek 28,Away,D 2–2,Sunderland,MK Dons,Y,LB,83,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/c7792c03/Milton-Keynes-Dons-Sunderland-February-6-2021-League-One
+7,2021-02-09,Tue,League One,Matchweek 19,Away,L 1–2,Sunderland,Shrewsbury,Y,LB,74,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/7e4d7924/Shrewsbury-Town-Sunderland-February-9-2021-League-One
+8,2021-02-20,Sat,League One,Matchweek 30,Away,W 3–0,Sunderland,Burton Albion,Y,LM,66,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/6d72713f/Burton-Albion-Sunderland-February-20-2021-League-One
+9,2021-03-17,Wed,League One,Matchweek 21,Away,W 2–0,Sunderland,Acc'ton Stanley,Y,LB,87,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/a900216e/Accrington-Stanley-Sunderland-March-17-2021-League-One
+10,2021-04-26,Mon,PL2 — Div. 2,Matchweek 25,Home,W 2–1,Sunderland,Reading,Y,LB,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/28085a5f/Sunderland-U23-Reading-U23-April-26-2021-Premier-League-2----Division-2
+11,2021-05-03,Mon,PL2 — Div. 2,Matchweek 26,Away,D 0–0,Sunderland,Stoke City,Y,DM,76,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/8371f565/Stoke-City-U23-Sunderland-U23-May-3-2021-Premier-League-2----Division-2
+12,2021-05-10,Mon,PL2 — Div. 2,Matchweek 13,Home,D 1–1,Sunderland,Stoke City,Y,LB,70,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/5301af70/Sunderland-U23-Stoke-City-U23-May-10-2021-Premier-League-2----Division-2

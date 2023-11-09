@@ -1,8 +1,6 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
-0,2020-09-12,Sat,Matchweek 3,Away,W 1–0,Southampton,Burnley,N,"On matchday squad, but did not play",/en/matches/ae113c54/Burnley-Southampton-September-26-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-09-12,Sun,Matchweek 4,Home,W 2–0,Southampton,West Brom,N,"On matchday squad, but did not play",/en/matches/39864083/Southampton-West-Bromwich-Albion-October-4-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-2,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2020-09-12,Sat,Matchweek 15,Away,D 0–0,Southampton,Fulham,N,"On matchday squad, but did not play",/en/matches/cf86c208/Fulham-Southampton-December-26-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-4,2020-09-12,Tue,Matchweek 16,Home,D 0–0,Southampton,West Ham,N,"On matchday squad, but did not play",/en/matches/7577b54b/Southampton-West-Ham-United-December-29-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-5,2020-09-12,Mon,Matchweek 17,Home,W 1–0,Southampton,Liverpool,N,"On matchday squad, but did not play",/en/matches/d0482032/Southampton-Liverpool-January-4-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-6,2020-09-12,Sat,Matchweek 19,Away,L 0–2,Southampton,Leicester City,Y,LM,60,24,32,75.0,299,85,19,19,100.0,5,10,50.0,0,1,0.0,0,0.0,0.0,0,3,1,0,4,/en/matches/85d4ec49/Leicester-City-Southampton-January-16-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-12,Sat,Premier League,Matchweek 1,Away,L 0–1,Southampton,Crystal Palace,Y,RM,76,0,0,0,0,0,0,0,0,27,2,1,1,0.0,0.0,0.0,1,0,15,22,68.2,0,20,2,0,0,/en/matches/db261cb0/Crystal-Palace-Southampton-September-12-2020-Premier-League
+1,2020-09-20,Sun,Premier League,Matchweek 2,Home,L 2–5,Southampton,Tottenham,N,CM,36,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.0,1,0,22,24,91.7,3,15,0,0,0,/en/matches/967efd56/Southampton-Tottenham-Hotspur-September-20-2020-Premier-League
+2,2020-11-30,Mon,PL2 — Div. 1,Matchweek 10,Home,L 0–1,Southampton,Brighton,Y,RM,57,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/e502c486/Southampton-U23-Brighton-and-Hove-Albion-U23-November-30-2020-Premier-League-2----Division-1
+3,2020-12-12,Sat,PL2 — Div. 1,Matchweek 11,Home,W 5–2,Southampton,Leicester City,Y,CM,75,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/c7dd99e7/Southampton-U23-Leicester-City-U23-December-12-2020-Premier-League-2----Division-1
+4,2021-01-16,Sat,Premier League,Matchweek 19,Away,L 0–2,Southampton,Leicester City,Y,LM,60,0,0,0,0,1,1,0,0,42,3,0,4,0.1,0.1,0.0,2,0,24,32,75.0,4,23,3,0,0,/en/matches/85d4ec49/Leicester-City-Southampton-January-16-2021-Premier-League

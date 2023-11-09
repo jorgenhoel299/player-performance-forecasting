@@ -1,18 +1,4 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
-0,2019-12-21,Sat,Matchweek 20,Away,D 1–1,Crystal Palace,Southampton,N,"On matchday squad, but did not play",/en/matches/a8ab1213/Southampton-Crystal-Palace-December-28-2019-Premier-League,,,,,,,,,,,,,,,,,
-1,2019-12-21,Wed,Matchweek 21,Away,D 1–1,Crystal Palace,Norwich City,N,CM,8,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,/en/matches/5bbec2c4/Norwich-City-Crystal-Palace-January-1-2020-Premier-League
-2,2019-12-21,Sat,Matchweek 22,Home,D 1–1,Crystal Palace,Arsenal,N,"On matchday squad, but did not play",/en/matches/e1fdc1f9/Crystal-Palace-Arsenal-January-11-2020-Premier-League,,,,,,,,,,,,,,,,,
-3,2019-12-21,Sat,Matchweek 23,Away,D 2–2,Crystal Palace,Manchester City,N,"On matchday squad, but did not play",/en/matches/4572cd0e/Manchester-City-Crystal-Palace-January-18-2020-Premier-League,,,,,,,,,,,,,,,,,
-4,2019-12-21,Tue,Matchweek 24,Home,L 0–2,Crystal Palace,Southampton,N,"On matchday squad, but did not play",/en/matches/003ce1e3/Crystal-Palace-Southampton-January-21-2020-Premier-League,,,,,,,,,,,,,,,,,
-5,2019-12-21,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2019-12-21,Sat,Matchweek 27,Home,W 1–0,Crystal Palace,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/5947b8fb/Crystal-Palace-Newcastle-United-February-22-2020-Premier-League,,,,,,,,,,,,,,,,,
-7,2019-12-21,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2019-12-21,Sat,Matchweek 30,Away,W 2–0,Crystal Palace,Bournemouth,N,"On matchday squad, but did not play",/en/matches/c4d88352/Bournemouth-Crystal-Palace-June-20-2020-Premier-League,,,,,,,,,,,,,,,,,
-9,2019-12-21,Wed,Matchweek 31,Away,L 0–4,Crystal Palace,Liverpool,N,FW,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,/en/matches/c486cf76/Liverpool-Crystal-Palace-June-24-2020-Premier-League
-10,2019-12-21,Mon,Matchweek 32,Home,L 0–1,Crystal Palace,Burnley,N,"On matchday squad, but did not play",/en/matches/d7661a5f/Crystal-Palace-Burnley-June-29-2020-Premier-League,,,,,,,,,,,,,,,,,
-11,2019-12-21,Sat,Matchweek 33,Away,L 0–3,Crystal Palace,Leicester City,N,"On matchday squad, but did not play",/en/matches/88e800c1/Leicester-City-Crystal-Palace-July-4-2020-Premier-League,,,,,,,,,,,,,,,,,
-12,2019-12-21,Tue,Matchweek 34,Home,L 2–3,Crystal Palace,Chelsea,N,"On matchday squad, but did not play",/en/matches/61407f3d/Crystal-Palace-Chelsea-July-7-2020-Premier-League,,,,,,,,,,,,,,,,,
-13,2019-12-21,Sun,Matchweek 35,Away,L 0–2,Crystal Palace,Aston Villa,N,"On matchday squad, but did not play",/en/matches/b30bf2e8/Aston-Villa-Crystal-Palace-July-12-2020-Premier-League,,,,,,,,,,,,,,,,,
-14,2019-12-21,Thu,Matchweek 36,Home,L 0–2,Crystal Palace,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/69a16f9d/Crystal-Palace-Manchester-United-July-16-2020-Premier-League,,,,,,,,,,,,,,,,,
-15,2019-12-21,Mon,Matchweek 37,Away,L 0–2,Crystal Palace,Wolves,N,"On matchday squad, but did not play",/en/matches/70598e52/Wolverhampton-Wanderers-Crystal-Palace-July-20-2020-Premier-League,,,,,,,,,,,,,,,,,
-16,2019-12-21,Sun,Matchweek 38,Home,D 1–1,Crystal Palace,Tottenham,N,"On matchday squad, but did not play",/en/matches/61616d45/Crystal-Palace-Tottenham-Hotspur-July-26-2020-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-01-01,Wed,Premier League,Matchweek 21,Away,D 1–1,Crystal Palace,Norwich City,N,CM,8,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.1,1,0,5,8,62.5,2,3,1,0,0,/en/matches/5bbec2c4/Norwich-City-Crystal-Palace-January-1-2020-Premier-League
+1,2020-01-05,Sun,FA Cup,Third round,Home,L 0–1,Crystal Palace,Derby County,Y,RM,72,0,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/03ddae39/Crystal-Palace-Derby-County-January-5-2020-FA-Cup
+2,2020-06-24,Wed,Premier League,Matchweek 31,Away,L 0–4,Crystal Palace,Liverpool,N,FW,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,/en/matches/c486cf76/Liverpool-Crystal-Palace-June-24-2020-Premier-League

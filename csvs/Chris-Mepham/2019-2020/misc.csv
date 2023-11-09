@@ -1,24 +1,20 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
-0,2019-08-10,Sun,Matchweek 3,Home,L 1–3,Bournemouth,Manchester City,Y,CB,90,0,0,0,1,0,1,1,2,2,0,0,0,6,1,0,100.0,/en/matches/7728bd7e/Bournemouth-Manchester-City-August-25-2019-Premier-League
-1,2019-08-10,Sat,Matchweek 4,Away,L 1–3,Bournemouth,Leicester City,Y,CB,90,0,0,0,0,0,0,1,4,1,0,0,0,7,2,3,40.0,/en/matches/3d899563/Leicester-City-Bournemouth-August-31-2019-Premier-League
-2,2019-08-10,Sun,Matchweek 5,Home,W 3–1,Bournemouth,Everton,N,"CB,LB",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,/en/matches/886c59ae/Bournemouth-Everton-September-15-2019-Premier-League
-3,2019-08-10,Fri,Matchweek 6,Away,W 3–1,Bournemouth,Southampton,N,"On matchday squad, but did not play",/en/matches/ebbb65f5/Southampton-Bournemouth-September-20-2019-Premier-League,,,,,,,,,,,,,,,,,
-4,2019-08-10,Sat,Matchweek 7,Home,D 2–2,Bournemouth,West Ham,N,"On matchday squad, but did not play",/en/matches/704e536e/Bournemouth-West-Ham-United-September-28-2019-Premier-League,,,,,,,,,,,,,,,,,
-5,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2019-08-10,Sat,Matchweek 9,Home,D 0–0,Bournemouth,Norwich City,N,"On matchday squad, but did not play",/en/matches/d71c01eb/Bournemouth-Norwich-City-October-19-2019-Premier-League,,,,,,,,,,,,,,,,,
-7,2019-08-10,Sat,Matchweek 10,Away,D 0–0,Bournemouth,Watford,N,"On matchday squad, but did not play",/en/matches/1ef8e186/Watford-Bournemouth-October-26-2019-Premier-League,,,,,,,,,,,,,,,,,
-8,2019-08-10,Sat,Matchweek 11,Home,W 1–0,Bournemouth,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/9e35d172/Bournemouth-Manchester-United-November-2-2019-Premier-League,,,,,,,,,,,,,,,,,
-9,2019-08-10,Sat,Matchweek 12,Away,L 1–2,Bournemouth,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/698f846d/Newcastle-United-Bournemouth-November-9-2019-Premier-League,,,,,,,,,,,,,,,,,
-10,2019-08-10,Sat,Matchweek 13,Home,L 1–2,Bournemouth,Wolves,N,"On matchday squad, but did not play",/en/matches/219643bc/Bournemouth-Wolverhampton-Wanderers-November-23-2019-Premier-League,,,,,,,,,,,,,,,,,
-11,2019-08-10,Sat,Matchweek 14,Away,L 2–3,Bournemouth,Tottenham,N,"On matchday squad, but did not play",/en/matches/1722ba52/Tottenham-Hotspur-Bournemouth-November-30-2019-Premier-League,,,,,,,,,,,,,,,,,
-12,2019-08-10,Tue,Matchweek 15,Away,L 0–1,Bournemouth,Crystal Palace,Y,CB,90,0,0,0,2,0,0,0,4,0,0,0,0,5,5,4,55.6,/en/matches/fd541a1f/Crystal-Palace-Bournemouth-December-3-2019-Premier-League
-13,2019-08-10,Sat,Matchweek 16,Home,L 0–3,Bournemouth,Liverpool,Y,CB,90,0,0,0,0,0,0,0,1,1,0,0,0,2,1,1,50.0,/en/matches/b7f0ca17/Bournemouth-Liverpool-December-7-2019-Premier-League
-14,2019-08-10,Sat,Matchweek 17,Away,W 1–0,Bournemouth,Chelsea,Y,CB,90,0,0,0,3,0,0,0,1,0,0,0,0,5,5,3,62.5,/en/matches/b75094e0/Chelsea-Bournemouth-December-14-2019-Premier-League
-15,2019-08-10,Sat,Matchweek 18,Home,L 0–1,Bournemouth,Burnley,Y,CB,90,0,0,0,0,1,0,0,2,0,0,0,0,4,5,3,62.5,/en/matches/e8b74ca0/Bournemouth-Burnley-December-21-2019-Premier-League
-16,2019-08-10,Thu,Matchweek 19,Home,D 1–1,Bournemouth,Arsenal,Y,CB,90,1,0,0,1,0,0,0,0,1,0,0,0,4,3,0,100.0,/en/matches/5b1ecf02/Bournemouth-Arsenal-December-26-2019-Premier-League
-17,2019-08-10,Sat,Matchweek 20,Away,L 0–2,Bournemouth,Brighton,Y,CB,90,0,0,0,0,1,0,0,0,1,0,0,0,5,3,2,60.0,/en/matches/d7b72d7f/Brighton-and-Hove-Albion-Bournemouth-December-28-2019-Premier-League
-18,2019-08-10,Wed,Matchweek 21,Away,L 0–4,Bournemouth,West Ham,Y,CB,90,0,0,0,2,0,0,0,2,1,0,0,0,8,6,4,60.0,/en/matches/9ae01aab/West-Ham-United-Bournemouth-January-1-2020-Premier-League
-19,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,2019-08-10,Sat,Matchweek 30,Home,L 0–2,Bournemouth,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/c4d88352/Bournemouth-Crystal-Palace-June-20-2020-Premier-League,,,,,,,,,,,,,,,,,
-21,2019-08-10,Wed,Matchweek 31,Away,L 0–1,Bournemouth,Wolves,N,"On matchday squad, but did not play",/en/matches/4f61e5af/Wolverhampton-Wanderers-Bournemouth-June-24-2020-Premier-League,,,,,,,,,,,,,,,,,
-22,2019-08-10,Wed,Matchweek 32,Home,L 1–4,Bournemouth,Newcastle Utd,N,CB,11,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,50.0,/en/matches/92aaad57/Bournemouth-Newcastle-United-July-1-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-10,Sat,Premier League,Matchweek 1,Home,D 1–1,Bournemouth,Sheffield Utd,Y,CB,90,1,0,0,0,2,1,0,0,74,1,1,1,0.5,0.5,0.0,1,0,54,66,81.8,2,58,1,2,1,/en/matches/d402cacd/Bournemouth-Sheffield-United-August-10-2019-Premier-League
+1,2019-08-25,Sun,Premier League,Matchweek 3,Home,L 1–3,Bournemouth,Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,35,2,2,1,0.0,0.0,0.0,1,1,20,23,87.0,3,17,0,1,0,/en/matches/7728bd7e/Bournemouth-Manchester-City-August-25-2019-Premier-League
+2,2019-08-28,Wed,EFL Cup,Second round,Home,D 0 (3)–0 (0),Bournemouth,FG Rovers,Y,CB,120,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/7622c110/Bournemouth-Forest-Green-Rovers-August-28-2019-EFL-Cup
+3,2019-08-31,Sat,Premier League,Matchweek 4,Away,L 1–3,Bournemouth,Leicester City,Y,CB,90,0,0,0,0,0,0,0,0,54,2,4,3,0.0,0.0,0.0,0,0,33,38,86.8,2,31,0,0,0,/en/matches/3d899563/Leicester-City-Bournemouth-August-31-2019-Premier-League
+4,2019-09-06,Fri,UEFA Euro Qualifying,Group stage,Home,W 2–1,wls Wales,az Azerbaijan,Y,CB,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/51daa1b4/Wales-Azerbaijan-September-6-2019-UEFA-Euro-Qualifying
+5,2019-09-09,Mon,Friendlies (M),Friendlies (M),Home,W 1–0,wls Wales,by Belarus,Y,CB,76,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/2eb56e87/Wales-Belarus-September-9-2019-Friendlies-M
+6,2019-09-15,Sun,Premier League,Matchweek 5,Home,W 3–1,Bournemouth,Everton,N,"CB,LB",1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,/en/matches/886c59ae/Bournemouth-Everton-September-15-2019-Premier-League
+7,2019-09-25,Wed,EFL Cup,Third round,Away,L 0–2,Bournemouth,Burton Albion,Y,CB,90,0,0,0,0,0,0,0,0,,,4,,,,,,,,,,,,,,,/en/matches/a33fa522/Burton-Albion-Bournemouth-September-25-2019-EFL-Cup
+8,2019-11-16,Sat,UEFA Euro Qualifying,Group stage,Away,W 2–0,wls Wales,az Azerbaijan,Y,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/8b12b6f7/Azerbaijan-Wales-November-16-2019-UEFA-Euro-Qualifying
+9,2019-11-19,Tue,UEFA Euro Qualifying,Group stage,Home,W 2–0,wls Wales,hu Hungary,Y,CB,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/3768401d/Wales-Hungary-November-19-2019-UEFA-Euro-Qualifying
+10,2019-12-03,Tue,Premier League,Matchweek 15,Away,L 0–1,Bournemouth,Crystal Palace,Y,CB,90,0,0,0,0,1,1,0,0,87,1,4,1,0.2,0.2,0.0,0,0,65,74,87.8,5,60,0,0,0,/en/matches/fd541a1f/Crystal-Palace-Bournemouth-December-3-2019-Premier-League
+11,2019-12-07,Sat,Premier League,Matchweek 16,Home,L 0–3,Bournemouth,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,41,1,1,1,0.0,0.0,0.0,0,0,20,28,71.4,0,19,0,0,0,/en/matches/b7f0ca17/Bournemouth-Liverpool-December-7-2019-Premier-League
+12,2019-12-14,Sat,Premier League,Matchweek 17,Away,W 1–0,Bournemouth,Chelsea,Y,CB,90,0,0,0,0,1,0,0,0,43,0,1,2,0.1,0.1,0.0,0,0,18,24,75.0,1,16,0,0,0,/en/matches/b75094e0/Chelsea-Bournemouth-December-14-2019-Premier-League
+13,2019-12-21,Sat,Premier League,Matchweek 18,Home,L 0–1,Bournemouth,Burnley,Y,CB,90,0,0,0,0,1,0,0,0,57,1,2,0,0.1,0.1,0.0,0,0,38,45,84.4,0,39,0,2,2,/en/matches/e8b74ca0/Bournemouth-Burnley-December-21-2019-Premier-League
+14,2019-12-26,Thu,Premier League,Matchweek 19,Home,D 1–1,Bournemouth,Arsenal,Y,CB,90,0,0,0,0,1,0,1,0,64,4,0,2,0.1,0.1,0.0,1,0,44,50,88.0,4,42,0,0,0,/en/matches/5b1ecf02/Bournemouth-Arsenal-December-26-2019-Premier-League
+15,2019-12-28,Sat,Premier League,Matchweek 20,Away,L 0–2,Bournemouth,Brighton,Y,CB,90,0,0,0,0,1,0,0,0,66,2,0,3,0.0,0.0,0.1,2,0,45,49,91.8,4,37,1,0,0,/en/matches/d7b72d7f/Brighton-and-Hove-Albion-Bournemouth-December-28-2019-Premier-League
+16,2020-01-01,Wed,Premier League,Matchweek 21,Away,L 0–4,Bournemouth,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,107,4,2,3,0.0,0.0,0.0,0,0,82,93,88.2,5,79,1,0,0,/en/matches/9ae01aab/West-Ham-United-Bournemouth-January-1-2020-Premier-League
+17,2020-01-04,Sat,FA Cup,Third round,Home,W 4–0,Bournemouth,Luton Town,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c3fea920/Bournemouth-Luton-Town-January-4-2020-FA-Cup
+18,2020-07-01,Wed,Premier League,Matchweek 32,Home,L 1–4,Bournemouth,Newcastle Utd,N,CB,11,0,0,0,0,0,0,0,0,17,2,0,0,0.0,0.0,0.0,1,0,15,15,100.0,2,13,1,0,0,/en/matches/92aaad57/Bournemouth-Newcastle-United-July-1-2020-Premier-League

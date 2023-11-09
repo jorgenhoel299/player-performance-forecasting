@@ -1,4 +1,4 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
-0,2021-12-26,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2021-12-26,Fri,Matchweek 22,Away,D 1–1,Crystal Palace,Brighton,N,"On matchday squad, but did not play",/en/matches/96630936/Brighton-and-Hove-Albion-Crystal-Palace-January-14-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-2,2021-12-26,Sun,Matchweek 23,Home,L 1–3,Crystal Palace,Liverpool,N,"On matchday squad, but did not play",/en/matches/60ad7e25/Crystal-Palace-Liverpool-January-23-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-12-26,Sun,Premier League,Matchweek 19,Away,L 0–3,Crystal Palace,Tottenham,N,LB,9,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,1,0,0,0,/en/matches/ac4560d6/Tottenham-Hotspur-Crystal-Palace-December-26-2021-Premier-League
+1,2022-01-17,Mon,PL2 — Div. 1,Matchweek 17,Home,W 3–2,Crystal Palace,Chelsea,Y,LB,75,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/46a0b7cb/Crystal-Palace-U23-Chelsea-U23-January-17-2022-Premier-League-2----Division-1
+2,2022-01-24,Mon,PL2 — Div. 1,Matchweek 18,Home,L 0–2,Crystal Palace,Liverpool,Y,,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/9b047ed6/Crystal-Palace-U23-Liverpool-U23-January-24-2022-Premier-League-2----Division-1

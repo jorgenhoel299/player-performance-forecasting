@@ -1,35 +1,38 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2021-08-14,Sat,Matchweek 3,Away,W 2–0,Everton,Brighton,Y,LB,90,43,28,15,0,0,0,6,10,5,2,2,0,33,0,0,/en/matches/ec8b667a/Brighton-and-Hove-Albion-Everton-August-28-2021-Premier-League
-1,2021-08-14,Mon,Matchweek 4,Home,W 3–1,Everton,Burnley,Y,"LM,LB",90,70,54,16,1,0,0,5,11,4,1,0,0,49,0,3,/en/matches/668b2f97/Everton-Burnley-September-13-2021-Premier-League
-2,2021-08-14,Sat,Matchweek 5,Away,L 0–3,Everton,Aston Villa,Y*,LB,90,56,43,13,2,0,1,4,11,0,0,0,0,36,0,2,/en/matches/57323feb/Aston-Villa-Everton-September-18-2021-Premier-League
-3,2021-08-14,Sat,Matchweek 6,Home,W 2–0,Everton,Norwich City,Y*,LB,90,76,62,14,2,0,0,9,11,1,0,1,0,55,0,3,/en/matches/d516ccbf/Everton-Norwich-City-September-25-2021-Premier-League
-4,2021-08-14,Sat,Matchweek 7,Away,D 1–1,Everton,Manchester Utd,Y*,LB,90,43,29,13,2,0,0,5,11,0,0,0,0,23,1,2,/en/matches/2129c7e9/Manchester-United-Everton-October-2-2021-Premier-League
-5,2021-08-14,Sun,Matchweek 8,Home,L 0–1,Everton,West Ham,Y,LB,90,40,35,5,0,0,0,5,5,0,0,0,0,32,0,1,/en/matches/15871600/Everton-West-Ham-United-October-17-2021-Premier-League
-6,2021-08-14,Sat,Matchweek 9,Home,L 2–5,Everton,Watford,Y,LB,90,62,44,18,5,0,0,6,13,0,0,0,0,42,0,4,/en/matches/6985d123/Everton-Watford-October-23-2021-Premier-League
-7,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2021-08-14,Sun,Matchweek 11,Home,D 0–0,Everton,Tottenham,Y,LB,90,62,54,8,2,0,0,3,5,1,0,1,0,53,0,1,/en/matches/224d1c99/Everton-Tottenham-Hotspur-November-7-2021-Premier-League
-9,2021-08-14,Sun,Matchweek 12,Away,L 0–3,Everton,Manchester City,Y,LB,90,26,21,5,0,0,0,1,5,0,0,0,0,18,0,2,/en/matches/bfbe7402/Manchester-City-Everton-November-21-2021-Premier-League
-10,2021-08-14,Sun,Matchweek 13,Away,L 0–1,Everton,Brentford,Y,LB,90,86,74,11,3,0,0,8,8,0,0,0,0,67,1,2,/en/matches/286c4c1c/Brentford-Everton-November-28-2021-Premier-League
-11,2021-08-14,Wed,Matchweek 14,Home,L 1–4,Everton,Liverpool,Y,LB,90,45,33,12,1,0,0,2,11,0,0,0,0,30,0,1,/en/matches/b46554fb/Merseyside-Derby-Everton-Liverpool-December-1-2021-Premier-League
-12,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,
-13,2021-08-14,Sun,Matchweek 21,Home,L 2–3,Everton,Brighton,N,"On matchday squad, but did not play",/en/matches/e22bb565/Everton-Brighton-and-Hove-Albion-January-2-2022-Premier-League,,,,,,,,,,,,,,,,
-14,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,
-15,2021-08-14,Sat,Matchweek 22,Home,D 2–2,Aston Villa,Manchester Utd,Y,LB,90,55,48,7,1,0,0,6,5,1,1,0,0,44,0,0,/en/matches/745dc664/Aston-Villa-Manchester-United-January-15-2022-Premier-League
-16,2021-08-14,Sat,Matchweek 23,Away,W 1–0,Aston Villa,Everton,Y,LB,90,70,50,20,0,0,0,3,19,1,1,0,0,48,0,2,/en/matches/83bac3da/Everton-Aston-Villa-January-22-2022-Premier-League
-17,2021-08-14,Wed,Matchweek 24,Home,D 3–3,Aston Villa,Leeds United,Y,LB,90,39,23,16,1,0,0,7,12,3,1,1,0,27,0,3,/en/matches/f1e84229/Aston-Villa-Leeds-United-February-9-2022-Premier-League
-18,2021-08-14,Sun,Matchweek 25,Away,L 0–1,Aston Villa,Newcastle Utd,Y,LB,90,67,52,15,4,0,0,9,7,4,3,0,0,42,0,3,/en/matches/59b88877/Newcastle-United-Aston-Villa-February-13-2022-Premier-League
-19,2021-08-14,Sat,Matchweek 26,Home,L 0–1,Aston Villa,Watford,Y,LB,90,81,68,13,0,0,1,16,7,6,0,6,0,57,0,2,/en/matches/28c4ee0a/Aston-Villa-Watford-February-19-2022-Premier-League
-20,2021-08-14,Sat,Matchweek 27,Away,W 2–0,Aston Villa,Brighton,Y,LB,90,47,35,12,4,0,0,2,8,0,0,0,0,32,0,1,/en/matches/8cabd787/Brighton-and-Hove-Albion-Aston-Villa-February-26-2022-Premier-League
-21,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,
-22,2021-08-14,Thu,Matchweek 20,Away,W 3–0,Aston Villa,Leeds United,Y,LB,90,60,43,16,2,0,1,8,11,3,2,0,0,48,1,2,/en/matches/79b8fb6e/Leeds-United-Aston-Villa-March-10-2022-Premier-League
-23,2021-08-14,Sun,Matchweek 29,Away,L 1–2,Aston Villa,West Ham,Y,LB,9,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,/en/matches/81f2f022/West-Ham-United-Aston-Villa-March-13-2022-Premier-League
-24,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,
-25,2021-08-14,Sat,Matchweek 31,Away,L 1–2,Aston Villa,Wolves,Y,LB,12,8,8,0,0,0,0,0,0,0,0,0,0,6,0,0,/en/matches/320d3dfe/Wolverhampton-Wanderers-Aston-Villa-April-2-2022-Premier-League
-26,2021-08-14,Sat,Matchweek 32,Home,L 0–4,Aston Villa,Tottenham,Y,LB,78,67,53,14,4,0,0,15,5,5,2,3,0,50,0,3,/en/matches/811d471f/Aston-Villa-Tottenham-Hotspur-April-9-2022-Premier-League
-27,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,
-28,2021-08-14,Sat,Matchweek 35,Home,W 2–0,Aston Villa,Norwich City,Y,LB,90,56,46,10,0,0,1,6,9,1,1,0,0,48,0,1,/en/matches/bf7873f2/Aston-Villa-Norwich-City-April-30-2022-Premier-League
-29,2021-08-14,Sat,Matchweek 36,Away,W 3–1,Aston Villa,Burnley,Y,LB,90,56,39,17,0,1,0,6,13,4,2,0,1,45,0,1,/en/matches/c1dc9202/Burnley-Aston-Villa-May-7-2022-Premier-League
-30,2021-08-14,Tue,Matchweek 33,Home,L 1–2,Aston Villa,Liverpool,Y,LB,90,53,35,18,0,0,1,4,17,1,0,0,0,39,0,1,/en/matches/1016efad/Aston-Villa-Liverpool-May-10-2022-Premier-League
-31,2021-08-14,Sun,Matchweek 37,Home,D 1–1,Aston Villa,Crystal Palace,Y,LB,90,69,58,11,1,0,1,5,10,0,0,0,0,55,0,1,/en/matches/d2e9e9e3/Aston-Villa-Crystal-Palace-May-15-2022-Premier-League
-32,2021-08-14,Thu,Matchweek 18,Home,D 1–1,Aston Villa,Burnley,Y,LB,90,73,58,15,1,0,1,11,5,9,2,1,0,59,0,1,/en/matches/bc4f902e/Aston-Villa-Burnley-May-19-2022-Premier-League
-33,2021-08-14,Sun,Matchweek 38,Away,L 2–3,Aston Villa,Manchester City,Y,LB,90,34,26,8,0,0,0,3,7,1,0,0,0,26,0,0,/en/matches/7b4b63d0/Manchester-City-Aston-Villa-May-22-2022-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-14,Sat,Premier League,Matchweek 1,Home,W 3–1,Everton,Southampton,Y,LB,90,0,0,0,0,2,0,0,0,59,0,0,1,0.1,0.1,0.1,3,0,34,50,68.0,4,20,2,2,2,/en/matches/c99ebbf5/Everton-Southampton-August-14-2021-Premier-League
+1,2021-08-21,Sat,Premier League,Matchweek 2,Away,D 2–2,Everton,Leeds United,Y,LB,90,0,0,0,0,0,0,1,0,52,3,2,0,0.0,0.0,0.1,3,0,25,43,58.1,1,19,0,0,0,/en/matches/b9064680/Leeds-United-Everton-August-21-2021-Premier-League
+2,2021-08-24,Tue,EFL Cup,Second round,Away,W 2–1,Everton,Huddersfield,N,,27,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/46940c87/Huddersfield-Town-Everton-August-24-2021-EFL-Cup
+3,2021-08-28,Sat,Premier League,Matchweek 3,Away,W 2–0,Everton,Brighton,Y,LB,90,0,0,0,0,1,0,0,0,51,0,0,0,0.0,0.0,0.0,2,0,33,43,76.7,2,22,1,2,1,/en/matches/ec8b667a/Brighton-and-Hove-Albion-Everton-August-28-2021-Premier-League
+4,2021-09-01,Wed,WCQ,First round,Home,D 1–1,fr France,ba Bosnia & Herz'na,Y,LB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/f017fdc5/France-Bosnia-and-Herzegovina-September-1-2021-WCQ----UEFA-M
+5,2021-09-04,Sat,WCQ,First round,Away,D 1–1,fr France,ua Ukraine,Y,LB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/3ecb55c6/Ukraine-France-September-4-2021-WCQ----UEFA-M
+6,2021-09-13,Mon,Premier League,Matchweek 4,Home,W 3–1,Everton,Burnley,Y,"LM,LB",90,0,0,0,0,1,0,0,0,76,0,3,2,0.1,0.1,0.1,4,0,49,70,70.0,3,34,1,0,0,/en/matches/668b2f97/Everton-Burnley-September-13-2021-Premier-League
+7,2021-09-18,Sat,Premier League,Matchweek 5,Away,L 0–3,Everton,Aston Villa,Y*,LB,90,0,0,0,0,0,0,0,0,63,3,1,2,0.0,0.0,0.1,2,0,36,56,64.3,4,24,5,1,1,/en/matches/57323feb/Aston-Villa-Everton-September-18-2021-Premier-League
+8,2021-09-21,Tue,EFL Cup,Third round,Away,D 2 (7)–2 (8),Everton,QPR,Y*,LB,79,1,0,0,0,1,1,0,0,,,2,,,,,,,,,,,,,,,/en/matches/d02210bf/Queens-Park-Rangers-Everton-September-21-2021-EFL-Cup
+9,2021-09-25,Sat,Premier League,Matchweek 6,Home,W 2–0,Everton,Norwich City,Y*,LB,90,0,0,0,0,0,0,1,0,84,1,1,2,0.0,0.0,0.0,1,0,55,76,72.4,4,34,3,1,0,/en/matches/d516ccbf/Everton-Norwich-City-September-25-2021-Premier-League
+10,2021-10-02,Sat,Premier League,Matchweek 7,Away,D 1–1,Everton,Manchester Utd,Y*,LB,90,0,0,0,0,0,0,0,0,52,3,0,1,0.0,0.0,0.1,3,0,23,43,53.5,4,14,0,1,0,/en/matches/2129c7e9/Manchester-United-Everton-October-2-2021-Premier-League
+11,2021-10-17,Sun,Premier League,Matchweek 8,Home,L 0–1,Everton,West Ham,Y,LB,90,0,0,0,0,0,0,0,0,58,6,2,2,0.0,0.0,0.0,2,0,32,40,80.0,5,23,3,2,1,/en/matches/15871600/Everton-West-Ham-United-October-17-2021-Premier-League
+12,2021-10-23,Sat,Premier League,Matchweek 9,Home,L 2–5,Everton,Watford,Y,LB,90,0,0,0,0,3,1,1,0,76,7,1,1,0.1,0.1,0.4,4,0,42,62,67.7,3,31,2,1,0,/en/matches/6985d123/Everton-Watford-October-23-2021-Premier-League
+13,2021-11-07,Sun,Premier League,Matchweek 11,Home,D 0–0,Everton,Tottenham,Y,LB,90,0,0,0,0,0,0,0,0,71,1,1,2,0.0,0.0,0.1,3,0,53,62,85.5,3,40,2,1,0,/en/matches/224d1c99/Everton-Tottenham-Hotspur-November-7-2021-Premier-League
+14,2021-11-16,Tue,WCQ,First round,Away,W 2–0,fr France,fi Finland,Y,LM,90,0,0,0,0,1,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/0072e300/Finland-France-November-16-2021-WCQ----UEFA-M
+15,2021-11-21,Sun,Premier League,Matchweek 12,Away,L 0–3,Everton,Manchester City,Y,LB,90,0,0,0,0,0,0,0,0,36,4,0,0,0.0,0.0,0.0,0,0,18,26,69.2,1,16,0,0,0,/en/matches/bfbe7402/Manchester-City-Everton-November-21-2021-Premier-League
+16,2021-11-28,Sun,Premier League,Matchweek 13,Away,L 0–1,Everton,Brentford,Y,LB,90,0,0,0,0,2,0,0,0,100,4,1,2,0.1,0.1,0.3,6,0,67,86,77.9,12,61,5,4,2,/en/matches/286c4c1c/Brentford-Everton-November-28-2021-Premier-League
+17,2021-12-01,Wed,Premier League,Matchweek 14,Home,L 1–4,Everton,Liverpool,Y,LB,90,0,0,0,0,0,0,1,0,51,1,2,1,0.0,0.0,0.0,2,0,30,45,66.7,3,18,1,2,1,/en/matches/b46554fb/Merseyside-Derby-Everton-Liverpool-December-1-2021-Premier-League
+18,2022-01-15,Sat,Premier League,Matchweek 22,Home,D 2–2,Aston Villa,Manchester Utd,Y,LB,90,0,0,0,0,2,1,1,0,62,0,1,0,0.1,0.1,0.2,4,0,44,55,80.0,6,28,2,2,1,/en/matches/745dc664/Aston-Villa-Manchester-United-January-15-2022-Premier-League
+19,2022-01-22,Sat,Premier League,Matchweek 23,Away,W 1–0,Aston Villa,Everton,Y,LB,90,0,1,0,0,0,0,0,0,88,2,3,1,0.0,0.0,0.1,2,1,48,70,68.6,4,30,0,2,1,/en/matches/83bac3da/Everton-Aston-Villa-January-22-2022-Premier-League
+20,2022-02-09,Wed,Premier League,Matchweek 24,Home,D 3–3,Aston Villa,Leeds United,Y,LB,90,0,0,0,0,1,0,0,0,53,3,2,0,0.1,0.1,0.1,4,0,27,39,69.2,1,21,0,0,0,/en/matches/f1e84229/Aston-Villa-Leeds-United-February-9-2022-Premier-League
+21,2022-02-13,Sun,Premier League,Matchweek 25,Away,L 0–1,Aston Villa,Newcastle Utd,Y,LB,90,0,0,0,0,0,0,0,0,69,0,0,0,0.0,0.0,0.2,3,0,42,67,62.7,5,32,2,1,0,/en/matches/59b88877/Newcastle-United-Aston-Villa-February-13-2022-Premier-League
+22,2022-02-19,Sat,Premier League,Matchweek 26,Home,L 0–1,Aston Villa,Watford,Y,LB,90,0,0,0,0,2,0,0,0,89,0,0,1,0.1,0.1,0.1,4,0,57,81,70.4,6,51,6,1,0,/en/matches/28c4ee0a/Aston-Villa-Watford-February-19-2022-Premier-League
+23,2022-02-26,Sat,Premier League,Matchweek 27,Away,W 2–0,Aston Villa,Brighton,Y,LB,90,0,0,0,0,0,0,0,0,52,0,2,3,0.0,0.0,0.0,3,1,32,47,68.1,4,30,2,0,0,/en/matches/8cabd787/Brighton-and-Hove-Albion-Aston-Villa-February-26-2022-Premier-League
+24,2022-03-10,Thu,Premier League,Matchweek 20,Away,W 3–0,Aston Villa,Leeds United,Y,LB,90,0,0,0,0,1,0,0,0,73,0,2,1,0.1,0.1,0.0,6,2,48,60,80.0,3,34,1,3,0,/en/matches/79b8fb6e/Leeds-United-Aston-Villa-March-10-2022-Premier-League
+25,2022-03-13,Sun,Premier League,Matchweek 29,Away,L 1–2,Aston Villa,West Ham,Y,LB,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0,/en/matches/81f2f022/West-Ham-United-Aston-Villa-March-13-2022-Premier-League
+26,2022-03-29,Tue,Friendlies (M),Friendlies (M),Neutral,W 5–0,fr France,za South Africa,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4c80e834/France-South-Africa-March-29-2022-Friendlies-M
+27,2022-04-02,Sat,Premier League,Matchweek 31,Away,L 1–2,Aston Villa,Wolves,Y,LB,12,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,6,8,75.0,0,5,1,0,0,/en/matches/320d3dfe/Wolverhampton-Wanderers-Aston-Villa-April-2-2022-Premier-League
+28,2022-04-09,Sat,Premier League,Matchweek 32,Home,L 0–4,Aston Villa,Tottenham,Y,LB,78,0,0,0,0,0,0,0,0,77,1,1,3,0.0,0.0,0.1,4,0,50,67,74.6,4,42,6,0,0,/en/matches/811d471f/Aston-Villa-Tottenham-Hotspur-April-9-2022-Premier-League
+29,2022-04-30,Sat,Premier League,Matchweek 35,Home,W 2–0,Aston Villa,Norwich City,Y,LB,90,0,0,0,0,0,0,0,0,64,1,2,1,0.0,0.0,0.2,8,1,48,56,85.7,4,37,3,0,0,/en/matches/bf7873f2/Aston-Villa-Norwich-City-April-30-2022-Premier-League
+30,2022-05-07,Sat,Premier League,Matchweek 36,Away,W 3–1,Aston Villa,Burnley,Y,LB,90,0,1,0,0,0,0,1,0,61,2,1,0,0.0,0.0,0.4,5,2,45,56,80.4,2,28,3,0,0,/en/matches/c1dc9202/Burnley-Aston-Villa-May-7-2022-Premier-League
+31,2022-05-10,Tue,Premier League,Matchweek 33,Home,L 1–2,Aston Villa,Liverpool,Y,LB,90,0,0,0,0,1,0,0,0,68,2,4,0,0.0,0.0,0.1,2,0,39,53,73.6,3,29,0,3,1,/en/matches/1016efad/Aston-Villa-Liverpool-May-10-2022-Premier-League
+32,2022-05-15,Sun,Premier League,Matchweek 37,Home,D 1–1,Aston Villa,Crystal Palace,Y,LB,90,0,1,0,0,1,1,0,0,79,0,2,2,0.0,0.0,0.3,2,0,55,69,79.7,5,49,1,0,0,/en/matches/d2e9e9e3/Aston-Villa-Crystal-Palace-May-15-2022-Premier-League
+33,2022-05-19,Thu,Premier League,Matchweek 18,Home,D 1–1,Aston Villa,Burnley,Y,LB,90,0,0,0,0,1,0,0,0,79,1,0,0,0.0,0.0,0.4,5,0,59,73,80.8,1,55,5,1,0,/en/matches/bc4f902e/Aston-Villa-Burnley-May-19-2022-Premier-League
+34,2022-05-22,Sun,Premier League,Matchweek 38,Away,L 2–3,Aston Villa,Manchester City,Y,LB,90,0,1,0,0,0,0,0,0,51,1,3,2,0.0,0.0,0.1,1,1,26,34,76.5,0,21,2,0,0,/en/matches/7b4b63d0/Manchester-City-Aston-Villa-May-22-2022-Premier-League
+35,2022-06-06,Mon,UEFA Nations League,League A,Away,D 1–1,fr France,hr Croatia,Y,LB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/ed55a4a2/Croatia-France-June-6-2022-UEFA-Nations-League
+36,2022-06-13,Mon,UEFA Nations League,League A,Home,L 0–1,fr France,hr Croatia,Y,LB,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/98166a08/France-Croatia-June-13-2022-UEFA-Nations-League

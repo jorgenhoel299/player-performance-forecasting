@@ -1,20 +1,24 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2019-08-31,Sat,Matchweek 6,Away,L 0–2,Norwich City,Burnley,Y,CB,90,5,3,3,2,0,1,1,100.0,0,1,1,0,1,6,7,0,/en/matches/f97b0ce8/Burnley-Norwich-City-September-21-2019-Premier-League
-1,2019-08-31,Sat,Matchweek 7,Away,L 0–2,Norwich City,Crystal Palace,Y,CB,90,2,2,1,1,0,0,2,0.0,2,1,1,0,3,5,6,0,/en/matches/3b180c0d/Crystal-Palace-Norwich-City-September-28-2019-Premier-League
-2,2019-08-31,Sat,Matchweek 8,Home,L 1–5,Norwich City,Aston Villa,Y,CB,90,4,3,1,3,0,0,0,,0,0,0,0,1,5,5,0,/en/matches/e50b8e5b/Norwich-City-Aston-Villa-October-5-2019-Premier-League
-3,2019-08-31,Sat,Matchweek 9,Away,D 0–0,Norwich City,Bournemouth,Y,CB,90,0,0,0,0,0,0,1,0.0,1,1,0,1,3,3,13,0,/en/matches/d71c01eb/Bournemouth-Norwich-City-October-19-2019-Premier-League
-4,2019-08-31,Sun,Matchweek 10,Home,L 1–3,Norwich City,Manchester Utd,Y,"CB,AM",90,1,1,1,0,0,0,0,,0,0,0,0,0,1,5,1,/en/matches/a31a1d67/Norwich-City-Manchester-United-October-27-2019-Premier-League
-5,2019-08-31,Sat,Matchweek 11,Away,L 0–2,Norwich City,Brighton,N,"On matchday squad, but did not play",/en/matches/21f39009/Brighton-and-Hove-Albion-Norwich-City-November-2-2019-Premier-League,,,,,,,,,,,,,,,,,
-6,2019-08-31,Fri,Matchweek 12,Home,L 0–2,Norwich City,Watford,N,"On matchday squad, but did not play",/en/matches/e92f4d2c/Norwich-City-Watford-November-8-2019-Premier-League,,,,,,,,,,,,,,,,,
-7,2019-08-31,Sat,Matchweek 13,Away,W 2–0,Norwich City,Everton,N,CB,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,/en/matches/464461f5/Everton-Norwich-City-November-23-2019-Premier-League
-8,2019-08-31,Sun,Matchweek 14,Home,D 2–2,Norwich City,Arsenal,Y,DM,90,3,2,2,0,1,2,3,66.7,1,3,2,1,1,4,4,0,/en/matches/39fce32e/Norwich-City-Arsenal-December-1-2019-Premier-League
-9,2019-08-31,Wed,Matchweek 15,Away,L 1–2,Norwich City,Southampton,Y,"DM,CB",45,1,0,1,0,0,0,1,0.0,1,0,0,0,3,4,2,0,/en/matches/367829b6/Southampton-Norwich-City-December-4-2019-Premier-League
-10,2019-08-31,Sun,Matchweek 16,Home,L 1–2,Norwich City,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/529b20fa/Norwich-City-Sheffield-United-December-8-2019-Premier-League,,,,,,,,,,,,,,,,,
-11,2019-08-31,Sat,Matchweek 17,Away,D 1–1,Norwich City,Leicester City,N,"On matchday squad, but did not play",/en/matches/3b2eb152/Leicester-City-Norwich-City-December-14-2019-Premier-League,,,,,,,,,,,,,,,,,
-12,2019-08-31,Sat,Matchweek 18,Home,L 1–2,Norwich City,Wolves,N,"On matchday squad, but did not play",/en/matches/223124ce/Norwich-City-Wolverhampton-Wanderers-December-21-2019-Premier-League,,,,,,,,,,,,,,,,,
-13,2019-08-31,Thu,Matchweek 19,Away,L 0–1,Norwich City,Aston Villa,N,"On matchday squad, but did not play",/en/matches/010301bf/Aston-Villa-Norwich-City-December-26-2019-Premier-League,,,,,,,,,,,,,,,,,
-14,2019-08-31,Sat,Matchweek 20,Home,D 2–2,Norwich City,Tottenham,N,"On matchday squad, but did not play",/en/matches/a6e8ab71/Norwich-City-Tottenham-Hotspur-December-28-2019-Premier-League,,,,,,,,,,,,,,,,,
-15,2019-08-31,Wed,Matchweek 21,Home,D 1–1,Norwich City,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/5bbec2c4/Norwich-City-Crystal-Palace-January-1-2020-Premier-League,,,,,,,,,,,,,,,,,
-16,2019-08-31,Sat,Matchweek 22,Away,L 0–4,Norwich City,Manchester Utd,N,CB,26,2,0,0,2,0,0,0,,0,0,0,0,0,2,1,0,/en/matches/db192bf5/Manchester-United-Norwich-City-January-11-2020-Premier-League
-17,2019-08-31,,,,,,,,,,,,,,,,,,,,,,,,,,
-18,2019-08-31,Wed,Matchweek 24,Away,L 1–2,Norwich City,Tottenham,N,"On matchday squad, but did not play",/en/matches/b36a7b4d/Tottenham-Hotspur-Norwich-City-January-22-2020-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-27,Tue,EFL Cup,Second round,Away,L 0–1,Norwich City,Crawley Town,Y,DM,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/d86cf223/Crawley-Town-Norwich-City-August-27-2019-EFL-Cup
+1,2019-08-31,Sat,Premier League,Matchweek 4,Away,L 0–2,Norwich City,West Ham,N,CB,55,0,0,0,0,0,0,0,0,25,0,1,2,0.0,0.0,0.0,0,0,19,21,90.5,1,18,0,0,0,/en/matches/164148a8/West-Ham-United-Norwich-City-August-31-2019-Premier-League
+2,2019-09-14,Sat,Premier League,Matchweek 5,Home,W 3–2,Norwich City,Manchester City,Y,CB,90,0,0,0,0,0,0,0,0,40,0,3,0,0.0,0.0,0.0,0,0,21,27,77.8,0,16,0,0,0,/en/matches/1c7bccd4/Norwich-City-Manchester-City-September-14-2019-Premier-League
+3,2019-09-21,Sat,Premier League,Matchweek 6,Away,L 0–2,Norwich City,Burnley,Y,CB,90,0,0,0,0,0,0,1,0,73,5,1,1,0.0,0.0,0.0,0,0,47,59,79.7,1,40,2,1,1,/en/matches/f97b0ce8/Burnley-Norwich-City-September-21-2019-Premier-League
+4,2019-09-28,Sat,Premier League,Matchweek 7,Away,L 0–2,Norwich City,Crystal Palace,Y,CB,90,0,0,0,0,0,0,0,0,70,2,3,1,0.0,0.0,0.0,0,0,54,58,93.1,1,46,0,0,0,/en/matches/3b180c0d/Crystal-Palace-Norwich-City-September-28-2019-Premier-League
+5,2019-10-05,Sat,Premier League,Matchweek 8,Home,L 1–5,Norwich City,Aston Villa,Y,CB,90,0,0,0,0,1,0,0,0,45,4,1,0,0.6,0.6,0.0,0,0,30,34,88.2,2,33,0,0,0,/en/matches/e50b8e5b/Norwich-City-Aston-Villa-October-5-2019-Premier-League
+6,2019-10-19,Sat,Premier League,Matchweek 9,Away,D 0–0,Norwich City,Bournemouth,Y,CB,90,0,0,0,0,1,0,0,0,64,0,3,1,0.1,0.1,0.0,0,0,43,46,93.5,0,36,0,0,0,/en/matches/d71c01eb/Bournemouth-Norwich-City-October-19-2019-Premier-League
+7,2019-10-27,Sun,Premier League,Matchweek 10,Home,L 1–3,Norwich City,Manchester Utd,Y,"CB,AM",90,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.0,0,0,35,38,92.1,0,28,0,0,0,/en/matches/a31a1d67/Norwich-City-Manchester-United-October-27-2019-Premier-League
+8,2019-11-23,Sat,Premier League,Matchweek 13,Away,W 2–0,Norwich City,Everton,N,CB,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,/en/matches/464461f5/Everton-Norwich-City-November-23-2019-Premier-League
+9,2019-12-01,Sun,Premier League,Matchweek 14,Home,D 2–2,Norwich City,Arsenal,Y,DM,90,0,0,0,0,3,0,0,0,54,3,1,3,0.1,0.1,0.0,2,0,37,39,94.9,3,34,2,0,0,/en/matches/39fce32e/Norwich-City-Arsenal-December-1-2019-Premier-League
+10,2019-12-04,Wed,Premier League,Matchweek 15,Away,L 1–2,Norwich City,Southampton,Y,"DM,CB",45,0,0,0,0,0,0,0,0,41,1,3,0,0.0,0.0,0.0,0,0,22,35,62.9,2,24,0,1,1,/en/matches/367829b6/Southampton-Norwich-City-December-4-2019-Premier-League
+11,2020-01-04,Sat,FA Cup,Third round,Away,W 4–2,Norwich City,Preston,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/59c676f3/Preston-North-End-Norwich-City-January-4-2020-FA-Cup
+12,2020-01-11,Sat,Premier League,Matchweek 22,Away,L 0–4,Norwich City,Manchester Utd,N,CB,26,0,0,0,0,1,1,0,0,19,2,0,0,0.0,0.0,0.0,0,0,14,15,93.3,3,13,0,0,0,/en/matches/db192bf5/Manchester-United-Norwich-City-January-11-2020-Premier-League
+13,2020-03-08,Sun,La Liga,Matchweek 27,Away,W 2–1,Leganés,Villarreal,Y,CM,90,0,0,0,0,0,0,0,0,39,2,1,0,0.0,0.0,0.0,0,0,28,33,84.8,0,16,1,0,0,/en/matches/05aa26ad/Villarreal-Leganes-March-8-2020-La-Liga
+14,2020-06-13,Sat,La Liga,Matchweek 28,Home,L 1–2,Leganés,Valladolid,Y,CM,90,0,0,0,0,0,0,0,0,70,3,1,0,0.0,0.0,0.0,0,0,55,64,85.9,7,37,2,0,0,/en/matches/d1187564/Leganes-Valladolid-June-13-2020-La-Liga
+15,2020-06-16,Tue,La Liga,Matchweek 29,Away,L 0–2,Leganés,Barcelona,N,FW,28,0,0,0,0,0,0,0,0,19,0,4,0,0.0,0.0,0.0,0,0,8,11,72.7,0,9,0,0,0,/en/matches/4b82f2d2/Barcelona-Leganes-June-16-2020-La-Liga
+16,2020-06-19,Fri,La Liga,Matchweek 30,Away,D 1–1,Leganés,Mallorca,Y,"CM,DM",61,0,0,0,0,1,0,1,0,24,2,1,0,0.0,0.0,0.0,0,0,13,16,81.3,3,11,1,1,0,/en/matches/c88c600c/Mallorca-Leganes-June-19-2020-La-Liga
+17,2020-06-30,Tue,La Liga,Matchweek 33,Home,L 0–3,Leganés,Sevilla,Y,CM,90,0,0,0,0,0,0,1,0,44,0,3,0,0.0,0.0,0.0,0,0,33,39,84.6,3,28,2,2,2,/en/matches/6a087511/Leganes-Sevilla-June-30-2020-La-Liga
+18,2020-07-05,Sun,La Liga,Matchweek 34,Away,W 1–0,Leganés,Espanyol,Y,CM,80,0,0,0,0,0,0,0,0,32,3,0,1,0.0,0.0,0.0,0,0,19,26,73.1,1,13,2,0,0,/en/matches/ae095a50/Espanyol-Leganes-July-5-2020-La-Liga
+19,2020-07-09,Thu,La Liga,Matchweek 35,Away,D 0–0,Leganés,Eibar,Y,CM,90,0,0,0,0,1,0,0,0,31,1,0,1,0.1,0.1,0.0,1,0,14,25,56.0,2,16,0,1,0,/en/matches/a069a317/Eibar-Leganes-July-9-2020-La-Liga
+20,2020-07-12,Sun,La Liga,Matchweek 36,Home,W 1–0,Leganés,Valencia,Y,CM,90,0,0,0,0,1,0,0,0,20,2,0,0,0.1,0.1,0.0,0,0,12,15,80.0,0,11,0,1,1,/en/matches/17171222/Leganes-Valencia-July-12-2020-La-Liga
+21,2020-07-16,Thu,La Liga,Matchweek 37,Away,W 2–0,Leganés,Athletic Club,Y,CM,74,0,0,0,0,1,1,0,0,36,3,1,1,0.4,0.4,0.0,1,0,21,27,77.8,2,19,1,0,0,/en/matches/49e3b973/Athletic-Club-Leganes-July-16-2020-La-Liga
+22,2020-07-19,Sun,La Liga,Matchweek 38,Home,D 2–2,Leganés,Real Madrid,Y,CM,77,0,0,0,0,1,0,0,0,27,0,1,2,0.1,0.1,0.0,1,0,19,24,79.2,2,17,0,1,1,/en/matches/7cdb5230/Leganes-Real-Madrid-July-19-2020-La-Liga

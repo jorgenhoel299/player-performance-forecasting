@@ -1,21 +1,7 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2021-08-14,Sat,Matchweek 7,Away,L 0–1,Watford,Leeds United,N,"On matchday squad, but did not play",/en/matches/be9d8a45/Leeds-United-Watford-October-2-2021-Premier-League,,,,,,,,,,,,,,,,,
-1,2021-08-14,Sat,Matchweek 8,Home,L 0–5,Watford,Liverpool,N,"On matchday squad, but did not play",/en/matches/2ce6d340/Watford-Liverpool-October-16-2021-Premier-League,,,,,,,,,,,,,,,,,
-2,2021-08-14,Sat,Matchweek 9,Away,W 5–2,Watford,Everton,N,"On matchday squad, but did not play",/en/matches/6985d123/Everton-Watford-October-23-2021-Premier-League,,,,,,,,,,,,,,,,,
-3,2021-08-14,Sat,Matchweek 10,Home,L 0–1,Watford,Southampton,N,"On matchday squad, but did not play",/en/matches/e3521093/Watford-Southampton-October-30-2021-Premier-League,,,,,,,,,,,,,,,,,
-4,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2021-08-14,Sat,Matchweek 12,Home,W 4–1,Watford,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/31a03035/Watford-Manchester-United-November-20-2021-Premier-League,,,,,,,,,,,,,,,,,
-6,2021-08-14,Sun,Matchweek 13,Away,L 2–4,Watford,Leicester City,N,"On matchday squad, but did not play",/en/matches/c2e426c8/Leicester-City-Watford-November-28-2021-Premier-League,,,,,,,,,,,,,,,,,
-7,2021-08-14,Wed,Matchweek 14,Home,L 1–2,Watford,Chelsea,N,"On matchday squad, but did not play",/en/matches/f475576b/Watford-Chelsea-December-1-2021-Premier-League,,,,,,,,,,,,,,,,,
-8,2021-08-14,Sat,Matchweek 15,Home,L 1–3,Watford,Manchester City,N,"On matchday squad, but did not play",/en/matches/befb6648/Watford-Manchester-City-December-4-2021-Premier-League,,,,,,,,,,,,,,,,,
-9,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,2021-08-14,Tue,Matchweek 20,Home,L 1–4,Watford,West Ham,N,"On matchday squad, but did not play",/en/matches/b56fd899/Watford-West-Ham-United-December-28-2021-Premier-League,,,,,,,,,,,,,,,,,
-11,2021-08-14,Sat,Matchweek 21,Home,L 0–1,Watford,Tottenham,N,"On matchday squad, but did not play",/en/matches/9c831c07/Watford-Tottenham-Hotspur-January-1-2022-Premier-League,,,,,,,,,,,,,,,,,
-12,2021-08-14,,,,,,,,,,,,,,,,,,,,,,,,,,
-13,2021-08-14,Sat,Matchweek 33,Home,L 1–2,Watford,Brentford,N,"On matchday squad, but did not play",/en/matches/3b17352d/Watford-Brentford-April-16-2022-Premier-League,,,,,,,,,,,,,,,,,
-14,2021-08-14,Sat,Matchweek 34,Away,L 1–5,Watford,Manchester City,N,"On matchday squad, but did not play",/en/matches/af522ca3/Manchester-City-Watford-April-23-2022-Premier-League,,,,,,,,,,,,,,,,,
-15,2021-08-14,Sat,Matchweek 35,Home,L 1–2,Watford,Burnley,N,"On matchday squad, but did not play",/en/matches/81ac72d8/Watford-Burnley-April-30-2022-Premier-League,,,,,,,,,,,,,,,,,
-16,2021-08-14,Sat,Matchweek 36,Away,L 0–1,Watford,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/1206a1df/Crystal-Palace-Watford-May-7-2022-Premier-League,,,,,,,,,,,,,,,,,
-17,2021-08-14,Wed,Matchweek 30,Home,D 0–0,Watford,Everton,Y,LM,90,1,0,0,1,0,1,3,33.3,2,1,0,1,0,1,2,0,/en/matches/948fa2e3/Watford-Everton-May-11-2022-Premier-League
-18,2021-08-14,Sun,Matchweek 37,Home,L 1–5,Watford,Leicester City,Y,LM,45,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,/en/matches/5a142f6f/Watford-Leicester-City-May-15-2022-Premier-League
-19,2021-08-14,Sun,Matchweek 38,Away,L 1–2,Watford,Chelsea,N,CM,9,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0,/en/matches/df85b298/Chelsea-Watford-May-22-2022-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-14,Sat,Premier League,Matchweek 1,Home,W 3–2,Watford,Aston Villa,N,"DM,CM",22,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,3,0,0,0,/en/matches/814b563c/Watford-Aston-Villa-August-14-2021-Premier-League
+1,2021-09-21,Tue,EFL Cup,Third round,Home,L 1–3,Watford,Stoke City,Y,CM,79,0,0,0,0,3,1,0,0,,,2,,,,,,,,,,,,,,,/en/matches/7cfca76c/Watford-Stoke-City-September-21-2021-EFL-Cup
+2,2022-01-08,Sat,FA Cup,Third round proper,Away,L 1–4,Watford,Leicester City,N,,28,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/fd2ca892/Leicester-City-Watford-January-8-2022-FA-Cup
+3,2022-05-11,Wed,Premier League,Matchweek 30,Home,D 0–0,Watford,Everton,Y,LM,90,0,0,0,0,1,0,0,0,50,1,0,1,0.0,0.0,0.0,1,0,34,39,87.2,2,27,1,1,1,/en/matches/948fa2e3/Watford-Everton-May-11-2022-Premier-League
+4,2022-05-15,Sun,Premier League,Matchweek 37,Home,L 1–5,Watford,Leicester City,Y,LM,45,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,1,0,13,14,92.9,2,11,1,1,1,/en/matches/5a142f6f/Watford-Leicester-City-May-15-2022-Premier-League
+5,2022-05-22,Sun,Premier League,Matchweek 38,Away,L 1–2,Watford,Chelsea,N,CM,9,1,0,0,0,1,1,0,0,6,1,0,0,0.2,0.2,0.0,0,0,3,4,75.0,0,4,0,0,0,/en/matches/df85b298/Chelsea-Watford-May-22-2022-Premier-League

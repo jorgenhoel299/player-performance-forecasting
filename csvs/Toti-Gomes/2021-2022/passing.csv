@@ -1,16 +1,25 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
-0,2022-01-15,Thu,Matchweek 24,Home,L 0–1,Wolves,Arsenal,N,"On matchday squad, but did not play",/en/matches/bf5f0f9e/Wolverhampton-Wanderers-Arsenal-February-10-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-1,2022-01-15,Sun,Matchweek 25,Away,W 2–0,Wolves,Tottenham,N,"On matchday squad, but did not play",/en/matches/fe93b491/Tottenham-Hotspur-Wolverhampton-Wanderers-February-13-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-2,2022-01-15,Sun,Matchweek 26,Home,W 2–1,Wolves,Leicester City,N,"On matchday squad, but did not play",/en/matches/63d95af6/Wolverhampton-Wanderers-Leicester-City-February-20-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-3,2022-01-15,Thu,Matchweek 20,Away,L 1–2,Wolves,Arsenal,N,"On matchday squad, but did not play",/en/matches/3c516ed6/Arsenal-Wolverhampton-Wanderers-February-24-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-4,2022-01-15,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2022-01-15,Sun,Matchweek 29,Away,W 1–0,Wolves,Everton,N,"On matchday squad, but did not play",/en/matches/9e5d1f93/Everton-Wolverhampton-Wanderers-March-13-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-6,2022-01-15,Fri,Matchweek 30,Home,L 2–3,Wolves,Leeds United,N,"On matchday squad, but did not play",/en/matches/1c402923/Wolverhampton-Wanderers-Leeds-United-March-18-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-7,2022-01-15,Sat,Matchweek 31,Home,W 2–1,Wolves,Aston Villa,N,"On matchday squad, but did not play",/en/matches/320d3dfe/Wolverhampton-Wanderers-Aston-Villa-April-2-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-8,2022-01-15,Fri,Matchweek 32,Away,L 0–1,Wolves,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/739d8264/Newcastle-United-Wolverhampton-Wanderers-April-8-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-9,2022-01-15,Sun,Matchweek 34,Away,L 0–1,Wolves,Burnley,N,"On matchday squad, but did not play",/en/matches/99d0fee1/Burnley-Wolverhampton-Wanderers-April-24-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-10,2022-01-15,Sat,Matchweek 35,Home,L 0–3,Wolves,Brighton,N,"On matchday squad, but did not play",/en/matches/b800c4ba/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-April-30-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-11,2022-01-15,Sat,Matchweek 36,Away,D 2–2,Wolves,Chelsea,N,"On matchday squad, but did not play",/en/matches/7c8a79d2/Chelsea-Wolverhampton-Wanderers-May-7-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-12,2022-01-15,Wed,Matchweek 33,Home,L 1–5,Wolves,Manchester City,N,"On matchday squad, but did not play",/en/matches/a93c0c92/Wolverhampton-Wanderers-Manchester-City-May-11-2022-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-13,2022-01-15,Sun,Matchweek 37,Home,D 1–1,Wolves,Norwich City,Y,CB,90,69,79,87.3,1131,387,33,36,91.7,34,38,89.5,2,4,50.0,0,0.0,0.0,0,9,0,0,4,/en/matches/7f0d5ca8/Wolverhampton-Wanderers-Norwich-City-May-15-2022-Premier-League
-14,2022-01-15,Sun,Matchweek 38,Away,L 1–3,Wolves,Liverpool,Y,CB,90,27,37,73.0,473,247,15,20,75.0,9,11,81.8,3,6,50.0,0,0.0,0.0,0,1,0,0,0,/en/matches/8b0f3e28/Liverpool-Wolverhampton-Wanderers-May-22-2022-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-07-25,Sun,Super Lg,Matchweek 1,Home,L 0–2,Grasshopper,Basel,Y,CB,90,0,0,0,0,1,0,1,0,,,3,,,,,,,,,,,,,,,/en/matches/82a6914b/Grasshopper-Basel-July-25-2021-Swiss-Super-League
+1,2021-07-31,Sat,Super Lg,Matchweek 2,Away,D 0–0,Grasshopper,Young Boys,Y,CB,90,0,0,0,0,0,0,1,0,,,2,,,,,,,,,,,,,,,/en/matches/6c117136/Young-Boys-Grasshopper-July-31-2021-Swiss-Super-League
+2,2021-08-07,Sat,Super Lg,Matchweek 3,Home,W 3–1,Grasshopper,Lausanne-Sport,Y,CB,90,1,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/8ffbb6a3/Grasshopper-Lausanne-Sport-August-7-2021-Swiss-Super-League
+3,2021-08-21,Sat,Super Lg,Matchweek 4,Away,L 1–2,Grasshopper,Zürich,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/474beb3d/Zurich-Grasshopper-August-21-2021-Swiss-Super-League
+4,2021-08-29,Sun,Super Lg,Matchweek 5,Home,D 1–1,Grasshopper,Servette FC,Y,CB,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/90cbf312/Grasshopper-Servette-FC-August-29-2021-Swiss-Super-League
+5,2021-09-11,Sat,Super Lg,Matchweek 6,Away,D 1–1,Grasshopper,Luzern,Y,CB,72,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,/en/matches/2a8f8087/Luzern-Grasshopper-September-11-2021-Swiss-Super-League
+6,2021-09-26,Sun,Super Lg,Matchweek 8,Home,W 3–1,Grasshopper,Sion,Y,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/5c04aa26/Grasshopper-Sion-September-26-2021-Swiss-Super-League
+7,2021-10-02,Sat,Super Lg,Matchweek 9,Home,W 5–2,Grasshopper,St. Gallen,Y,CB,90,0,0,0,0,0,0,0,0,,,5,,,,,,,,,,,,,,,/en/matches/f9c797ac/Grasshopper-St-Gallen-October-2-2021-Swiss-Super-League
+8,2021-10-17,Sun,Super Lg,Matchweek 10,Away,L 1–3,Grasshopper,Lausanne-Sport,Y,CB,45,0,0,0,0,0,0,1,0,,,2,,,,,,,,,,,,,,,/en/matches/e1cf2422/Lausanne-Sport-Grasshopper-October-17-2021-Swiss-Super-League
+9,2021-10-31,Sun,Super Lg,Matchweek 12,Away,W 3–1,Grasshopper,Sion,Y,CB,90,0,0,0,0,0,0,0,0,,,3,,,,,,,,,,,,,,,/en/matches/4ae1caac/Sion-Grasshopper-October-31-2021-Swiss-Super-League
+10,2021-11-06,Sat,Super Lg,Matchweek 13,Home,D 1–1,Grasshopper,Young Boys,Y,DM,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/74ed0bfd/Grasshopper-Young-Boys-November-6-2021-Swiss-Super-League
+11,2021-11-21,Sun,Super Lg,Matchweek 14,Away,L 2–3,Grasshopper,Servette FC,Y,CB,90,0,0,0,0,1,0,0,0,,,7,,,,,,,,,,,,,,,/en/matches/9285296c/Servette-FC-Grasshopper-November-21-2021-Swiss-Super-League
+12,2021-11-27,Sat,Super Lg,Matchweek 15,Home,L 0–1,Grasshopper,Lugano,Y,CB,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/0cc99f1a/Grasshopper-Lugano-November-27-2021-Swiss-Super-League
+13,2021-12-05,Sun,Super Lg,Matchweek 16,Away,W 4–0,Grasshopper,St. Gallen,Y,CB,90,0,0,0,0,3,2,0,0,,,2,,,,,,,,,,,,,,,/en/matches/d7f6c2da/St-Gallen-Grasshopper-December-5-2021-Swiss-Super-League
+14,2021-12-12,Sun,Super Lg,Matchweek 17,Home,D 1–1,Grasshopper,Luzern,Y,CB,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/4c572deb/Grasshopper-Luzern-December-12-2021-Swiss-Super-League
+15,2021-12-19,Sun,Super Lg,Matchweek 18,Away,D 2–2,Grasshopper,Basel,Y,DM,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/7126940b/Basel-Grasshopper-December-19-2021-Swiss-Super-League
+16,2022-01-15,Sat,Premier League,Matchweek 22,Home,W 3–1,Wolves,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,45,5,2,0,0.0,0.0,0.0,0,0,20,33,60.6,1,17,1,0,0,/en/matches/dd7b8b8b/Wolverhampton-Wanderers-Southampton-January-15-2022-Premier-League
+17,2022-01-22,Sat,Premier League,Matchweek 23,Away,W 2–1,Wolves,Brentford,Y,CB,90,0,0,0,0,0,0,1,0,70,3,2,2,0.0,0.0,0.0,0,0,37,54,68.5,2,35,0,3,2,/en/matches/9f91ec9b/Brentford-Wolverhampton-Wanderers-January-22-2022-Premier-League
+18,2022-02-05,Sat,FA Cup,Fourth round proper,Home,L 0–1,Wolves,Norwich City,Y,CB,63,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/7b2400a8/Wolverhampton-Wanderers-Norwich-City-February-5-2022-FA-Cup
+19,2022-02-28,Mon,PL2 — Div. 2,Matchweek 21,Home,W 4–3,Wolves,Reading,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/e622cb55/Wolverhampton-Wanderers-U23-Reading-U23-February-28-2022-Premier-League-2----Division-2
+20,2022-03-14,Mon,PL2 — Div. 2,Matchweek 22,Away,W 4–0,Wolves,West Brom,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ebb83724/West-Bromwich-Albion-U23-Wolverhampton-Wanderers-U23-March-14-2022-Premier-League-2----Division-2
+21,2022-04-18,Mon,PL2 — Div. 2,Matchweek 15,Home,W 4–2,Wolves,Newcastle Utd,Y,CB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/0df1d40e/Wolverhampton-Wanderers-U23-Newcastle-United-U23-April-18-2022-Premier-League-2----Division-2
+22,2022-05-15,Sun,Premier League,Matchweek 37,Home,D 1–1,Wolves,Norwich City,Y,CB,90,0,0,0,0,1,0,0,0,91,2,1,1,0.0,0.0,0.0,0,0,69,79,87.3,4,65,1,1,1,/en/matches/7f0d5ca8/Wolverhampton-Wanderers-Norwich-City-May-15-2022-Premier-League
+23,2022-05-22,Sun,Premier League,Matchweek 38,Away,L 1–3,Wolves,Liverpool,Y,CB,90,0,0,0,0,0,0,0,0,49,1,3,3,0.0,0.0,0.0,0,0,27,37,73.0,0,31,0,2,2,/en/matches/8b0f3e28/Liverpool-Wolverhampton-Wanderers-May-22-2022-Premier-League

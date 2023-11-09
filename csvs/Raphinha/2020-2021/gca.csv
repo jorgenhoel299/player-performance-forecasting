@@ -1,31 +1,39 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2020-10-19,,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-10-19,Sat,Matchweek 8,Away,L 1–4,Leeds United,Crystal Palace,N,RW,45,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/527aee54/Crystal-Palace-Leeds-United-November-7-2020-Premier-League
-2,2020-10-19,Sun,Matchweek 9,Home,D 0–0,Leeds United,Arsenal,Y,"RM,LM",90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/0dd6b39b/Leeds-United-Arsenal-November-22-2020-Premier-League
-3,2020-10-19,Sat,Matchweek 10,Away,W 1–0,Leeds United,Everton,Y,RM,84,3,2,0,0,1,0,0,0,0,0,0,0,0,0,/en/matches/3eeb39c5/Everton-Leeds-United-November-28-2020-Premier-League
-4,2020-10-19,Sat,Matchweek 11,Away,L 1–3,Leeds United,Chelsea,Y,"RM,LM",90,4,2,0,1,1,0,0,0,0,0,0,0,0,0,/en/matches/419abbc0/Chelsea-Leeds-United-December-5-2020-Premier-League
-5,2020-10-19,Fri,Matchweek 12,Home,L 1–2,Leeds United,West Ham,Y,RM,90,7,4,1,1,1,0,0,0,0,0,0,0,0,0,/en/matches/2d36ffad/Leeds-United-West-Ham-United-December-11-2020-Premier-League
-6,2020-10-19,Wed,Matchweek 13,Home,W 5–2,Leeds United,Newcastle Utd,Y,RM,90,4,2,1,0,0,1,0,1,1,0,0,0,0,0,/en/matches/b52c441b/Leeds-United-Newcastle-United-December-16-2020-Premier-League
-7,2020-10-19,Sun,Matchweek 14,Away,L 2–6,Leeds United,Manchester Utd,Y,"LM,RM",90,7,4,3,0,0,0,0,2,1,1,0,0,0,0,/en/matches/b7ab53b3/Manchester-United-Leeds-United-December-20-2020-Premier-League
-8,2020-10-19,Sun,Matchweek 15,Home,W 1–0,Leeds United,Burnley,Y,"RW,RM",69,4,2,0,2,0,0,0,0,0,0,0,0,0,0,/en/matches/d54f6293/Leeds-United-Burnley-December-27-2020-Premier-League
-9,2020-10-19,Tue,Matchweek 16,Away,W 5–0,Leeds United,West Brom,Y,RM,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/21f2b720/West-Bromwich-Albion-Leeds-United-December-29-2020-Premier-League
-10,2020-10-19,Sat,Matchweek 17,Away,L 0–3,Leeds United,Tottenham,Y,"RM,LM",90,5,4,0,1,0,0,0,0,0,0,0,0,0,0,/en/matches/93463aad/Tottenham-Hotspur-Leeds-United-January-2-2021-Premier-League
-11,2020-10-19,Sat,Matchweek 19,Home,L 0–1,Leeds United,Brighton,Y,LM,74,3,1,1,1,0,0,0,0,0,0,0,0,0,0,/en/matches/ade7aac2/Leeds-United-Brighton-and-Hove-Albion-January-16-2021-Premier-League
-12,2020-10-19,Tue,Matchweek 20,Away,W 2–1,Leeds United,Newcastle Utd,Y,RM,90,4,3,0,0,0,1,0,1,1,0,0,0,0,0,/en/matches/831d8a36/Newcastle-United-Leeds-United-January-26-2021-Premier-League
-13,2020-10-19,Sun,Matchweek 21,Away,W 3–1,Leeds United,Leicester City,Y,RM,79,3,3,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/e5e46ead/Leicester-City-Leeds-United-January-31-2021-Premier-League
-14,2020-10-19,Wed,Matchweek 22,Home,L 1–2,Leeds United,Everton,Y,"RM,LM",90,5,4,1,0,0,0,0,0,0,0,0,0,0,0,/en/matches/d9b96ee1/Leeds-United-Everton-February-3-2021-Premier-League
-15,2020-10-19,Mon,Matchweek 23,Home,W 2–0,Leeds United,Crystal Palace,Y,"RM,RW",90,6,1,1,0,2,2,0,1,0,0,0,1,0,0,/en/matches/ff2cee2b/Leeds-United-Crystal-Palace-February-8-2021-Premier-League
-16,2020-10-19,Sun,Matchweek 24,Away,L 2–4,Leeds United,Arsenal,Y,"LM,RM",90,6,4,1,0,1,0,0,3,1,1,0,1,0,0,/en/matches/85624e5e/Arsenal-Leeds-United-February-14-2021-Premier-League
-17,2020-10-19,Fri,Matchweek 25,Away,L 0–1,Leeds United,Wolves,Y,RM,90,9,3,6,0,0,0,0,0,0,0,0,0,0,0,/en/matches/ae2d6f15/Wolverhampton-Wanderers-Leeds-United-February-19-2021-Premier-League
-18,2020-10-19,Tue,Matchweek 18,Home,W 3–0,Leeds United,Southampton,Y,LW,90,7,5,1,1,0,0,0,0,0,0,0,0,0,0,/en/matches/6a198933/Leeds-United-Southampton-February-23-2021-Premier-League
-19,2020-10-19,Sat,Matchweek 26,Home,L 0–1,Leeds United,Aston Villa,Y,LM,90,8,3,3,1,1,0,0,0,0,0,0,0,0,0,/en/matches/70056c3b/Leeds-United-Aston-Villa-February-27-2021-Premier-League
-20,2020-10-19,Mon,Matchweek 27,Away,L 0–2,Leeds United,West Ham,Y,"RM,LM",90,3,2,0,0,0,0,1,0,0,0,0,0,0,0,/en/matches/c3b4d1ba/West-Ham-United-Leeds-United-March-8-2021-Premier-League
-21,2020-10-19,Sat,Matchweek 28,Home,D 0–0,Leeds United,Chelsea,Y,"RM,LM",90,3,1,2,0,0,0,0,0,0,0,0,0,0,0,/en/matches/a711769f/Leeds-United-Chelsea-March-13-2021-Premier-League
-22,2020-10-19,Fri,Matchweek 29,Away,W 2–1,Leeds United,Fulham,Y,RM,90,5,1,3,1,0,0,0,1,0,0,1,0,0,0,/en/matches/05e3dd18/Fulham-Leeds-United-March-19-2021-Premier-League
-23,2020-10-19,Sat,Matchweek 30,Home,W 2–1,Leeds United,Sheffield Utd,Y,RM,90,7,4,0,3,0,0,0,2,1,0,1,0,0,0,/en/matches/c4ed64b9/Leeds-United-Sheffield-United-April-3-2021-Premier-League
-24,2020-10-19,Sat,Matchweek 31,Away,W 2–1,Leeds United,Manchester City,Y,RM,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/ad969519/Manchester-City-Leeds-United-April-10-2021-Premier-League
-25,2020-10-19,,,,,,,,,,,,,,,,,,,,,,,,
-26,2020-10-19,Sat,Matchweek 35,Home,W 3–1,Leeds United,Tottenham,N,LM,33,2,2,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/4eecc9bb/Leeds-United-Tottenham-Hotspur-May-8-2021-Premier-League
-27,2020-10-19,Sat,Matchweek 36,Away,W 4–0,Leeds United,Burnley,Y,RW,80,1,1,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/18d42916/Burnley-Leeds-United-May-15-2021-Premier-League
-28,2020-10-19,Tue,Matchweek 37,Away,W 2–0,Leeds United,Southampton,Y,RW,90,5,4,0,1,0,0,0,0,0,0,0,0,0,0,/en/matches/de4e566f/Southampton-Leeds-United-May-18-2021-Premier-League
-29,2020-10-19,Sun,Matchweek 38,Home,W 3–1,Leeds United,West Brom,Y,"WB,RM",90,5,2,2,1,0,0,0,1,0,1,0,0,0,0,/en/matches/9ade2b5d/Leeds-United-West-Bromwich-Albion-May-23-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-08-22,Sat,Ligue 1,Matchweek 1,Away,D 1–1,Rennes,Lille,Y,RW,63,0,0,0,0,2,1,0,0,28,1,2,0,0.1,0.1,0.0,2,0,10,15,66.7,3,20,2,4,2,/en/matches/50ec2fcc/Lille-Rennes-August-22-2020-Ligue-1
+1,2020-08-29,Sat,Ligue 1,Matchweek 2,Home,W 2–1,Rennes,Montpellier,Y,RW,86,0,0,0,0,2,0,0,0,37,1,0,1,0.1,0.1,0.2,5,0,16,28,57.1,2,16,2,4,3,/en/matches/1ec60fe6/Rennes-Montpellier-August-29-2020-Ligue-1
+2,2020-09-13,Sun,Ligue 1,Matchweek 3,Away,W 4–2,Rennes,Nîmes,Y,RW,87,0,1,0,0,0,0,0,0,30,2,0,0,0.0,0.0,0.1,5,3,14,21,66.7,1,17,2,8,2,/en/matches/a38dda9a/Nimes-Rennes-September-13-2020-Ligue-1
+3,2020-09-19,Sat,Ligue 1,Matchweek 4,Home,W 2–1,Rennes,Monaco,Y,RM,57,0,0,0,0,1,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,11,21,52.4,0,17,1,4,0,/en/matches/17da8c83/Rennes-Monaco-September-19-2020-Ligue-1
+4,2020-09-26,Sat,Ligue 1,Matchweek 5,Away,W 3–0,Rennes,Saint-Étienne,N,RM,21,0,1,0,0,1,1,0,0,15,1,0,2,0.1,0.1,0.2,1,1,7,9,77.8,1,10,0,1,0,/en/matches/bd61810c/Saint-Etienne-Rennes-September-26-2020-Ligue-1
+5,2020-10-04,Sun,Ligue 1,Matchweek 6,Home,D 2–2,Rennes,Reims,Y,RM,90,1,0,0,0,5,1,0,0,61,0,1,2,0.6,0.6,0.4,12,3,31,45,68.9,5,26,4,4,3,/en/matches/6d85492f/Rennes-Reims-October-4-2020-Ligue-1
+6,2020-10-19,Mon,Premier League,Matchweek 5,Home,L 0–1,Leeds United,Wolves,N,LM,9,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,5,1,0,0,/en/matches/6a2c4518/Leeds-United-Wolverhampton-Wanderers-October-19-2020-Premier-League
+7,2020-10-23,Fri,Premier League,Matchweek 6,Away,W 3–0,Leeds United,Aston Villa,N,RM,8,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,1,0,6,7,85.7,2,9,1,0,0,/en/matches/873ab775/Aston-Villa-Leeds-United-October-23-2020-Premier-League
+8,2020-10-25,Sun,PL2 — Div. 2,Matchweek 6,Home,W 2–0,Leeds United,Norwich City,Y,AM,90,1,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/30cf24c0/Leeds-United-U23-Norwich-City-U23-October-25-2020-Premier-League-2----Division-2
+9,2020-11-07,Sat,Premier League,Matchweek 8,Away,L 1–4,Leeds United,Crystal Palace,N,RW,45,0,0,0,0,1,0,0,0,29,1,0,2,0.1,0.1,0.0,1,0,15,18,83.3,2,19,2,2,1,/en/matches/527aee54/Crystal-Palace-Leeds-United-November-7-2020-Premier-League
+10,2020-11-22,Sun,Premier League,Matchweek 9,Home,D 0–0,Leeds United,Arsenal,Y,"RM,LM",90,0,0,0,0,4,0,0,0,44,1,1,0,0.2,0.2,0.1,2,0,25,36,69.4,6,31,3,1,1,/en/matches/0dd6b39b/Leeds-United-Arsenal-November-22-2020-Premier-League
+11,2020-11-28,Sat,Premier League,Matchweek 10,Away,W 1–0,Leeds United,Everton,Y,RM,84,1,0,0,0,4,2,0,0,52,3,0,1,0.2,0.2,0.6,3,0,24,35,68.6,4,30,4,2,0,/en/matches/3eeb39c5/Everton-Leeds-United-November-28-2020-Premier-League
+12,2020-12-05,Sat,Premier League,Matchweek 11,Away,L 1–3,Leeds United,Chelsea,Y,"RM,LM",90,0,0,0,0,2,0,1,0,38,1,0,2,0.1,0.1,0.2,4,0,17,26,65.4,1,23,3,7,6,/en/matches/419abbc0/Chelsea-Leeds-United-December-5-2020-Premier-League
+13,2020-12-11,Fri,Premier League,Matchweek 12,Home,L 1–2,Leeds United,West Ham,Y,RM,90,0,0,0,0,2,1,0,0,61,1,2,3,0.1,0.1,0.2,7,0,29,45,64.4,2,39,2,2,2,/en/matches/2d36ffad/Leeds-United-West-Ham-United-December-11-2020-Premier-League
+14,2020-12-16,Wed,Premier League,Matchweek 13,Home,W 5–2,Leeds United,Newcastle Utd,Y,RM,90,0,0,0,0,7,1,1,0,56,2,2,0,0.3,0.3,0.1,4,1,29,43,67.4,5,34,6,1,1,/en/matches/b52c441b/Leeds-United-Newcastle-United-December-16-2020-Premier-League
+15,2020-12-20,Sun,Premier League,Matchweek 14,Away,L 2–6,Leeds United,Manchester Utd,Y,"LM,RM",90,0,2,0,0,3,1,0,0,78,0,0,2,0.3,0.3,0.2,7,2,34,56,60.7,7,35,7,4,0,/en/matches/b7ab53b3/Manchester-United-Leeds-United-December-20-2020-Premier-League
+16,2020-12-27,Sun,Premier League,Matchweek 15,Home,W 1–0,Leeds United,Burnley,Y,"RW,RM",69,0,0,0,0,2,1,0,0,34,1,0,0,0.1,0.1,0.5,4,0,16,27,59.3,1,16,2,2,2,/en/matches/d54f6293/Leeds-United-Burnley-December-27-2020-Premier-League
+17,2020-12-29,Tue,Premier League,Matchweek 16,Away,W 5–0,Leeds United,West Brom,Y,RM,80,1,0,0,0,2,2,0,0,52,0,0,1,0.1,0.1,0.0,0,0,33,45,73.3,6,36,5,2,0,/en/matches/21f2b720/West-Bromwich-Albion-Leeds-United-December-29-2020-Premier-League
+18,2021-01-02,Sat,Premier League,Matchweek 17,Away,L 0–3,Leeds United,Tottenham,Y,"RM,LM",90,0,0,0,0,1,1,0,0,67,0,3,0,0.0,0.0,0.4,5,0,39,53,73.6,2,46,4,7,2,/en/matches/93463aad/Tottenham-Hotspur-Leeds-United-January-2-2021-Premier-League
+19,2021-01-10,Sun,FA Cup,Third round proper,Away,L 0–3,Leeds United,Crawley Town,N,,33,0,0,0,0,2,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/c845be82/Crawley-Town-Leeds-United-January-10-2021-FA-Cup
+20,2021-01-16,Sat,Premier League,Matchweek 19,Home,L 0–1,Leeds United,Brighton,Y,LM,74,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.1,3,0,22,32,68.8,4,28,1,6,5,/en/matches/ade7aac2/Leeds-United-Brighton-and-Hove-Albion-January-16-2021-Premier-League
+21,2021-01-26,Tue,Premier League,Matchweek 20,Away,W 2–1,Leeds United,Newcastle Utd,Y,RM,90,1,1,0,0,2,1,0,0,35,1,0,1,0.2,0.2,0.2,4,1,17,26,65.4,4,21,4,2,2,/en/matches/831d8a36/Newcastle-United-Leeds-United-January-26-2021-Premier-League
+22,2021-01-31,Sun,Premier League,Matchweek 21,Away,W 3–1,Leeds United,Leicester City,Y,RM,79,0,1,0,0,1,1,0,0,40,3,2,0,0.3,0.3,0.1,3,1,19,33,57.6,4,26,3,0,0,/en/matches/e5e46ead/Leicester-City-Leeds-United-January-31-2021-Premier-League
+23,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 1–2,Leeds United,Everton,Y,"RM,LM",90,1,0,0,0,3,2,0,0,77,2,1,3,0.6,0.6,0.1,5,0,36,59,61.0,7,40,2,7,4,/en/matches/d9b96ee1/Leeds-United-Everton-February-3-2021-Premier-League
+24,2021-02-08,Mon,Premier League,Matchweek 23,Home,W 2–0,Leeds United,Crystal Palace,Y,"RM,RW",90,0,0,0,0,4,2,0,0,73,1,0,3,0.3,0.3,0.3,6,1,42,58,72.4,4,46,4,2,0,/en/matches/ff2cee2b/Leeds-United-Crystal-Palace-February-8-2021-Premier-League
+25,2021-02-14,Sun,Premier League,Matchweek 24,Away,L 2–4,Leeds United,Arsenal,Y,"LM,RM",90,0,1,0,0,3,1,0,0,53,1,1,1,0.1,0.1,0.3,6,3,24,39,61.5,3,25,3,1,1,/en/matches/85624e5e/Arsenal-Leeds-United-February-14-2021-Premier-League
+26,2021-02-19,Fri,Premier League,Matchweek 25,Away,L 0–1,Leeds United,Wolves,Y,RM,90,0,0,0,0,4,1,0,0,70,3,4,0,0.3,0.3,0.7,9,0,30,46,65.2,2,28,0,8,3,/en/matches/ae2d6f15/Wolverhampton-Wanderers-Leeds-United-February-19-2021-Premier-League
+27,2021-02-23,Tue,Premier League,Matchweek 18,Home,W 3–0,Leeds United,Southampton,Y,LW,90,1,0,0,0,1,1,1,0,37,1,1,0,0.1,0.1,0.7,7,0,16,27,59.3,3,18,4,3,2,/en/matches/6a198933/Leeds-United-Southampton-February-23-2021-Premier-League
+28,2021-02-27,Sat,Premier League,Matchweek 26,Home,L 0–1,Leeds United,Aston Villa,Y,LM,90,0,0,0,0,2,0,0,0,50,0,0,1,0.4,0.4,0.2,8,0,22,39,56.4,5,30,5,3,3,/en/matches/70056c3b/Leeds-United-Aston-Villa-February-27-2021-Premier-League
+29,2021-03-08,Mon,Premier League,Matchweek 27,Away,L 0–2,Leeds United,West Ham,Y,"RM,LM",90,0,0,0,0,4,2,0,0,62,2,1,1,0.3,0.3,0.4,3,0,25,41,61.0,4,39,3,1,1,/en/matches/c3b4d1ba/West-Ham-United-Leeds-United-March-8-2021-Premier-League
+30,2021-03-13,Sat,Premier League,Matchweek 28,Home,D 0–0,Leeds United,Chelsea,Y,"RM,LM",90,0,0,0,0,2,1,0,0,56,0,3,1,0.2,0.2,0.1,3,0,14,33,42.4,1,23,4,7,3,/en/matches/a711769f/Leeds-United-Chelsea-March-13-2021-Premier-League
+31,2021-03-19,Fri,Premier League,Matchweek 29,Away,W 2–1,Leeds United,Fulham,Y,RM,90,1,0,0,0,2,1,0,0,41,0,0,0,0.6,0.6,0.1,5,1,16,27,59.3,3,16,1,6,3,/en/matches/05e3dd18/Fulham-Leeds-United-March-19-2021-Premier-League
+32,2021-04-03,Sat,Premier League,Matchweek 30,Home,W 2–1,Leeds United,Sheffield Utd,Y,RM,90,0,1,0,0,3,0,0,0,72,0,2,4,0.2,0.2,0.9,7,2,30,52,57.7,7,37,7,9,6,/en/matches/c4ed64b9/Leeds-United-Sheffield-United-April-3-2021-Premier-League
+33,2021-04-10,Sat,Premier League,Matchweek 31,Away,W 2–1,Leeds United,Manchester City,Y,RM,89,0,0,0,0,0,0,0,0,39,2,2,1,0.0,0.0,0.0,0,0,16,27,59.3,1,22,5,6,2,/en/matches/ad969519/Manchester-City-Leeds-United-April-10-2021-Premier-League
+34,2021-05-08,Sat,Premier League,Matchweek 35,Home,W 3–1,Leeds United,Tottenham,N,LM,33,0,1,0,0,0,0,0,0,19,3,1,1,0.0,0.0,0.4,2,1,12,13,92.3,0,9,4,1,0,/en/matches/4eecc9bb/Leeds-United-Tottenham-Hotspur-May-8-2021-Premier-League
+35,2021-05-15,Sat,Premier League,Matchweek 36,Away,W 4–0,Leeds United,Burnley,Y,RW,80,0,1,0,0,3,0,0,0,53,1,1,0,0.2,0.2,0.0,1,1,25,39,64.1,4,40,2,4,2,/en/matches/18d42916/Burnley-Leeds-United-May-15-2021-Premier-League
+36,2021-05-18,Tue,Premier League,Matchweek 37,Away,W 2–0,Leeds United,Southampton,Y,RW,90,0,0,0,0,3,1,0,0,37,0,1,2,0.2,0.2,0.1,5,0,16,25,64.0,1,30,3,6,3,/en/matches/de4e566f/Southampton-Leeds-United-May-18-2021-Premier-League
+37,2021-05-23,Sun,Premier League,Matchweek 38,Home,W 3–1,Leeds United,West Brom,Y,"WB,RM",90,0,1,0,0,1,1,0,0,61,3,1,0,0.1,0.1,0.9,5,1,32,47,68.1,2,28,7,8,1,/en/matches/9ade2b5d/Leeds-United-West-Bromwich-Albion-May-23-2021-Premier-League

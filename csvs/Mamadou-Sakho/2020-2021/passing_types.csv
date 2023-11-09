@@ -1,12 +1,8 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2020-09-19,Sat,Matchweek 4,Away,L 0–4,Crystal Palace,Chelsea,Y,CB,90,30,23,7,6,0,0,0,1,0,0,0,0,26,0,0,/en/matches/d97aa1b5/Chelsea-Crystal-Palace-October-3-2020-Premier-League
-1,2020-09-19,Sun,Matchweek 5,Home,D 1–1,Crystal Palace,Brighton,N,"On matchday squad, but did not play",/en/matches/e96818bc/Crystal-Palace-Brighton-and-Hove-Albion-October-18-2020-Premier-League,,,,,,,,,,,,,,,,
-2,2020-09-19,Sat,Matchweek 6,Away,W 2–1,Crystal Palace,Fulham,N,CB,6,7,6,1,1,0,0,0,0,0,0,0,0,7,0,0,/en/matches/8d896969/Fulham-Crystal-Palace-October-24-2020-Premier-League
-3,2020-09-19,Fri,Matchweek 7,Away,L 0–2,Crystal Palace,Wolves,N,"On matchday squad, but did not play",/en/matches/e1741638/Wolverhampton-Wanderers-Crystal-Palace-October-30-2020-Premier-League,,,,,,,,,,,,,,,,
-4,2020-09-19,Sat,Matchweek 8,Home,W 4–1,Crystal Palace,Leeds United,N,"On matchday squad, but did not play",/en/matches/527aee54/Crystal-Palace-Leeds-United-November-7-2020-Premier-League,,,,,,,,,,,,,,,,
-5,2020-09-19,Mon,Matchweek 9,Away,L 0–1,Crystal Palace,Burnley,N,"On matchday squad, but did not play",/en/matches/1dde1d03/Burnley-Crystal-Palace-November-23-2020-Premier-League,,,,,,,,,,,,,,,,
-6,2020-09-19,Fri,Matchweek 10,Home,L 0–2,Crystal Palace,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/0d5962be/Crystal-Palace-Newcastle-United-November-27-2020-Premier-League,,,,,,,,,,,,,,,,
-7,2020-09-19,Sun,Matchweek 11,Away,W 5–1,Crystal Palace,West Brom,N,"On matchday squad, but did not play",/en/matches/ac9d70e3/West-Bromwich-Albion-Crystal-Palace-December-6-2020-Premier-League,,,,,,,,,,,,,,,,
-8,2020-09-19,,,,,,,,,,,,,,,,,,,,,,,,,
-9,2020-09-19,Mon,Matchweek 16,Home,D 1–1,Crystal Palace,Leicester City,N,"On matchday squad, but did not play",/en/matches/77437741/Crystal-Palace-Leicester-City-December-28-2020-Premier-League,,,,,,,,,,,,,,,,
-10,2020-09-19,Sat,Matchweek 17,Home,W 2–0,Crystal Palace,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/84a373f5/Crystal-Palace-Sheffield-United-January-2-2021-Premier-League,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-15,Tue,EFL Cup,Second round,Away,D 0 (10)–0 (11),Crystal Palace,Bournemouth,N,,30,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/beb48367/Bournemouth-Crystal-Palace-September-15-2020-EFL-Cup
+1,2020-09-19,Sat,Premier League,Matchweek 2,Away,W 3–1,Crystal Palace,Manchester Utd,Y,CB,90,0,0,0,0,0,0,0,0,31,1,3,0,0.0,0.0,0.0,0,0,17,20,85.0,1,9,0,0,0,/en/matches/97279323/Manchester-United-Crystal-Palace-September-19-2020-Premier-League
+2,2020-09-26,Sat,Premier League,Matchweek 3,Home,L 1–2,Crystal Palace,Everton,Y,CB,90,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.0,0,0,33,37,89.2,3,28,0,0,0,/en/matches/7387a72e/Crystal-Palace-Everton-September-26-2020-Premier-League
+3,2020-10-03,Sat,Premier League,Matchweek 4,Away,L 0–4,Crystal Palace,Chelsea,Y,CB,90,0,0,0,0,1,0,0,0,39,1,0,2,0.1,0.1,0.0,0,0,26,30,86.7,0,20,0,0,0,/en/matches/d97aa1b5/Chelsea-Crystal-Palace-October-3-2020-Premier-League
+4,2020-10-24,Sat,Premier League,Matchweek 6,Away,W 2–1,Crystal Palace,Fulham,N,CB,6,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,5,0,0,0,/en/matches/8d896969/Fulham-Crystal-Palace-October-24-2020-Premier-League
+5,2020-11-09,Mon,PL2 — Div. 2,Matchweek 8,Home,W 6–0,Crystal Palace,Reading,Y,CB,70,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/df6cd0a1/Crystal-Palace-U23-Reading-U23-November-9-2020-Premier-League-2----Division-2
+6,2021-01-08,Fri,FA Cup,Third round proper,Away,L 0–1,Crystal Palace,Wolves,Y*,CB,45,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/2e19090f/Wolverhampton-Wanderers-Crystal-Palace-January-8-2021-FA-Cup

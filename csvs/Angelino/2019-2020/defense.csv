@@ -1,18 +1,32 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2019-08-25,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2019-08-25,Sat,Matchweek 6,Home,W 8–0,Manchester City,Watford,N,LB,45,0,0,0,0,0,0,0,,0,0,0,0,2,2,0,0,/en/matches/4672d0d7/Manchester-City-Watford-September-21-2019-Premier-League
-2,2019-08-25,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2019-08-25,Sun,Matchweek 8,Home,L 0–2,Manchester City,Wolves,N,"On matchday squad, but did not play",/en/matches/0481092b/Manchester-City-Wolverhampton-Wanderers-October-6-2019-Premier-League,,,,,,,,,,,,,,,,,
-4,2019-08-25,Sat,Matchweek 9,Away,W 2–0,Manchester City,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/f334b1dc/Crystal-Palace-Manchester-City-October-19-2019-Premier-League,,,,,,,,,,,,,,,,,
-5,2019-08-25,Sat,Matchweek 10,Home,W 3–0,Manchester City,Aston Villa,N,LB,18,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,/en/matches/e0a4db2d/Manchester-City-Aston-Villa-October-26-2019-Premier-League
-6,2019-08-25,Sat,Matchweek 11,Home,W 2–1,Manchester City,Southampton,Y,LB,90,1,1,0,0,1,1,3,33.3,2,1,0,1,0,1,1,0,/en/matches/afbdd3aa/Manchester-City-Southampton-November-2-2019-Premier-League
-7,2019-08-25,Sun,Matchweek 12,Away,L 1–3,Manchester City,Liverpool,Y,LB,90,0,0,0,0,0,0,0,,0,0,0,0,3,3,6,0,/en/matches/47880eb7/Liverpool-Manchester-City-November-10-2019-Premier-League
-8,2019-08-25,Sat,Matchweek 13,Home,W 2–1,Manchester City,Chelsea,N,"On matchday squad, but did not play",/en/matches/d16305c7/Manchester-City-Chelsea-November-23-2019-Premier-League,,,,,,,,,,,,,,,,,
-9,2019-08-25,Sat,Matchweek 14,Away,D 2–2,Manchester City,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/f43fa290/Newcastle-United-Manchester-City-November-30-2019-Premier-League,,,,,,,,,,,,,,,,,
-10,2019-08-25,Tue,Matchweek 15,Away,W 4–1,Manchester City,Burnley,Y,LB,90,1,0,1,0,0,1,1,100.0,0,0,0,0,1,2,5,0,/en/matches/4d718594/Burnley-Manchester-City-December-3-2019-Premier-League
-11,2019-08-25,Sat,Matchweek 16,Home,L 1–2,Manchester City,Manchester Utd,Y,LB,90,3,1,2,1,0,3,3,100.0,0,0,0,0,2,5,2,0,/en/matches/bf9c0d50/Manchester-Derby-Manchester-City-Manchester-United-December-7-2019-Premier-League
-12,2019-08-25,Sun,Matchweek 17,Away,W 3–0,Manchester City,Arsenal,N,"On matchday squad, but did not play",/en/matches/bed05936/Arsenal-Manchester-City-December-15-2019-Premier-League,,,,,,,,,,,,,,,,,
-13,2019-08-25,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,2019-08-25,Fri,Matchweek 19,Away,L 2–3,Manchester City,Wolves,N,"On matchday squad, but did not play",/en/matches/6defd3a2/Wolverhampton-Wanderers-Manchester-City-December-27-2019-Premier-League,,,,,,,,,,,,,,,,,
-15,2019-08-25,,,,,,,,,,,,,,,,,,,,,,,,,,
-16,2019-08-25,Wed,Matchweek 21,Home,W 2–1,Manchester City,Everton,N,"On matchday squad, but did not play",/en/matches/ed58271e/Manchester-City-Everton-January-1-2020-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-09-14,Sat,PL2 — Div. 1,Matchweek 5,Home,L 1–2,Manchester City,Wolves,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/a3644dd2/Manchester-City-U23-Wolverhampton-Wanderers-U23-September-14-2019-Premier-League-2----Division-1
+1,2019-09-21,Sat,Premier League,Matchweek 6,Home,W 8–0,Manchester City,Watford,N,LB,45,0,0,0,0,0,0,1,0,44,0,2,0,0.0,0.0,0.6,3,0,30,39,76.9,3,36,0,1,1,/en/matches/4672d0d7/Manchester-City-Watford-September-21-2019-Premier-League
+2,2019-09-24,Tue,EFL Cup,Third round,Away,W 3–0,Manchester City,Preston,Y,LB,59,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/9965decf/Preston-North-End-Manchester-City-September-24-2019-EFL-Cup
+3,2019-10-26,Sat,Premier League,Matchweek 10,Home,W 3–0,Manchester City,Aston Villa,N,LB,18,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,7,7,100.0,0,6,1,1,1,/en/matches/e0a4db2d/Manchester-City-Aston-Villa-October-26-2019-Premier-League
+4,2019-10-29,Tue,EFL Cup,Fourth round,Home,W 3–1,Manchester City,Southampton,Y,LB,78,0,0,0,0,2,2,0,0,,,1,,,,,,,,,,,,,,,/en/matches/dc030e24/Manchester-City-Southampton-October-29-2019-EFL-Cup
+5,2019-11-02,Sat,Premier League,Matchweek 11,Home,W 2–1,Manchester City,Southampton,Y,LB,90,0,0,0,0,0,0,0,0,119,1,0,1,0.0,0.0,0.1,2,0,84,112,75.0,10,81,14,0,0,/en/matches/afbdd3aa/Manchester-City-Southampton-November-2-2019-Premier-League
+6,2019-11-10,Sun,Premier League,Matchweek 12,Away,L 1–3,Manchester City,Liverpool,Y,LB,90,0,0,0,0,1,0,0,0,96,0,3,0,0.1,0.1,0.6,5,0,56,81,69.1,14,62,1,2,2,/en/matches/47880eb7/Liverpool-Manchester-City-November-10-2019-Premier-League
+7,2019-11-26,Tue,Champions Lg,Group stage,Home,D 1–1,eng Manchester City,ua Shakhtar,Y,LB,90,0,0,0,0,1,0,0,0,88,3,1,0,0.0,0.0,0.1,4,0,70,82,85.4,5,67,2,1,0,/en/matches/0a820d21/Manchester-City-Shakhtar-Donetsk-November-26-2019-Champions-League
+8,2019-12-03,Tue,Premier League,Matchweek 15,Away,W 4–1,Manchester City,Burnley,Y,LB,90,0,0,0,0,2,0,0,0,106,1,1,0,0.1,0.1,0.2,4,0,76,95,80.0,8,72,3,1,0,/en/matches/4d718594/Burnley-Manchester-City-December-3-2019-Premier-League
+9,2019-12-07,Sat,Premier League,Matchweek 16,Home,L 1–2,Manchester City,Manchester Utd,Y,LB,90,0,0,0,0,2,0,0,0,104,3,2,0,0.1,0.1,0.0,1,0,80,95,84.2,6,76,2,0,0,/en/matches/bf9c0d50/Manchester-Derby-Manchester-City-Manchester-United-December-7-2019-Premier-League
+10,2019-12-18,Wed,EFL Cup,Quarter-finals,Away,W 3–1,Manchester City,Oxford United,Y,FW,61,0,1,0,0,2,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/870681ba/Oxford-United-Manchester-City-December-18-2019-EFL-Cup
+11,2020-01-04,Sat,FA Cup,Third round,Home,W 4–1,Manchester City,Port Vale,Y,LB,90,0,1,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c7efbaec/Manchester-City-Port-Vale-January-4-2020-FA-Cup
+12,2020-01-26,Sun,FA Cup,Fourth round,Home,W 4–0,Manchester City,Fulham,Y,LB,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/b1220a0a/Manchester-City-Fulham-January-26-2020-FA-Cup
+13,2020-02-04,Tue,DFB-Pokal,Round of 16,Away,L 1–3,RB Leipzig,Eint Frankfurt,Y,LB,90,0,1,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/1db48974/Eintracht-Frankfurt-RB-Leipzig-February-4-2020-DFB-Pokal
+14,2020-02-09,Sun,Bundesliga,Matchweek 21,Away,D 0–0,RB Leipzig,Bayern Munich,Y,LM,90,0,0,0,0,0,0,0,0,50,3,2,0,0.0,0.0,0.0,2,0,24,39,61.5,1,23,0,1,1,/en/matches/4dd9bb3c/Bayern-Munich-RB-Leipzig-February-9-2020-Bundesliga
+15,2020-02-15,Sat,Bundesliga,Matchweek 22,Home,W 3–0,RB Leipzig,Werder Bremen,Y,WB,90,0,0,0,0,0,0,0,0,62,0,4,1,0.0,0.0,0.5,3,0,36,53,67.9,4,27,0,1,1,/en/matches/769997f4/RB-Leipzig-Werder-Bremen-February-15-2020-Bundesliga
+16,2020-02-19,Wed,Champions Lg,Round of 16,Away,W 1–0,de RB Leipzig,eng Tottenham,Y,WB,90,0,0,0,0,2,1,0,0,66,0,0,2,0.1,0.1,0.3,3,0,41,57,71.9,5,33,1,4,4,/en/matches/a9417ce9/Tottenham-Hotspur-RB-Leipzig-February-19-2020-Champions-League
+17,2020-02-22,Sat,Bundesliga,Matchweek 23,Away,W 5–0,RB Leipzig,Schalke 04,Y,LW,90,1,0,0,0,1,1,0,0,61,2,0,2,0.1,0.1,0.0,5,1,41,51,80.4,4,28,5,4,4,/en/matches/1562bd6f/Schalke-04-RB-Leipzig-February-22-2020-Bundesliga
+18,2020-03-01,Sun,Bundesliga,Matchweek 24,Home,D 1–1,RB Leipzig,Leverkusen,Y,LW,90,0,0,0,0,1,0,0,0,67,1,5,2,0.1,0.1,0.0,2,0,30,53,56.6,3,28,2,2,1,/en/matches/db5fab48/RB-Leipzig-Bayer-Leverkusen-March-1-2020-Bundesliga
+19,2020-03-07,Sat,Bundesliga,Matchweek 25,Away,D 0–0,RB Leipzig,Wolfsburg,Y,LW,80,0,0,0,0,1,0,0,0,78,0,0,2,0.5,0.5,0.1,4,0,53,69,76.8,8,48,3,3,2,/en/matches/162165c6/Wolfsburg-RB-Leipzig-March-7-2020-Bundesliga
+20,2020-03-10,Tue,Champions Lg,Round of 16,Home,W 3–0,de RB Leipzig,eng Tottenham,Y,LM,90,0,1,0,0,0,0,0,0,61,1,0,0,0.0,0.0,0.0,2,1,36,50,72.0,3,31,1,0,0,/en/matches/cff3e534/RB-Leipzig-Tottenham-Hotspur-March-10-2020-Champions-League
+21,2020-05-16,Sat,Bundesliga,Matchweek 26,Home,D 1–1,RB Leipzig,Freiburg,Y,"LB,LW",90,0,0,0,0,0,0,0,0,97,1,2,0,0.0,0.0,0.0,2,0,60,86,69.8,6,46,2,1,0,/en/matches/aa34eab6/RB-Leipzig-Freiburg-May-16-2020-Bundesliga
+22,2020-05-27,Wed,Bundesliga,Matchweek 28,Home,D 2–2,RB Leipzig,Hertha BSC,N,"WB,LB",25,0,0,0,0,0,0,0,0,23,0,1,1,0.0,0.0,0.0,0,0,11,18,61.1,0,12,1,0,0,/en/matches/01d6794c/RB-Leipzig-Hertha-BSC-May-27-2020-Bundesliga
+23,2020-06-01,Mon,Bundesliga,Matchweek 29,Away,W 4–2,RB Leipzig,Köln,Y,LB,90,0,1,0,0,0,0,0,0,84,2,0,2,0.0,0.0,0.8,8,2,55,73,75.3,7,31,5,2,1,/en/matches/d6f7f65d/Koln-RB-Leipzig-June-1-2020-Bundesliga
+24,2020-06-06,Sat,Bundesliga,Matchweek 30,Home,D 1–1,RB Leipzig,Paderborn 07,Y,"WB,LB",90,0,0,0,0,0,0,0,0,65,2,0,0,0.0,0.0,0.1,5,0,50,60,83.3,6,28,1,1,1,/en/matches/ad41059f/RB-Leipzig-Paderborn-07-June-6-2020-Bundesliga
+25,2020-06-12,Fri,Bundesliga,Matchweek 31,Away,W 2–0,RB Leipzig,Hoffenheim,Y,LB,90,0,0,0,0,0,0,0,0,55,0,1,0,0.0,0.0,0.1,4,1,46,52,88.5,5,29,0,0,0,/en/matches/9baedf1d/Hoffenheim-RB-Leipzig-June-12-2020-Bundesliga
+26,2020-06-17,Wed,Bundesliga,Matchweek 32,Home,D 2–2,RB Leipzig,Düsseldorf,Y,LB,90,0,0,0,0,0,0,1,0,97,0,1,3,0.0,0.0,0.2,1,0,74,86,86.0,7,51,1,2,2,/en/matches/3e714fbb/RB-Leipzig-Dusseldorf-June-17-2020-Bundesliga
+27,2020-06-20,Sat,Bundesliga,Matchweek 33,Home,L 0–2,RB Leipzig,Dortmund,Y,"WB,LB",90,0,0,0,0,2,1,1,0,78,0,1,1,0.3,0.3,0.1,3,0,51,71,71.8,2,43,1,3,3,/en/matches/dc7bb415/RB-Leipzig-Dortmund-June-20-2020-Bundesliga
+28,2020-06-27,Sat,Bundesliga,Matchweek 34,Away,W 2–1,RB Leipzig,Augsburg,Y,WB,90,0,1,0,0,0,0,0,0,64,4,2,0,0.0,0.0,0.1,2,1,43,56,76.8,3,36,3,5,4,/en/matches/9736ccb4/Augsburg-RB-Leipzig-June-27-2020-Bundesliga
+29,2020-08-13,Thu,Champions Lg,Quarter-finals,Neutral,W 2–1,de RB Leipzig,es Atlético Madrid,Y,LB,90,0,1,0,0,0,0,0,0,67,0,3,0,0.0,0.0,0.1,3,1,46,64,71.9,6,50,4,1,1,/en/matches/d26a9dc9/RB-Leipzig-Atletico-Madrid-August-13-2020-Champions-League
+30,2020-08-18,Tue,Champions Lg,Semi-finals,Home,L 0–3,de RB Leipzig,fr Paris S-G,Y,"LB,WB",90,0,0,0,0,1,1,0,0,77,1,2,1,0.0,0.0,0.1,3,0,45,65,69.2,4,33,3,1,0,/en/matches/2e7e3a56/RB-Leipzig-Paris-Saint-Germain-August-18-2020-Champions-League

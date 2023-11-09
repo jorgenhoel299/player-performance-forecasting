@@ -1,31 +1,21 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2020-10-24,Sun,Matchweek 8,Away,D 1–1,Liverpool,Manchester City,N,"On matchday squad, but did not play",/en/matches/26382194/Manchester-City-Liverpool-November-8-2020-Premier-League,,,,,,,,,,,,,,,,,
-1,2020-10-24,Sun,Matchweek 9,Home,W 3–0,Liverpool,Leicester City,N,"On matchday squad, but did not play",/en/matches/cc230451/Liverpool-Leicester-City-November-22-2020-Premier-League,,,,,,,,,,,,,,,,,
-2,2020-10-24,Sat,Matchweek 10,Away,D 1–1,Liverpool,Brighton,Y,CB,90,4,3,4,0,0,3,3,100.0,0,1,1,0,2,6,4,0,/en/matches/31baf354/Brighton-and-Hove-Albion-Liverpool-November-28-2020-Premier-League
-3,2020-10-24,Sun,Matchweek 11,Home,W 4–0,Liverpool,Wolves,N,"On matchday squad, but did not play",/en/matches/25249736/Liverpool-Wolverhampton-Wanderers-December-6-2020-Premier-League,,,,,,,,,,,,,,,,,
-4,2020-10-24,Sun,Matchweek 12,Away,D 1–1,Liverpool,Fulham,N,"On matchday squad, but did not play",/en/matches/5abb0bd1/Fulham-Liverpool-December-13-2020-Premier-League,,,,,,,,,,,,,,,,,
-5,2020-10-24,Wed,Matchweek 13,Home,W 2–1,Liverpool,Tottenham,N,"On matchday squad, but did not play",/en/matches/966f86fe/Liverpool-Tottenham-Hotspur-December-16-2020-Premier-League,,,,,,,,,,,,,,,,,
-6,2020-10-24,Sat,Matchweek 14,Away,W 7–0,Liverpool,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/d05715a8/Crystal-Palace-Liverpool-December-19-2020-Premier-League,,,,,,,,,,,,,,,,,
-7,2020-10-24,Sun,Matchweek 15,Home,D 1–1,Liverpool,West Brom,N,"On matchday squad, but did not play",/en/matches/daa09f69/Liverpool-West-Bromwich-Albion-December-27-2020-Premier-League,,,,,,,,,,,,,,,,,
-8,2020-10-24,Wed,Matchweek 16,Away,D 0–0,Liverpool,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,1,0.0,1,1,1,0,1,1,2,0,/en/matches/385cda3f/Newcastle-United-Liverpool-December-30-2020-Premier-League
-9,2020-10-24,Mon,Matchweek 17,Away,L 0–1,Liverpool,Southampton,N,"On matchday squad, but did not play",/en/matches/d0482032/Southampton-Liverpool-January-4-2021-Premier-League,,,,,,,,,,,,,,,,,
-10,2020-10-24,Sun,Matchweek 19,Home,D 0–0,Liverpool,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/7e1384ef/North-West-Derby-Liverpool-Manchester-United-January-17-2021-Premier-League,,,,,,,,,,,,,,,,,
-11,2020-10-24,Thu,Matchweek 18,Home,L 0–1,Liverpool,Burnley,N,"On matchday squad, but did not play",/en/matches/787d11cc/Liverpool-Burnley-January-21-2021-Premier-League,,,,,,,,,,,,,,,,,
-12,2020-10-24,Thu,Matchweek 20,Away,W 3–1,Liverpool,Tottenham,N,CB,45,2,2,2,0,0,2,2,100.0,0,0,0,0,1,3,2,0,/en/matches/17bac3d1/Tottenham-Hotspur-Liverpool-January-28-2021-Premier-League
-13,2020-10-24,Sun,Matchweek 21,Away,W 3–1,Liverpool,West Ham,Y,CB,90,1,1,1,0,0,1,2,50.0,1,1,1,0,0,1,4,0,/en/matches/3de3a736/West-Ham-United-Liverpool-January-31-2021-Premier-League
-14,2020-10-24,Wed,Matchweek 22,Home,L 0–1,Liverpool,Brighton,Y,CB,90,0,0,0,0,0,0,0,,0,0,0,0,2,2,6,0,/en/matches/314c860f/Liverpool-Brighton-and-Hove-Albion-February-3-2021-Premier-League
-15,2020-10-24,Sun,Matchweek 23,Home,L 1–4,Liverpool,Manchester City,N,"On matchday squad, but did not play",/en/matches/e044d71d/Liverpool-Manchester-City-February-7-2021-Premier-League,,,,,,,,,,,,,,,,,
-16,2020-10-24,Sat,Matchweek 24,Away,L 1–3,Liverpool,Leicester City,N,"On matchday squad, but did not play",/en/matches/666f6961/Leicester-City-Liverpool-February-13-2021-Premier-League,,,,,,,,,,,,,,,,,
-17,2020-10-24,Sat,Matchweek 25,Home,L 0–2,Liverpool,Everton,N,CB,61,2,0,2,0,0,1,1,100.0,0,0,0,0,1,3,3,0,/en/matches/e4ac45fb/Merseyside-Derby-Liverpool-Everton-February-20-2021-Premier-League
-18,2020-10-24,Sun,Matchweek 26,Away,W 2–0,Liverpool,Sheffield Utd,Y,CB,90,1,1,0,1,0,0,3,0.0,3,3,2,1,0,1,1,0,/en/matches/3826d9aa/Sheffield-United-Liverpool-February-28-2021-Premier-League
-19,2020-10-24,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,2020-10-24,Sun,Matchweek 27,Home,L 0–1,Liverpool,Fulham,Y,CB,90,0,0,0,0,0,0,2,0.0,2,2,1,1,2,2,2,0,/en/matches/5826a836/Liverpool-Fulham-March-7-2021-Premier-League
-21,2020-10-24,Mon,Matchweek 28,Away,W 1–0,Liverpool,Wolves,Y,CB,90,0,0,0,0,0,0,0,,0,3,3,0,2,2,6,0,/en/matches/ad3063c2/Wolverhampton-Wanderers-Liverpool-March-15-2021-Premier-League
-22,2020-10-24,Sat,Matchweek 30,Away,W 3–0,Liverpool,Arsenal,Y,CB,90,2,0,0,2,0,0,0,,0,1,1,0,2,4,5,0,/en/matches/562d1981/Arsenal-Liverpool-April-3-2021-Premier-League
-23,2020-10-24,Sat,Matchweek 31,Home,W 2–1,Liverpool,Aston Villa,Y,CB,90,2,2,2,0,0,0,1,0.0,1,0,0,0,0,2,7,0,/en/matches/20bdebdc/Liverpool-Aston-Villa-April-10-2021-Premier-League
-24,2020-10-24,,,,,,,,,,,,,,,,,,,,,,,,,,
-25,2020-10-24,Sat,Matchweek 35,Home,W 2–0,Liverpool,Southampton,Y,CB,90,0,0,0,0,0,0,0,,0,0,0,0,1,1,5,0,/en/matches/e5923f92/Liverpool-Southampton-May-8-2021-Premier-League
-26,2020-10-24,Thu,Matchweek 34,Away,W 4–2,Liverpool,Manchester Utd,Y,CB,90,2,1,1,1,0,1,2,50.0,1,3,2,1,0,2,6,0,/en/matches/9f0275a4/North-West-Derby-Manchester-United-Liverpool-May-13-2021-Premier-League
-27,2020-10-24,Sun,Matchweek 36,Away,W 2–1,Liverpool,West Brom,Y,CB,90,2,1,0,2,0,1,2,50.0,1,0,0,0,3,5,7,0,/en/matches/6a834f6e/West-Bromwich-Albion-Liverpool-May-16-2021-Premier-League
-28,2020-10-24,Wed,Matchweek 37,Away,W 3–0,Liverpool,Burnley,Y,CB,90,3,2,3,0,0,2,3,66.7,1,2,2,0,0,3,9,0,/en/matches/33d72496/Burnley-Liverpool-May-19-2021-Premier-League
-29,2020-10-24,Sun,Matchweek 38,Home,W 2–0,Liverpool,Crystal Palace,Y,CB,90,1,1,0,1,0,0,1,0.0,1,0,0,0,1,2,3,0,/en/matches/c2fc07f0/Liverpool-Crystal-Palace-May-23-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-10-31,Sat,Premier League,Matchweek 7,Home,W 2–1,Liverpool,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,96,0,2,0,0.0,0.0,0.0,1,0,67,83,80.7,4,62,1,0,0,/en/matches/56ad8025/Liverpool-West-Ham-United-October-31-2020-Premier-League
+1,2020-11-28,Sat,Premier League,Matchweek 10,Away,D 1–1,Liverpool,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,67,4,2,1,0.0,0.0,0.0,0,0,44,55,80.0,6,39,0,0,0,/en/matches/31baf354/Brighton-and-Hove-Albion-Liverpool-November-28-2020-Premier-League
+2,2020-12-30,Wed,Premier League,Matchweek 16,Away,D 0–0,Liverpool,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,1,0,96,0,1,1,0.0,0.0,0.0,1,0,75,89,84.3,3,50,0,0,0,/en/matches/385cda3f/Newcastle-United-Liverpool-December-30-2020-Premier-League
+3,2021-01-28,Thu,Premier League,Matchweek 20,Away,W 3–1,Liverpool,Tottenham,N,CB,45,0,0,0,0,0,0,1,0,24,2,1,0,0.0,0.0,0.0,0,0,17,20,85.0,0,15,0,0,0,/en/matches/17bac3d1/Tottenham-Hotspur-Liverpool-January-28-2021-Premier-League
+4,2021-01-31,Sun,Premier League,Matchweek 21,Away,W 3–1,Liverpool,West Ham,Y,CB,90,0,0,0,0,0,0,0,0,83,1,0,1,0.0,0.0,0.0,1,0,65,76,85.5,7,60,1,1,1,/en/matches/3de3a736/West-Ham-United-Liverpool-January-31-2021-Premier-League
+5,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 0–1,Liverpool,Brighton,Y,CB,90,0,0,0,0,0,0,0,0,75,0,2,0,0.0,0.0,0.0,0,0,56,65,86.2,2,47,0,0,0,/en/matches/314c860f/Liverpool-Brighton-and-Hove-Albion-February-3-2021-Premier-League
+6,2021-02-20,Sat,Premier League,Matchweek 25,Home,L 0–2,Liverpool,Everton,N,CB,61,0,0,0,0,2,0,0,0,73,2,1,0,0.1,0.1,0.0,0,0,57,64,89.1,3,47,0,0,0,/en/matches/e4ac45fb/Merseyside-Derby-Liverpool-Everton-February-20-2021-Premier-League
+7,2021-02-28,Sun,Premier League,Matchweek 26,Away,W 2–0,Liverpool,Sheffield Utd,Y,CB,90,0,0,0,0,1,0,0,0,82,1,0,3,0.1,0.1,0.0,0,0,60,73,82.2,0,49,0,0,0,/en/matches/3826d9aa/Sheffield-United-Liverpool-February-28-2021-Premier-League
+8,2021-03-07,Sun,Premier League,Matchweek 27,Home,L 0–1,Liverpool,Fulham,Y,CB,90,0,0,0,0,2,0,0,0,115,0,2,2,0.1,0.1,0.0,2,0,86,102,84.3,10,77,1,0,0,/en/matches/5826a836/Liverpool-Fulham-March-7-2021-Premier-League
+9,2021-03-10,Wed,Champions Lg,Round of 16,Home,W 2–0,eng Liverpool,de RB Leipzig,Y,CB,90,0,0,0,0,0,0,0,0,57,3,0,0,0.0,0.0,0.0,0,0,34,48,70.8,5,18,0,0,0,/en/matches/0120c1ad/Liverpool-RB-Leipzig-March-10-2021-Champions-League
+10,2021-03-15,Mon,Premier League,Matchweek 28,Away,W 1–0,Liverpool,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,57,0,2,3,0.0,0.0,0.0,0,0,34,44,77.3,2,28,0,0,0,/en/matches/ad3063c2/Wolverhampton-Wanderers-Liverpool-March-15-2021-Premier-League
+11,2021-04-03,Sat,Premier League,Matchweek 30,Away,W 3–0,Liverpool,Arsenal,Y,CB,90,0,0,0,0,0,0,0,0,101,2,2,1,0.0,0.0,0.0,0,0,79,91,86.8,5,66,1,0,0,/en/matches/562d1981/Arsenal-Liverpool-April-3-2021-Premier-League
+12,2021-04-06,Tue,Champions Lg,Quarter-finals,Away,L 1–3,eng Liverpool,es Real Madrid,Y,CB,90,0,0,0,0,0,0,0,0,86,2,2,5,0.0,0.0,0.0,0,0,63,71,88.7,5,48,0,0,0,/en/matches/70748c34/Real-Madrid-Liverpool-April-6-2021-Champions-League
+13,2021-04-10,Sat,Premier League,Matchweek 31,Home,W 2–1,Liverpool,Aston Villa,Y,CB,90,0,0,0,0,1,1,0,0,83,2,0,0,0.1,0.1,0.2,4,0,62,72,86.1,4,41,0,0,0,/en/matches/20bdebdc/Liverpool-Aston-Villa-April-10-2021-Premier-League
+14,2021-04-14,Wed,Champions Lg,Quarter-finals,Home,D 0–0,eng Liverpool,es Real Madrid,Y,CB,90,0,0,0,0,2,0,1,0,75,0,4,3,0.1,0.1,0.0,0,0,55,64,85.9,11,38,2,0,0,/en/matches/1af472a2/Liverpool-Real-Madrid-April-14-2021-Champions-League
+15,2021-05-08,Sat,Premier League,Matchweek 35,Home,W 2–0,Liverpool,Southampton,Y,CB,90,0,0,0,0,2,0,0,0,71,0,1,0,0.1,0.1,0.0,0,0,54,60,90.0,3,44,0,1,1,/en/matches/e5923f92/Liverpool-Southampton-May-8-2021-Premier-League
+16,2021-05-13,Thu,Premier League,Matchweek 34,Away,W 4–2,Liverpool,Manchester Utd,Y,CB,90,0,1,0,0,1,0,0,0,72,2,0,3,0.0,0.0,0.2,2,1,46,55,83.6,0,37,1,0,0,/en/matches/9f0275a4/North-West-Derby-Manchester-United-Liverpool-May-13-2021-Premier-League
+17,2021-05-16,Sun,Premier League,Matchweek 36,Away,W 2–1,Liverpool,West Brom,Y,CB,90,0,0,0,0,2,0,0,0,76,2,3,0,0.1,0.1,0.1,1,0,53,60,88.3,3,38,4,0,0,/en/matches/6a834f6e/West-Bromwich-Albion-Liverpool-May-16-2021-Premier-League
+18,2021-05-19,Wed,Premier League,Matchweek 37,Away,W 3–0,Liverpool,Burnley,Y,CB,90,1,0,0,0,3,1,0,0,66,3,0,2,0.2,0.2,0.0,0,0,38,48,79.2,2,29,0,0,0,/en/matches/33d72496/Burnley-Liverpool-May-19-2021-Premier-League
+19,2021-05-23,Sun,Premier League,Matchweek 38,Home,W 2–0,Liverpool,Crystal Palace,Y,CB,90,0,0,0,0,1,0,0,0,77,1,1,0,0.1,0.1,0.0,0,0,55,70,78.6,1,45,0,0,0,/en/matches/c2fc07f0/Liverpool-Crystal-Palace-May-23-2021-Premier-League

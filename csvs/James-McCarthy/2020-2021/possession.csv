@@ -1,27 +1,21 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
-0,2020-09-12,Sat,Matchweek 3,Home,L 1–2,Crystal Palace,Everton,Y,CM,90,63,1,10,46,8,0,63,0,0,,0,,28,94,40,0,1,0,2,0,32,1,/en/matches/7387a72e/Crystal-Palace-Everton-September-26-2020-Premier-League
-1,2020-09-12,Sat,Matchweek 4,Away,L 0–4,Crystal Palace,Chelsea,Y,CM,66,30,2,10,17,3,0,30,1,1,100.0,0,0.0,15,67,36,0,0,0,0,0,14,0,/en/matches/d97aa1b5/Chelsea-Crystal-Palace-October-3-2020-Premier-League
-2,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2020-09-12,Sat,Matchweek 8,Home,W 4–1,Crystal Palace,Leeds United,N,CM,14,11,2,4,6,1,0,11,0,0,,0,,5,25,2,0,0,0,0,0,4,0,/en/matches/527aee54/Crystal-Palace-Leeds-United-November-7-2020-Premier-League
-4,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2020-09-12,Sat,Matchweek 14,Home,L 0–7,Crystal Palace,Liverpool,N,"On matchday squad, but did not play",/en/matches/d05715a8/Crystal-Palace-Liverpool-December-19-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-6,2020-09-12,Sat,Matchweek 15,Away,L 0–3,Crystal Palace,Aston Villa,N,"On matchday squad, but did not play",/en/matches/537b6ef8/Aston-Villa-Crystal-Palace-December-26-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-7,2020-09-12,Mon,Matchweek 16,Home,D 1–1,Crystal Palace,Leicester City,N,"On matchday squad, but did not play",/en/matches/77437741/Crystal-Palace-Leicester-City-December-28-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-8,2020-09-12,Sat,Matchweek 17,Home,W 2–0,Crystal Palace,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/84a373f5/Crystal-Palace-Sheffield-United-January-2-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-9,2020-09-12,Thu,Matchweek 18,Away,D 0–0,Crystal Palace,Arsenal,N,CM,2,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0,/en/matches/0476b43a/Arsenal-Crystal-Palace-January-14-2021-Premier-League
-10,2020-09-12,Sun,Matchweek 19,Away,L 0–4,Crystal Palace,Manchester City,Y,CM,90,23,5,10,10,3,0,23,0,0,,0,,11,34,4,0,0,0,1,0,14,0,/en/matches/15d2f67c/Manchester-City-Crystal-Palace-January-17-2021-Premier-League
-11,2020-09-12,Tue,Matchweek 20,Home,L 2–3,Crystal Palace,West Ham,N,"On matchday squad, but did not play",/en/matches/aab6365d/Crystal-Palace-West-Ham-United-January-26-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-12,2020-09-12,Sat,Matchweek 21,Home,W 1–0,Crystal Palace,Wolves,Y,DM,45,49,0,8,38,3,0,49,0,0,,0,,41,153,90,0,2,0,0,0,39,0,/en/matches/111bd050/Crystal-Palace-Wolverhampton-Wanderers-January-30-2021-Premier-League
-13,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,2020-09-12,Mon,Matchweek 25,Away,W 2–1,Crystal Palace,Brighton,N,LM,1,3,0,1,2,0,0,3,0,0,,0,,0,0,0,0,0,0,0,0,1,0,/en/matches/86f378b6/Brighton-and-Hove-Albion-Crystal-Palace-February-22-2021-Premier-League
-15,2020-09-12,Sun,Matchweek 26,Home,D 0–0,Crystal Palace,Fulham,N,DM,12,7,1,2,5,0,0,7,0,0,,0,,4,13,3,0,0,0,0,0,2,0,/en/matches/2d530fe3/Crystal-Palace-Fulham-February-28-2021-Premier-League
-16,2020-09-12,Wed,Matchweek 29,Home,D 0–0,Crystal Palace,Manchester Utd,Y,CM,61,34,2,11,22,1,0,34,0,0,,0,,14,35,8,0,0,0,0,0,22,0,/en/matches/aecb46ac/Crystal-Palace-Manchester-United-March-3-2021-Premier-League
-17,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18,2020-09-12,Sat,Matchweek 31,Home,L 1–4,Crystal Palace,Chelsea,N,CM,32,18,3,5,10,3,0,18,0,0,,0,,6,10,3,0,0,0,0,0,9,0,/en/matches/54b07679/Crystal-Palace-Chelsea-April-10-2021-Premier-League
-19,2020-09-12,Mon,Matchweek 33,Away,L 1–2,Crystal Palace,Leicester City,N,CM,8,3,1,2,1,0,0,3,0,0,,0,,1,2,0,0,0,0,0,0,1,0,/en/matches/b30b8887/Leicester-City-Crystal-Palace-April-26-2021-Premier-League
-20,2020-09-12,Sat,Matchweek 34,Home,L 0–2,Crystal Palace,Manchester City,N,"On matchday squad, but did not play",/en/matches/bf22075a/Crystal-Palace-Manchester-City-May-1-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-21,2020-09-12,Sat,Matchweek 35,Away,W 2–0,Crystal Palace,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/02c409c1/Sheffield-United-Crystal-Palace-May-8-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-22,2020-09-12,Tue,Matchweek 32,Away,L 1–3,Crystal Palace,Southampton,N,"On matchday squad, but did not play",/en/matches/5e4ec091/Southampton-Crystal-Palace-May-11-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-23,2020-09-12,Sun,Matchweek 36,Home,W 3–2,Crystal Palace,Aston Villa,Y,CM,72,39,4,8,25,6,1,39,0,0,,0,,10,58,16,0,1,0,1,0,20,1,/en/matches/7b21d5b9/Crystal-Palace-Aston-Villa-May-16-2021-Premier-League
-24,2020-09-12,Wed,Matchweek 37,Home,L 1–3,Crystal Palace,Arsenal,Y,CM,81,27,0,5,18,5,0,27,0,0,,0,,16,110,68,1,0,0,0,1,16,0,/en/matches/624e6758/Crystal-Palace-Arsenal-May-19-2021-Premier-League
-25,2020-09-12,Sun,Matchweek 38,Away,L 0–2,Crystal Palace,Liverpool,Y,CM,87,39,5,17,20,2,0,39,1,0,0.0,1,100.0,14,32,8,0,0,0,1,0,16,1,/en/matches/c2fc07f0/Liverpool-Crystal-Palace-May-23-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-03,Thu,UEFA Nations League,League B,Away,D 1–1,ie Rep. of Ireland,bg Bulgaria,Y,CM,69,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/5c9256f8/Bulgaria-Republic-of-Ireland-September-3-2020-UEFA-Nations-League
+1,2020-09-12,Sat,Premier League,Matchweek 1,Home,W 1–0,Crystal Palace,Southampton,Y,CM,73,0,0,0,0,0,0,1,0,29,1,2,1,0.0,0.0,0.0,1,1,14,23,60.9,2,4,0,0,0,/en/matches/db261cb0/Crystal-Palace-Southampton-September-12-2020-Premier-League
+2,2020-09-19,Sat,Premier League,Matchweek 2,Away,W 3–1,Crystal Palace,Manchester Utd,Y,CM,87,0,0,0,0,0,0,0,0,44,2,1,4,0.0,0.0,0.0,0,0,20,32,62.5,2,12,0,1,1,/en/matches/97279323/Manchester-United-Crystal-Palace-September-19-2020-Premier-League
+3,2020-09-26,Sat,Premier League,Matchweek 3,Home,L 1–2,Crystal Palace,Everton,Y,CM,90,0,0,0,0,1,0,0,0,63,4,1,1,0.0,0.0,0.0,1,0,35,48,72.9,2,28,0,0,0,/en/matches/7387a72e/Crystal-Palace-Everton-September-26-2020-Premier-League
+4,2020-10-03,Sat,Premier League,Matchweek 4,Away,L 0–4,Crystal Palace,Chelsea,Y,CM,66,0,0,0,0,0,0,0,0,30,1,1,1,0.0,0.0,0.0,1,0,14,25,56.0,1,15,0,1,1,/en/matches/d97aa1b5/Chelsea-Crystal-Palace-October-3-2020-Premier-League
+5,2020-10-08,Thu,UEFA Euro Qualifying,Semi-finals,Away,D 0 (2)–0 (4),ie Rep. of Ireland,sk Slovakia,Y,DM,59,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c6c9cf16/Slovakia-Republic-of-Ireland-October-8-2020-UEFA-Euro-Qualifying
+6,2020-11-07,Sat,Premier League,Matchweek 8,Home,W 4–1,Crystal Palace,Leeds United,N,CM,14,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,1,0,7,7,100.0,1,5,0,0,0,/en/matches/527aee54/Crystal-Palace-Leeds-United-November-7-2020-Premier-League
+7,2020-12-21,Mon,PL2 — Div. 2,Matchweek 12,Home,W 3–0,Crystal Palace,Newcastle Utd,Y,DM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/0b79f6d6/Crystal-Palace-U23-Newcastle-United-U23-December-21-2020-Premier-League-2----Division-2
+8,2021-01-08,Fri,FA Cup,Third round proper,Away,L 0–1,Crystal Palace,Wolves,Y,CM,69,0,0,0,0,1,0,1,0,,,1,,,,,,,,,,,,,,,/en/matches/2e19090f/Wolverhampton-Wanderers-Crystal-Palace-January-8-2021-FA-Cup
+9,2021-01-14,Thu,Premier League,Matchweek 18,Away,D 0–0,Crystal Palace,Arsenal,N,CM,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,/en/matches/0476b43a/Arsenal-Crystal-Palace-January-14-2021-Premier-League
+10,2021-01-17,Sun,Premier League,Matchweek 19,Away,L 0–4,Crystal Palace,Manchester City,Y,CM,90,0,0,0,0,0,0,0,0,23,0,1,2,0.0,0.0,0.0,0,0,11,16,68.8,0,11,0,0,0,/en/matches/15d2f67c/Manchester-City-Crystal-Palace-January-17-2021-Premier-League
+11,2021-01-30,Sat,Premier League,Matchweek 21,Home,W 1–0,Crystal Palace,Wolves,Y,DM,45,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,43,46,93.5,5,41,0,0,0,/en/matches/111bd050/Crystal-Palace-Wolverhampton-Wanderers-January-30-2021-Premier-League
+12,2021-02-22,Mon,Premier League,Matchweek 25,Away,W 2–1,Crystal Palace,Brighton,N,LM,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,0,0,0,0,/en/matches/86f378b6/Brighton-and-Hove-Albion-Crystal-Palace-February-22-2021-Premier-League
+13,2021-02-28,Sun,Premier League,Matchweek 26,Home,D 0–0,Crystal Palace,Fulham,N,DM,12,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,4,0,0,0,/en/matches/2d530fe3/Crystal-Palace-Fulham-February-28-2021-Premier-League
+14,2021-03-03,Wed,Premier League,Matchweek 29,Home,D 0–0,Crystal Palace,Manchester Utd,Y,CM,61,0,0,0,0,0,0,0,0,34,1,0,2,0.0,0.0,0.1,1,0,24,27,88.9,2,14,0,0,0,/en/matches/aecb46ac/Crystal-Palace-Manchester-United-March-3-2021-Premier-League
+15,2021-04-10,Sat,Premier League,Matchweek 31,Home,L 1–4,Crystal Palace,Chelsea,N,CM,32,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,13,17,76.5,0,6,0,0,0,/en/matches/54b07679/Crystal-Palace-Chelsea-April-10-2021-Premier-League
+16,2021-04-26,Mon,Premier League,Matchweek 33,Away,L 1–2,Crystal Palace,Leicester City,N,CM,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0,/en/matches/b30b8887/Leicester-City-Crystal-Palace-April-26-2021-Premier-League
+17,2021-05-16,Sun,Premier League,Matchweek 36,Home,W 3–2,Crystal Palace,Aston Villa,Y,CM,72,0,0,0,0,0,0,0,0,39,1,1,1,0.0,0.0,0.0,3,0,30,33,90.9,3,10,0,0,0,/en/matches/7b21d5b9/Crystal-Palace-Aston-Villa-May-16-2021-Premier-League
+18,2021-05-19,Wed,Premier League,Matchweek 37,Home,L 1–3,Crystal Palace,Arsenal,Y,CM,81,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.1,2,0,17,23,73.9,4,16,1,0,0,/en/matches/624e6758/Crystal-Palace-Arsenal-May-19-2021-Premier-League
+19,2021-05-23,Sun,Premier League,Matchweek 38,Away,L 0–2,Crystal Palace,Liverpool,Y,CM,87,0,0,0,0,0,0,0,0,39,3,1,2,0.0,0.0,0.1,1,0,21,32,65.6,5,14,0,1,0,/en/matches/c2fc07f0/Liverpool-Crystal-Palace-May-23-2021-Premier-League

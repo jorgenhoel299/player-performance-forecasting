@@ -1,35 +1,16 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,2020-09-14,Sat,Matchweek 3,Away,D 3–3,Chelsea,West Brom,N,"On matchday squad, but did not play",/en/matches/d725a16c/West-Bromwich-Albion-Chelsea-September-26-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-09-14,Sat,Matchweek 4,Home,W 4–0,Chelsea,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/d97aa1b5/Chelsea-Crystal-Palace-October-3-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,2020-09-14,Sat,Matchweek 5,Home,D 3–3,Chelsea,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,17,0,0,0,/en/matches/9bd558f5/Chelsea-Southampton-October-17-2020-Premier-League
-3,2020-09-14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,2020-09-14,Sat,Matchweek 9,Away,W 2–0,Chelsea,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/dbcba6c6/Newcastle-United-Chelsea-November-21-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2020-09-14,Sun,Matchweek 10,Home,D 0–0,Chelsea,Tottenham,N,"On matchday squad, but did not play",/en/matches/58306243/Chelsea-Tottenham-Hotspur-November-29-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2020-09-14,Sat,Matchweek 11,Home,W 3–1,Chelsea,Leeds United,N,"On matchday squad, but did not play",/en/matches/419abbc0/Chelsea-Leeds-United-December-5-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,2020-09-14,Sat,Matchweek 12,Away,L 0–1,Chelsea,Everton,N,"On matchday squad, but did not play",/en/matches/4847e3c3/Everton-Chelsea-December-12-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2020-09-14,Tue,Matchweek 13,Away,L 1–2,Chelsea,Wolves,N,"On matchday squad, but did not play",/en/matches/20bd0665/Wolverhampton-Wanderers-Chelsea-December-15-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-9,2020-09-14,Mon,Matchweek 14,Home,W 3–0,Chelsea,West Ham,N,"On matchday squad, but did not play",/en/matches/9a718e42/Chelsea-West-Ham-United-December-21-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,2020-09-14,Sat,Matchweek 15,Away,L 1–3,Chelsea,Arsenal,N,"On matchday squad, but did not play",/en/matches/c5de8a0c/North-West-London-Derby-Arsenal-Chelsea-December-26-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-11,2020-09-14,Mon,Matchweek 16,Home,D 1–1,Chelsea,Aston Villa,N,"On matchday squad, but did not play",/en/matches/ac7d1071/Chelsea-Aston-Villa-December-28-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-12,2020-09-14,Sun,Matchweek 17,Home,L 1–3,Chelsea,Manchester City,N,"On matchday squad, but did not play",/en/matches/85507602/Chelsea-Manchester-City-January-3-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-13,2020-09-14,Sat,Matchweek 19,Away,W 1–0,Chelsea,Fulham,N,"On matchday squad, but did not play",/en/matches/714c642d/Fulham-Chelsea-January-16-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,2020-09-14,Tue,Matchweek 18,Away,L 0–2,Chelsea,Leicester City,N,"On matchday squad, but did not play",/en/matches/8467b110/Leicester-City-Chelsea-January-19-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-15,2020-09-14,Wed,Matchweek 20,Home,D 0–0,Chelsea,Wolves,N,"On matchday squad, but did not play",/en/matches/42eeae0e/Chelsea-Wolverhampton-Wanderers-January-27-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-16,2020-09-14,Sun,Matchweek 21,Home,W 2–0,Chelsea,Burnley,N,"On matchday squad, but did not play",/en/matches/3372f3f3/Chelsea-Burnley-January-31-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-17,2020-09-14,Thu,Matchweek 22,Away,W 1–0,Chelsea,Tottenham,N,"On matchday squad, but did not play",/en/matches/7d98a679/Tottenham-Hotspur-Chelsea-February-4-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-18,2020-09-14,Sun,Matchweek 23,Away,W 2–1,Chelsea,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/d3467620/Sheffield-United-Chelsea-February-7-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-19,2020-09-14,Mon,Matchweek 24,Home,W 2–0,Chelsea,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,26,34,76.5,0,19,0,0,0,/en/matches/dd033287/Chelsea-Newcastle-United-February-15-2021-Premier-League
-20,2020-09-14,Sat,Matchweek 25,Away,D 1–1,Chelsea,Southampton,N,"On matchday squad, but did not play",/en/matches/9e4c8c99/Southampton-Chelsea-February-20-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-21,2020-09-14,Sun,Matchweek 26,Home,D 0–0,Chelsea,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/9ba4df6a/Chelsea-Manchester-United-February-28-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-22,2020-09-14,Thu,Matchweek 29,Away,W 1–0,Chelsea,Liverpool,N,"On matchday squad, but did not play",/en/matches/86920e88/Liverpool-Chelsea-March-4-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-23,2020-09-14,Mon,Matchweek 27,Home,W 2–0,Chelsea,Everton,N,"On matchday squad, but did not play",/en/matches/7e4a240e/Chelsea-Everton-March-8-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-24,2020-09-14,Sat,Matchweek 28,Away,D 0–0,Chelsea,Leeds United,N,"On matchday squad, but did not play",/en/matches/a711769f/Leeds-United-Chelsea-March-13-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-25,2020-09-14,Sat,Matchweek 30,Home,L 2–5,Chelsea,West Brom,N,"On matchday squad, but did not play",/en/matches/c5d6a493/Chelsea-West-Bromwich-Albion-April-3-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-26,2020-09-14,Sat,Matchweek 31,Away,W 4–1,Chelsea,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/54b07679/Crystal-Palace-Chelsea-April-10-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-27,2020-09-14,Tue,Matchweek 32,Home,D 0–0,Chelsea,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,48,55,87.3,0,36,0,0,0,/en/matches/07b4e58b/Chelsea-Brighton-and-Hove-Albion-April-20-2021-Premier-League
-28,2020-09-14,Sat,Matchweek 33,Away,W 1–0,Chelsea,West Ham,N,"On matchday squad, but did not play",/en/matches/ea1579bb/West-Ham-United-Chelsea-April-24-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-29,2020-09-14,Sat,Matchweek 34,Home,W 2–0,Chelsea,Fulham,N,"On matchday squad, but did not play",/en/matches/44d49bd5/Chelsea-Fulham-May-1-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-30,2020-09-14,Sat,Matchweek 35,Away,W 2–1,Chelsea,Manchester City,N,"On matchday squad, but did not play",/en/matches/b657d658/Manchester-City-Chelsea-May-8-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-31,2020-09-14,Wed,Matchweek 36,Home,L 0–1,Chelsea,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,2,0,38,40,95.0,1,25,0,0,0,/en/matches/51632a55/North-West-London-Derby-Chelsea-Arsenal-May-12-2021-Premier-League
-32,2020-09-14,Tue,Matchweek 37,Home,W 2–1,Chelsea,Leicester City,N,"On matchday squad, but did not play",/en/matches/509c9927/Chelsea-Leicester-City-May-18-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-33,2020-09-14,Sun,Matchweek 38,Away,L 1–2,Chelsea,Aston Villa,N,GK,45,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,2,0,0,0,/en/matches/0143966a/Aston-Villa-Chelsea-May-23-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-14,Mon,Premier League,Matchweek 1,Away,W 3–1,Chelsea,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,16,28,57.1,0,15,0,0,0,/en/matches/9d7641eb/Brighton-and-Hove-Albion-Chelsea-September-14-2020-Premier-League
+1,2020-09-20,Sun,Premier League,Matchweek 2,Home,L 0–2,Chelsea,Liverpool,Y,GK,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,1,0,43,50,86.0,0,31,0,0,0,/en/matches/c64e5792/Chelsea-Liverpool-September-20-2020-Premier-League
+2,2020-10-07,Wed,Friendlies (M),Friendlies (M),Away,D 0–0,es Spain,pt Portugal,Y,GK,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/9f6476d0/Portugal-Spain-October-7-2020-Friendlies-M
+3,2020-10-17,Sat,Premier League,Matchweek 5,Home,D 3–3,Chelsea,Southampton,Y,GK,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,17,0,0,0,/en/matches/9bd558f5/Chelsea-Southampton-October-17-2020-Premier-League
+4,2020-12-08,Tue,Champions Lg,Group stage,Home,D 1–1,eng Chelsea,ru Krasnodar,Y,GK,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,22,25,88.0,0,14,0,0,0,/en/matches/58e872f7/Chelsea-Krasnodar-December-8-2020-Champions-League
+5,2021-01-10,Sun,FA Cup,Third round proper,Home,W 4–0,Chelsea,Morecambe,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/7db82f30/Chelsea-Morecambe-January-10-2021-FA-Cup
+6,2021-01-24,Sun,FA Cup,Fourth round proper,Home,W 3–1,Chelsea,Luton Town,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/ccaad220/Chelsea-Luton-Town-January-24-2021-FA-Cup
+7,2021-02-11,Thu,FA Cup,Fifth round proper,Away,W 1–0,Chelsea,Barnsley,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/a8b5d7dc/Barnsley-Chelsea-February-11-2021-FA-Cup
+8,2021-02-15,Mon,Premier League,Matchweek 24,Home,W 2–0,Chelsea,Newcastle Utd,Y,GK,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,26,34,76.5,0,19,0,0,0,/en/matches/dd033287/Chelsea-Newcastle-United-February-15-2021-Premier-League
+9,2021-03-21,Sun,FA Cup,Quarter-finals,Home,W 2–0,Chelsea,Sheffield Utd,Y,GK,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/42982e25/Chelsea-Sheffield-United-March-21-2021-FA-Cup
+10,2021-04-17,Sat,FA Cup,Semi-finals,Home,W 1–0,Chelsea,Manchester City,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/6ac1f629/Chelsea-Manchester-City-April-17-2021-FA-Cup
+11,2021-04-20,Tue,Premier League,Matchweek 32,Home,D 0–0,Chelsea,Brighton,Y,GK,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,48,55,87.3,0,36,0,0,0,/en/matches/07b4e58b/Chelsea-Brighton-and-Hove-Albion-April-20-2021-Premier-League
+12,2021-05-12,Wed,Premier League,Matchweek 36,Home,L 0–1,Chelsea,Arsenal,Y,GK,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,2,0,38,40,95.0,1,25,0,0,0,/en/matches/51632a55/North-West-London-Derby-Chelsea-Arsenal-May-12-2021-Premier-League
+13,2021-05-15,Sat,FA Cup,Final,Neutral,L 0–1,Chelsea,Leicester City,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/49aa79e1/Chelsea-Leicester-City-May-15-2021-FA-Cup
+14,2021-05-23,Sun,Premier League,Matchweek 38,Away,L 1–2,Chelsea,Aston Villa,N,GK,45,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,2,0,0,0,/en/matches/0143966a/Aston-Villa-Chelsea-May-23-2021-Premier-League

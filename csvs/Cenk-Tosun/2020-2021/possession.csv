@@ -1,10 +1,14 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
-0,2020-11-01,Sun,Matchweek 9,Away,W 3–2,Everton,Fulham,N,"On matchday squad, but did not play",/en/matches/13524225/Fulham-Everton-November-22-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-11-01,Sat,Matchweek 10,Home,L 0–1,Everton,Leeds United,N,"On matchday squad, but did not play",/en/matches/3eeb39c5/Everton-Leeds-United-November-28-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-2,2020-11-01,Sat,Matchweek 11,Away,D 1–1,Everton,Burnley,N,FW,2,2,0,0,2,0,0,2,0,0,,0,,1,0,0,0,0,0,1,0,1,0,/en/matches/399c7e1c/Burnley-Everton-December-5-2020-Premier-League
-3,2020-11-01,Sat,Matchweek 12,Home,W 1–0,Everton,Chelsea,N,"On matchday squad, but did not play",/en/matches/4847e3c3/Everton-Chelsea-December-12-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-4,2020-11-01,Wed,Matchweek 13,Away,W 2–0,Everton,Leicester City,N,"On matchday squad, but did not play",/en/matches/b30c816c/Leicester-City-Everton-December-16-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-5,2020-11-01,Sat,Matchweek 14,Home,W 2–1,Everton,Arsenal,N,FW,1,1,0,0,0,1,0,1,0,0,,0,,1,3,0,0,0,0,0,0,1,0,/en/matches/72fa1993/Everton-Arsenal-December-19-2020-Premier-League
-6,2020-11-01,Sat,Matchweek 15,Away,W 1–0,Everton,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/870d9436/Sheffield-United-Everton-December-26-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-7,2020-11-01,Fri,Matchweek 17,Home,L 0–1,Everton,West Ham,N,FW,12,4,0,0,1,3,1,4,0,0,,0,,2,15,1,0,0,0,0,0,4,2,/en/matches/0cd189c5/Everton-West-Ham-United-January-1-2021-Premier-League
-8,2020-11-01,Tue,Matchweek 18,Away,W 2–1,Everton,Wolves,N,"On matchday squad, but did not play",/en/matches/8cbb9119/Wolverhampton-Wanderers-Everton-January-12-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-11-01,Sun,Premier League,Matchweek 7,Away,L 1–2,Everton,Newcastle Utd,N,FW,22,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,2,1,3,5,60.0,0,2,0,0,0,/en/matches/448a43ee/Newcastle-United-Everton-November-1-2020-Premier-League
+1,2020-11-07,Sat,Premier League,Matchweek 8,Home,L 1–3,Everton,Manchester Utd,N,FW,11,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,3,0,0,0,/en/matches/ab9f408d/Everton-Manchester-United-November-7-2020-Premier-League
+2,2020-11-11,Wed,Friendlies (M),Friendlies (M),Home,D 3–3,tr Türkiye,hr Croatia,Y*,FW,62,1,1,1,1,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b63e435c/Turkiye-Croatia-November-11-2020-Friendlies-M
+3,2020-11-15,Sun,UEFA Nations League,League B,Home,W 3–2,tr Türkiye,ru Russia,Y*,FW,79,1,0,1,1,5,2,1,0,,,0,,,,,,,,,,,,,,,/en/matches/4de26b78/Turkiye-Russia-November-15-2020-UEFA-Nations-League
+4,2020-11-18,Wed,UEFA Nations League,League B,Away,L 0–2,tr Türkiye,hu Hungary,Y*,FW,70,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/646580bb/Hungary-Turkiye-November-18-2020-UEFA-Nations-League
+5,2020-12-05,Sat,Premier League,Matchweek 11,Away,D 1–1,Everton,Burnley,N,FW,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,/en/matches/399c7e1c/Burnley-Everton-December-5-2020-Premier-League
+6,2020-12-19,Sat,Premier League,Matchweek 14,Home,W 2–1,Everton,Arsenal,N,FW,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,/en/matches/72fa1993/Everton-Arsenal-December-19-2020-Premier-League
+7,2020-12-23,Wed,EFL Cup,Quarter-finals,Home,L 0–2,Everton,Manchester Utd,N,,2,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/6b313389/Everton-Manchester-United-December-23-2020-EFL-Cup
+8,2021-01-01,Fri,Premier League,Matchweek 17,Home,L 0–1,Everton,West Ham,N,FW,12,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,/en/matches/0cd189c5/Everton-West-Ham-United-January-1-2021-Premier-League
+9,2021-01-09,Sat,FA Cup,Third round proper,Home,W 2–1,Everton,Rotherham Utd,Y,FW,120,1,0,0,0,4,2,0,0,,,0,,,,,,,,,,,,,,,/en/matches/e562a9d8/Everton-Rotherham-United-January-9-2021-FA-Cup
+10,2021-02-15,Mon,Süper Lig,Matchweek 25,Away,W 3–0,Beşiktaş,Gençlerbirliği,N,,29,2,0,0,0,3,3,0,0,,,0,,,,,,,,,,,,,,,/en/matches/e66aa299/Genclerbirligi-Besiktas-February-15-2021-Super-Lig
+11,2021-04-07,Wed,Süper Lig,Matchweek 33,Home,W 3–0,Beşiktaş,Alanyaspor,Y,FW,70,1,0,0,0,4,2,0,0,,,1,,,,,,,,,,,,,,,/en/matches/93079c8d/Besiktas-Alanyaspor-April-7-2021-Super-Lig
+12,2021-04-11,Sun,Süper Lig,Matchweek 34,Away,W 4–2,Beşiktaş,Erzurum BB,Y,FW,75,0,1,0,0,3,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/8839e21a/Erzurum-BB-Besiktas-April-11-2021-Super-Lig

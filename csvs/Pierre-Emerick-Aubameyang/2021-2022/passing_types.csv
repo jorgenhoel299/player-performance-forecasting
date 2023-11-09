@@ -1,13 +1,44 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2021-08-22,Sat,Matchweek 4,Home,W 1–0,Arsenal,Norwich City,Y*,FW,90,15,15,0,0,0,0,1,0,0,0,0,0,10,0,1,/en/matches/4ac58f71/Arsenal-Norwich-City-September-11-2021-Premier-League
-1,2021-08-22,Sat,Matchweek 5,Away,W 1–0,Arsenal,Burnley,Y*,FW,90,24,24,0,0,1,0,0,0,0,0,0,0,22,0,0,/en/matches/a427debc/Burnley-Arsenal-September-18-2021-Premier-League
-2,2021-08-22,Sun,Matchweek 6,Home,W 3–1,Arsenal,Tottenham,Y*,FW,90,18,18,0,0,0,0,1,0,0,0,0,0,11,0,1,/en/matches/a2c07e97/North-London-Derby-Arsenal-Tottenham-Hotspur-September-26-2021-Premier-League
-3,2021-08-22,Sat,Matchweek 7,Away,D 0–0,Arsenal,Brighton,Y*,FW,71,11,11,0,0,0,0,0,0,0,0,0,0,6,0,1,/en/matches/cdaded7b/Brighton-and-Hove-Albion-Arsenal-October-2-2021-Premier-League
-4,2021-08-22,Mon,Matchweek 8,Home,D 2–2,Arsenal,Crystal Palace,Y*,FW,90,15,15,0,0,1,0,0,0,0,0,0,0,11,0,0,/en/matches/0f3a1892/Arsenal-Crystal-Palace-October-18-2021-Premier-League
-5,2021-08-22,Fri,Matchweek 9,Home,W 3–1,Arsenal,Aston Villa,Y*,FW,89,19,19,0,0,0,0,2,0,0,0,0,0,13,0,2,/en/matches/ac95a75a/Arsenal-Aston-Villa-October-22-2021-Premier-League
-6,2021-08-22,Sat,Matchweek 10,Away,W 2–0,Arsenal,Leicester City,Y*,FW,90,21,21,0,0,0,0,2,0,0,0,0,0,13,0,2,/en/matches/719b57c6/Leicester-City-Arsenal-October-30-2021-Premier-League
-7,2021-08-22,Sun,Matchweek 11,Home,W 1–0,Arsenal,Watford,Y*,FW,90,18,17,0,0,0,0,2,0,0,0,0,0,9,1,1,/en/matches/e0208fcf/Arsenal-Watford-November-7-2021-Premier-League
-8,2021-08-22,Sat,Matchweek 12,Away,L 0–4,Arsenal,Liverpool,Y*,FW,90,13,12,1,0,0,0,1,1,0,0,0,0,7,0,0,/en/matches/e9ea66e1/Liverpool-Arsenal-November-20-2021-Premier-League
-9,2021-08-22,Sat,Matchweek 13,Home,W 2–0,Arsenal,Newcastle Utd,Y*,FW,75,18,18,0,0,0,0,1,0,0,0,0,0,13,0,0,/en/matches/067e0ab9/Arsenal-Newcastle-United-November-27-2021-Premier-League
-10,2021-08-22,Thu,Matchweek 14,Away,L 2–3,Arsenal,Manchester Utd,Y*,FW,78,17,17,0,0,0,0,0,0,0,0,0,0,14,0,1,/en/matches/4323a38f/Manchester-United-Arsenal-December-2-2021-Premier-League
-11,2021-08-22,Mon,Matchweek 15,Away,L 1–2,Arsenal,Everton,N,FW,6,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,/en/matches/5fdb6c19/Everton-Arsenal-December-6-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-22,Sun,Premier League,Matchweek 2,Home,L 0–2,Arsenal,Chelsea,N,"FW,LW",30,0,0,0,0,1,1,0,0,8,1,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,1,0,0,0,/en/matches/93954213/North-West-London-Derby-Arsenal-Chelsea-August-22-2021-Premier-League
+1,2021-08-25,Wed,EFL Cup,Second round,Away,W 6–0,Arsenal,West Brom,Y*,FW,75,3,1,0,0,4,4,0,0,,,0,,,,,,,,,,,,,,,/en/matches/3d303a43/West-Bromwich-Albion-Arsenal-August-25-2021-EFL-Cup
+2,2021-08-28,Sat,Premier League,Matchweek 3,Away,L 0–5,Arsenal,Manchester City,Y*,FW,58,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,5,11,45.5,1,6,0,1,0,/en/matches/d4650aa2/Manchester-City-Arsenal-August-28-2021-Premier-League
+3,2021-09-01,Wed,WCQ,Second round,Away,L 1–2,ga Gabon,ly Libya,Y*,FW,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/5432b7cd/Libya-Gabon-September-1-2021-WCQ----CAF-M
+4,2021-09-05,Sun,WCQ,Second round,Home,D 1–1,ga Gabon,eg Egypt,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/66675dea/Gabon-Egypt-September-5-2021-WCQ----CAF-M
+5,2021-09-11,Sat,Premier League,Matchweek 4,Home,W 1–0,Arsenal,Norwich City,Y*,FW,90,1,0,0,0,6,2,0,0,26,0,0,1,1.3,1.3,0.1,6,0,10,15,66.7,0,13,3,1,0,/en/matches/4ac58f71/Arsenal-Norwich-City-September-11-2021-Premier-League
+6,2021-09-18,Sat,Premier League,Matchweek 5,Away,W 1–0,Arsenal,Burnley,Y*,FW,90,0,0,0,0,2,0,0,0,32,1,0,1,0.1,0.1,0.5,4,0,22,24,91.7,6,12,5,1,0,/en/matches/a427debc/Burnley-Arsenal-September-18-2021-Premier-League
+7,2021-09-26,Sun,Premier League,Matchweek 6,Home,W 3–1,Arsenal,Tottenham,Y*,FW,90,1,0,0,0,4,2,0,0,35,3,0,3,0.3,0.3,0.0,1,1,11,18,61.1,3,16,1,0,0,/en/matches/a2c07e97/North-London-Derby-Arsenal-Tottenham-Hotspur-September-26-2021-Premier-League
+8,2021-10-02,Sat,Premier League,Matchweek 7,Away,D 0–0,Arsenal,Brighton,Y*,FW,71,0,0,0,0,1,0,0,0,22,0,0,0,0.1,0.1,0.0,0,0,6,11,54.5,1,11,1,0,0,/en/matches/cdaded7b/Brighton-and-Hove-Albion-Arsenal-October-2-2021-Premier-League
+9,2021-10-08,Fri,WCQ,Second round,Away,L 1–3,ga Gabon,ao Angola,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/2ff73e96/Angola-Gabon-October-8-2021-WCQ----CAF-M
+10,2021-10-11,Mon,WCQ,Second round,Home,W 2–0,ga Gabon,ao Angola,Y*,FW,90,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/317c3d82/Gabon-Angola-October-11-2021-WCQ----CAF-M
+11,2021-10-18,Mon,Premier League,Matchweek 8,Home,D 2–2,Arsenal,Crystal Palace,Y*,FW,90,1,0,0,0,1,1,0,0,24,2,0,1,0.4,0.4,0.1,2,0,11,15,73.3,4,7,0,1,0,/en/matches/0f3a1892/Arsenal-Crystal-Palace-October-18-2021-Premier-League
+12,2021-10-22,Fri,Premier League,Matchweek 9,Home,W 3–1,Arsenal,Aston Villa,Y*,FW,89,1,1,0,1,4,2,1,0,30,1,0,0,1.2,0.2,0.2,3,2,13,19,68.4,4,18,5,1,0,/en/matches/ac95a75a/Arsenal-Aston-Villa-October-22-2021-Premier-League
+13,2021-10-30,Sat,Premier League,Matchweek 10,Away,W 2–0,Arsenal,Leicester City,Y*,FW,90,0,0,0,0,2,2,0,0,29,1,0,2,0.3,0.3,0.0,1,0,13,21,61.9,2,13,3,1,1,/en/matches/719b57c6/Leicester-City-Arsenal-October-30-2021-Premier-League
+14,2021-11-07,Sun,Premier League,Matchweek 11,Home,W 1–0,Arsenal,Watford,Y*,FW,90,0,0,0,1,2,0,1,0,27,1,0,0,0.9,0.1,0.0,1,0,9,18,50.0,0,11,1,0,0,/en/matches/e0208fcf/Arsenal-Watford-November-7-2021-Premier-League
+15,2021-11-12,Fri,WCQ,Second round,Home,W 1–0,ga Gabon,ly Libya,Y*,FW,90,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ad338ac3/Gabon-Libya-November-12-2021-WCQ----CAF-M
+16,2021-11-20,Sat,Premier League,Matchweek 12,Away,L 0–4,Arsenal,Liverpool,Y*,FW,90,0,0,0,0,1,1,0,0,19,0,0,1,0.1,0.1,0.1,1,0,7,13,53.8,2,10,1,0,0,/en/matches/e9ea66e1/Liverpool-Arsenal-November-20-2021-Premier-League
+17,2021-11-27,Sat,Premier League,Matchweek 13,Home,W 2–0,Arsenal,Newcastle Utd,Y*,FW,75,0,0,0,0,2,1,1,0,24,1,0,2,0.6,0.6,0.0,0,0,13,18,72.2,2,7,0,0,0,/en/matches/067e0ab9/Arsenal-Newcastle-United-November-27-2021-Premier-League
+18,2021-12-02,Thu,Premier League,Matchweek 14,Away,L 2–3,Arsenal,Manchester Utd,Y*,FW,78,0,0,0,0,5,4,0,0,26,0,0,1,0.6,0.6,0.0,3,0,14,17,82.4,1,15,1,1,1,/en/matches/4323a38f/Manchester-United-Arsenal-December-2-2021-Premier-League
+19,2021-12-06,Mon,Premier League,Matchweek 15,Away,L 1–2,Arsenal,Everton,N,FW,6,0,0,0,0,2,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,1,2,50.0,0,2,0,0,0,/en/matches/5fdb6c19/Everton-Arsenal-December-6-2021-Premier-League
+20,2022-02-06,Sun,La Liga,Matchweek 23,Home,W 4–2,Barcelona,Atlético Madrid,N,FW,30,0,0,0,0,1,0,0,0,22,0,0,2,0.0,0.0,0.0,0,0,10,13,76.9,2,6,2,1,0,/en/matches/ce2db225/Barcelona-Atletico-Madrid-February-6-2022-La-Liga
+21,2022-02-13,Sun,La Liga,Matchweek 24,Away,D 2–2,Barcelona,Espanyol,N,FW,29,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,3,1,1,1,/en/matches/682e2c2a/Espanyol-Barcelona-February-13-2022-La-Liga
+22,2022-02-17,Thu,Europa Lg,Knockout round play-offs,Home,D 1–1,es Barcelona,it Napoli,Y,FW,85,0,0,0,0,3,0,0,0,36,2,0,1,0.1,0.1,0.5,5,0,19,27,70.4,5,18,3,1,1,/en/matches/ac68fa2e/Barcelona-Napoli-February-17-2022-Europa-League
+23,2022-02-20,Sun,La Liga,Matchweek 25,Away,W 4–1,Barcelona,Valencia,Y,FW,80,3,0,0,0,4,4,0,0,33,0,0,1,1.2,1.2,0.0,0,0,13,20,65.0,0,17,2,0,0,/en/matches/368c0ef5/Valencia-Barcelona-February-20-2022-La-Liga
+24,2022-02-24,Thu,Europa Lg,Knockout round play-offs,Away,W 4–2,es Barcelona,it Napoli,Y,FW,74,1,0,0,0,5,2,0,0,28,0,0,1,0.8,0.8,0.1,2,1,15,16,93.8,2,12,1,1,1,/en/matches/352ce719/Napoli-Barcelona-February-24-2022-Europa-League
+25,2022-02-27,Sun,La Liga,Matchweek 26,Home,W 4–0,Barcelona,Athletic Club,Y,FW,85,1,0,0,0,3,2,0,0,28,0,1,0,0.5,0.5,0.1,1,0,14,21,66.7,1,12,2,1,1,/en/matches/7d192eac/Barcelona-Athletic-Club-February-27-2022-La-Liga
+26,2022-03-06,Sun,La Liga,Matchweek 27,Away,W 2–1,Barcelona,Elche,Y,FW,74,0,0,0,0,2,0,0,0,33,0,0,0,0.2,0.2,0.2,2,0,15,24,62.5,2,16,1,2,1,/en/matches/3f2a5af5/Elche-Barcelona-March-6-2022-La-Liga
+27,2022-03-10,Thu,Europa Lg,Round of 16,Home,D 0–0,es Barcelona,tr Galatasaray,N,"FW,LW",30,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.6,1,0,6,9,66.7,0,8,0,1,0,/en/matches/00b3aa88/Barcelona-Galatasaray-March-10-2022-Europa-League
+28,2022-03-13,Sun,La Liga,Matchweek 28,Home,W 4–0,Barcelona,Osasuna,Y,FW,72,1,0,0,0,4,2,0,0,28,1,0,0,1.0,1.0,0.0,1,1,18,21,85.7,0,18,3,0,0,/en/matches/34cda9be/Barcelona-Osasuna-March-13-2022-La-Liga
+29,2022-03-17,Thu,Europa Lg,Round of 16,Away,W 2–1,es Barcelona,tr Galatasaray,Y,FW,80,1,0,0,0,3,2,0,0,40,0,1,0,0.9,0.9,0.0,2,0,24,33,72.7,1,29,1,0,0,/en/matches/d7f7268a/Galatasaray-Barcelona-March-17-2022-Europa-League
+30,2022-03-20,Sun,La Liga,Matchweek 29,Away,W 4–0,Barcelona,Real Madrid,Y,FW,70,2,1,0,0,6,5,0,0,27,0,0,1,2.1,2.1,0.6,4,1,13,18,72.2,3,18,0,0,0,/en/matches/e6a099a7/El-Clasico-Real-Madrid-Barcelona-March-20-2022-La-Liga
+31,2022-04-03,Sun,La Liga,Matchweek 30,Home,W 1–0,Barcelona,Sevilla,Y,FW,80,0,0,0,0,1,1,0,0,17,1,0,2,0.1,0.1,0.0,1,0,8,11,72.7,2,10,2,1,1,/en/matches/7710201e/Barcelona-Sevilla-April-3-2022-La-Liga
+32,2022-04-07,Thu,Europa Lg,Quarter-finals,Away,D 1–1,es Barcelona,de Eint Frankfurt,Y,FW,90,0,0,0,0,1,0,0,0,30,0,0,0,0.3,0.3,0.0,0,0,10,21,47.6,0,20,0,3,1,/en/matches/16c0bd90/Eintracht-Frankfurt-Barcelona-April-7-2022-Europa-League
+33,2022-04-10,Sun,La Liga,Matchweek 31,Away,W 3–2,Barcelona,Levante,Y,FW,83,1,0,0,0,2,1,0,0,24,0,1,0,0.5,0.5,0.0,0,0,12,15,80.0,0,13,0,0,0,/en/matches/daab4bf0/Levante-Barcelona-April-10-2022-La-Liga
+34,2022-04-14,Thu,Europa Lg,Quarter-finals,Home,L 2–3,es Barcelona,de Eint Frankfurt,Y,FW,60,0,0,0,0,3,1,0,0,19,0,0,1,1.4,1.4,0.0,1,0,11,14,78.6,0,13,0,0,0,/en/matches/e1750f9b/Barcelona-Eintracht-Frankfurt-April-14-2022-Europa-League
+35,2022-04-18,Mon,La Liga,Matchweek 32,Home,L 0–1,Barcelona,Cádiz,N,"RW,FW",30,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,1,0,4,4,100.0,1,5,0,0,0,/en/matches/e206a428/Barcelona-Cadiz-April-18-2022-La-Liga
+36,2022-04-21,Thu,La Liga,Matchweek 33,Away,W 1–0,Barcelona,Real Sociedad,Y,FW,81,1,0,0,0,2,1,0,0,26,0,0,0,0.5,0.5,0.0,1,0,12,18,66.7,1,12,0,0,0,/en/matches/7e8b3ffd/Real-Sociedad-Barcelona-April-21-2022-La-Liga
+37,2022-04-24,Sun,La Liga,Matchweek 21,Home,L 0–1,Barcelona,Rayo Vallecano,Y,FW,70,0,0,0,0,1,0,0,0,15,0,0,1,0.2,0.2,0.2,0,0,6,9,66.7,0,9,0,0,0,/en/matches/82dd9d2e/Barcelona-Rayo-Vallecano-April-24-2022-La-Liga
+38,2022-05-01,Sun,La Liga,Matchweek 34,Home,W 2–1,Barcelona,Mallorca,Y,FW,74,0,0,0,0,4,1,0,0,24,0,0,1,0.4,0.4,0.0,1,0,11,16,68.8,0,10,2,0,0,/en/matches/c2369d86/Barcelona-Mallorca-May-1-2022-La-Liga
+39,2022-05-07,Sat,La Liga,Matchweek 35,Away,W 2–1,Barcelona,Betis,N,FW,25,0,0,0,0,2,0,0,0,9,0,0,0,0.5,0.5,0.0,0,0,4,7,57.1,0,8,0,0,0,/en/matches/aa0da874/Real-Betis-Barcelona-May-7-2022-La-Liga
+40,2022-05-10,Tue,La Liga,Matchweek 36,Home,W 3–1,Barcelona,Celta Vigo,Y,FW,83,2,0,0,0,2,2,0,0,21,0,0,1,0.3,0.3,0.0,1,1,15,17,88.2,2,15,0,0,0,/en/matches/b811b679/Barcelona-Celta-Vigo-May-10-2022-La-Liga
+41,2022-05-15,Sun,La Liga,Matchweek 37,Away,D 0–0,Barcelona,Getafe,Y,FW,60,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,2,0,12,13,92.3,1,8,0,0,0,/en/matches/8108aa10/Getafe-Barcelona-May-15-2022-La-Liga
+42,2022-05-22,Sun,La Liga,Matchweek 38,Home,L 0–2,Barcelona,Villarreal,Y,FW,56,0,0,0,0,2,0,0,0,12,0,0,0,0.1,0.1,0.0,0,0,6,7,85.7,0,7,1,0,0,/en/matches/3afd4f9f/Barcelona-Villarreal-May-22-2022-La-Liga

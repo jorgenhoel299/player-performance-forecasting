@@ -1,8 +1,10 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2020-06-20,Wed,Matchweek 32,Home,L 1–4,Bournemouth,Newcastle Utd,Y,RM,61,1,1,0,1,0,1,4,25.0,3,0,0,0,0,1,0,0,/en/matches/92aaad57/Bournemouth-Newcastle-United-July-1-2020-Premier-League
-1,2020-06-20,Sat,Matchweek 33,Away,L 2–5,Bournemouth,Manchester Utd,Y,RM,45,0,0,0,0,0,0,2,0.0,2,1,1,0,0,0,0,0,/en/matches/8bed0062/Manchester-United-Bournemouth-July-4-2020-Premier-League
-2,2020-06-20,Thu,Matchweek 34,Home,D 0–0,Bournemouth,Tottenham,Y,RM,65,1,1,0,0,1,0,0,,0,0,0,0,0,1,1,0,/en/matches/1d9de580/Bournemouth-Tottenham-Hotspur-July-9-2020-Premier-League
-3,2020-06-20,Sun,Matchweek 35,Home,W 4–1,Bournemouth,Leicester City,Y,RM,80,1,1,0,1,0,0,1,0.0,1,1,0,1,0,1,0,0,/en/matches/d2adf574/Bournemouth-Leicester-City-July-12-2020-Premier-League
-4,2020-06-20,Wed,Matchweek 36,Away,L 1–2,Bournemouth,Manchester City,N,RB,22,1,1,1,0,0,1,2,50.0,1,0,0,0,0,1,0,0,/en/matches/eff6988f/Manchester-City-Bournemouth-July-15-2020-Premier-League
-5,2020-06-20,Sun,Matchweek 37,Home,L 0–2,Bournemouth,Southampton,Y,RM,45,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,/en/matches/bbd4160f/Bournemouth-Southampton-July-19-2020-Premier-League
-6,2020-06-20,Sun,Matchweek 38,Away,W 3–1,Bournemouth,Everton,Y,RM,63,0,0,0,0,0,0,2,0.0,2,2,0,2,1,1,0,0,/en/matches/2a3b8f05/Everton-Bournemouth-July-26-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-06-20,Sat,Premier League,Matchweek 30,Home,L 0–2,Bournemouth,Crystal Palace,Y,"CM,RM",60,0,0,0,0,0,0,0,0,43,1,0,1,0.0,0.0,0.1,4,0,23,35,65.7,2,28,0,6,2,/en/matches/c4d88352/Bournemouth-Crystal-Palace-June-20-2020-Premier-League
+1,2020-06-24,Wed,Premier League,Matchweek 31,Away,L 0–1,Bournemouth,Wolves,Y,RW,65,0,0,0,0,0,0,1,0,23,0,0,0,0.0,0.0,0.0,1,0,11,19,57.9,1,13,0,7,4,/en/matches/4f61e5af/Wolverhampton-Wanderers-Bournemouth-June-24-2020-Premier-League
+2,2020-07-01,Wed,Premier League,Matchweek 32,Home,L 1–4,Bournemouth,Newcastle Utd,Y,RM,61,0,0,0,0,1,0,0,0,30,1,0,0,0.0,0.0,0.0,1,0,17,27,63.0,3,18,0,3,2,/en/matches/92aaad57/Bournemouth-Newcastle-United-July-1-2020-Premier-League
+3,2020-07-04,Sat,Premier League,Matchweek 33,Away,L 2–5,Bournemouth,Manchester Utd,Y,RM,45,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,1,0,9,11,81.8,0,6,0,0,0,/en/matches/8bed0062/Manchester-United-Bournemouth-July-4-2020-Premier-League
+4,2020-07-09,Thu,Premier League,Matchweek 34,Home,D 0–0,Bournemouth,Tottenham,Y,RM,65,0,0,0,0,1,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,12,16,75.0,3,13,0,0,0,/en/matches/1d9de580/Bournemouth-Tottenham-Hotspur-July-9-2020-Premier-League
+5,2020-07-12,Sun,Premier League,Matchweek 35,Home,W 4–1,Bournemouth,Leicester City,Y,RM,80,0,0,0,0,1,1,0,0,45,1,0,1,0.0,0.0,0.0,0,0,25,36,69.4,3,25,1,5,3,/en/matches/d2adf574/Bournemouth-Leicester-City-July-12-2020-Premier-League
+6,2020-07-15,Wed,Premier League,Matchweek 36,Away,L 1–2,Bournemouth,Manchester City,N,RB,22,1,0,0,0,1,1,0,0,11,1,0,0,0.3,0.3,0.1,2,0,6,8,75.0,1,8,1,1,0,/en/matches/eff6988f/Manchester-City-Bournemouth-July-15-2020-Premier-League
+7,2020-07-19,Sun,Premier League,Matchweek 37,Home,L 0–2,Bournemouth,Southampton,Y,RM,45,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,4,9,44.4,2,9,1,0,0,/en/matches/bbd4160f/Bournemouth-Southampton-July-19-2020-Premier-League
+8,2020-07-26,Sun,Premier League,Matchweek 38,Away,W 3–1,Bournemouth,Everton,Y,RM,63,0,0,0,0,2,0,0,0,28,0,1,2,0.1,0.1,0.1,3,1,14,19,73.7,2,17,1,2,1,/en/matches/2a3b8f05/Everton-Bournemouth-July-26-2020-Premier-League

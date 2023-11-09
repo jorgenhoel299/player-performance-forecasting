@@ -1,25 +1,9 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
-0,2019-08-10,Sun,Matchweek 3,Home,L 1–3,Bournemouth,Manchester City,N,"On matchday squad, but did not play",/en/matches/7728bd7e/Bournemouth-Manchester-City-August-25-2019-Premier-League,,,,,,,,,,,,,,,,,
-1,2019-08-10,Sat,Matchweek 4,Away,L 1–3,Bournemouth,Leicester City,N,"On matchday squad, but did not play",/en/matches/3d899563/Leicester-City-Bournemouth-August-31-2019-Premier-League,,,,,,,,,,,,,,,,,
-2,2019-08-10,Sun,Matchweek 5,Home,W 3–1,Bournemouth,Everton,N,"On matchday squad, but did not play",/en/matches/886c59ae/Bournemouth-Everton-September-15-2019-Premier-League,,,,,,,,,,,,,,,,,
-3,2019-08-10,Fri,Matchweek 6,Away,W 3–1,Bournemouth,Southampton,N,"On matchday squad, but did not play",/en/matches/ebbb65f5/Southampton-Bournemouth-September-20-2019-Premier-League,,,,,,,,,,,,,,,,,
-4,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2019-08-10,Sat,Matchweek 14,Away,L 2–3,Bournemouth,Tottenham,N,"On matchday squad, but did not play",/en/matches/1722ba52/Tottenham-Hotspur-Bournemouth-November-30-2019-Premier-League,,,,,,,,,,,,,,,,,
-6,2019-08-10,Tue,Matchweek 15,Away,L 0–1,Bournemouth,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/fd541a1f/Crystal-Palace-Bournemouth-December-3-2019-Premier-League,,,,,,,,,,,,,,,,,
-7,2019-08-10,Sat,Matchweek 16,Home,L 0–3,Bournemouth,Liverpool,N,CB,56,0,0,0,0,1,0,0,1,0,0,0,0,10,1,0,100.0,/en/matches/b7f0ca17/Bournemouth-Liverpool-December-7-2019-Premier-League
-8,2019-08-10,Sat,Matchweek 17,Away,W 1–0,Bournemouth,Chelsea,N,"On matchday squad, but did not play",/en/matches/b75094e0/Chelsea-Bournemouth-December-14-2019-Premier-League,,,,,,,,,,,,,,,,,
-9,2019-08-10,Sat,Matchweek 18,Home,L 0–1,Bournemouth,Burnley,N,"On matchday squad, but did not play",/en/matches/e8b74ca0/Bournemouth-Burnley-December-21-2019-Premier-League,,,,,,,,,,,,,,,,,
-10,2019-08-10,Thu,Matchweek 19,Home,D 1–1,Bournemouth,Arsenal,Y,LB,90,0,0,0,0,0,0,0,1,1,0,0,0,4,1,1,50.0,/en/matches/5b1ecf02/Bournemouth-Arsenal-December-26-2019-Premier-League
-11,2019-08-10,Sat,Matchweek 20,Away,L 0–2,Bournemouth,Brighton,N,"On matchday squad, but did not play",/en/matches/d7b72d7f/Brighton-and-Hove-Albion-Bournemouth-December-28-2019-Premier-League,,,,,,,,,,,,,,,,,
-12,2019-08-10,Wed,Matchweek 21,Away,L 0–4,Bournemouth,West Ham,N,LB,23,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,100.0,/en/matches/9ae01aab/West-Ham-United-Bournemouth-January-1-2020-Premier-League
-13,2019-08-10,Sun,Matchweek 22,Home,L 0–3,Bournemouth,Watford,N,"On matchday squad, but did not play",/en/matches/76ce7bd8/Bournemouth-Watford-January-12-2020-Premier-League,,,,,,,,,,,,,,,,,
-14,2019-08-10,Sat,Matchweek 23,Away,L 0–1,Bournemouth,Norwich City,N,"On matchday squad, but did not play",/en/matches/2550abdc/Norwich-City-Bournemouth-January-18-2020-Premier-League,,,,,,,,,,,,,,,,,
-15,2019-08-10,Tue,Matchweek 24,Home,W 3–1,Bournemouth,Brighton,N,"On matchday squad, but did not play",/en/matches/ba03a070/Bournemouth-Brighton-and-Hove-Albion-January-21-2020-Premier-League,,,,,,,,,,,,,,,,,
-16,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,,,
-17,2019-08-10,Sat,Matchweek 27,Away,L 0–3,Bournemouth,Burnley,N,"On matchday squad, but did not play",/en/matches/bcdc3fb0/Burnley-Bournemouth-February-22-2020-Premier-League,,,,,,,,,,,,,,,,,
-18,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,,,
-19,2019-08-10,Sat,Matchweek 29,Away,L 1–2,Bournemouth,Liverpool,N,CB,72,0,0,0,0,0,0,0,0,1,0,0,0,3,1,1,50.0,/en/matches/a24ed8fc/Liverpool-Bournemouth-March-7-2020-Premier-League
-20,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,,,
-21,2019-08-10,Sun,Matchweek 35,Home,W 4–1,Bournemouth,Leicester City,N,"On matchday squad, but did not play",/en/matches/d2adf574/Bournemouth-Leicester-City-July-12-2020-Premier-League,,,,,,,,,,,,,,,,,
-22,2019-08-10,Wed,Matchweek 36,Away,L 1–2,Bournemouth,Manchester City,N,"On matchday squad, but did not play",/en/matches/eff6988f/Manchester-City-Bournemouth-July-15-2020-Premier-League,,,,,,,,,,,,,,,,,
-23,2019-08-10,Sun,Matchweek 37,Home,L 0–2,Bournemouth,Southampton,N,"On matchday squad, but did not play",/en/matches/bbd4160f/Bournemouth-Southampton-July-19-2020-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-28,Wed,EFL Cup,Second round,Home,D 0 (3)–0 (0),Bournemouth,FG Rovers,Y,CB,120,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/7622c110/Bournemouth-Forest-Green-Rovers-August-28-2019-EFL-Cup
+1,2019-09-25,Wed,EFL Cup,Third round,Away,L 0–2,Bournemouth,Burton Albion,Y,CB,90,0,0,0,0,1,0,1,0,,,2,,,,,,,,,,,,,,,/en/matches/a33fa522/Burton-Albion-Bournemouth-September-25-2019-EFL-Cup
+2,2019-12-07,Sat,Premier League,Matchweek 16,Home,L 0–3,Bournemouth,Liverpool,N,CB,56,0,0,0,0,0,0,0,0,35,3,1,0,0.0,0.0,0.0,0,0,16,26,61.5,1,11,0,0,0,/en/matches/b7f0ca17/Bournemouth-Liverpool-December-7-2019-Premier-League
+3,2019-12-26,Thu,Premier League,Matchweek 19,Home,D 1–1,Bournemouth,Arsenal,Y,LB,90,0,0,0,0,1,0,0,0,65,1,1,1,0.0,0.0,0.1,1,0,41,55,74.5,4,39,0,4,4,/en/matches/5b1ecf02/Bournemouth-Arsenal-December-26-2019-Premier-League
+4,2020-01-01,Wed,Premier League,Matchweek 21,Away,L 0–4,Bournemouth,West Ham,N,LB,23,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,12,15,80.0,0,7,0,0,0,/en/matches/9ae01aab/West-Ham-United-Bournemouth-January-1-2020-Premier-League
+5,2020-01-04,Sat,FA Cup,Third round,Home,W 4–0,Bournemouth,Luton Town,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c3fea920/Bournemouth-Luton-Town-January-4-2020-FA-Cup
+6,2020-01-27,Mon,FA Cup,Fourth round,Home,L 1–2,Bournemouth,Arsenal,Y,LB,75,0,0,0,0,1,0,0,0,,,4,,,,,,,,,,,,,,,/en/matches/3a82a2bd/Bournemouth-Arsenal-January-27-2020-FA-Cup
+7,2020-03-07,Sat,Premier League,Matchweek 29,Away,L 1–2,Bournemouth,Liverpool,N,CB,72,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,6,11,54.5,0,9,0,1,0,/en/matches/a24ed8fc/Liverpool-Bournemouth-March-7-2020-Premier-League

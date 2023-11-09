@@ -1,7 +1,12 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2019-09-14,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2019-09-14,Sun,Matchweek 8,Away,L 0–1,Manchester Utd,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/e4a80056/Newcastle-United-Manchester-United-October-6-2019-Premier-League,,,,,,,,,,,,,,,,
-2,2019-09-14,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2019-09-14,Sat,Matchweek 22,Home,W 4–0,Manchester Utd,Norwich City,N,AM,11,8,8,0,0,1,1,0,0,0,0,0,0,7,0,0,/en/matches/db192bf5/Manchester-United-Norwich-City-January-11-2020-Premier-League
-4,2019-09-14,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2019-09-14,Wed,Matchweek 24,Home,L 0–2,Manchester Utd,Burnley,N,"On matchday squad, but did not play",/en/matches/709e2aa4/Manchester-United-Burnley-January-22-2020-Premier-League,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-30,Fri,PL2 — Div. 2,Matchweek 4,Home,D 2–2,Manchester Utd,West Ham,Y*,AM,79,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/c07c85dc/Manchester-United-U23-West-Ham-United-U23-August-30-2019-Premier-League-2----Division-2
+1,2019-09-19,Thu,Europa Lg,Group stage,Home,W 1–0,eng Manchester Utd,kz Astana FK,Y,AM,67,0,0,0,0,1,0,0,0,56,1,1,1,0.1,0.1,0.0,7,0,39,48,81.3,3,27,4,2,2,/en/matches/e824741d/Manchester-United-Astana-FK-September-19-2019-Europa-League
+2,2019-09-22,Sun,Premier League,Matchweek 6,Away,L 0–2,Manchester Utd,West Ham,N,AM,10,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,1,6,0,0,0,/en/matches/fe3e2bec/West-Ham-United-Manchester-United-September-22-2019-Premier-League
+3,2019-10-03,Thu,Europa Lg,Group stage,Away,D 0–0,eng Manchester Utd,nl AZ Alkmaar,Y,LW,90,0,0,0,0,2,0,0,0,53,0,0,1,0.1,0.1,0.0,1,0,41,47,87.2,2,35,0,3,2,/en/matches/c7f9121a/AZ-Alkmaar-Manchester-United-October-3-2019-Europa-League
+4,2019-10-25,Fri,PL2 — Div. 2,Matchweek 9,Home,W 3–1,Manchester Utd,Stoke City,Y*,AM,78,1,0,0,1,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/00119711/Manchester-United-U23-Stoke-City-U23-October-25-2019-Premier-League-2----Division-2
+5,2019-11-28,Thu,Europa Lg,Group stage,Away,L 1–2,eng Manchester Utd,kz Astana FK,Y,LW,88,0,0,0,0,3,1,0,0,80,1,0,0,0.2,0.2,0.2,5,1,62,72,86.1,6,48,6,1,1,/en/matches/f65db418/Astana-FK-Manchester-United-November-28-2019-Europa-League
+6,2019-12-09,Mon,PL2 — Div. 2,Matchweek 12,Home,W 3–1,Manchester Utd,West Brom,Y*,AM,90,1,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/b9f710fe/Manchester-United-U23-West-Bromwich-Albion-U23-December-9-2019-Premier-League-2----Division-2
+7,2020-01-07,Tue,EFL Cup,Semi-finals,Home,L 1–3,Manchester Utd,Manchester City,N,,27,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/a282479a/Manchester-Derby-Manchester-United-Manchester-City-January-7-2020-EFL-Cup
+8,2020-01-11,Sat,Premier League,Matchweek 22,Home,W 4–0,Manchester Utd,Norwich City,N,AM,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,2,0,7,8,87.5,3,6,2,0,0,/en/matches/db192bf5/Manchester-United-Norwich-City-January-11-2020-Premier-League
+9,2020-01-31,Fri,PL2 — Div. 2,Matchweek 16,Away,W 2–1,Manchester Utd,Norwich City,Y*,AM,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/acd209dc/Norwich-City-U23-Manchester-United-U23-January-31-2020-Premier-League-2----Division-2
+10,2020-03-02,Mon,PL2 — Div. 2,Matchweek 18,Away,W 3–2,Manchester Utd,Stoke City,Y,FW,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/bd117e0e/Stoke-City-U23-Manchester-United-U23-March-2-2020-Premier-League-2----Division-2

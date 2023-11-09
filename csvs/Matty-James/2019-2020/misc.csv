@@ -1,6 +1,6 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
-0,2020-02-22,Tue,Matchweek 34,Away,D 1–1,Leicester City,Arsenal,N,"On matchday squad, but did not play",/en/matches/a26b0a22/Arsenal-Leicester-City-July-7-2020-Premier-League,,,,,,,,,,,,,,,,,
-1,2020-02-22,Sun,Matchweek 35,Away,L 1–4,Leicester City,Bournemouth,N,"On matchday squad, but did not play",/en/matches/d2adf574/Bournemouth-Leicester-City-July-12-2020-Premier-League,,,,,,,,,,,,,,,,,
-2,2020-02-22,Thu,Matchweek 36,Home,W 2–0,Leicester City,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/0903cee0/Leicester-City-Sheffield-United-July-16-2020-Premier-League,,,,,,,,,,,,,,,,,
-3,2020-02-22,Sun,Matchweek 37,Away,L 0–3,Leicester City,Tottenham,N,"On matchday squad, but did not play",/en/matches/d4ce66f6/Tottenham-Hotspur-Leicester-City-July-19-2020-Premier-League,,,,,,,,,,,,,,,,,
-4,2020-02-22,Sun,Matchweek 38,Home,L 0–2,Leicester City,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/3873cc78/Leicester-City-Manchester-United-July-26-2020-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-01-03,Fri,PL2 — Div. 1,Matchweek 14,Home,W 5–1,Leicester City,Wolves,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/89ea4a48/Leicester-City-U23-Wolverhampton-Wanderers-U23-January-3-2020-Premier-League-2----Division-1
+1,2020-01-13,Mon,PL2 — Div. 1,Matchweek 15,Away,W 1–0,Leicester City,Brighton,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ad99a1ab/Brighton-and-Hove-Albion-U23-Leicester-City-U23-January-13-2020-Premier-League-2----Division-1
+2,2020-02-14,Fri,PL2 — Div. 1,Matchweek 17,Home,W 3–2,Leicester City,Tottenham,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4f6b9d4e/Leicester-City-U23-Tottenham-Hotspur-U23-February-14-2020-Premier-League-2----Division-1
+3,2020-02-22,Sat,Premier League,Matchweek 27,Home,L 0–1,Leicester City,Manchester City,N,"DM,CM",6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,1,5,0,0,0,/en/matches/4f00e03a/Leicester-City-Manchester-City-February-22-2020-Premier-League
+4,2020-03-02,Mon,PL2 — Div. 1,Matchweek 18,Away,W 3–1,Leicester City,Southampton,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/6f06a51c/Southampton-U23-Leicester-City-U23-March-2-2020-Premier-League-2----Division-1

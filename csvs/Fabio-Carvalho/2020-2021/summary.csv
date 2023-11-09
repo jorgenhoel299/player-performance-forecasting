@@ -1,4 +1,20 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,2021-05-01,Sat,Matchweek 36,Away,L 1–3,Fulham,Southampton,Y,"FW,WB",90,1,0,0,0,3,3,0,0,45,4,0,1,0.4,0.4,0.1,4,0,23,30,76.7,3,28,3,5,5,/en/matches/34739ed7/Southampton-Fulham-May-15-2021-Premier-League
-1,2021-05-01,Tue,Matchweek 37,Away,D 1–1,Fulham,Manchester Utd,Y,"AM,FW",62,0,0,0,0,2,2,0,0,27,2,0,1,0.5,0.5,0.0,1,0,9,14,64.3,0,14,3,2,1,/en/matches/d8018048/Manchester-United-Fulham-May-18-2021-Premier-League
-2,2021-05-01,Sun,Matchweek 38,Home,L 0–2,Fulham,Newcastle Utd,Y,AM,90,0,0,0,0,4,0,0,0,51,3,1,0,0.2,0.2,0.3,3,0,31,39,79.5,3,39,4,2,2,/en/matches/f966eee0/Fulham-Newcastle-United-May-23-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-18,Fri,PL2 — Div. 2,Matchweek 2,Away,W 4–0,Fulham,Reading,Y,AM,90,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/db6a9fd4/Reading-U23-Fulham-U23-September-18-2020-Premier-League-2----Division-2
+1,2020-09-23,Wed,EFL Cup,Third round,Home,W 2–0,Fulham,Sheffield Weds,N,,13,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/6277bf5f/Fulham-Sheffield-Wednesday-September-23-2020-EFL-Cup
+2,2020-09-28,Mon,PL2 — Div. 2,Matchweek 3,Away,W 2–1,Fulham,West Brom,Y,FW,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/6950bd8e/West-Bromwich-Albion-U23-Fulham-U23-September-28-2020-Premier-League-2----Division-2
+3,2020-11-23,Mon,PL2 — Div. 2,Matchweek 9,Away,L 1–2,Fulham,Burnley,Y,FW,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/b7e23762/Burnley-U23-Fulham-U23-November-23-2020-Premier-League-2----Division-2
+4,2020-11-27,Fri,PL2 — Div. 2,Matchweek 10,Away,W 3–2,Fulham,Aston Villa,Y,FW,90,1,1,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/c3ffdf69/Aston-Villa-U23-Fulham-U23-November-27-2020-Premier-League-2----Division-2
+5,2020-12-04,Fri,PL2 — Div. 2,Matchweek 1,Home,W 5–2,Fulham,Crystal Palace,Y,FW,90,3,1,1,1,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/06745d62/Fulham-U23-Crystal-Palace-U23-December-4-2020-Premier-League-2----Division-2
+6,2020-12-11,Fri,PL2 — Div. 2,Matchweek 11,Home,W 3–1,Fulham,Middlesbrough,Y,FW,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/a382787d/Fulham-U23-Middlesbrough-U23-December-11-2020-Premier-League-2----Division-2
+7,2020-12-21,Mon,PL2 — Div. 2,Matchweek 12,Away,L 1–7,Fulham,Leeds United,Y,AM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/06afebb8/Leeds-United-U23-Fulham-U23-December-21-2020-Premier-League-2----Division-2
+8,2021-01-18,Mon,PL2 — Div. 2,Matchweek 14,Away,W 3–2,Fulham,Crystal Palace,Y,AM,90,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ae88886c/Crystal-Palace-U23-Fulham-U23-January-18-2021-Premier-League-2----Division-2
+9,2021-01-24,Sun,FA Cup,Fourth round proper,Home,L 0–3,Fulham,Burnley,N,,9,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/05c9adfe/Fulham-Burnley-January-24-2021-FA-Cup
+10,2021-02-05,Fri,PL2 — Div. 2,Matchweek 17,Away,D 0–0,Fulham,Norwich City,Y,LM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/897a8fa8/Norwich-City-U23-Fulham-U23-February-5-2021-Premier-League-2----Division-2
+11,2021-02-19,Fri,PL2 — Div. 2,Matchweek 6,Home,W 2–0,Fulham,Sunderland,Y,AM,90,2,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/073cf809/Fulham-U23-Sunderland-U23-February-19-2021-Premier-League-2----Division-2
+12,2021-03-19,Fri,PL2 — Div. 2,Matchweek 22,Home,L 1–4,Fulham,Burnley,Y,LM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/352ac4fa/Fulham-U23-Burnley-U23-March-19-2021-Premier-League-2----Division-2
+13,2021-04-09,Fri,PL2 — Div. 2,Matchweek 23,Home,W 4–1,Fulham,Aston Villa,Y,AM,86,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d4fcfe9a/Fulham-U23-Aston-Villa-U23-April-9-2021-Premier-League-2----Division-2
+14,2021-04-26,Mon,PL2 — Div. 2,Matchweek 25,Home,D 1–1,Fulham,Leeds United,Y,AM,61,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/40803845/Fulham-U23-Leeds-United-U23-April-26-2021-Premier-League-2----Division-2
+15,2021-05-01,Sat,Premier League,Matchweek 34,Away,L 0–2,Fulham,Chelsea,N,DM,13,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,1,0,/en/matches/44d49bd5/Chelsea-Fulham-May-1-2021-Premier-League
+16,2021-05-15,Sat,Premier League,Matchweek 36,Away,L 1–3,Fulham,Southampton,Y,"FW,WB",90,1,0,0,0,3,3,0,0,45,4,0,1,0.4,0.4,0.1,4,0,23,30,76.7,3,28,3,5,5,/en/matches/34739ed7/Southampton-Fulham-May-15-2021-Premier-League
+17,2021-05-18,Tue,Premier League,Matchweek 37,Away,D 1–1,Fulham,Manchester Utd,Y,"AM,FW",62,0,0,0,0,2,2,0,0,27,2,0,1,0.5,0.5,0.0,1,0,9,14,64.3,0,14,3,2,1,/en/matches/d8018048/Manchester-United-Fulham-May-18-2021-Premier-League
+18,2021-05-23,Sun,Premier League,Matchweek 38,Home,L 0–2,Fulham,Newcastle Utd,Y,AM,90,0,0,0,0,4,0,0,0,51,3,1,0,0.2,0.2,0.3,3,0,31,39,79.5,3,39,4,2,2,/en/matches/f966eee0/Fulham-Newcastle-United-May-23-2021-Premier-League

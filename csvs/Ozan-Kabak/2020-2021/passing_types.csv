@@ -1,10 +1,39 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2021-02-07,Sat,Matchweek 25,Home,L 0–2,Liverpool,Everton,Y,CB,90,86,85,1,1,0,0,0,0,0,0,0,0,80,0,0,/en/matches/e4ac45fb/Merseyside-Derby-Liverpool-Everton-February-20-2021-Premier-League
-1,2021-02-07,Sun,Matchweek 26,Away,W 2–0,Liverpool,Sheffield Utd,Y,CB,90,73,73,0,0,0,0,0,0,0,0,0,0,58,0,1,/en/matches/3826d9aa/Sheffield-United-Liverpool-February-28-2021-Premier-League
-2,2021-02-07,Thu,Matchweek 29,Home,L 0–1,Liverpool,Chelsea,Y,CB,90,73,72,1,0,0,1,0,1,0,0,0,0,67,0,0,/en/matches/86920e88/Liverpool-Chelsea-March-4-2021-Premier-League
-3,2021-02-07,,,,,,,,,,,,,,,,,,,,,,,,,
-4,2021-02-07,Mon,Matchweek 28,Away,W 1–0,Liverpool,Wolves,Y,CB,90,41,39,2,2,0,0,0,0,0,0,0,0,36,0,0,/en/matches/ad3063c2/Wolverhampton-Wanderers-Liverpool-March-15-2021-Premier-League
-5,2021-02-07,Sat,Matchweek 30,Away,W 3–0,Liverpool,Arsenal,Y,CB,83,80,80,0,0,0,1,0,0,0,0,0,0,71,0,0,/en/matches/562d1981/Arsenal-Liverpool-April-3-2021-Premier-League
-6,2021-02-07,Sat,Matchweek 31,Home,W 2–1,Liverpool,Aston Villa,Y,CB,88,66,64,2,2,0,0,0,0,0,0,0,0,54,0,0,/en/matches/20bdebdc/Liverpool-Aston-Villa-April-10-2021-Premier-League
-7,2021-02-07,Mon,Matchweek 32,Away,D 1–1,Liverpool,Leeds United,Y,CB,90,37,34,1,1,0,0,0,0,0,0,0,0,30,2,0,/en/matches/6c0666e6/Leeds-United-Liverpool-April-19-2021-Premier-League
-8,2021-02-07,Sat,Matchweek 33,Home,D 1–1,Liverpool,Newcastle Utd,Y,CB,90,81,79,2,1,0,0,0,1,0,0,0,0,76,0,0,/en/matches/81e8aaf4/Liverpool-Newcastle-United-April-24-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-06,Sun,UEFA Nations League,League B,Away,D 0–0,tr Türkiye,rs Serbia,Y,CB,90,0,0,0,0,1,0,1,0,,,4,,,,,,,,,,,,,,,/en/matches/2b8c2420/Serbia-Turkiye-September-6-2020-UEFA-Nations-League
+1,2020-09-18,Fri,Bundesliga,Matchweek 1,Away,L 0–8,Schalke 04,Bayern Munich,Y,CB,90,0,0,0,0,0,0,1,0,47,2,0,0,0.0,0.0,0.0,0,0,37,39,94.9,4,23,0,6,4,/en/matches/11678092/Bayern-Munich-Schalke-04-September-18-2020-Bundesliga
+2,2020-09-26,Sat,Bundesliga,Matchweek 2,Home,L 1–3,Schalke 04,Werder Bremen,Y,CB,83,0,0,0,0,0,0,2,1,64,1,1,1,0.0,0.0,0.0,2,0,45,51,88.2,3,39,0,2,2,/en/matches/075c3255/Schalke-04-Werder-Bremen-September-26-2020-Bundesliga
+3,2020-10-07,Wed,Friendlies (M),Friendlies (M),Away,D 3–3,tr Türkiye,de Germany,N,,16,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/c693c08e/Germany-Turkiye-October-7-2020-Friendlies-M
+4,2020-10-11,Sun,UEFA Nations League,League B,Away,D 1–1,tr Türkiye,ru Russia,Y,CB,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/8fbbf3e8/Russia-Turkiye-October-11-2020-UEFA-Nations-League
+5,2020-11-07,Sat,Bundesliga,Matchweek 7,Away,D 2–2,Schalke 04,Mainz 05,Y,CB,80,0,0,0,0,4,0,1,0,76,0,0,2,0.5,0.5,0.1,3,0,59,64,92.2,9,59,2,3,2,/en/matches/f12d89c7/Mainz-05-Schalke-04-November-7-2020-Bundesliga
+6,2020-11-11,Wed,Friendlies (M),Friendlies (M),Home,D 3–3,tr Türkiye,hr Croatia,Y,CB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/b63e435c/Turkiye-Croatia-November-11-2020-Friendlies-M
+7,2020-11-15,Sun,UEFA Nations League,League B,Home,W 3–2,tr Türkiye,ru Russia,N,,27,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/4de26b78/Turkiye-Russia-November-15-2020-UEFA-Nations-League
+8,2020-11-18,Wed,UEFA Nations League,League B,Away,L 0–2,tr Türkiye,hu Hungary,Y,CB,90,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/646580bb/Hungary-Turkiye-November-18-2020-UEFA-Nations-League
+9,2020-11-28,Sat,Bundesliga,Matchweek 9,Away,L 1–4,Schalke 04,M'Gladbach,Y,CB,90,0,0,0,0,0,0,0,0,56,0,1,2,0.0,0.0,0.0,0,0,37,42,88.1,2,35,1,4,2,/en/matches/56d26e32/Monchengladbach-Schalke-04-November-28-2020-Bundesliga
+10,2020-12-06,Sun,Bundesliga,Matchweek 10,Home,L 0–3,Schalke 04,Leverkusen,Y,CB,90,0,0,0,0,2,0,0,0,38,0,1,1,0.1,0.1,0.0,1,0,23,30,76.7,3,23,1,0,0,/en/matches/eee4567b/Schalke-04-Bayer-Leverkusen-December-6-2020-Bundesliga
+11,2020-12-13,Sun,Bundesliga,Matchweek 11,Away,D 2–2,Schalke 04,Augsburg,Y,CB,90,0,0,0,0,0,0,1,0,78,0,2,1,0.0,0.0,0.0,1,0,61,70,87.1,5,57,1,3,2,/en/matches/1be1089b/Augsburg-Schalke-04-December-13-2020-Bundesliga
+12,2020-12-16,Wed,Bundesliga,Matchweek 12,Home,L 0–2,Schalke 04,Freiburg,Y,CB,90,0,0,0,0,1,0,0,0,91,1,0,0,0.0,0.0,0.0,1,0,71,81,87.7,3,68,0,0,0,/en/matches/71693047/Schalke-04-Freiburg-December-16-2020-Bundesliga
+13,2020-12-19,Sat,Bundesliga,Matchweek 13,Home,L 0–1,Schalke 04,Arminia,Y,CB,90,0,0,0,0,1,0,0,0,51,3,3,0,0.0,0.0,0.0,0,0,28,34,82.4,3,26,0,2,1,/en/matches/844cb66a/Schalke-04-Arminia-December-19-2020-Bundesliga
+14,2021-01-02,Sat,Bundesliga,Matchweek 14,Away,L 0–3,Schalke 04,Hertha BSC,Y,CB,90,0,0,0,0,0,0,0,0,40,2,0,3,0.0,0.0,0.0,2,0,23,28,82.1,1,17,0,0,0,/en/matches/fa99b883/Hertha-BSC-Schalke-04-January-2-2021-Bundesliga
+15,2021-01-09,Sat,Bundesliga,Matchweek 15,Home,W 4–0,Schalke 04,Hoffenheim,Y,CB,90,0,0,0,0,1,0,1,0,51,1,0,2,0.0,0.0,0.1,1,0,36,43,83.7,4,33,1,1,1,/en/matches/f00e265e/Schalke-04-Hoffenheim-January-9-2021-Bundesliga
+16,2021-01-17,Sun,Bundesliga,Matchweek 16,Away,L 1–3,Schalke 04,Eint Frankfurt,Y,CB,90,0,0,0,0,0,0,0,0,34,1,2,2,0.0,0.0,0.0,0,0,15,22,68.2,1,19,0,0,0,/en/matches/818dc8f0/Eintracht-Frankfurt-Schalke-04-January-17-2021-Bundesliga
+17,2021-01-20,Wed,Bundesliga,Matchweek 17,Home,L 1–2,Schalke 04,Köln,Y,CB,90,0,0,0,0,1,0,0,0,94,2,1,1,0.1,0.1,0.1,3,0,71,80,88.8,6,67,1,4,3,/en/matches/291968f3/Schalke-04-Koln-January-20-2021-Bundesliga
+18,2021-01-24,Sun,Bundesliga,Matchweek 18,Home,L 0–4,Schalke 04,Bayern Munich,Y,CB,90,0,0,0,0,2,0,0,0,39,0,1,3,0.2,0.2,0.0,0,0,25,27,92.6,3,14,1,2,1,/en/matches/515026cb/Schalke-04-Bayern-Munich-January-24-2021-Bundesliga
+19,2021-01-30,Sat,Bundesliga,Matchweek 19,Away,D 1–1,Schalke 04,Werder Bremen,Y,CB,90,0,0,0,0,0,0,0,0,92,4,1,2,0.0,0.0,0.0,0,0,73,77,94.8,7,58,1,1,0,/en/matches/975c5e67/Werder-Bremen-Schalke-04-January-30-2021-Bundesliga
+20,2021-02-13,Sat,Premier League,Matchweek 24,Away,L 1–3,Liverpool,Leicester City,Y,CB,90,0,0,0,0,0,0,1,0,58,3,0,1,0.0,0.0,0.0,0,0,48,51,94.1,3,37,1,0,0,/en/matches/666f6961/Leicester-City-Liverpool-February-13-2021-Premier-League
+21,2021-02-16,Tue,Champions Lg,Round of 16,Away,W 2–0,eng Liverpool,de RB Leipzig,Y,CB,90,0,0,0,0,0,0,1,0,64,4,3,2,0.0,0.0,0.0,0,0,43,51,84.3,1,40,0,1,1,/en/matches/a986c2fd/RB-Leipzig-Liverpool-February-16-2021-Champions-League
+22,2021-02-20,Sat,Premier League,Matchweek 25,Home,L 0–2,Liverpool,Everton,Y,CB,90,0,0,0,0,0,0,1,0,95,2,3,0,0.0,0.0,0.0,0,0,80,86,93.0,3,60,0,0,0,/en/matches/e4ac45fb/Merseyside-Derby-Liverpool-Everton-February-20-2021-Premier-League
+23,2021-02-28,Sun,Premier League,Matchweek 26,Away,W 2–0,Liverpool,Sheffield Utd,Y,CB,90,0,0,0,0,0,0,0,0,80,3,0,0,0.0,0.0,0.0,0,0,58,73,79.5,2,54,0,0,0,/en/matches/3826d9aa/Sheffield-United-Liverpool-February-28-2021-Premier-League
+24,2021-03-04,Thu,Premier League,Matchweek 29,Home,L 0–1,Liverpool,Chelsea,Y,CB,90,0,0,0,0,0,0,0,0,87,1,2,1,0.0,0.0,0.0,1,0,67,73,91.8,2,63,0,0,0,/en/matches/86920e88/Liverpool-Chelsea-March-4-2021-Premier-League
+25,2021-03-10,Wed,Champions Lg,Round of 16,Home,W 2–0,eng Liverpool,de RB Leipzig,Y,CB,90,0,0,0,0,0,0,0,0,42,1,2,1,0.0,0.0,0.0,0,0,27,35,77.1,1,22,0,1,1,/en/matches/0120c1ad/Liverpool-RB-Leipzig-March-10-2021-Champions-League
+26,2021-03-15,Mon,Premier League,Matchweek 28,Away,W 1–0,Liverpool,Wolves,Y,CB,90,0,0,0,0,1,0,0,0,54,2,3,0,0.1,0.1,0.0,0,0,36,41,87.8,3,28,0,1,1,/en/matches/ad3063c2/Wolverhampton-Wanderers-Liverpool-March-15-2021-Premier-League
+27,2021-03-24,Wed,WCQ,First round,Home,W 4–2,tr Türkiye,nl Netherlands,Y,CB,90,0,0,0,0,0,0,1,0,,,3,,,,,,,,,,,,,,,/en/matches/610e3a27/Turkiye-Netherlands-March-24-2021-WCQ----UEFA-M
+28,2021-03-27,Sat,WCQ,First round,Away,W 3–0,tr Türkiye,no Norway,N,,5,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/cc335320/Norway-Turkiye-March-27-2021-WCQ----UEFA-M
+29,2021-03-30,Tue,WCQ,First round,Home,D 3–3,tr Türkiye,lv Latvia,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/220205cb/Turkiye-Latvia-March-30-2021-WCQ----UEFA-M
+30,2021-04-03,Sat,Premier League,Matchweek 30,Away,W 3–0,Liverpool,Arsenal,Y,CB,83,0,0,0,0,0,0,0,0,81,0,0,0,0.0,0.0,0.0,1,0,71,80,88.8,1,65,0,0,0,/en/matches/562d1981/Arsenal-Liverpool-April-3-2021-Premier-League
+31,2021-04-06,Tue,Champions Lg,Quarter-finals,Away,L 1–3,eng Liverpool,es Real Madrid,Y,CB,80,0,0,0,0,0,0,0,0,71,1,1,3,0.0,0.0,0.0,0,0,56,64,87.5,1,51,2,0,0,/en/matches/70748c34/Real-Madrid-Liverpool-April-6-2021-Champions-League
+32,2021-04-10,Sat,Premier League,Matchweek 31,Home,W 2–1,Liverpool,Aston Villa,Y,CB,88,0,0,0,0,0,0,0,0,69,1,0,0,0.0,0.0,0.0,0,0,54,66,81.8,1,50,0,1,1,/en/matches/20bdebdc/Liverpool-Aston-Villa-April-10-2021-Premier-League
+33,2021-04-14,Wed,Champions Lg,Quarter-finals,Home,D 0–0,eng Liverpool,es Real Madrid,Y,CB,59,0,0,0,0,1,0,0,0,55,0,0,4,0.1,0.1,0.0,1,0,42,50,84.0,4,36,0,1,1,/en/matches/1af472a2/Liverpool-Real-Madrid-April-14-2021-Champions-League
+34,2021-04-19,Mon,Premier League,Matchweek 32,Away,D 1–1,Liverpool,Leeds United,Y,CB,90,0,0,0,0,0,0,0,0,51,2,2,0,0.0,0.0,0.0,1,0,30,37,81.1,1,30,1,3,1,/en/matches/6c0666e6/Leeds-United-Liverpool-April-19-2021-Premier-League
+35,2021-04-24,Sat,Premier League,Matchweek 33,Home,D 1–1,Liverpool,Newcastle Utd,Y,CB,90,0,0,0,0,0,0,1,0,94,5,2,0,0.0,0.0,0.0,0,0,76,81,93.8,4,56,1,0,0,/en/matches/81e8aaf4/Liverpool-Newcastle-United-April-24-2021-Premier-League
+36,2021-05-31,Mon,Friendlies (M),Friendlies (M),Home,D 0–0,tr Türkiye,gn Guinea,Y,CB,85,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d141d77a/Turkiye-Guinea-May-31-2021-Friendlies-M
+37,2021-06-03,Thu,Friendlies (M),Friendlies (M),Home,W 2–0,tr Türkiye,md Moldova,N,,22,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/f842db0b/Turkiye-Moldova-June-3-2021-Friendlies-M

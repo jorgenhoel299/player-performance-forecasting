@@ -1,35 +1,26 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2019-08-10,Sat,Matchweek 3,Home,L 0–2,Brighton,Southampton,Y,CB,90,53,50,3,2,0,2,0,1,0,0,0,0,39,0,2,/en/matches/baece203/Brighton-and-Hove-Albion-Southampton-August-24-2019-Premier-League
-1,2019-08-10,Sat,Matchweek 4,Away,L 0–4,Brighton,Manchester City,N,"On matchday squad, but did not play",/en/matches/5b9865ad/Manchester-City-Brighton-and-Hove-Albion-August-31-2019-Premier-League,,,,,,,,,,,,,,,,
-2,2019-08-10,Sat,Matchweek 5,Home,D 1–1,Brighton,Burnley,Y,CB,90,40,37,3,3,0,0,0,0,0,0,0,0,29,0,0,/en/matches/1d3bbc27/Brighton-and-Hove-Albion-Burnley-September-14-2019-Premier-League
-3,2019-08-10,Sat,Matchweek 6,Away,D 0–0,Brighton,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/966fb8b0/Newcastle-United-Brighton-and-Hove-Albion-September-21-2019-Premier-League,,,,,,,,,,,,,,,,
-4,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2019-08-10,Sat,Matchweek 9,Away,L 1–2,Brighton,Aston Villa,N,CB,21,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0,/en/matches/34685c72/Aston-Villa-Brighton-and-Hove-Albion-October-19-2019-Premier-League
-6,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,,
-7,2019-08-10,Sat,Matchweek 11,Home,W 2–0,Brighton,Norwich City,N,CB,55,36,36,0,0,0,0,0,0,0,0,0,0,30,0,0,/en/matches/21f39009/Brighton-and-Hove-Albion-Norwich-City-November-2-2019-Premier-League
-8,2019-08-10,Sun,Matchweek 12,Away,L 1–3,Brighton,Manchester Utd,Y,CB,90,45,45,0,0,0,0,0,0,0,0,0,0,40,0,0,/en/matches/014bbabe/Manchester-United-Brighton-and-Hove-Albion-November-10-2019-Premier-League
-9,2019-08-10,Sat,Matchweek 13,Home,L 0–2,Brighton,Leicester City,Y,CB,90,36,36,0,0,0,2,0,0,0,0,0,0,32,0,0,/en/matches/d0f6bac9/Brighton-and-Hove-Albion-Leicester-City-November-23-2019-Premier-League
-10,2019-08-10,Sat,Matchweek 14,Away,L 1–2,Brighton,Liverpool,N,"On matchday squad, but did not play",/en/matches/2c240ae6/Liverpool-Brighton-and-Hove-Albion-November-30-2019-Premier-League,,,,,,,,,,,,,,,,
-11,2019-08-10,Thu,Matchweek 15,Away,W 2–1,Brighton,Arsenal,N,CB,3,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,/en/matches/372828cb/Arsenal-Brighton-and-Hove-Albion-December-5-2019-Premier-League
-12,2019-08-10,Sun,Matchweek 16,Home,D 2–2,Brighton,Wolves,N,"On matchday squad, but did not play",/en/matches/daad5806/Brighton-and-Hove-Albion-Wolverhampton-Wanderers-December-8-2019-Premier-League,,,,,,,,,,,,,,,,
-13,2019-08-10,Mon,Matchweek 17,Away,D 1–1,Brighton,Crystal Palace,N,CB,6,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,/en/matches/1163ec4a/Crystal-Palace-Brighton-and-Hove-Albion-December-16-2019-Premier-League
-14,2019-08-10,Sat,Matchweek 18,Home,L 0–1,Brighton,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/473db5a3/Brighton-and-Hove-Albion-Sheffield-United-December-21-2019-Premier-League,,,,,,,,,,,,,,,,
-15,2019-08-10,Thu,Matchweek 19,Away,L 1–2,Brighton,Tottenham,Y,CB,90,48,43,5,3,0,2,0,2,0,0,0,0,41,0,0,/en/matches/eebe09b9/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League
-16,2019-08-10,Sat,Matchweek 20,Home,W 2–0,Brighton,Bournemouth,Y,CB,90,65,62,3,2,0,1,0,1,0,0,0,0,56,0,0,/en/matches/d7b72d7f/Brighton-and-Hove-Albion-Bournemouth-December-28-2019-Premier-League
-17,2019-08-10,Wed,Matchweek 21,Home,D 1–1,Brighton,Chelsea,N,"On matchday squad, but did not play",/en/matches/9b72407a/Brighton-and-Hove-Albion-Chelsea-January-1-2020-Premier-League,,,,,,,,,,,,,,,,
-18,2019-08-10,Sat,Matchweek 22,Away,L 0–1,Brighton,Everton,Y,CB,90,36,34,1,1,0,0,0,0,0,0,0,0,27,1,1,/en/matches/61cc2ca5/Everton-Brighton-and-Hove-Albion-January-11-2020-Premier-League
-19,2019-08-10,Sat,Matchweek 23,Home,D 1–1,Brighton,Aston Villa,N,"On matchday squad, but did not play",/en/matches/bd044bad/Brighton-and-Hove-Albion-Aston-Villa-January-18-2020-Premier-League,,,,,,,,,,,,,,,,
-20,2019-08-10,Tue,Matchweek 24,Away,L 1–3,Brighton,Bournemouth,N,"On matchday squad, but did not play",/en/matches/ba03a070/Bournemouth-Brighton-and-Hove-Albion-January-21-2020-Premier-League,,,,,,,,,,,,,,,,
-21,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,,
-22,2019-08-10,Sat,Matchweek 26,Home,D 1–1,Brighton,Watford,Y,CB,90,80,76,4,4,0,1,1,0,0,0,0,0,63,0,0,/en/matches/111b8b45/Brighton-and-Hove-Albion-Watford-February-8-2020-Premier-League
-23,2019-08-10,Sat,Matchweek 27,Away,D 1–1,Brighton,Sheffield Utd,Y,CB,90,26,25,1,1,0,0,0,0,0,0,0,0,18,0,0,/en/matches/c24b02bd/Sheffield-United-Brighton-and-Hove-Albion-February-22-2020-Premier-League
-24,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,,
-25,2019-08-10,Sat,Matchweek 29,Away,D 0–0,Brighton,Wolves,N,"On matchday squad, but did not play",/en/matches/6a08610e/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-March-7-2020-Premier-League,,,,,,,,,,,,,,,,
-26,2019-08-10,Sat,Matchweek 30,Home,W 2–1,Brighton,Arsenal,N,"On matchday squad, but did not play",/en/matches/1abcdcde/Brighton-and-Hove-Albion-Arsenal-June-20-2020-Premier-League,,,,,,,,,,,,,,,,
-27,2019-08-10,Tue,Matchweek 31,Away,D 0–0,Brighton,Leicester City,N,CB,67,17,16,1,1,0,0,0,0,0,0,0,0,10,0,0,/en/matches/481a9a3a/Leicester-City-Brighton-and-Hove-Albion-June-23-2020-Premier-League
-28,2019-08-10,Tue,Matchweek 32,Home,L 0–3,Brighton,Manchester Utd,Y,CB,90,43,41,2,2,0,0,0,0,0,0,0,0,40,0,1,/en/matches/be321c59/Brighton-and-Hove-Albion-Manchester-United-June-30-2020-Premier-League
-29,2019-08-10,Sat,Matchweek 33,Away,W 1–0,Brighton,Norwich City,N,RB,1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,/en/matches/aa3a3540/Norwich-City-Brighton-and-Hove-Albion-July-4-2020-Premier-League
-30,2019-08-10,Wed,Matchweek 34,Home,L 1–3,Brighton,Liverpool,N,"On matchday squad, but did not play",/en/matches/3296482a/Brighton-and-Hove-Albion-Liverpool-July-8-2020-Premier-League,,,,,,,,,,,,,,,,
-31,2019-08-10,Sat,Matchweek 35,Home,L 0–5,Brighton,Manchester City,N,"On matchday squad, but did not play",/en/matches/a24d3d6b/Brighton-and-Hove-Albion-Manchester-City-July-11-2020-Premier-League,,,,,,,,,,,,,,,,
-32,2019-08-10,Thu,Matchweek 36,Away,D 1–1,Brighton,Southampton,N,"On matchday squad, but did not play",/en/matches/793f900e/Southampton-Brighton-and-Hove-Albion-July-16-2020-Premier-League,,,,,,,,,,,,,,,,
-33,2019-08-10,Mon,Matchweek 37,Home,D 0–0,Brighton,Newcastle Utd,N,RB,5,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,/en/matches/9defdd38/Brighton-and-Hove-Albion-Newcastle-United-July-20-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-10,Sat,Premier League,Matchweek 1,Away,W 3–0,Brighton,Watford,Y,CB,90,0,0,0,0,0,0,0,0,65,4,2,2,0.0,0.0,0.0,0,0,37,50,74.0,2,26,1,1,1,/en/matches/38111659/Watford-Brighton-and-Hove-Albion-August-10-2019-Premier-League
+1,2019-08-17,Sat,Premier League,Matchweek 2,Home,D 1–1,Brighton,West Ham,Y,CB,90,0,0,0,0,1,0,0,0,61,1,0,0,0.0,0.0,0.0,0,0,47,56,83.9,5,28,0,0,0,/en/matches/894d0ca5/Brighton-and-Hove-Albion-West-Ham-United-August-17-2019-Premier-League
+2,2019-08-24,Sat,Premier League,Matchweek 3,Home,L 0–2,Brighton,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,64,1,4,1,0.0,0.0,0.0,0,0,39,53,73.6,4,28,0,0,0,/en/matches/baece203/Brighton-and-Hove-Albion-Southampton-August-24-2019-Premier-League
+3,2019-09-05,Thu,UEFA Euro Qualifying,Group stage,Home,D 1–1,ie Rep. of Ireland,ch Switzerland,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/7fbf7cd5/Republic-of-Ireland-Switzerland-September-5-2019-UEFA-Euro-Qualifying
+4,2019-09-14,Sat,Premier League,Matchweek 5,Home,D 1–1,Brighton,Burnley,Y,CB,90,0,0,0,0,0,0,0,0,53,1,3,0,0.0,0.0,0.0,1,0,29,40,72.5,3,15,0,1,1,/en/matches/1d3bbc27/Brighton-and-Hove-Albion-Burnley-September-14-2019-Premier-League
+5,2019-09-25,Wed,EFL Cup,Third round,Home,L 1–3,Brighton,Aston Villa,Y*,CB,71,0,0,0,0,1,0,0,0,,,3,,,,,,,,,,,,,,,/en/matches/61b05292/Brighton-and-Hove-Albion-Aston-Villa-September-25-2019-EFL-Cup
+6,2019-10-12,Sat,UEFA Euro Qualifying,Group stage,Away,D 0–0,ie Rep. of Ireland,ge Georgia,Y,CB,90,0,0,0,0,1,1,0,0,,,3,,,,,,,,,,,,,,,/en/matches/f93ebffc/Georgia-Republic-of-Ireland-October-12-2019-UEFA-Euro-Qualifying
+7,2019-10-15,Tue,UEFA Euro Qualifying,Group stage,Away,L 0–2,ie Rep. of Ireland,ch Switzerland,Y,CB,90,0,0,0,0,2,1,1,0,,,1,,,,,,,,,,,,,,,/en/matches/581ce6e7/Switzerland-Republic-of-Ireland-October-15-2019-UEFA-Euro-Qualifying
+8,2019-10-19,Sat,Premier League,Matchweek 9,Away,L 1–2,Brighton,Aston Villa,N,CB,21,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,2,0,0,0,/en/matches/34685c72/Aston-Villa-Brighton-and-Hove-Albion-October-19-2019-Premier-League
+9,2019-11-02,Sat,Premier League,Matchweek 11,Home,W 2–0,Brighton,Norwich City,N,CB,55,1,0,0,0,1,1,0,0,40,0,1,0,0.3,0.3,0.0,1,0,30,36,83.3,2,28,1,0,0,/en/matches/21f39009/Brighton-and-Hove-Albion-Norwich-City-November-2-2019-Premier-League
+10,2019-11-10,Sun,Premier League,Matchweek 12,Away,L 1–3,Brighton,Manchester Utd,Y,CB,90,0,0,0,0,1,0,0,0,59,2,4,3,0.3,0.3,0.0,0,0,40,45,88.9,2,32,0,0,0,/en/matches/014bbabe/Manchester-United-Brighton-and-Hove-Albion-November-10-2019-Premier-League
+11,2019-11-18,Mon,UEFA Euro Qualifying,Group stage,Home,D 1–1,ie Rep. of Ireland,dk Denmark,Y*,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/63439a80/Republic-of-Ireland-Denmark-November-18-2019-UEFA-Euro-Qualifying
+12,2019-11-23,Sat,Premier League,Matchweek 13,Home,L 0–2,Brighton,Leicester City,Y,CB,90,0,0,0,0,2,0,0,0,41,0,1,0,0.3,0.3,0.0,0,0,32,36,88.9,3,23,0,0,0,/en/matches/d0f6bac9/Brighton-and-Hove-Albion-Leicester-City-November-23-2019-Premier-League
+13,2019-12-05,Thu,Premier League,Matchweek 15,Away,W 2–1,Brighton,Arsenal,N,CB,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0,/en/matches/372828cb/Arsenal-Brighton-and-Hove-Albion-December-5-2019-Premier-League
+14,2019-12-16,Mon,Premier League,Matchweek 17,Away,D 1–1,Brighton,Crystal Palace,N,CB,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0,/en/matches/1163ec4a/Crystal-Palace-Brighton-and-Hove-Albion-December-16-2019-Premier-League
+15,2019-12-26,Thu,Premier League,Matchweek 19,Away,L 1–2,Brighton,Tottenham,Y,CB,90,0,0,0,0,0,0,0,0,62,4,2,2,0.0,0.0,0.0,0,0,41,48,85.4,0,27,0,0,0,/en/matches/eebe09b9/Tottenham-Hotspur-Brighton-and-Hove-Albion-December-26-2019-Premier-League
+16,2019-12-28,Sat,Premier League,Matchweek 20,Home,W 2–0,Brighton,Bournemouth,Y,CB,90,0,0,0,0,0,0,0,0,69,1,0,0,0.0,0.0,0.0,1,0,56,65,86.2,2,45,0,0,0,/en/matches/d7b72d7f/Brighton-and-Hove-Albion-Bournemouth-December-28-2019-Premier-League
+17,2020-01-04,Sat,FA Cup,Third round,Home,L 0–1,Brighton,Sheffield Weds,Y,CB,90,0,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/d9c16c13/Brighton-and-Hove-Albion-Sheffield-Wednesday-January-4-2020-FA-Cup
+18,2020-01-11,Sat,Premier League,Matchweek 22,Away,L 0–1,Brighton,Everton,Y,CB,90,0,0,0,0,0,0,1,0,52,0,0,2,0.0,0.0,0.0,2,0,27,36,75.0,1,18,0,1,1,/en/matches/61cc2ca5/Everton-Brighton-and-Hove-Albion-January-11-2020-Premier-League
+19,2020-02-08,Sat,Premier League,Matchweek 26,Home,D 1–1,Brighton,Watford,Y,CB,90,0,0,0,0,0,0,0,0,93,0,3,0,0.0,0.0,0.0,1,0,63,80,78.8,3,47,2,1,0,/en/matches/111b8b45/Brighton-and-Hove-Albion-Watford-February-8-2020-Premier-League
+20,2020-02-22,Sat,Premier League,Matchweek 27,Away,D 1–1,Brighton,Sheffield Utd,Y,CB,90,0,0,0,0,1,0,0,0,48,3,0,0,0.1,0.1,0.1,1,0,18,26,69.2,0,9,0,0,0,/en/matches/c24b02bd/Sheffield-United-Brighton-and-Hove-Albion-February-22-2020-Premier-League
+21,2020-06-23,Tue,Premier League,Matchweek 31,Away,D 0–0,Brighton,Leicester City,N,CB,67,0,0,0,0,0,0,1,0,24,1,1,0,0.0,0.0,0.0,0,0,10,17,58.8,0,3,0,0,0,/en/matches/481a9a3a/Leicester-City-Brighton-and-Hove-Albion-June-23-2020-Premier-League
+22,2020-06-30,Tue,Premier League,Matchweek 32,Home,L 0–3,Brighton,Manchester Utd,Y,CB,90,0,0,0,0,1,0,0,0,53,0,0,1,0.1,0.1,0.0,0,0,40,43,93.0,2,22,0,0,0,/en/matches/be321c59/Brighton-and-Hove-Albion-Manchester-United-June-30-2020-Premier-League
+23,2020-07-04,Sat,Premier League,Matchweek 33,Away,W 1–0,Brighton,Norwich City,N,RB,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,/en/matches/aa3a3540/Norwich-City-Brighton-and-Hove-Albion-July-4-2020-Premier-League
+24,2020-07-20,Mon,Premier League,Matchweek 37,Home,D 0–0,Brighton,Newcastle Utd,N,RB,5,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0,/en/matches/9defdd38/Brighton-and-Hove-Albion-Newcastle-United-July-20-2020-Premier-League

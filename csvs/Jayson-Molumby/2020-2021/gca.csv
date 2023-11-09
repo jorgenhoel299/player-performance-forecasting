@@ -1,8 +1,31 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2020-09-26,Sat,Matchweek 9,Away,W 2–1,Brighton,Aston Villa,N,CM,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/dea0df40/Aston-Villa-Brighton-and-Hove-Albion-November-21-2020-Premier-League
-1,2020-09-26,Sat,Matchweek 10,Home,D 1–1,Brighton,Liverpool,N,"On matchday squad, but did not play",/en/matches/31baf354/Brighton-and-Hove-Albion-Liverpool-November-28-2020-Premier-League,,,,,,,,,,,,,,,
-2,2020-09-26,,,,,,,,,,,,,,,,,,,,,,,,
-3,2020-09-26,Sun,Matchweek 14,Home,D 1–1,Brighton,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/d1273e90/Brighton-and-Hove-Albion-Sheffield-United-December-20-2020-Premier-League,,,,,,,,,,,,,,,
-4,2020-09-26,,,,,,,,,,,,,,,,,,,,,,,,
-5,2020-09-26,Tue,Matchweek 16,Home,L 0–1,Brighton,Arsenal,N,"On matchday squad, but did not play",/en/matches/fdca0bef/Brighton-and-Hove-Albion-Arsenal-December-29-2020-Premier-League,,,,,,,,,,,,,,,
-6,2020-09-26,Sat,Matchweek 17,Home,D 3–3,Brighton,Wolves,N,"On matchday squad, but did not play",/en/matches/abeb80b7/Brighton-and-Hove-Albion-Wolverhampton-Wanderers-January-2-2021-Premier-League,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-06,Sun,UEFA Nations League,League B,Home,L 0–1,ie Rep. of Ireland,fi Finland,Y,CM,90,0,0,0,0,1,0,1,0,,,2,,,,,,,,,,,,,,,/en/matches/ad466f22/Republic-of-Ireland-Finland-September-6-2020-UEFA-Nations-League
+1,2020-09-17,Thu,EFL Cup,Second round,Home,W 4–0,Brighton,Portsmouth,Y,RB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/bf5d7181/Brighton-and-Hove-Albion-Portsmouth-September-17-2020-EFL-Cup
+2,2020-09-30,Wed,EFL Cup,Fourth round,Home,L 0–3,Brighton,Manchester Utd,Y,CM,80,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/310f1db8/Brighton-and-Hove-Albion-Manchester-United-September-30-2020-EFL-Cup
+3,2020-10-11,Sun,UEFA Nations League,League B,Home,D 0–0,ie Rep. of Ireland,wls Wales,Y,CM,88,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/cbe19e95/Republic-of-Ireland-Wales-October-11-2020-UEFA-Nations-League
+4,2020-10-14,Wed,UEFA Nations League,League B,Away,L 0–1,ie Rep. of Ireland,fi Finland,Y,CM,82,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/8a5aa090/Finland-Republic-of-Ireland-October-14-2020-UEFA-Nations-League
+5,2020-11-06,Fri,PL2 — Div. 1,Matchweek 8,Home,L 2–5,Brighton,Manchester Utd,Y,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/18363d11/Brighton-and-Hove-Albion-U23-Manchester-United-U23-November-6-2020-Premier-League-2----Division-1
+6,2020-11-12,Thu,Friendlies (M),Friendlies (M),Away,L 0–3,ie Rep. of Ireland,eng England,N,,20,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/035fe1c0/England-Republic-of-Ireland-November-12-2020-Friendlies-M
+7,2020-11-15,Sun,UEFA Nations League,League B,Away,L 0–1,ie Rep. of Ireland,wls Wales,Y,CM,75,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,/en/matches/c52b11de/Wales-Republic-of-Ireland-November-15-2020-UEFA-Nations-League
+8,2020-11-21,Sat,Premier League,Matchweek 9,Away,W 2–1,Brighton,Aston Villa,N,CM,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,/en/matches/dea0df40/Aston-Villa-Brighton-and-Hove-Albion-November-21-2020-Premier-League
+9,2020-11-30,Mon,PL2 — Div. 1,Matchweek 10,Away,W 1–0,Brighton,Southampton,Y*,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/e502c486/Southampton-U23-Brighton-and-Hove-Albion-U23-November-30-2020-Premier-League-2----Division-1
+10,2021-01-09,Sat,FA Cup,Third round proper,Away,L 1–4,Preston,Wycombe,Y,CM,74,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/5cb1e5ad/Wycombe-Wanderers-Preston-North-End-January-9-2021-FA-Cup
+11,2021-01-16,Sat,Championship,Matchweek 24,Away,L 0–2,Preston,Bristol City,N,"DM,FW",12,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,7,9,77.8,0,9,1,0,0,/en/matches/49e77489/Bristol-City-Preston-North-End-January-16-2021-Championship
+12,2021-01-20,Wed,Championship,Matchweek 25,Away,W 1–0,Preston,Birmingham City,Y,AM,85,0,1,0,0,0,0,0,0,28,3,0,0,0.0,0.0,0.1,1,1,17,20,85.0,2,11,1,1,1,/en/matches/e5e59709/Birmingham-City-Preston-North-End-January-20-2021-Championship
+13,2021-01-24,Sun,Championship,Matchweek 26,Home,D 0–0,Preston,Reading,Y,AM,79,0,0,0,0,1,0,1,0,47,5,0,1,0.0,0.0,0.1,2,0,26,36,72.2,2,24,1,2,1,/en/matches/0fb193a0/Preston-North-End-Reading-January-24-2021-Championship
+14,2021-01-30,Sat,Championship,Matchweek 27,Away,L 0–1,Preston,Sheffield Weds,Y,"AM,DM",77,0,0,0,0,1,0,0,0,57,1,3,0,0.0,0.0,0.2,1,0,34,44,77.3,5,29,3,2,1,/en/matches/864217c6/Sheffield-Wednesday-Preston-North-End-January-30-2021-Championship
+15,2021-02-06,Sat,Championship,Matchweek 28,Home,L 1–2,Preston,Rotherham Utd,Y,AM,65,0,0,0,0,1,0,0,0,21,0,0,0,0.0,0.0,0.1,4,0,16,17,94.1,0,12,1,2,2,/en/matches/8459cca8/Preston-North-End-Rotherham-United-February-6-2021-Championship
+16,2021-02-12,Fri,Championship,Matchweek 29,Away,W 2–1,Preston,Blackburn,N,FW,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,1,0,/en/matches/cf2c8c60/Blackburn-Rovers-Preston-North-End-February-12-2021-Championship
+17,2021-02-16,Tue,Championship,Matchweek 30,Home,L 0–1,Preston,Watford,Y,DM,90,0,0,0,0,0,0,0,0,45,2,1,0,0.0,0.0,0.0,0,0,23,33,69.7,3,13,0,2,0,/en/matches/ab4f6f73/Preston-North-End-Watford-February-16-2021-Championship
+18,2021-02-20,Sat,Championship,Matchweek 31,Away,L 0–4,Preston,Cardiff City,Y,CM,71,0,0,0,0,1,0,0,0,46,1,0,0,0.0,0.0,0.0,2,0,31,39,79.5,0,24,2,1,1,/en/matches/fc527e7a/Cardiff-City-Preston-North-End-February-20-2021-Championship
+19,2021-02-27,Sat,Championship,Matchweek 33,Home,W 3–0,Preston,Huddersfield,N,DM,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,/en/matches/1cec1d84/Preston-North-End-Huddersfield-Town-February-27-2021-Championship
+20,2021-03-02,Tue,Championship,Matchweek 34,Away,L 1–2,Preston,Millwall,Y,DM,90,0,0,0,0,0,0,1,0,47,4,1,0,0.0,0.0,0.0,1,1,25,34,73.5,0,17,0,0,0,/en/matches/e66c5efb/Millwall-Preston-North-End-March-2-2021-Championship
+21,2021-03-16,Tue,Championship,Matchweek 37,Away,L 0–2,Preston,Middlesbrough,N,"DM,LW",45,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,0,0,18,19,94.7,2,13,0,0,0,/en/matches/013723b4/Middlesbrough-Preston-North-End-March-16-2021-Championship
+22,2021-03-24,Wed,WCQ,First round,Away,L 2–3,ie Rep. of Ireland,rs Serbia,Y,CM,60,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/073563b0/Serbia-Republic-of-Ireland-March-24-2021-WCQ----UEFA-M
+23,2021-03-27,Sat,WCQ,First round,Home,L 0–1,ie Rep. of Ireland,lu Luxembourg,N,,3,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/11ecb103/Republic-of-Ireland-Luxembourg-March-27-2021-WCQ----UEFA-M
+24,2021-03-30,Tue,Friendlies (M),Friendlies (M),Away,D 1–1,ie Rep. of Ireland,qa Qatar,Y,RW,83,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/888a78b8/Qatar-Republic-of-Ireland-March-30-2021-Friendlies-M
+25,2021-04-02,Fri,Championship,Matchweek 39,Home,D 1–1,Preston,Norwich City,N,"AM,RM",34,0,0,0,0,0,0,0,0,19,0,0,2,0.0,0.0,0.0,0,0,9,13,69.2,2,8,1,0,0,/en/matches/a89c84a6/Preston-North-End-Norwich-City-April-2-2021-Championship
+26,2021-04-05,Mon,Championship,Matchweek 40,Away,W 1–0,Preston,Swansea City,N,AM,11,0,0,0,0,1,0,0,0,11,0,0,1,0.1,0.1,0.0,0,0,6,8,75.0,1,6,1,0,0,/en/matches/3610c645/Swansea-City-Preston-North-End-April-5-2021-Championship
+27,2021-04-10,Sat,Championship,Matchweek 41,Home,L 0–5,Preston,Brentford,N,AM,14,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,0,0,/en/matches/a6a75ba2/Preston-North-End-Brentford-April-10-2021-Championship
+28,2021-04-20,Tue,Championship,Matchweek 43,Home,W 3–0,Preston,Derby County,N,CM,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,/en/matches/31de7068/Preston-North-End-Derby-County-April-20-2021-Championship
+29,2021-06-08,Tue,Friendlies (M),Friendlies (M),Away,D 0–0,ie Rep. of Ireland,hu Hungary,N,,35,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/7493947f/Hungary-Republic-of-Ireland-June-8-2021-Friendlies-M

@@ -1,11 +1,5 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2021-01-13,Sun,Matchweek 24,Away,W 2–0,Fulham,Everton,N,"On matchday squad, but did not play",/en/matches/46f84386/Everton-Fulham-February-14-2021-Premier-League,,,,,,,,,,,,,,,,
-1,2021-01-13,Wed,Matchweek 17,Away,D 1–1,Fulham,Burnley,N,"On matchday squad, but did not play",/en/matches/6285d050/Burnley-Fulham-February-17-2021-Premier-League,,,,,,,,,,,,,,,,
-2,2021-01-13,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2021-01-13,Sun,Matchweek 26,Away,D 0–0,Fulham,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/2d530fe3/Crystal-Palace-Fulham-February-28-2021-Premier-League,,,,,,,,,,,,,,,,
-4,2021-01-13,Thu,Matchweek 33,Home,L 0–1,Fulham,Tottenham,N,"On matchday squad, but did not play",/en/matches/44b3d20c/Fulham-Tottenham-Hotspur-March-4-2021-Premier-League,,,,,,,,,,,,,,,,
-5,2021-01-13,Sun,Matchweek 27,Away,W 1–0,Fulham,Liverpool,N,"On matchday squad, but did not play",/en/matches/5826a836/Liverpool-Fulham-March-7-2021-Premier-League,,,,,,,,,,,,,,,,
-6,2021-01-13,Sat,Matchweek 28,Home,L 0–3,Fulham,Manchester City,N,"On matchday squad, but did not play",/en/matches/279b0eb5/Fulham-Manchester-City-March-13-2021-Premier-League,,,,,,,,,,,,,,,,
-7,2021-01-13,Fri,Matchweek 29,Home,L 1–2,Fulham,Leeds United,N,"On matchday squad, but did not play",/en/matches/05e3dd18/Fulham-Leeds-United-March-19-2021-Premier-League,,,,,,,,,,,,,,,,
-8,2021-01-13,Sun,Matchweek 30,Away,L 1–3,Fulham,Aston Villa,N,"On matchday squad, but did not play",/en/matches/a2d96ab5/Aston-Villa-Fulham-April-4-2021-Premier-League,,,,,,,,,,,,,,,,
-9,2021-01-13,Fri,Matchweek 31,Home,L 0–1,Fulham,Wolves,Y,CB,90,45,44,1,1,0,0,1,0,0,0,0,0,37,0,1,/en/matches/be1ee647/Fulham-Wolverhampton-Wanderers-April-9-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-01-09,Sat,FA Cup,Third round proper,Away,W 2–0,Fulham,QPR,Y,CB,67,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/75c17e4f/Queens-Park-Rangers-Fulham-January-9-2021-FA-Cup
+1,2021-02-19,Fri,PL2 — Div. 2,Matchweek 6,Home,W 2–0,Fulham,Sunderland,Y,CB,64,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/073cf809/Fulham-U23-Sunderland-U23-February-19-2021-Premier-League-2----Division-2
+2,2021-03-26,Fri,PL2 — Div. 2,Matchweek 18,Home,D 2–2,Fulham,Newcastle Utd,Y,CB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/cf1c904e/Fulham-U23-Newcastle-United-U23-March-26-2021-Premier-League-2----Division-2
+3,2021-04-09,Fri,Premier League,Matchweek 31,Home,L 0–1,Fulham,Wolves,Y,CB,90,0,0,0,0,0,0,0,0,54,3,2,0,0.0,0.0,0.0,1,0,37,45,82.2,3,14,0,0,0,/en/matches/be1ee647/Fulham-Wolverhampton-Wanderers-April-9-2021-Premier-League

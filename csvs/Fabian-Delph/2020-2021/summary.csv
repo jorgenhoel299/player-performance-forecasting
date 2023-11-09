@@ -1,18 +1,11 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,2020-10-03,Sun,Matchweek 6,Away,L 0–2,Everton,Southampton,N,"LB,DM",33,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,33,35,94.3,3,30,0,0,0,/en/matches/6439c025/Southampton-Everton-October-25-2020-Premier-League
-1,2020-10-03,Sun,Matchweek 7,Away,L 1–2,Everton,Newcastle Utd,Y,"LM,LB",90,0,0,0,0,1,0,0,0,122,1,1,1,0.0,0.0,0.0,2,0,99,111,89.2,6,71,2,3,1,/en/matches/448a43ee/Newcastle-United-Everton-November-1-2020-Premier-League
-2,2020-10-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2020-10-03,Sat,Matchweek 10,Home,L 0–1,Everton,Leeds United,N,"LM,LB",30,0,0,0,0,0,0,0,0,19,1,1,1,0.0,0.0,0.0,0,0,9,11,81.8,0,12,0,1,1,/en/matches/3eeb39c5/Everton-Leeds-United-November-28-2020-Premier-League
-4,2020-10-03,Sat,Matchweek 11,Away,D 1–1,Everton,Burnley,Y,LM,28,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,15,21,71.4,0,13,0,2,2,/en/matches/399c7e1c/Burnley-Everton-December-5-2020-Premier-League
-5,2020-10-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2020-10-03,Wed,Matchweek 22,Away,W 2–1,Everton,Leeds United,N,"On matchday squad, but did not play",/en/matches/d9b96ee1/Leeds-United-Everton-February-3-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,2020-10-03,Sat,Matchweek 23,Away,D 3–3,Everton,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/6504b158/Manchester-United-Everton-February-6-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2020-10-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9,2020-10-03,Wed,Matchweek 16,Home,L 1–3,Everton,Manchester City,N,"On matchday squad, but did not play",/en/matches/78270b8a/Everton-Manchester-City-February-17-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,2020-10-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11,2020-10-03,Fri,Matchweek 33,Away,W 1–0,Everton,Arsenal,N,"DM,CM",25,0,0,0,0,0,0,1,0,19,0,0,0,0.0,0.0,0.0,0,0,17,18,94.4,0,10,0,1,1,/en/matches/30f36320/Arsenal-Everton-April-23-2021-Premier-League
-12,2020-10-03,Sat,Matchweek 34,Home,L 1–2,Everton,Aston Villa,N,DM,21,0,0,0,0,0,0,0,0,22,2,1,0,0.0,0.0,0.0,2,0,14,17,82.4,0,15,0,1,1,/en/matches/2452619d/Everton-Aston-Villa-May-1-2021-Premier-League
-13,2020-10-03,Sun,Matchweek 35,Away,W 1–0,Everton,West Ham,N,LM,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,2,1,/en/matches/57632a35/West-Ham-United-Everton-May-9-2021-Premier-League
-14,2020-10-03,Thu,Matchweek 19,Away,D 0–0,Everton,Aston Villa,N,"On matchday squad, but did not play",/en/matches/b5b24fd8/Aston-Villa-Everton-May-13-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-15,2020-10-03,Sun,Matchweek 36,Home,L 0–1,Everton,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/707d5282/Everton-Sheffield-United-May-16-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-16,2020-10-03,Wed,Matchweek 37,Home,W 1–0,Everton,Wolves,N,"On matchday squad, but did not play",/en/matches/eb7bd01f/Everton-Wolverhampton-Wanderers-May-19-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-23,Wed,EFL Cup,Third round,Away,W 5–2,Everton,Fleetwood Town,Y,CM,61,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/70412de8/Fleetwood-Town-Everton-September-23-2020-EFL-Cup
+1,2020-09-30,Wed,EFL Cup,Fourth round,Home,W 4–1,Everton,West Ham,Y,CM,90,0,0,0,0,2,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/9219349f/Everton-West-Ham-United-September-30-2020-EFL-Cup
+2,2020-10-03,Sat,Premier League,Matchweek 4,Home,W 4–2,Everton,Brighton,N,CM,33,0,0,0,0,0,0,0,0,25,1,1,0,0.0,0.0,0.0,0,0,17,19,89.5,2,18,0,0,0,/en/matches/3cbb397e/Everton-Brighton-and-Hove-Albion-October-3-2020-Premier-League
+3,2020-10-25,Sun,Premier League,Matchweek 6,Away,L 0–2,Everton,Southampton,N,"LB,DM",33,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,33,35,94.3,3,30,0,0,0,/en/matches/6439c025/Southampton-Everton-October-25-2020-Premier-League
+4,2020-11-01,Sun,Premier League,Matchweek 7,Away,L 1–2,Everton,Newcastle Utd,Y,"LM,LB",90,0,0,0,0,1,0,0,0,122,1,1,1,0.0,0.0,0.0,2,0,99,111,89.2,6,71,2,3,1,/en/matches/448a43ee/Newcastle-United-Everton-November-1-2020-Premier-League
+5,2020-11-28,Sat,Premier League,Matchweek 10,Home,L 0–1,Everton,Leeds United,N,"LM,LB",30,0,0,0,0,0,0,0,0,19,1,1,1,0.0,0.0,0.0,0,0,9,11,81.8,0,12,0,1,1,/en/matches/3eeb39c5/Everton-Leeds-United-November-28-2020-Premier-League
+6,2020-12-05,Sat,Premier League,Matchweek 11,Away,D 1–1,Everton,Burnley,Y,LM,28,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,15,21,71.4,0,13,0,2,2,/en/matches/399c7e1c/Burnley-Everton-December-5-2020-Premier-League
+7,2021-04-23,Fri,Premier League,Matchweek 33,Away,W 1–0,Everton,Arsenal,N,"DM,CM",25,0,0,0,0,0,0,1,0,19,0,0,0,0.0,0.0,0.0,0,0,17,18,94.4,0,10,0,1,1,/en/matches/30f36320/Arsenal-Everton-April-23-2021-Premier-League
+8,2021-05-01,Sat,Premier League,Matchweek 34,Home,L 1–2,Everton,Aston Villa,N,DM,21,0,0,0,0,0,0,0,0,22,2,1,0,0.0,0.0,0.0,2,0,14,17,82.4,0,15,0,1,1,/en/matches/2452619d/Everton-Aston-Villa-May-1-2021-Premier-League
+9,2021-05-09,Sun,Premier League,Matchweek 35,Away,W 1–0,Everton,West Ham,N,LM,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,2,1,/en/matches/57632a35/West-Ham-United-Everton-May-9-2021-Premier-League

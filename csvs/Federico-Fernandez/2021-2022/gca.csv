@@ -1,21 +1,8 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2021-08-15,Sat,Matchweek 3,Home,D 2–2,Newcastle Utd,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/d81af076/Newcastle-United-Southampton-August-28-2021-Premier-League
-1,2021-08-15,Sat,Matchweek 4,Away,L 1–4,Newcastle Utd,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/7794fd6c/Manchester-United-Newcastle-United-September-11-2021-Premier-League,,,,,,,,,,,,,,,
-2,2021-08-15,Fri,Matchweek 5,Home,D 1–1,Newcastle Utd,Leeds United,N,"On matchday squad, but did not play",/en/matches/aad7d38a/Newcastle-United-Leeds-United-September-17-2021-Premier-League,,,,,,,,,,,,,,,
-3,2021-08-15,Sat,Matchweek 6,Away,D 1–1,Newcastle Utd,Watford,Y*,CB,90,2,0,0,0,2,0,0,0,0,0,0,0,0,0,/en/matches/70fda3e9/Watford-Newcastle-United-September-25-2021-Premier-League
-4,2021-08-15,Sat,Matchweek 7,Away,L 1–2,Newcastle Utd,Wolves,Y*,CB,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/00dcbdaa/Wolverhampton-Wanderers-Newcastle-United-October-2-2021-Premier-League
-5,2021-08-15,Sun,Matchweek 8,Home,L 2–3,Newcastle Utd,Tottenham,N,"On matchday squad, but did not play",/en/matches/4bd69343/Newcastle-United-Tottenham-Hotspur-October-17-2021-Premier-League,,,,,,,,,,,,,,,
-6,2021-08-15,,,,,,,,,,,,,,,,,,,,,,,,
-7,2021-08-15,Tue,Matchweek 14,Home,D 1–1,Newcastle Utd,Norwich City,N,CB,80,1,0,0,0,1,0,0,1,0,0,0,1,0,0,/en/matches/ce4d873f/Newcastle-United-Norwich-City-November-30-2021-Premier-League
-8,2021-08-15,Sat,Matchweek 15,Home,W 1–0,Newcastle Utd,Burnley,N,CB,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/11ed382d/Newcastle-United-Burnley-December-4-2021-Premier-League
-9,2021-08-15,Sun,Matchweek 16,Away,L 0–4,Newcastle Utd,Leicester City,N,"On matchday squad, but did not play",/en/matches/8805978d/Leicester-City-Newcastle-United-December-12-2021-Premier-League,,,,,,,,,,,,,,,
-10,2021-08-15,,,,,,,,,,,,,,,,,,,,,,,,
-11,2021-08-15,Sat,Matchweek 26,Away,D 1–1,Newcastle Utd,West Ham,N,"On matchday squad, but did not play",/en/matches/4e263347/West-Ham-United-Newcastle-United-February-19-2022-Premier-League,,,,,,,,,,,,,,,
-12,2021-08-15,Sat,Matchweek 27,Away,W 2–0,Newcastle Utd,Brentford,N,"On matchday squad, but did not play",/en/matches/fd61d442/Brentford-Newcastle-United-February-26-2022-Premier-League,,,,,,,,,,,,,,,
-13,2021-08-15,,,,,,,,,,,,,,,,,,,,,,,,
-14,2021-08-15,Sun,Matchweek 33,Home,W 2–1,Newcastle Utd,Leicester City,N,"On matchday squad, but did not play",/en/matches/89803b3a/Newcastle-United-Leicester-City-April-17-2022-Premier-League,,,,,,,,,,,,,,,
-15,2021-08-15,Wed,Matchweek 30,Home,W 1–0,Newcastle Utd,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/7a668764/Newcastle-United-Crystal-Palace-April-20-2022-Premier-League,,,,,,,,,,,,,,,
-16,2021-08-15,Sat,Matchweek 34,Away,W 3–0,Newcastle Utd,Norwich City,N,"On matchday squad, but did not play",/en/matches/f6a877bb/Norwich-City-Newcastle-United-April-23-2022-Premier-League,,,,,,,,,,,,,,,
-17,2021-08-15,,,,,,,,,,,,,,,,,,,,,,,,
-18,2021-08-15,Mon,Matchweek 37,Home,W 2–0,Newcastle Utd,Arsenal,N,"On matchday squad, but did not play",/en/matches/a3b3a0d5/Newcastle-United-Arsenal-May-16-2022-Premier-League,,,,,,,,,,,,,,,
-19,2021-08-15,Sun,Matchweek 38,Away,W 2–1,Newcastle Utd,Burnley,N,"On matchday squad, but did not play",/en/matches/ad4ac82b/Burnley-Newcastle-United-May-22-2022-Premier-League,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-15,Sun,Premier League,Matchweek 1,Home,L 2–4,Newcastle Utd,West Ham,Y*,CB,90,0,0,0,0,1,0,0,0,76,0,1,4,0.1,0.1,0.0,0,0,58,59,98.3,3,50,0,0,0,/en/matches/41091264/Newcastle-United-West-Ham-United-August-15-2021-Premier-League
+1,2021-08-21,Sat,Premier League,Matchweek 2,Away,L 0–2,Newcastle Utd,Aston Villa,Y,CB,77,0,0,0,0,1,0,0,0,44,0,0,0,0.0,0.0,0.3,1,0,38,42,90.5,2,32,0,0,0,/en/matches/662d4074/Aston-Villa-Newcastle-United-August-21-2021-Premier-League
+2,2021-08-28,Sat,Premier League,Matchweek 3,Home,D 2–2,Newcastle Utd,Southampton,Y,CB,90,0,0,0,0,0,0,0,0,41,2,0,4,0.0,0.0,0.0,0,0,18,29,62.1,0,15,0,0,0,/en/matches/d81af076/Newcastle-United-Southampton-August-28-2021-Premier-League
+3,2021-09-25,Sat,Premier League,Matchweek 6,Away,D 1–1,Newcastle Utd,Watford,Y*,CB,90,0,0,0,0,2,1,0,0,31,0,1,0,0.1,0.1,0.0,2,0,17,23,73.9,1,7,0,0,0,/en/matches/70fda3e9/Watford-Newcastle-United-September-25-2021-Premier-League
+4,2021-10-02,Sat,Premier League,Matchweek 7,Away,L 1–2,Newcastle Utd,Wolves,Y*,CB,90,0,0,0,0,1,0,0,0,46,0,0,0,0.1,0.1,0.0,0,0,38,42,90.5,4,34,0,0,0,/en/matches/00dcbdaa/Wolverhampton-Wanderers-Newcastle-United-October-2-2021-Premier-League
+5,2021-11-30,Tue,Premier League,Matchweek 14,Home,D 1–1,Newcastle Utd,Norwich City,N,CB,80,0,0,0,0,1,0,0,0,24,1,2,2,0.0,0.0,0.0,1,1,12,14,85.7,2,13,0,0,0,/en/matches/ce4d873f/Newcastle-United-Norwich-City-November-30-2021-Premier-League
+6,2021-12-04,Sat,Premier League,Matchweek 15,Home,W 1–0,Newcastle Utd,Burnley,N,CB,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0,/en/matches/11ed382d/Newcastle-United-Burnley-December-4-2021-Premier-League

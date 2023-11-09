@@ -1,27 +1,36 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
-0,2020-09-12,Sun,Matchweek 3,Home,W 4–0,West Ham,Wolves,N,"On matchday squad, but did not play",/en/matches/a223dd70/West-Ham-United-Wolverhampton-Wanderers-September-27-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-09-12,Sun,Matchweek 4,Away,W 3–0,West Ham,Leicester City,N,"On matchday squad, but did not play",/en/matches/a29866ec/Leicester-City-West-Ham-United-October-4-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-2,2020-09-12,Sun,Matchweek 5,Away,D 3–3,West Ham,Tottenham,N,"FW,RM",14,3,3,100.0,28,14,3,3,100.0,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0,/en/matches/17f0eec9/Tottenham-Hotspur-West-Ham-United-October-18-2020-Premier-League
-3,2020-09-12,Sat,Matchweek 6,Home,D 1–1,West Ham,Manchester City,N,RM,39,8,15,53.3,148,66,5,6,83.3,2,4,50.0,1,3,33.3,0,0.1,0.0,1,1,0,0,1,/en/matches/2b0c0eca/West-Ham-United-Manchester-City-October-24-2020-Premier-League
-4,2020-09-12,Sat,Matchweek 7,Away,L 1–2,West Ham,Liverpool,N,FW,17,4,6,66.7,63,0,3,4,75.0,0,1,0.0,1,1,100.0,0,0.0,0.0,0,1,0,0,0,/en/matches/56ad8025/Liverpool-West-Ham-United-October-31-2020-Premier-League
-5,2020-09-12,Sat,Matchweek 8,Home,W 1–0,West Ham,Fulham,N,"On matchday squad, but did not play",/en/matches/f075fddc/West-Ham-United-Fulham-November-7-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-6,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,2020-09-12,Wed,Matchweek 13,Home,D 1–1,West Ham,Crystal Palace,N,RW,11,5,6,83.3,72,15,3,3,100.0,2,2,100.0,0,0,,0,0.0,0.0,0,0,0,0,2,/en/matches/98bf02e0/West-Ham-United-Crystal-Palace-December-16-2020-Premier-League
-8,2020-09-12,Mon,Matchweek 14,Away,L 0–3,West Ham,Chelsea,N,"On matchday squad, but did not play",/en/matches/9a718e42/Chelsea-West-Ham-United-December-21-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-9,2020-09-12,Sun,Matchweek 15,Home,D 2–2,West Ham,Brighton,N,AM,45,19,23,82.6,336,69,10,11,90.9,6,9,66.7,2,2,100.0,0,0.1,0.2,1,2,1,1,3,/en/matches/7ba8c6e9/West-Ham-United-Brighton-and-Hove-Albion-December-27-2020-Premier-League
-10,2020-09-12,Tue,Matchweek 16,Away,D 0–0,West Ham,Southampton,Y,"RM,RW",71,18,25,72.0,277,70,10,13,76.9,7,10,70.0,1,1,100.0,0,0.0,0.0,0,0,1,0,3,/en/matches/7577b54b/Southampton-West-Ham-United-December-29-2020-Premier-League
-11,2020-09-12,Fri,Matchweek 17,Away,W 1–0,West Ham,Everton,N,RW,18,3,4,75.0,44,18,1,2,50.0,2,2,100.0,0,0,,0,0.1,0.1,1,0,1,0,1,/en/matches/0cd189c5/Everton-West-Ham-United-January-1-2021-Premier-League
-12,2020-09-12,Sat,Matchweek 19,Home,W 1–0,West Ham,Burnley,N,RW,9,0,0,,0,0,0,0,,0,0,,0,0,,0,0.1,0.0,1,0,0,0,0,/en/matches/1b06e352/West-Ham-United-Burnley-January-16-2021-Premier-League
-13,2020-09-12,Tue,Matchweek 18,Home,W 2–1,West Ham,West Brom,N,RW,29,9,10,90.0,99,6,7,7,100.0,2,3,66.7,0,0,,1,0.5,0.1,1,0,0,0,1,/en/matches/42daddbb/West-Ham-United-West-Bromwich-Albion-January-19-2021-Premier-League
-14,2020-09-12,Tue,Matchweek 20,Away,W 3–2,West Ham,Crystal Palace,N,FW,8,2,3,66.7,33,13,0,0,,2,3,66.7,0,0,,0,0.0,0.0,0,0,0,0,0,/en/matches/aab6365d/Crystal-Palace-West-Ham-United-January-26-2021-Premier-League
-15,2020-09-12,Sun,Matchweek 21,Home,L 1–3,West Ham,Liverpool,N,"AM,FW",29,8,8,100.0,111,11,6,6,100.0,1,1,100.0,1,1,100.0,0,0.0,0.0,0,1,0,0,1,/en/matches/3de3a736/West-Ham-United-Liverpool-January-31-2021-Premier-League
-16,2020-09-12,Wed,Matchweek 22,Away,W 3–1,West Ham,Aston Villa,N,"On matchday squad, but did not play",/en/matches/8f9d1856/Aston-Villa-West-Ham-United-February-3-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-17,2020-09-12,Sat,Matchweek 23,Away,D 0–0,West Ham,Fulham,N,"FW,RW",35,5,6,83.3,72,21,2,2,100.0,3,4,75.0,0,0,,0,0.0,0.0,0,0,0,0,0,/en/matches/d18e21ab/Fulham-West-Ham-United-February-6-2021-Premier-League
-18,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-19,2020-09-12,Sat,Matchweek 32,Away,L 2–3,West Ham,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/25a3b695/Newcastle-United-West-Ham-United-April-17-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-20,2020-09-12,Sat,Matchweek 33,Home,L 0–1,West Ham,Chelsea,N,"On matchday squad, but did not play",/en/matches/ea1579bb/West-Ham-United-Chelsea-April-24-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-21,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-22,2020-09-12,Sun,Matchweek 35,Home,L 0–1,West Ham,Everton,N,RW,18,13,17,76.5,161,43,10,11,90.9,3,3,100.0,0,1,0.0,0,0.0,0.1,0,0,2,0,2,/en/matches/57632a35/West-Ham-United-Everton-May-9-2021-Premier-League
-23,2020-09-12,Sat,Matchweek 36,Away,D 1–1,West Ham,Brighton,N,"On matchday squad, but did not play",/en/matches/1a1095c2/Brighton-and-Hove-Albion-West-Ham-United-May-15-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-24,2020-09-12,Wed,Matchweek 37,Away,W 3–1,West Ham,West Brom,N,"On matchday squad, but did not play",/en/matches/88927a77/West-Bromwich-Albion-West-Ham-United-May-19-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-25,2020-09-12,Sun,Matchweek 38,Home,W 3–0,West Ham,Southampton,N,"On matchday squad, but did not play",/en/matches/50ec33b2/West-Ham-United-Southampton-May-23-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-03,Thu,UEFA Nations League,League A,Home,W 2–1,ua Ukraine,ch Switzerland,Y,AM,90,1,0,0,0,4,2,0,0,,,1,,,,,,,,,,,,,,,/en/matches/17199fe3/Ukraine-Switzerland-September-3-2020-UEFA-Nations-League
+1,2020-09-06,Sun,UEFA Nations League,League A,Away,L 0–4,ua Ukraine,es Spain,Y,AM,78,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/0cb532e0/Spain-Ukraine-September-6-2020-UEFA-Nations-League
+2,2020-09-12,Sat,Premier League,Matchweek 1,Home,L 0–2,West Ham,Newcastle Utd,N,AM,24,0,0,0,0,3,1,1,0,25,1,0,0,0.1,0.1,0.0,2,0,15,20,75.0,2,17,4,0,0,/en/matches/78495ced/West-Ham-United-Newcastle-United-September-12-2020-Premier-League
+3,2020-09-15,Tue,EFL Cup,Second round,Home,W 3–0,West Ham,Charlton Ath,Y,AM,90,0,1,0,0,3,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/5ec9c0b9/West-Ham-United-Charlton-Athletic-September-15-2020-EFL-Cup
+4,2020-09-19,Sat,Premier League,Matchweek 2,Away,L 1–2,West Ham,Arsenal,N,RM,8,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,4,3,0,0,/en/matches/f4835ec2/Arsenal-West-Ham-United-September-19-2020-Premier-League
+5,2020-09-22,Tue,EFL Cup,Third round,Home,W 5–1,West Ham,Hull City,Y,AM,90,2,2,1,1,5,2,0,0,,,2,,,,,,,,,,,,,,,/en/matches/247eac03/West-Ham-United-Hull-City-September-22-2020-EFL-Cup
+6,2020-09-30,Wed,EFL Cup,Fourth round,Away,L 1–4,West Ham,Everton,Y,AM,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/9219349f/Everton-West-Ham-United-September-30-2020-EFL-Cup
+7,2020-10-07,Wed,Friendlies (M),Friendlies (M),Away,L 1–7,ua Ukraine,fr France,Y*,FW,61,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/01667af4/France-Ukraine-October-7-2020-Friendlies-M
+8,2020-10-10,Sat,UEFA Nations League,League A,Home,L 1–2,ua Ukraine,de Germany,Y*,AM,68,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/81affe58/Ukraine-Germany-October-10-2020-UEFA-Nations-League
+9,2020-10-13,Tue,UEFA Nations League,League A,Home,W 1–0,ua Ukraine,es Spain,Y*,FW,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/5ce0f967/Ukraine-Spain-October-13-2020-UEFA-Nations-League
+10,2020-10-18,Sun,Premier League,Matchweek 5,Away,D 3–3,West Ham,Tottenham,N,"FW,RM",14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,1,0,0,/en/matches/17f0eec9/Tottenham-Hotspur-West-Ham-United-October-18-2020-Premier-League
+11,2020-10-24,Sat,Premier League,Matchweek 6,Home,D 1–1,West Ham,Manchester City,N,RM,39,0,0,0,0,1,0,0,0,21,0,0,1,0.0,0.0,0.1,1,0,8,15,53.3,1,12,1,1,0,/en/matches/2b0c0eca/West-Ham-United-Manchester-City-October-24-2020-Premier-League
+12,2020-10-31,Sat,Premier League,Matchweek 7,Away,L 1–2,West Ham,Liverpool,N,FW,17,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,0,6,2,1,1,/en/matches/56ad8025/Liverpool-West-Ham-United-October-31-2020-Premier-League
+13,2020-11-11,Wed,Friendlies (M),Friendlies (M),Away,L 0–2,ua Ukraine,pl Poland,Y*,FW,11,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/7db9a6e6/Poland-Ukraine-November-11-2020-Friendlies-M
+14,2020-12-16,Wed,Premier League,Matchweek 13,Home,D 1–1,West Ham,Crystal Palace,N,RW,11,0,0,0,0,0,0,0,0,9,2,0,0,0.0,0.0,0.0,1,0,5,6,83.3,2,4,1,0,0,/en/matches/98bf02e0/West-Ham-United-Crystal-Palace-December-16-2020-Premier-League
+15,2020-12-27,Sun,Premier League,Matchweek 15,Home,D 2–2,West Ham,Brighton,N,AM,45,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.1,3,1,19,23,82.6,3,17,4,1,1,/en/matches/7ba8c6e9/West-Ham-United-Brighton-and-Hove-Albion-December-27-2020-Premier-League
+16,2020-12-29,Tue,Premier League,Matchweek 16,Away,D 0–0,West Ham,Southampton,Y,"RM,RW",71,0,0,0,0,0,0,1,0,34,1,1,0,0.0,0.0,0.0,1,0,18,25,72.0,3,18,2,5,2,/en/matches/7577b54b/Southampton-West-Ham-United-December-29-2020-Premier-League
+17,2021-01-01,Fri,Premier League,Matchweek 17,Away,W 1–0,West Ham,Everton,N,RW,18,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,3,4,75.0,1,4,0,0,0,/en/matches/0cd189c5/Everton-West-Ham-United-January-1-2021-Premier-League
+18,2021-01-11,Mon,FA Cup,Third round proper,Away,W 1–0,West Ham,Stockport,Y,AM,67,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/4945d0de/Stockport-West-Ham-United-January-11-2021-FA-Cup
+19,2021-01-16,Sat,Premier League,Matchweek 19,Home,W 1–0,West Ham,Burnley,N,RW,9,0,0,0,0,2,0,0,0,6,0,0,0,0.1,0.1,0.1,2,0,0,0,,0,2,1,3,1,/en/matches/1b06e352/West-Ham-United-Burnley-January-16-2021-Premier-League
+20,2021-01-19,Tue,Premier League,Matchweek 18,Home,W 2–1,West Ham,West Brom,N,RW,29,0,1,0,0,1,1,0,0,14,0,0,0,0.1,0.1,0.5,1,1,9,10,90.0,1,11,1,0,0,/en/matches/42daddbb/West-Ham-United-West-Bromwich-Albion-January-19-2021-Premier-League
+21,2021-01-23,Sat,FA Cup,Fourth round proper,Home,W 4–0,West Ham,Doncaster,Y,FW,90,1,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/9292ddaa/West-Ham-United-Doncaster-Rovers-January-23-2021-FA-Cup
+22,2021-01-26,Tue,Premier League,Matchweek 20,Away,W 3–2,West Ham,Crystal Palace,N,FW,8,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0,/en/matches/aab6365d/Crystal-Palace-West-Ham-United-January-26-2021-Premier-League
+23,2021-01-31,Sun,Premier League,Matchweek 21,Home,L 1–3,West Ham,Liverpool,N,"AM,FW",29,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,8,8,100.0,1,7,0,0,0,/en/matches/3de3a736/West-Ham-United-Liverpool-January-31-2021-Premier-League
+24,2021-02-06,Sat,Premier League,Matchweek 23,Away,D 0–0,West Ham,Fulham,N,"FW,RW",35,0,0,0,0,0,0,1,0,8,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,7,1,1,1,/en/matches/d18e21ab/Fulham-West-Ham-United-February-6-2021-Premier-League
+25,2021-02-09,Tue,FA Cup,Fifth round proper,Away,L 0–1,West Ham,Manchester Utd,Y,FW,53,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/286eff41/Manchester-United-West-Ham-United-February-9-2021-FA-Cup
+26,2021-03-19,Fri,PL2 — Div. 1,Matchweek 22,Home,W 3–1,West Ham,Leicester City,Y,AM,73,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/7e199ac7/West-Ham-United-U23-Leicester-City-U23-March-19-2021-Premier-League-2----Division-1
+27,2021-05-07,Fri,PL2 — Div. 1,Matchweek 13,Home,D 2–2,West Ham,Arsenal,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/a6006a0b/West-Ham-United-U23-Arsenal-U23-May-7-2021-Premier-League-2----Division-1
+28,2021-05-09,Sun,Premier League,Matchweek 35,Home,L 0–1,West Ham,Everton,N,RW,18,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,2,13,1,0,0,/en/matches/57632a35/West-Ham-United-Everton-May-9-2021-Premier-League
+29,2021-06-03,Thu,Friendlies (M),Friendlies (M),Home,W 1–0,ua Ukraine,nir Northern Ireland,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/fb2dc2b7/Ukraine-Northern-Ireland-June-3-2021-Friendlies-M
+30,2021-06-07,Mon,Friendlies (M),Friendlies (M),Home,W 4–0,ua Ukraine,cy Cyprus,Y,FW,69,2,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/165fd549/Ukraine-Cyprus-June-7-2021-Friendlies-M
+31,2021-06-13,Sun,UEFA Euro,Group stage,Neutral,L 2–3,ua Ukraine,nl Netherlands,Y*,RW,90,1,0,0,0,3,2,0,0,44,1,0,0,0.2,0.2,0.0,3,1,26,36,72.2,2,36,5,1,1,/en/matches/0e9919a5/Netherlands-Ukraine-June-13-2021-UEFA-Euro
+32,2021-06-17,Thu,UEFA Euro,Group stage,Neutral,W 2–1,ua Ukraine,mk N. Macedonia,Y*,RW,69,1,1,0,0,5,2,0,0,38,0,0,0,1.1,1.1,0.3,4,1,21,27,77.8,6,22,4,2,1,/en/matches/e0eed6e8/Ukraine-North-Macedonia-June-17-2021-UEFA-Euro
+33,2021-06-21,Mon,UEFA Euro,Group stage,Neutral,L 0–1,ua Ukraine,at Austria,Y*,"RW,RM",90,0,0,0,0,0,0,0,0,46,0,0,1,0.0,0.0,0.1,1,0,24,31,77.4,2,31,2,2,1,/en/matches/7ed46abd/Ukraine-Austria-June-21-2021-UEFA-Euro
+34,2021-06-29,Tue,UEFA Euro,Round of 16,Neutral,W 2–1,ua Ukraine,se Sweden,Y*,FW,105,0,1,0,0,2,1,1,0,37,0,0,0,0.1,0.1,0.5,4,1,26,32,81.3,2,21,6,1,1,/en/matches/e07bc7d3/Sweden-Ukraine-June-29-2021-UEFA-Euro

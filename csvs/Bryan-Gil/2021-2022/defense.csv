@@ -1,17 +1,39 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2021-08-15,Sun,Matchweek 3,Home,W 1–0,Tottenham,Watford,N,LW,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/3cd9a733/Tottenham-Hotspur-Watford-August-29-2021-Premier-League
-1,2021-08-15,Sat,Matchweek 4,Away,L 0–3,Tottenham,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/17e86f90/Crystal-Palace-Tottenham-Hotspur-September-11-2021-Premier-League,,,,,,,,,,,,,,,,,
-2,2021-08-15,Sun,Matchweek 5,Home,L 0–3,Tottenham,Chelsea,N,AM,29,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/eaf98461/Tottenham-Hotspur-Chelsea-September-19-2021-Premier-League
-3,2021-08-15,Sun,Matchweek 6,Away,L 1–3,Tottenham,Arsenal,N,LW,21,0,0,0,0,0,0,0,,0,2,0,2,0,0,0,0,/en/matches/a2c07e97/North-London-Derby-Arsenal-Tottenham-Hotspur-September-26-2021-Premier-League
-4,2021-08-15,Sun,Matchweek 7,Home,W 2–1,Tottenham,Aston Villa,N,RW,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/7bb0a43c/Tottenham-Hotspur-Aston-Villa-October-3-2021-Premier-League
-5,2021-08-15,Sun,Matchweek 8,Away,W 3–2,Tottenham,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/4bd69343/Newcastle-United-Tottenham-Hotspur-October-17-2021-Premier-League,,,,,,,,,,,,,,,,,
-6,2021-08-15,Sun,Matchweek 9,Away,L 0–1,Tottenham,West Ham,N,LB,7,2,0,1,0,1,0,1,0.0,1,0,0,0,0,2,0,0,/en/matches/70c508ee/West-Ham-United-Tottenham-Hotspur-October-24-2021-Premier-League
-7,2021-08-15,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2021-08-15,Sun,Matchweek 12,Home,W 2–1,Tottenham,Leeds United,N,"On matchday squad, but did not play",/en/matches/a74a684e/Tottenham-Hotspur-Leeds-United-November-21-2021-Premier-League,,,,,,,,,,,,,,,,,
-9,2021-08-15,Thu,Matchweek 14,Home,W 2–0,Tottenham,Brentford,N,"On matchday squad, but did not play",/en/matches/a80b3790/Tottenham-Hotspur-Brentford-December-2-2021-Premier-League,,,,,,,,,,,,,,,,,
-10,2021-08-15,,,,,,,,,,,,,,,,,,,,,,,,,,
-11,2021-08-15,Sun,Matchweek 19,Home,W 3–0,Tottenham,Crystal Palace,N,AM,15,1,0,0,0,1,1,1,100.0,0,0,0,0,0,1,0,0,/en/matches/ac4560d6/Tottenham-Hotspur-Crystal-Palace-December-26-2021-Premier-League
-12,2021-08-15,Tue,Matchweek 20,Away,D 1–1,Tottenham,Southampton,N,WB,14,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/08d5ef01/Southampton-Tottenham-Hotspur-December-28-2021-Premier-League
-13,2021-08-15,Sat,Matchweek 21,Away,W 1–0,Tottenham,Watford,N,RW,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/9c831c07/Watford-Tottenham-Hotspur-January-1-2022-Premier-League
-14,2021-08-15,Wed,Matchweek 17,Away,W 3–2,Tottenham,Leicester City,N,"On matchday squad, but did not play",/en/matches/77d28549/Leicester-City-Tottenham-Hotspur-January-19-2022-Premier-League,,,,,,,,,,,,,,,,,
-15,2021-08-15,Sun,Matchweek 23,Away,L 0–2,Tottenham,Chelsea,N,RW,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/29e164e3/Chelsea-Tottenham-Hotspur-January-23-2022-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-19,Thu,Conf Lg,Play-off round,Away,L 0–1,eng Tottenham,pt Paços,Y,LM,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/e9098b8d/Pacos-de-Ferreira-Tottenham-Hotspur-August-19-2021-Europa-Conference-League
+1,2021-08-26,Thu,Conf Lg,Play-off round,Home,W 3–0,eng Tottenham,pt Paços,Y,FW,71,0,1,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/c2e330d2/Tottenham-Hotspur-Pacos-de-Ferreira-August-26-2021-Europa-Conference-League
+2,2021-08-29,Sun,Premier League,Matchweek 3,Home,W 1–0,Tottenham,Watford,N,LW,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,/en/matches/3cd9a733/Tottenham-Hotspur-Watford-August-29-2021-Premier-League
+3,2021-09-16,Thu,Conf Lg,Group stage,Away,D 2–2,eng Tottenham,fr Rennes,Y,"LW,AM",90,0,0,0,0,1,0,1,0,45,4,1,0,0.1,0.1,0.0,1,0,25,36,69.4,0,32,3,1,0,/en/matches/6073e129/Rennes-Tottenham-Hotspur-September-16-2021-Europa-Conference-League
+4,2021-09-19,Sun,Premier League,Matchweek 5,Home,L 0–3,Tottenham,Chelsea,N,AM,29,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,9,1,2,1,/en/matches/eaf98461/Tottenham-Hotspur-Chelsea-September-19-2021-Premier-League
+5,2021-09-22,Wed,EFL Cup,Third round,Away,D 2 (3)–2 (2),Tottenham,Wolves,Y,FW,120,0,0,0,0,1,1,0,0,,,2,,,,,,,,,,,,,,,/en/matches/c1b6e56d/Wolverhampton-Wanderers-Tottenham-Hotspur-September-22-2021-EFL-Cup
+6,2021-09-26,Sun,Premier League,Matchweek 6,Away,L 1–3,Tottenham,Arsenal,N,LW,21,0,0,0,0,0,0,0,0,18,0,0,2,0.0,0.0,0.0,1,1,11,15,73.3,2,9,3,3,3,/en/matches/a2c07e97/North-London-Derby-Arsenal-Tottenham-Hotspur-September-26-2021-Premier-League
+7,2021-09-30,Thu,Conf Lg,Group stage,Home,W 5–1,eng Tottenham,si NŠ Mura,Y,LW,58,0,0,0,0,1,0,0,0,46,0,1,2,0.1,0.1,0.1,1,0,35,40,87.5,0,36,5,1,1,/en/matches/45ed3342/Tottenham-Hotspur-NS-Mura-September-30-2021-Europa-Conference-League
+8,2021-10-03,Sun,Premier League,Matchweek 7,Home,W 2–1,Tottenham,Aston Villa,N,RW,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,0,0,0,0,/en/matches/7bb0a43c/Tottenham-Hotspur-Aston-Villa-October-3-2021-Premier-League
+9,2021-10-06,Wed,UEFA Nations League,Semi-finals,Neutral,W 2–1,es Spain,it Italy,N,,16,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/5c6a2cfd/Italy-Spain-October-6-2021-UEFA-Nations-League
+10,2021-10-21,Thu,Conf Lg,Group stage,Away,L 0–1,eng Tottenham,nl Vitesse,Y,RW,90,0,0,0,0,2,0,0,0,42,2,1,0,0.2,0.2,0.0,0,0,22,27,81.5,1,34,1,4,1,/en/matches/a434d3cf/Vitesse-Tottenham-Hotspur-October-21-2021-Europa-Conference-League
+11,2021-10-24,Sun,Premier League,Matchweek 9,Away,L 0–1,Tottenham,West Ham,N,LB,7,0,0,0,0,0,0,0,0,12,2,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,8,1,1,0,/en/matches/70c508ee/West-Ham-United-Tottenham-Hotspur-October-24-2021-Premier-League
+12,2021-10-27,Wed,EFL Cup,Fourth round,Away,W 1–0,Tottenham,Burnley,Y,AM,24,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/fb218c5e/Burnley-Tottenham-Hotspur-October-27-2021-EFL-Cup
+13,2021-11-25,Thu,Conf Lg,Group stage,Away,L 1–2,eng Tottenham,si NŠ Mura,Y,"AM,RM",53,0,0,0,0,1,0,0,0,28,0,1,0,0.1,0.1,0.0,1,0,15,20,75.0,4,25,2,2,2,/en/matches/c28fbe33/NS-Mura-Tottenham-Hotspur-November-25-2021-Europa-Conference-League
+14,2021-12-26,Sun,Premier League,Matchweek 19,Home,W 3–0,Tottenham,Crystal Palace,N,AM,15,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,2,0,9,11,81.8,1,8,0,0,0,/en/matches/ac4560d6/Tottenham-Hotspur-Crystal-Palace-December-26-2021-Premier-League
+15,2021-12-28,Tue,Premier League,Matchweek 20,Away,D 1–1,Tottenham,Southampton,N,WB,14,0,0,0,0,1,1,0,0,18,0,0,0,0.1,0.1,0.1,2,0,9,14,64.3,1,16,1,0,0,/en/matches/08d5ef01/Southampton-Tottenham-Hotspur-December-28-2021-Premier-League
+16,2022-01-01,Sat,Premier League,Matchweek 21,Away,W 1–0,Tottenham,Watford,N,RW,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,2,0,0,0,/en/matches/9c831c07/Watford-Tottenham-Hotspur-January-1-2022-Premier-League
+17,2022-01-05,Wed,EFL Cup,Semi-finals,Away,L 0–2,Tottenham,Chelsea,N,,12,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/68c1fa8c/Chelsea-Tottenham-Hotspur-January-5-2022-EFL-Cup
+18,2022-01-09,Sun,FA Cup,Third round proper,Home,W 3–1,Tottenham,Morecambe,Y,FW,68,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/0127adcc/Tottenham-Hotspur-Morecambe-January-9-2022-FA-Cup
+19,2022-01-12,Wed,EFL Cup,Semi-finals,Home,L 0–1,Tottenham,Chelsea,N,,20,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/fb1c09a8/Tottenham-Hotspur-Chelsea-January-12-2022-EFL-Cup
+20,2022-01-23,Sun,Premier League,Matchweek 23,Away,L 0–2,Tottenham,Chelsea,N,RW,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,/en/matches/29e164e3/Chelsea-Tottenham-Hotspur-January-23-2022-Premier-League
+21,2022-02-02,Wed,Copa del Rey,Quarter-finals,Home,W 2–1,Valencia,Cádiz,Y,AM,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/ebcc8abf/Valencia-Cadiz-February-2-2022-Copa-del-Rey
+22,2022-02-06,Sun,La Liga,Matchweek 23,Home,D 0–0,Valencia,Real Sociedad,Y,"FW,LM,RM",90,0,0,0,0,4,1,0,0,41,0,1,2,0.3,0.3,0.5,3,0,16,29,55.2,4,27,0,5,2,/en/matches/d3b2056d/Valencia-Real-Sociedad-February-6-2022-La-Liga
+23,2022-02-10,Thu,Copa del Rey,Semi-finals,Away,D 1–1,Valencia,Athletic Club,Y,FW,83,0,0,0,0,2,1,0,0,,,3,,,,,,,,,,,,,,,/en/matches/bd510848/Athletic-Club-Valencia-February-10-2022-Copa-del-Rey
+24,2022-02-13,Sun,La Liga,Matchweek 24,Away,L 1–2,Valencia,Alavés,N,LM,45,0,0,0,0,0,0,1,0,28,0,0,1,0.0,0.0,0.2,2,0,6,17,35.3,2,14,5,2,1,/en/matches/8b2bc30e/Alaves-Valencia-February-13-2022-La-Liga
+25,2022-02-20,Sun,La Liga,Matchweek 25,Home,L 1–4,Valencia,Barcelona,Y,LM,90,0,1,0,0,1,0,0,0,41,3,0,0,0.0,0.0,0.4,5,1,18,30,60.0,4,25,3,1,1,/en/matches/368c0ef5/Valencia-Barcelona-February-20-2022-La-Liga
+26,2022-02-26,Sat,La Liga,Matchweek 26,Away,W 1–0,Valencia,Mallorca,Y,AM,89,0,0,0,0,1,0,1,0,33,1,0,2,0.0,0.0,0.3,3,0,14,19,73.7,4,23,2,5,2,/en/matches/ac7f7afd/Mallorca-Valencia-February-26-2022-La-Liga
+27,2022-03-02,Wed,Copa del Rey,Semi-finals,Home,W 1–0,Valencia,Athletic Club,Y,FW,70,0,0,0,0,2,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/f0fa74c1/Valencia-Athletic-Club-March-2-2022-Copa-del-Rey
+28,2022-03-05,Sat,La Liga,Matchweek 27,Home,W 3–1,Valencia,Granada,N,"LM,LW",18,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,3,4,1,0,0,/en/matches/3960fc57/Valencia-Granada-March-5-2022-La-Liga
+29,2022-03-12,Sat,La Liga,Matchweek 28,Away,D 0–0,Valencia,Getafe,Y,AM,75,0,0,0,0,1,0,0,0,37,0,0,0,0.1,0.1,0.0,4,0,12,25,48.0,1,19,1,4,3,/en/matches/c8ccb7d3/Getafe-Valencia-March-12-2022-La-Liga
+30,2022-03-19,Sat,La Liga,Matchweek 29,Away,W 1–0,Valencia,Elche,Y,"RM,LM",71,0,0,0,0,0,0,1,0,31,3,0,0,0.0,0.0,0.0,1,0,14,19,73.7,1,21,3,3,2,/en/matches/201b86f7/Elche-Valencia-March-19-2022-La-Liga
+31,2022-04-03,Sun,La Liga,Matchweek 30,Home,D 0–0,Valencia,Cádiz,Y,AM,77,0,0,0,0,0,0,0,0,39,2,0,2,0.0,0.0,0.0,1,0,16,23,69.6,0,27,1,3,1,/en/matches/8067a7c1/Valencia-Cadiz-April-3-2022-La-Liga
+32,2022-04-16,Sat,La Liga,Matchweek 32,Home,L 1–2,Valencia,Osasuna,Y,"LM,RM",73,0,0,0,0,1,0,0,0,43,0,0,4,0.1,0.1,0.0,3,0,22,30,73.3,2,30,3,1,1,/en/matches/a1a60233/Valencia-Osasuna-April-16-2022-La-Liga
+33,2022-04-23,Sat,Copa del Rey,Final,Away,D 1 (4)–1 (5),Valencia,Betis,N,,36,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/2711d139/Real-Betis-Valencia-April-23-2022-Copa-del-Rey
+34,2022-04-30,Sat,La Liga,Matchweek 34,Home,D 1–1,Valencia,Levante,N,CM,1,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,4,0,2,0,/en/matches/d557263f/Valencia-Levante-April-30-2022-La-Liga
+35,2022-05-10,Tue,La Liga,Matchweek 36,Home,L 0–3,Valencia,Betis,Y,FW,62,0,0,0,0,1,1,0,0,36,2,0,0,0.4,0.4,0.0,2,0,17,23,73.9,3,29,2,2,0,/en/matches/5b6bf193/Valencia-Real-Betis-May-10-2022-La-Liga
+36,2022-05-14,Sat,La Liga,Matchweek 37,Away,D 1–1,Valencia,Espanyol,N,RW,17,0,0,0,0,2,0,0,0,12,0,0,0,0.4,0.4,0.0,1,0,6,9,66.7,0,5,1,2,2,/en/matches/b88fd12c/Espanyol-Valencia-May-14-2022-La-Liga
+37,2022-05-21,Sat,La Liga,Matchweek 38,Home,W 2–0,Valencia,Celta Vigo,Y,LM,45,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.0,1,0,9,13,69.2,2,12,0,5,2,/en/matches/2cbbddbd/Valencia-Celta-Vigo-May-21-2022-La-Liga

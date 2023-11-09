@@ -1,11 +1,11 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Match Report
-0,2020-02-22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-02-22,Sun,Matchweek 30,Away,W 2–1,Chelsea,Aston Villa,Y,LW,54,23,0,1,11,11,3,23,1,1,100.0,0,0.0,17,62,37,1,2,1,0,1,22,4,/en/matches/827d4651/Aston-Villa-Chelsea-June-21-2020-Premier-League
-2,2020-02-22,Thu,Matchweek 31,Home,W 2–1,Chelsea,Manchester City,N,"On matchday squad, but did not play",/en/matches/bc237647/Chelsea-Manchester-City-June-25-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-3,2020-02-22,Wed,Matchweek 32,Away,L 2–3,Chelsea,West Ham,N,RM,28,27,0,2,19,6,3,27,0,0,,0,,17,105,32,1,1,0,1,0,23,3,/en/matches/5df18070/West-Ham-United-Chelsea-July-1-2020-Premier-League
-4,2020-02-22,Sat,Matchweek 33,Home,W 3–0,Chelsea,Watford,N,LM,15,13,1,3,7,3,1,13,0,0,,0,,6,21,12,0,0,0,0,0,8,0,/en/matches/ee7944f1/Chelsea-Watford-July-4-2020-Premier-League
-5,2020-02-22,Tue,Matchweek 34,Away,W 3–2,Chelsea,Crystal Palace,N,RM,26,23,4,6,9,8,1,23,0,0,,0,,8,104,85,2,3,0,0,2,16,0,/en/matches/61407f3d/Crystal-Palace-Chelsea-July-7-2020-Premier-League
-6,2020-02-22,Sat,Matchweek 35,Away,L 0–3,Chelsea,Sheffield Utd,N,CM,13,11,0,1,7,3,0,11,0,0,,0,,6,27,15,0,0,0,0,0,7,0,/en/matches/3f83499d/Sheffield-United-Chelsea-July-11-2020-Premier-League
-7,2020-02-22,Tue,Matchweek 36,Home,W 1–0,Chelsea,Norwich City,Y,RM,66,47,0,3,23,21,3,47,2,2,100.0,0,0.0,35,153,69,0,2,0,1,0,38,4,/en/matches/88d08b7b/Chelsea-Norwich-City-July-14-2020-Premier-League
-8,2020-02-22,Wed,Matchweek 37,Away,L 3–5,Chelsea,Liverpool,N,"On matchday squad, but did not play",/en/matches/a80ba6fe/Liverpool-Chelsea-July-22-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-9,2020-02-22,Sun,Matchweek 38,Home,W 2–0,Chelsea,Wolves,N,CM,6,6,0,1,5,0,0,6,1,1,100.0,0,0.0,5,19,3,0,0,0,0,1,6,0,/en/matches/9cca4ba0/Chelsea-Wolverhampton-Wanderers-July-26-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-03-02,Mon,PL2 — Div. 1,Matchweek 18,Home,W 1–0,Chelsea,Everton,Y,AM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b08a8555/Chelsea-U23-Everton-U23-March-2-2020-Premier-League-2----Division-1
+1,2020-06-21,Sun,Premier League,Matchweek 30,Away,W 2–1,Chelsea,Aston Villa,Y,LW,54,0,0,0,0,1,0,0,0,23,0,0,0,0.1,0.1,0.0,0,0,16,18,88.9,2,17,1,1,1,/en/matches/827d4651/Aston-Villa-Chelsea-June-21-2020-Premier-League
+2,2020-06-28,Sun,FA Cup,Quarter-finals,Away,W 1–0,Chelsea,Leicester City,N,,19,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/40607a06/Leicester-City-Chelsea-June-28-2020-FA-Cup
+3,2020-07-01,Wed,Premier League,Matchweek 32,Away,L 2–3,Chelsea,West Ham,N,RM,28,0,0,0,0,1,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,22,24,91.7,5,17,1,0,0,/en/matches/5df18070/West-Ham-United-Chelsea-July-1-2020-Premier-League
+4,2020-07-04,Sat,Premier League,Matchweek 33,Home,W 3–0,Chelsea,Watford,N,LM,15,0,0,0,0,1,0,0,0,13,0,1,0,0.3,0.3,0.0,0,0,9,9,100.0,2,6,0,0,0,/en/matches/ee7944f1/Chelsea-Watford-July-4-2020-Premier-League
+5,2020-07-07,Tue,Premier League,Matchweek 34,Away,W 3–2,Chelsea,Crystal Palace,N,RM,26,0,1,0,0,0,0,0,0,23,0,1,1,0.0,0.0,0.4,3,1,20,20,100.0,2,8,2,0,0,/en/matches/61407f3d/Crystal-Palace-Chelsea-July-7-2020-Premier-League
+6,2020-07-11,Sat,Premier League,Matchweek 35,Away,L 0–3,Chelsea,Sheffield Utd,N,CM,13,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,1,6,0,0,0,/en/matches/3f83499d/Sheffield-United-Chelsea-July-11-2020-Premier-League
+7,2020-07-14,Tue,Premier League,Matchweek 36,Home,W 1–0,Chelsea,Norwich City,Y,RM,66,0,0,0,0,1,0,0,0,47,0,0,0,0.0,0.0,0.0,1,0,39,45,86.7,3,35,0,2,2,/en/matches/88d08b7b/Chelsea-Norwich-City-July-14-2020-Premier-League
+8,2020-07-19,Sun,FA Cup,Semi-finals,Neutral,W 3–1,Chelsea,Manchester Utd,N,,5,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/777ab883/Manchester-United-Chelsea-July-19-2020-FA-Cup
+9,2020-07-26,Sun,Premier League,Matchweek 38,Home,W 2–0,Chelsea,Wolves,N,CM,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,0,1,1,/en/matches/9cca4ba0/Chelsea-Wolverhampton-Wanderers-July-26-2020-Premier-League

@@ -1,11 +1,23 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2019-12-29,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2019-12-29,Sat,Matchweek 30,Home,W 2–1,Brighton,Arsenal,N,"On matchday squad, but did not play",/en/matches/1abcdcde/Brighton-and-Hove-Albion-Arsenal-June-20-2020-Premier-League,,,,,,,,,,,,,,,,
-2,2019-12-29,Tue,Matchweek 31,Away,D 0–0,Brighton,Leicester City,Y,RB,90,35,24,11,0,0,0,2,11,0,0,0,0,25,0,0,/en/matches/481a9a3a/Leicester-City-Brighton-and-Hove-Albion-June-23-2020-Premier-League
-3,2019-12-29,Tue,Matchweek 32,Home,L 0–3,Brighton,Manchester Utd,Y,RM,45,10,10,0,0,0,0,2,0,0,0,0,0,6,0,3,/en/matches/be321c59/Brighton-and-Hove-Albion-Manchester-United-June-30-2020-Premier-League
-4,2019-12-29,Sat,Matchweek 33,Away,W 1–0,Brighton,Norwich City,Y,RB,89,45,33,12,2,0,0,4,10,0,0,0,0,35,0,0,/en/matches/aa3a3540/Norwich-City-Brighton-and-Hove-Albion-July-4-2020-Premier-League
-5,2019-12-29,Wed,Matchweek 34,Home,L 1–3,Brighton,Liverpool,Y,RB,90,42,35,7,1,0,0,3,6,0,0,0,0,33,0,4,/en/matches/3296482a/Brighton-and-Hove-Albion-Liverpool-July-8-2020-Premier-League
-6,2019-12-29,Sat,Matchweek 35,Home,L 0–5,Brighton,Manchester City,N,RB,32,8,7,1,0,0,0,0,1,0,0,0,0,5,0,0,/en/matches/a24d3d6b/Brighton-and-Hove-Albion-Manchester-City-July-11-2020-Premier-League
-7,2019-12-29,Thu,Matchweek 36,Away,D 1–1,Brighton,Southampton,Y,WB,67,24,18,6,0,0,0,1,6,0,0,0,0,16,0,0,/en/matches/793f900e/Southampton-Brighton-and-Hove-Albion-July-16-2020-Premier-League
-8,2019-12-29,Mon,Matchweek 37,Home,D 0–0,Brighton,Newcastle Utd,Y,RB,85,40,34,6,2,0,0,3,4,0,0,0,0,34,0,0,/en/matches/9defdd38/Brighton-and-Hove-Albion-Newcastle-United-July-20-2020-Premier-League
-9,2019-12-29,Sun,Matchweek 38,Away,W 2–1,Brighton,Burnley,Y,WB,90,31,26,5,0,0,0,6,5,0,0,0,0,23,0,2,/en/matches/d4360fcd/Burnley-Brighton-and-Hove-Albion-July-26-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-12,Mon,PL2 — Div. 1,Matchweek 1,Away,W 1–0,Chelsea,Derby County,Y,RB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/98d519fa/Derby-County-U23-Chelsea-U23-August-12-2019-Premier-League-2----Division-1
+1,2019-08-19,Mon,PL2 — Div. 1,Matchweek 2,Home,W 3–0,Chelsea,Liverpool,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/5041411d/Chelsea-U23-Liverpool-U23-August-19-2019-Premier-League-2----Division-1
+2,2019-08-23,Fri,PL2 — Div. 1,Matchweek 3,Away,D 2–2,Chelsea,Manchester City,Y,RB,90,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/1d91c3be/Manchester-City-U23-Chelsea-U23-August-23-2019-Premier-League-2----Division-1
+3,2019-08-30,Fri,PL2 — Div. 1,Matchweek 4,Home,D 2–2,Chelsea,Tottenham,Y,RB,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/add967f2/Chelsea-U23-Tottenham-Hotspur-U23-August-30-2019-Premier-League-2----Division-1
+4,2019-09-13,Fri,PL2 — Div. 1,Matchweek 5,Home,W 2–1,Chelsea,Brighton,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/58adede5/Chelsea-U23-Brighton-and-Hove-Albion-U23-September-13-2019-Premier-League-2----Division-1
+5,2019-09-28,Sat,PL2 — Div. 1,Matchweek 7,Away,D 2–2,Chelsea,Leicester City,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/a6f2bfd3/Leicester-City-U23-Chelsea-U23-September-28-2019-Premier-League-2----Division-1
+6,2019-10-18,Fri,PL2 — Div. 1,Matchweek 8,Home,W 3–1,Chelsea,Arsenal,Y,RB,75,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/8eb0b0da/Chelsea-U23-Arsenal-U23-October-18-2019-Premier-League-2----Division-1
+7,2019-11-02,Sat,PL2 — Div. 1,Matchweek 10,Home,W 2–1,Chelsea,Blackburn,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b97f9a44/Chelsea-U23-Blackburn-Rovers-U23-November-2-2019-Premier-League-2----Division-1
+8,2019-11-23,Sat,PL2 — Div. 1,Matchweek 11,Away,D 1–1,Chelsea,Wolves,Y,LB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/4cbce3a4/Wolverhampton-Wanderers-U23-Chelsea-U23-November-23-2019-Premier-League-2----Division-1
+9,2019-12-14,Sat,PL2 — Div. 1,Matchweek 13,Away,D 1–1,Chelsea,Liverpool,Y,RB,78,0,0,0,0,,,2,1,,,,,,,,,,,,,,,,,,/en/matches/8127d0e1/Liverpool-U23-Chelsea-U23-December-14-2019-Premier-League-2----Division-1
+10,2019-12-29,Sun,Premier League,Matchweek 20,Away,W 2–1,Chelsea,Arsenal,N,RB,32,0,0,0,0,0,0,0,0,18,2,0,0,0.0,0.0,0.1,2,0,11,14,78.6,2,7,1,1,0,/en/matches/850e18c6/North-West-London-Derby-Arsenal-Chelsea-December-29-2019-Premier-League
+11,2020-01-05,Sun,FA Cup,Third round,Home,W 2–0,Chelsea,Nott'ham Forest,N,,15,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/1984176c/Chelsea-Nottingham-Forest-January-5-2020-FA-Cup
+12,2020-01-11,Sat,PL2 — Div. 1,Matchweek 15,Home,W 2–1,Chelsea,Manchester City,Y,RB,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ef6858d0/Chelsea-U23-Manchester-City-U23-January-11-2020-Premier-League-2----Division-1
+13,2020-01-25,Sat,FA Cup,Fourth round,Away,W 2–1,Chelsea,Hull City,N,,1,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/1ae33332/Hull-City-Chelsea-January-25-2020-FA-Cup
+14,2020-06-23,Tue,Premier League,Matchweek 31,Away,D 0–0,Brighton,Leicester City,Y,RB,90,0,0,0,0,0,0,0,0,50,3,0,1,0.0,0.0,0.0,0,0,25,35,71.4,3,16,2,6,5,/en/matches/481a9a3a/Leicester-City-Brighton-and-Hove-Albion-June-23-2020-Premier-League
+15,2020-06-30,Tue,Premier League,Matchweek 32,Home,L 0–3,Brighton,Manchester Utd,Y,RM,45,0,0,0,0,0,0,0,0,16,0,0,2,0.0,0.0,0.0,1,0,6,10,60.0,1,10,3,0,0,/en/matches/be321c59/Brighton-and-Hove-Albion-Manchester-United-June-30-2020-Premier-League
+16,2020-07-04,Sat,Premier League,Matchweek 33,Away,W 1–0,Brighton,Norwich City,Y,RB,89,0,0,0,0,0,0,1,0,57,0,5,1,0.0,0.0,0.1,2,0,35,45,77.8,2,31,1,4,2,/en/matches/aa3a3540/Norwich-City-Brighton-and-Hove-Albion-July-4-2020-Premier-League
+17,2020-07-08,Wed,Premier League,Matchweek 34,Home,L 1–3,Brighton,Liverpool,Y,RB,90,0,1,0,0,1,0,1,0,52,0,4,0,0.0,0.0,0.3,1,1,33,42,78.6,1,36,3,4,3,/en/matches/3296482a/Brighton-and-Hove-Albion-Liverpool-July-8-2020-Premier-League
+18,2020-07-11,Sat,Premier League,Matchweek 35,Home,L 0–5,Brighton,Manchester City,N,RB,32,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.0,0,0,5,8,62.5,0,7,1,1,0,/en/matches/a24d3d6b/Brighton-and-Hove-Albion-Manchester-City-July-11-2020-Premier-League
+19,2020-07-16,Thu,Premier League,Matchweek 36,Away,D 1–1,Brighton,Southampton,Y,WB,67,0,0,0,0,0,0,0,0,32,2,1,0,0.0,0.0,0.0,1,1,16,24,66.7,4,8,0,2,2,/en/matches/793f900e/Southampton-Brighton-and-Hove-Albion-July-16-2020-Premier-League
+20,2020-07-20,Mon,Premier League,Matchweek 37,Home,D 0–0,Brighton,Newcastle Utd,Y,RB,85,0,0,0,0,0,0,0,0,52,0,3,1,0.0,0.0,0.0,2,0,34,40,85.0,1,27,2,0,0,/en/matches/9defdd38/Brighton-and-Hove-Albion-Newcastle-United-July-20-2020-Premier-League
+21,2020-07-26,Sun,Premier League,Matchweek 38,Away,W 2–1,Brighton,Burnley,Y,WB,90,0,0,0,0,1,0,0,0,49,1,3,0,0.0,0.0,0.6,6,0,23,31,74.2,3,36,5,5,3,/en/matches/d4360fcd/Burnley-Brighton-and-Hove-Albion-July-26-2020-Premier-League

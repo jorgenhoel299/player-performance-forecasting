@@ -1,12 +1,14 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2019-08-10,Sat,Matchweek 11,Home,L 1–2,Aston Villa,Liverpool,N,FW,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/2206646c/Aston-Villa-Liverpool-November-2-2019-Premier-League
-1,2019-08-10,Sun,Matchweek 12,Away,L 1–2,Aston Villa,Wolves,N,"On matchday squad, but did not play",/en/matches/2794f89d/Wolverhampton-Wanderers-Aston-Villa-November-10-2019-Premier-League,,,,,,,,,,,,,,,
-2,2019-08-10,Mon,Matchweek 13,Home,W 2–0,Aston Villa,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/f6f8808e/Aston-Villa-Newcastle-United-November-25-2019-Premier-League,,,,,,,,,,,,,,,
-3,2019-08-10,Sun,Matchweek 14,Away,D 2–2,Aston Villa,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/e88d9028/Manchester-United-Aston-Villa-December-1-2019-Premier-League,,,,,,,,,,,,,,,
-4,2019-08-10,Wed,Matchweek 15,Away,L 1–2,Aston Villa,Chelsea,N,"On matchday squad, but did not play",/en/matches/3f316110/Chelsea-Aston-Villa-December-4-2019-Premier-League,,,,,,,,,,,,,,,
-5,2019-08-10,Sun,Matchweek 16,Home,L 1–4,Aston Villa,Leicester City,N,"On matchday squad, but did not play",/en/matches/559e812a/Aston-Villa-Leicester-City-December-8-2019-Premier-League,,,,,,,,,,,,,,,
-6,2019-08-10,Sat,Matchweek 17,Away,L 0–2,Aston Villa,Sheffield Utd,N,FW,22,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/b1b5e590/Sheffield-United-Aston-Villa-December-14-2019-Premier-League
-7,2019-08-10,Sat,Matchweek 18,Home,L 1–3,Aston Villa,Southampton,N,FW,35,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/d50390a8/Aston-Villa-Southampton-December-21-2019-Premier-League
-8,2019-08-10,Thu,Matchweek 19,Home,W 1–0,Aston Villa,Norwich City,N,"On matchday squad, but did not play",/en/matches/010301bf/Aston-Villa-Norwich-City-December-26-2019-Premier-League,,,,,,,,,,,,,,,
-9,2019-08-10,Sat,Matchweek 20,Away,L 0–3,Aston Villa,Watford,N,"FW,AM",18,1,0,0,0,0,1,0,0,0,0,0,0,0,0,/en/matches/36dc1eb8/Watford-Aston-Villa-December-28-2019-Premier-League
-10,2019-08-10,Wed,Matchweek 21,Away,W 2–1,Aston Villa,Burnley,N,FW,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/ac409026/Burnley-Aston-Villa-January-1-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-07-01,Mon,Africa Cup of Nations,Group stage,Neutral,W 4–1,ci Côte d'Ivoire,na Namibia,N,,6,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/1316e9ac/Namibia-Cote-dIvoire-July-1-2019-Africa-Cup-of-Nations
+1,2019-07-08,Mon,Africa Cup of Nations,Round of 16,Neutral,W 1–0,ci Côte d'Ivoire,ml Mali,Y,FW,84,0,1,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/afe15fcd/Mali-Cote-dIvoire-July-8-2019-Africa-Cup-of-Nations
+2,2019-07-11,Thu,Africa Cup of Nations,Quarter-finals,Neutral,D 1 (3)–1 (4),ci Côte d'Ivoire,dz Algeria,Y,FW,95,1,0,0,0,3,2,0,0,,,0,,,,,,,,,,,,,,,/en/matches/7e8373d6/Cote-dIvoire-Algeria-July-11-2019-Africa-Cup-of-Nations
+3,2019-08-10,Sat,Premier League,Matchweek 1,Away,L 1–3,Aston Villa,Tottenham,N,FW,17,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,0,0,0,0,/en/matches/404ee5d3/Tottenham-Hotspur-Aston-Villa-August-10-2019-Premier-League
+4,2019-10-21,Mon,PL2 — Div. 2,Matchweek 8,Home,W 1–0,Aston Villa,Fulham,Y,FW,79,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/282c7777/Aston-Villa-U23-Fulham-U23-October-21-2019-Premier-League-2----Division-2
+5,2019-10-30,Wed,EFL Cup,Fourth round,Home,W 2–1,Aston Villa,Wolves,N,,41,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/1d8c3ef1/Aston-Villa-Wolverhampton-Wanderers-October-30-2019-EFL-Cup
+6,2019-11-02,Sat,Premier League,Matchweek 11,Home,L 1–2,Aston Villa,Liverpool,N,FW,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,/en/matches/2206646c/Aston-Villa-Liverpool-November-2-2019-Premier-League
+7,2019-12-14,Sat,Premier League,Matchweek 17,Away,L 0–2,Aston Villa,Sheffield Utd,N,FW,22,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,1,4,2,0,0,/en/matches/b1b5e590/Sheffield-United-Aston-Villa-December-14-2019-Premier-League
+8,2019-12-17,Tue,EFL Cup,Quarter-finals,Home,W 5–0,Aston Villa,Liverpool,Y,FW,72,2,0,0,0,2,2,0,0,,,0,,,,,,,,,,,,,,,/en/matches/d315ece1/Aston-Villa-Liverpool-December-17-2019-EFL-Cup
+9,2019-12-21,Sat,Premier League,Matchweek 18,Home,L 1–3,Aston Villa,Southampton,N,FW,35,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.1,2,0,4,6,66.7,0,5,1,1,1,/en/matches/d50390a8/Aston-Villa-Southampton-December-21-2019-Premier-League
+10,2019-12-28,Sat,Premier League,Matchweek 20,Away,L 0–3,Aston Villa,Watford,N,"FW,AM",18,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,6,1,1,0,/en/matches/36dc1eb8/Watford-Aston-Villa-December-28-2019-Premier-League
+11,2020-01-01,Wed,Premier League,Matchweek 21,Away,W 2–1,Aston Villa,Burnley,N,FW,20,0,0,0,0,2,0,0,0,12,0,0,0,0.1,0.1,0.0,0,0,2,7,28.6,0,3,0,1,0,/en/matches/ac409026/Burnley-Aston-Villa-January-1-2020-Premier-League
+12,2020-01-04,Sat,FA Cup,Third round,Away,L 1–2,Aston Villa,Fulham,Y,FW,90,0,1,0,0,3,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/6424e85c/Fulham-Aston-Villa-January-4-2020-FA-Cup

@@ -1,1 +1,19 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-10,Sat,Premier League,Matchweek 1,Home,L 0–5,West Ham,Manchester City,N,FW,25,0,0,0,0,2,1,0,0,9,0,0,0,0.7,0.7,0.0,2,0,7,7,100.0,2,4,0,0,0,/en/matches/71c8a43e/West-Ham-United-Manchester-City-August-10-2019-Premier-League
+1,2019-08-17,Sat,Premier League,Matchweek 2,Away,D 1–1,West Ham,Brighton,Y,FW,82,1,0,0,0,1,1,0,0,17,0,1,0,0.3,0.3,0.0,0,0,10,13,76.9,1,10,0,0,0,/en/matches/894d0ca5/Brighton-and-Hove-Albion-West-Ham-United-August-17-2019-Premier-League
+2,2019-09-06,Fri,Friendlies (M),Friendlies (M),Away,W 3–0,mx Mexico,us United States,Y,FW,86,1,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/3cd69096/United-States-Mexico-September-6-2019-Friendlies-M
+3,2019-09-15,Sun,La Liga,Matchweek 4,Away,W 1–0,Sevilla,Alavés,N,FW,21,0,0,0,0,0,0,0,0,11,0,0,2,0.0,0.0,0.0,0,0,4,7,57.1,2,7,2,0,0,/en/matches/72f46f0e/Alaves-Sevilla-September-15-2019-La-Liga
+4,2019-09-19,Thu,Europa Lg,Group stage,Away,W 3–0,es Sevilla,az Qarabağ Ağdam,Y,FW,71,1,0,0,0,4,1,0,0,30,1,0,1,0.3,0.3,0.0,1,0,13,20,65.0,0,18,0,1,1,/en/matches/5ecec8e0/Qarabag-Agdam-Sevilla-September-19-2019-Europa-League
+5,2019-09-22,Sun,La Liga,Matchweek 5,Home,L 0–1,Sevilla,Real Madrid,N,FW,22,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,/en/matches/26bec54c/Sevilla-Real-Madrid-September-22-2019-La-Liga
+6,2019-10-03,Thu,Europa Lg,Group stage,Home,W 1–0,es Sevilla,cy APOEL,Y,FW,78,1,0,0,0,2,2,0,0,27,2,0,1,0.7,0.7,0.0,3,0,15,19,78.9,3,21,1,1,1,/en/matches/a6f32888/Sevilla-APOEL-October-3-2019-Europa-League
+7,2019-10-06,Sun,La Liga,Matchweek 8,Away,L 0–4,Sevilla,Barcelona,N,FW,26,0,0,0,0,1,0,0,0,11,0,0,0,0.5,0.5,0.0,1,0,4,8,50.0,0,7,0,0,0,/en/matches/4bb0f58e/Barcelona-Sevilla-October-6-2019-La-Liga
+8,2019-10-20,Sun,La Liga,Matchweek 9,Home,W 1–0,Sevilla,Levante,Y,FW,79,0,0,0,0,3,2,0,0,19,2,0,1,0.8,0.8,0.0,0,0,9,10,90.0,0,9,1,0,0,/en/matches/62362e38/Sevilla-Levante-October-20-2019-La-Liga
+9,2019-10-27,Sun,La Liga,Matchweek 10,Home,W 2–0,Sevilla,Getafe,Y,FW,80,1,0,0,0,4,3,0,0,29,2,0,0,0.7,0.7,0.1,1,0,9,15,60.0,1,13,2,0,0,/en/matches/ba1f5dd9/Sevilla-Getafe-October-27-2019-La-Liga
+10,2019-10-30,Wed,La Liga,Matchweek 11,Away,D 1–1,Sevilla,Valencia,Y,FW,84,0,0,0,0,1,0,0,0,20,0,2,1,0.1,0.1,0.0,2,0,11,11,100.0,1,7,0,0,0,/en/matches/52549559/Valencia-Sevilla-October-30-2019-La-Liga
+11,2019-11-02,Sat,La Liga,Matchweek 12,Home,D 1–1,Sevilla,Atlético Madrid,N,FW,14,0,0,0,0,0,0,0,0,4,1,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,/en/matches/9bc4762b/Sevilla-Atletico-Madrid-November-2-2019-La-Liga
+12,2019-11-28,Thu,Europa Lg,Group stage,Home,W 2–0,es Sevilla,az Qarabağ Ağdam,Y,FW,61,0,0,0,0,1,0,0,0,9,1,0,0,0.1,0.1,0.0,1,0,3,3,100.0,0,5,0,0,0,/en/matches/13010eab/Sevilla-Qarabag-Agdam-November-28-2019-Europa-League
+13,2019-12-08,Sun,La Liga,Matchweek 16,Away,D 1–1,Sevilla,Osasuna,Y,FW,90,0,0,0,0,3,1,0,0,39,1,2,1,0.9,0.9,0.1,2,0,11,21,52.4,2,17,2,3,0,/en/matches/f088ca45/Osasuna-Sevilla-December-8-2019-La-Liga
+14,2019-12-12,Thu,Europa Lg,Group stage,Away,L 0–1,es Sevilla,cy APOEL,Y,FW,45,0,0,0,0,1,0,0,0,28,0,1,0,0.1,0.1,0.0,0,0,17,24,70.8,2,15,0,0,0,/en/matches/b004db6f/APOEL-Sevilla-December-12-2019-Europa-League
+15,2019-12-15,Sun,La Liga,Matchweek 17,Home,L 1–2,Sevilla,Villarreal,N,FW,32,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,1,0,5,5,100.0,0,2,0,0,0,/en/matches/9337bea2/Sevilla-Villarreal-December-15-2019-La-Liga
+16,2020-02-29,Sat,MLS,Regular Season,Away,D 1–1,LA Galaxy,Dynamo,Y*,FW,90,0,0,0,0,1,0,0,0,26,1,0,0,0.0,0.0,0.1,2,0,13,15,86.7,3,22,1,1,0,/en/matches/3c1c6306/Houston-Dynamo-LA-Galaxy-February-29-2020-Major-League-Soccer
+17,2020-03-07,Sat,MLS,Regular Season,Home,L 0–1,LA Galaxy,Vancouver,Y,FW,90,0,0,0,0,1,0,0,0,31,0,0,0,0.1,0.1,0.0,1,0,16,24,66.7,3,17,0,0,0,/en/matches/74642d6d/LA-Galaxy-Vancouver-Whitecaps-FC-March-7-2020-Major-League-Soccer

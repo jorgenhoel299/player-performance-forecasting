@@ -1,8 +1,16 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2021-03-06,Sun,Matchweek 33,Home,D 2–2,Aston Villa,West Brom,N,"On matchday squad, but did not play",/en/matches/2ab535fa/Aston-Villa-West-Bromwich-Albion-April-25-2021-Premier-League,,,,,,,,,,,,,,,,,
-1,2021-03-06,Sat,Matchweek 34,Away,W 2–1,Aston Villa,Everton,N,"On matchday squad, but did not play",/en/matches/2452619d/Everton-Aston-Villa-May-1-2021-Premier-League,,,,,,,,,,,,,,,,,
-2,2021-03-06,Sun,Matchweek 35,Home,L 1–3,Aston Villa,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/c80d17ca/Aston-Villa-Manchester-United-May-9-2021-Premier-League,,,,,,,,,,,,,,,,,
-3,2021-03-06,Thu,Matchweek 19,Home,D 0–0,Aston Villa,Everton,N,"On matchday squad, but did not play",/en/matches/b5b24fd8/Aston-Villa-Everton-May-13-2021-Premier-League,,,,,,,,,,,,,,,,,
-4,2021-03-06,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2021-03-06,Wed,Matchweek 37,Away,W 2–1,Aston Villa,Tottenham,N,RW,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/d4273555/Tottenham-Hotspur-Aston-Villa-May-19-2021-Premier-League
-6,2021-03-06,Sun,Matchweek 38,Home,W 2–1,Aston Villa,Chelsea,N,"On matchday squad, but did not play",/en/matches/0143966a/Aston-Villa-Chelsea-May-23-2021-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-14,Mon,PL2 — Div. 2,Matchweek 1,Away,L 1–3,Aston Villa,West Brom,N,,23,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d7b78102/West-Bromwich-Albion-U23-Aston-Villa-U23-September-14-2020-Premier-League-2----Division-2
+1,2020-09-18,Fri,PL2 — Div. 2,Matchweek 2,Home,W 3–0,Aston Villa,Norwich City,Y,FW,90,1,0,1,1,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/cdb7c52b/Aston-Villa-U23-Norwich-City-U23-September-18-2020-Premier-League-2----Division-2
+2,2020-09-25,Fri,PL2 — Div. 2,Matchweek 3,Home,L 1–2,Aston Villa,Reading,Y,FW,79,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/dd03cf8f/Aston-Villa-U23-Reading-U23-September-25-2020-Premier-League-2----Division-2
+3,2020-10-19,Mon,PL2 — Div. 2,Matchweek 5,Away,W 3–1,Aston Villa,Wolves,N,,18,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/ab43453f/Wolverhampton-Wanderers-U23-Aston-Villa-U23-October-19-2020-Premier-League-2----Division-2
+4,2020-10-30,Fri,PL2 — Div. 2,Matchweek 7,Home,L 0–2,Aston Villa,Sunderland,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/7b5956f8/Aston-Villa-U23-Sunderland-U23-October-30-2020-Premier-League-2----Division-2
+5,2020-11-09,Mon,PL2 — Div. 2,Matchweek 8,Away,D 2–2,Aston Villa,Burnley,Y,FW,90,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/6c3d26b6/Burnley-U23-Aston-Villa-U23-November-9-2020-Premier-League-2----Division-2
+6,2020-11-23,Mon,PL2 — Div. 2,Matchweek 9,Away,W 2–0,Aston Villa,Stoke City,Y,FW,90,1,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/b062a57d/Stoke-City-U23-Aston-Villa-U23-November-23-2020-Premier-League-2----Division-2
+7,2020-11-27,Fri,PL2 — Div. 2,Matchweek 10,Home,L 2–3,Aston Villa,Fulham,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/c3ffdf69/Aston-Villa-U23-Fulham-U23-November-27-2020-Premier-League-2----Division-2
+8,2020-12-13,Sun,PL2 — Div. 2,Matchweek 11,Away,L 2–3,Aston Villa,Leeds United,Y,AM,90,1,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/1621e527/Leeds-United-U23-Aston-Villa-U23-December-13-2020-Premier-League-2----Division-2
+9,2020-12-18,Fri,PL2 — Div. 2,Matchweek 12,Home,D 1–1,Aston Villa,Middlesbrough,Y,FW,72,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/efe0582d/Aston-Villa-U23-Middlesbrough-U23-December-18-2020-Premier-League-2----Division-2
+10,2021-02-05,Fri,PL2 — Div. 2,Matchweek 17,Home,D 4–4,Aston Villa,Crystal Palace,Y,DM,61,0,0,0,0,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/9b656cc4/Aston-Villa-U23-Crystal-Palace-U23-February-5-2021-Premier-League-2----Division-2
+11,2021-04-02,Fri,PL2 — Div. 2,Matchweek 18,Home,W 4–0,Aston Villa,Wolves,Y,AM,74,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/0b03f229/Aston-Villa-U23-Wolverhampton-Wanderers-U23-April-2-2021-Premier-League-2----Division-2
+12,2021-04-09,Fri,PL2 — Div. 2,Matchweek 23,Away,L 1–4,Aston Villa,Fulham,Y,AM,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d4fcfe9a/Fulham-U23-Aston-Villa-U23-April-9-2021-Premier-League-2----Division-2
+13,2021-04-16,Fri,PL2 — Div. 2,Matchweek 24,Home,L 1–2,Aston Villa,Leeds United,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b1e28293/Aston-Villa-U23-Leeds-United-U23-April-16-2021-Premier-League-2----Division-2
+14,2021-05-19,Wed,Premier League,Matchweek 37,Away,W 2–1,Aston Villa,Tottenham,N,RW,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0,/en/matches/d4273555/Tottenham-Hotspur-Aston-Villa-May-19-2021-Premier-League

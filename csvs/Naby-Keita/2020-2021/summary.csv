@@ -1,21 +1,20 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,2020-09-12,Mon,Matchweek 3,Home,W 3–1,Liverpool,Arsenal,Y,RM,78,0,0,0,0,2,0,0,0,53,0,0,3,0.1,0.1,0.1,5,0,39,42,92.9,1,43,1,1,1,/en/matches/ebe4e309/Liverpool-Arsenal-September-28-2020-Premier-League
-1,2020-09-12,Sun,Matchweek 4,Away,L 2–7,Liverpool,Aston Villa,Y,RM,45,0,0,0,0,2,0,0,0,40,0,0,2,0.1,0.1,0.0,1,0,28,31,90.3,4,28,1,0,0,/en/matches/14a7771b/Aston-Villa-Liverpool-October-4-2020-Premier-League
-2,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2020-09-12,Sun,Matchweek 8,Away,D 1–1,Liverpool,Manchester City,N,"On matchday squad, but did not play",/en/matches/26382194/Manchester-City-Liverpool-November-8-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,2020-09-12,Sun,Matchweek 9,Home,W 3–0,Liverpool,Leicester City,Y,LM,52,0,0,0,0,2,1,0,0,41,1,1,0,0.1,0.1,0.1,2,0,30,35,85.7,3,25,1,1,1,/en/matches/cc230451/Liverpool-Leicester-City-November-22-2020-Premier-League
-5,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2020-09-12,Sun,Matchweek 11,Home,W 4–0,Liverpool,Wolves,N,LM,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,1,0,/en/matches/25249736/Liverpool-Wolverhampton-Wanderers-December-6-2020-Premier-League
-7,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2020-09-12,Wed,Matchweek 13,Home,W 2–1,Liverpool,Tottenham,N,"On matchday squad, but did not play",/en/matches/966f86fe/Liverpool-Tottenham-Hotspur-December-16-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-9,2020-09-12,Sat,Matchweek 14,Away,W 7–0,Liverpool,Crystal Palace,Y,RM,90,0,0,0,0,0,0,0,0,85,5,4,0,0.0,0.0,0.3,3,1,63,73,86.3,7,49,3,2,2,/en/matches/d05715a8/Crystal-Palace-Liverpool-December-19-2020-Premier-League
-10,2020-09-12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-11,2020-09-12,Sat,Matchweek 25,Home,L 0–2,Liverpool,Everton,N,"On matchday squad, but did not play",/en/matches/e4ac45fb/Merseyside-Derby-Liverpool-Everton-February-20-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-12,2020-09-12,Sun,Matchweek 26,Away,W 2–0,Liverpool,Sheffield Utd,N,LM,11,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,1,9,4,0,0,/en/matches/3826d9aa/Sheffield-United-Liverpool-February-28-2021-Premier-League
-13,2020-09-12,Thu,Matchweek 29,Home,L 0–1,Liverpool,Chelsea,N,"On matchday squad, but did not play",/en/matches/86920e88/Liverpool-Chelsea-March-4-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,2020-09-12,Sun,Matchweek 27,Home,L 0–1,Liverpool,Fulham,Y,"LM,CM",90,0,0,0,0,2,1,1,0,85,1,1,2,0.1,0.1,0.0,2,0,66,76,86.8,5,58,4,2,1,/en/matches/5826a836/Liverpool-Fulham-March-7-2021-Premier-League
-15,2020-09-12,Mon,Matchweek 28,Away,W 1–0,Liverpool,Wolves,N,RM,24,0,0,0,0,0,0,0,0,13,2,0,0,0.0,0.0,0.1,3,0,6,10,60.0,3,4,0,0,0,/en/matches/ad3063c2/Wolverhampton-Wanderers-Liverpool-March-15-2021-Premier-League
-16,2020-09-12,Sat,Matchweek 30,Away,W 3–0,Liverpool,Arsenal,N,"On matchday squad, but did not play",/en/matches/562d1981/Arsenal-Liverpool-April-3-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-17,2020-09-12,Sat,Matchweek 31,Home,W 2–1,Liverpool,Aston Villa,N,"On matchday squad, but did not play",/en/matches/20bdebdc/Liverpool-Aston-Villa-April-10-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-18,2020-09-12,Mon,Matchweek 32,Away,D 1–1,Liverpool,Leeds United,N,"On matchday squad, but did not play",/en/matches/6c0666e6/Leeds-United-Liverpool-April-19-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-19,2020-09-12,Sat,Matchweek 33,Home,D 1–1,Liverpool,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/81e8aaf4/Liverpool-Newcastle-United-April-24-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-08-29,Sat,Community Shield,FA Community Shield,Neutral,D 1 (4)–1 (5),Liverpool,Arsenal,N,,62,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/1f445267/Arsenal-Liverpool-August-29-2020-FA-Community-Shield
+1,2020-09-12,Sat,Premier League,Matchweek 1,Home,W 4–3,Liverpool,Leeds United,Y,RM,57,0,0,0,0,1,0,0,0,40,0,3,2,0.1,0.1,0.0,3,0,22,27,81.5,4,25,3,1,1,/en/matches/21b58926/Liverpool-Leeds-United-September-12-2020-Premier-League
+2,2020-09-20,Sun,Premier League,Matchweek 2,Away,W 2–0,Liverpool,Chelsea,Y,RM,63,0,0,0,0,0,0,0,0,55,2,0,1,0.0,0.0,0.0,2,0,48,50,96.0,5,36,1,2,2,/en/matches/c64e5792/Chelsea-Liverpool-September-20-2020-Premier-League
+3,2020-09-24,Thu,EFL Cup,Third round,Away,W 7–2,Liverpool,Lincoln City,N,,16,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/25f4d180/Lincoln-City-Liverpool-September-24-2020-EFL-Cup
+4,2020-09-28,Mon,Premier League,Matchweek 3,Home,W 3–1,Liverpool,Arsenal,Y,RM,78,0,0,0,0,2,0,0,0,53,0,0,3,0.1,0.1,0.1,5,0,39,42,92.9,1,43,1,1,1,/en/matches/ebe4e309/Liverpool-Arsenal-September-28-2020-Premier-League
+5,2020-10-04,Sun,Premier League,Matchweek 4,Away,L 2–7,Liverpool,Aston Villa,Y,RM,45,0,0,0,0,2,0,0,0,40,0,0,2,0.1,0.1,0.0,1,0,28,31,90.3,4,28,1,0,0,/en/matches/14a7771b/Aston-Villa-Liverpool-October-4-2020-Premier-League
+6,2020-11-03,Tue,Champions Lg,Group stage,Away,W 5–0,eng Liverpool,it Atalanta,N,LM,25,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.1,2,0,18,20,90.0,1,15,2,1,1,/en/matches/687460ab/Atalanta-Liverpool-November-3-2020-Champions-League
+7,2020-11-11,Wed,Africa Cup of Nations qualification,Group stage,Home,W 1–0,gn Guinea,td Chad,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/c888dfa9/Guinea-Chad-November-11-2020-Africa-Cup-of-Nations-qualification
+8,2020-11-15,Sun,Africa Cup of Nations qualification,Group stage,Away,D 1–1,gn Guinea,td Chad,Y*,CM,90,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/3ca5fc26/Chad-Guinea-November-15-2020-Africa-Cup-of-Nations-qualification
+9,2020-11-22,Sun,Premier League,Matchweek 9,Home,W 3–0,Liverpool,Leicester City,Y,LM,52,0,0,0,0,2,1,0,0,41,1,1,0,0.1,0.1,0.1,2,0,30,35,85.7,3,25,1,1,1,/en/matches/cc230451/Liverpool-Leicester-City-November-22-2020-Premier-League
+10,2020-12-06,Sun,Premier League,Matchweek 11,Home,W 4–0,Liverpool,Wolves,N,LM,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,1,0,/en/matches/25249736/Liverpool-Wolverhampton-Wanderers-December-6-2020-Premier-League
+11,2020-12-09,Wed,Champions Lg,Group stage,Away,D 1–1,eng Liverpool,dk Midtjylland,Y,RM,61,0,0,0,0,1,1,0,0,41,1,1,2,0.1,0.1,0.0,1,0,27,31,87.1,2,23,1,1,0,/en/matches/a6b14ad5/Midtjylland-Liverpool-December-9-2020-Champions-League
+12,2020-12-19,Sat,Premier League,Matchweek 14,Away,W 7–0,Liverpool,Crystal Palace,Y,RM,90,0,0,0,0,0,0,0,0,85,5,4,0,0.0,0.0,0.3,3,1,63,73,86.3,7,49,3,2,2,/en/matches/d05715a8/Crystal-Palace-Liverpool-December-19-2020-Premier-League
+13,2021-02-28,Sun,Premier League,Matchweek 26,Away,W 2–0,Liverpool,Sheffield Utd,N,LM,11,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,1,9,4,0,0,/en/matches/3826d9aa/Sheffield-United-Liverpool-February-28-2021-Premier-League
+14,2021-03-07,Sun,Premier League,Matchweek 27,Home,L 0–1,Liverpool,Fulham,Y,"LM,CM",90,0,0,0,0,2,1,1,0,85,1,1,2,0.1,0.1,0.0,2,0,66,76,86.8,5,58,4,2,1,/en/matches/5826a836/Liverpool-Fulham-March-7-2021-Premier-League
+15,2021-03-10,Wed,Champions Lg,Round of 16,Home,W 2–0,eng Liverpool,de RB Leipzig,N,RM,19,0,0,0,0,0,0,0,0,15,1,1,1,0.0,0.0,0.1,3,1,10,12,83.3,4,10,0,0,0,/en/matches/0120c1ad/Liverpool-RB-Leipzig-March-10-2021-Champions-League
+16,2021-03-15,Mon,Premier League,Matchweek 28,Away,W 1–0,Liverpool,Wolves,N,RM,24,0,0,0,0,0,0,0,0,13,2,0,0,0.0,0.0,0.1,3,0,6,10,60.0,3,4,0,0,0,/en/matches/ad3063c2/Wolverhampton-Wanderers-Liverpool-March-15-2021-Premier-League
+17,2021-03-24,Wed,Africa Cup of Nations qualification,Group stage,Home,W 1–0,gn Guinea,ml Mali,Y*,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/5ac78ee9/Guinea-Mali-March-24-2021-Africa-Cup-of-Nations-qualification
+18,2021-04-06,Tue,Champions Lg,Quarter-finals,Away,L 1–3,eng Liverpool,es Real Madrid,Y,RM,41,0,0,0,0,0,0,0,0,24,0,2,0,0.0,0.0,0.0,0,0,17,20,85.0,0,17,0,2,2,/en/matches/70748c34/Real-Madrid-Liverpool-April-6-2021-Champions-League

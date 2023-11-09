@@ -1,2 +1,9 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
-0,2020-07-16,Sun,Matchweek 38,Away,W 2–0,Manchester Utd,Leicester City,N,LW,1,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0,0,0,0,0,/en/matches/3873cc78/Leicester-City-Manchester-United-July-26-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-01-10,Fri,PL2 — Div. 2,Matchweek 15,Home,W 2–1,Manchester Utd,Newcastle Utd,Y,DM,57,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/a620f525/Manchester-United-U23-Newcastle-United-U23-January-10-2020-Premier-League-2----Division-2
+1,2020-03-02,Mon,PL2 — Div. 2,Matchweek 18,Away,W 3–2,Manchester Utd,Stoke City,Y,RB,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/bd117e0e/Stoke-City-U23-Manchester-United-U23-March-2-2020-Premier-League-2----Division-2
+2,2020-07-16,Thu,Premier League,Matchweek 36,Away,W 2–0,Manchester Utd,Crystal Palace,Y,LB,90,0,0,0,0,0,0,0,0,63,1,4,0,0.0,0.0,0.1,2,0,48,55,87.3,2,31,3,1,0,/en/matches/69a16f9d/Crystal-Palace-Manchester-United-July-16-2020-Premier-League
+3,2020-07-19,Sun,FA Cup,Semi-finals,Neutral,L 1–3,Manchester Utd,Chelsea,N,,12,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/777ab883/Manchester-United-Chelsea-July-19-2020-FA-Cup
+4,2020-07-22,Wed,Premier League,Matchweek 37,Home,D 1–1,Manchester Utd,West Ham,Y,RB,45,0,0,0,0,1,0,1,0,21,0,0,0,0.1,0.1,0.0,1,0,12,18,66.7,2,11,1,1,1,/en/matches/bf25e016/Manchester-United-West-Ham-United-July-22-2020-Premier-League
+5,2020-07-26,Sun,Premier League,Matchweek 38,Away,W 2–0,Manchester Utd,Leicester City,N,LW,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,/en/matches/3873cc78/Leicester-City-Manchester-United-July-26-2020-Premier-League
+6,2020-08-05,Wed,Europa Lg,Round of 16,Home,W 2–1,eng Manchester Utd,at LASK,Y,RB,83,0,0,0,0,1,0,0,0,74,1,0,1,0.1,0.1,0.0,0,0,53,69,76.8,4,31,8,3,3,/en/matches/96f334a5/Manchester-United-LASK-August-5-2020-Europa-League
+7,2020-08-16,Sun,Europa Lg,Semi-finals,Away,L 1–2,eng Manchester Utd,es Sevilla,N,LB,4,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,6,0,0,0,/en/matches/995abd52/Sevilla-Manchester-United-August-16-2020-Europa-League

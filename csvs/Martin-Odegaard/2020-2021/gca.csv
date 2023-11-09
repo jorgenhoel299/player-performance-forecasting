@@ -1,16 +1,38 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2021-01-30,Sat,Matchweek 23,Away,L 0–1,Arsenal,Aston Villa,N,AM,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/224bcfc4/Aston-Villa-Arsenal-February-6-2021-Premier-League
-1,2021-01-30,Sun,Matchweek 24,Home,W 4–2,Arsenal,Leeds United,Y,AM,77,2,1,0,0,1,0,0,0,0,0,0,0,0,0,/en/matches/85624e5e/Arsenal-Leeds-United-February-14-2021-Premier-League
-2,2021-01-30,Sun,Matchweek 25,Home,L 0–1,Arsenal,Manchester City,Y,AM,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/2dedf408/Arsenal-Manchester-City-February-21-2021-Premier-League
-3,2021-01-30,Sun,Matchweek 26,Away,W 3–1,Arsenal,Leicester City,N,AM,49,2,2,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/88b309f1/Leicester-City-Arsenal-February-28-2021-Premier-League
-4,2021-01-30,Sat,Matchweek 27,Away,D 1–1,Arsenal,Burnley,Y,AM,62,4,4,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/db9a5ac8/Burnley-Arsenal-March-6-2021-Premier-League
-5,2021-01-30,Sun,Matchweek 28,Home,W 2–1,Arsenal,Tottenham,Y,"AM,FW",90,5,5,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/127b8258/North-London-Derby-Arsenal-Tottenham-Hotspur-March-14-2021-Premier-League
-6,2021-01-30,Sun,Matchweek 29,Away,D 3–3,Arsenal,West Ham,Y,AM,90,10,7,1,2,0,0,0,1,1,0,0,0,0,0,/en/matches/c592a3d7/West-Ham-United-Arsenal-March-21-2021-Premier-League
-7,2021-01-30,Sat,Matchweek 30,Home,L 0–3,Arsenal,Liverpool,Y,AM,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/562d1981/Arsenal-Liverpool-April-3-2021-Premier-League
-8,2021-01-30,,,,,,,,,,,,,,,,,,,,,,,,
-9,2021-01-30,Fri,Matchweek 33,Home,L 0–1,Arsenal,Everton,N,AM,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/30f36320/Arsenal-Everton-April-23-2021-Premier-League
-10,2021-01-30,Sun,Matchweek 34,Away,W 2–0,Arsenal,Newcastle Utd,Y,AM,84,8,5,2,0,0,1,0,1,1,0,0,0,0,0,/en/matches/af2c27de/Newcastle-United-Arsenal-May-2-2021-Premier-League
-11,2021-01-30,Sun,Matchweek 35,Home,W 3–1,Arsenal,West Brom,N,"On matchday squad, but did not play",/en/matches/49369ed5/Arsenal-West-Bromwich-Albion-May-9-2021-Premier-League,,,,,,,,,,,,,,,
-12,2021-01-30,Wed,Matchweek 36,Away,W 1–0,Arsenal,Chelsea,Y,AM,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/51632a55/North-West-London-Derby-Chelsea-Arsenal-May-12-2021-Premier-League
-13,2021-01-30,Wed,Matchweek 37,Away,W 3–1,Arsenal,Crystal Palace,N,AM,26,2,2,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/624e6758/Crystal-Palace-Arsenal-May-19-2021-Premier-League
-14,2021-01-30,Sun,Matchweek 38,Home,W 2–0,Arsenal,Brighton,Y,AM,85,6,5,1,0,0,0,0,1,1,0,0,0,0,0,/en/matches/9f6c52f8/Arsenal-Brighton-and-Hove-Albion-May-23-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-09-20,Sun,La Liga,Matchweek 2,Away,D 0–0,Real Madrid,Real Sociedad,Y,AM,68,0,0,0,0,1,0,0,0,50,1,0,0,0.1,0.1,0.2,2,0,36,47,76.6,6,32,3,0,0,/en/matches/9ff705c3/Real-Sociedad-Real-Madrid-September-20-2020-La-Liga
+1,2020-09-26,Sat,La Liga,Matchweek 3,Away,W 3–2,Real Madrid,Betis,Y,AM,45,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,4,17,1,0,0,/en/matches/eca849a3/Real-Betis-Real-Madrid-September-26-2020-La-Liga
+2,2020-10-04,Sun,La Liga,Matchweek 5,Away,W 2–0,Real Madrid,Levante,N,RM,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0,/en/matches/9364ca86/Levante-Real-Madrid-October-4-2020-La-Liga
+3,2020-10-08,Thu,UEFA Euro Qualifying,Semi-finals,Home,L 1–2,no Norway,rs Serbia,Y,RM,110,0,1,0,0,1,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/166bbe3f/Norway-Serbia-October-8-2020-UEFA-Euro-Qualifying
+4,2020-10-11,Sun,UEFA Nations League,League B,Home,W 4–0,no Norway,ro Romania,Y,AM,69,0,0,0,0,1,1,0,0,,,4,,,,,,,,,,,,,,,/en/matches/afef15a0/Norway-Romania-October-11-2020-UEFA-Nations-League
+5,2020-10-14,Wed,UEFA Nations League,League B,Home,W 1–0,no Norway,nir Northern Ireland,Y,RM,77,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/55440533/Norway-Northern-Ireland-October-14-2020-UEFA-Nations-League
+6,2020-11-08,Sun,La Liga,Matchweek 9,Away,L 1–4,Real Madrid,Valencia,N,"LW,RM",27,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.1,2,0,16,21,76.2,1,16,0,1,1,/en/matches/67626947/Valencia-Real-Madrid-November-8-2020-La-Liga
+7,2020-11-21,Sat,La Liga,Matchweek 10,Away,D 1–1,Real Madrid,Villarreal,Y,AM,64,0,0,0,0,2,0,0,0,64,0,0,1,0.1,0.1,0.0,0,0,52,57,91.2,7,43,3,0,0,/en/matches/3428445b/Villarreal-Real-Madrid-November-21-2020-La-Liga
+8,2020-11-25,Wed,Champions Lg,Group stage,Away,W 2–0,es Real Madrid,it Inter,Y,AM,57,0,0,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.1,5,1,35,40,87.5,6,32,2,0,0,/en/matches/73005389/Internazionale-Real-Madrid-November-25-2020-Champions-League
+9,2020-11-28,Sat,La Liga,Matchweek 11,Home,L 1–2,Real Madrid,Alavés,N,RM,22,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.1,1,0,14,17,82.4,2,11,0,0,0,/en/matches/8514945b/Real-Madrid-Alaves-November-28-2020-La-Liga
+10,2020-12-01,Tue,Champions Lg,Group stage,Away,L 0–2,es Real Madrid,ua Shakhtar,Y,AM,76,0,0,0,0,2,2,0,0,50,1,0,0,0.1,0.1,0.2,4,0,39,45,86.7,4,32,0,3,1,/en/matches/056ad534/Shakhtar-Donetsk-Real-Madrid-December-1-2020-Champions-League
+11,2021-01-02,Sat,La Liga,Matchweek 17,Home,W 2–0,Real Madrid,Celta Vigo,N,RM,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.1,1,0,3,3,100.0,0,4,0,0,0,/en/matches/db92bd0a/Real-Madrid-Celta-Vigo-January-2-2021-La-Liga
+12,2021-01-30,Sat,Premier League,Matchweek 21,Home,D 0–0,Arsenal,Manchester Utd,N,AM,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,/en/matches/0fcaaa5f/Arsenal-Manchester-United-January-30-2021-Premier-League
+13,2021-02-06,Sat,Premier League,Matchweek 23,Away,L 0–1,Arsenal,Aston Villa,N,AM,26,0,0,0,0,1,0,0,0,34,0,0,0,0.1,0.1,0.0,0,0,24,29,82.8,5,21,1,0,0,/en/matches/224bcfc4/Aston-Villa-Arsenal-February-6-2021-Premier-League
+14,2021-02-14,Sun,Premier League,Matchweek 24,Home,W 4–2,Arsenal,Leeds United,Y,AM,77,0,0,0,0,2,0,0,0,40,0,1,0,0.1,0.1,0.1,2,0,26,32,81.3,2,26,0,2,2,/en/matches/85624e5e/Arsenal-Leeds-United-February-14-2021-Premier-League
+15,2021-02-18,Thu,Europa Lg,Round of 32,Neutral,D 1–1,eng Arsenal,pt Benfica,Y,AM,89,0,0,0,0,0,0,0,0,63,3,0,1,0.0,0.0,0.1,4,1,44,51,86.3,6,33,2,2,1,/en/matches/502eecde/Benfica-Arsenal-February-18-2021-Europa-League
+16,2021-02-21,Sun,Premier League,Matchweek 25,Home,L 0–1,Arsenal,Manchester City,Y,AM,72,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,0,0,28,34,82.4,1,25,1,1,1,/en/matches/2dedf408/Arsenal-Manchester-City-February-21-2021-Premier-League
+17,2021-02-25,Thu,Europa Lg,Round of 32,Neutral,W 3–2,eng Arsenal,pt Benfica,Y,"AM,RM",89,0,0,0,0,0,0,0,0,80,0,1,0,0.0,0.0,0.1,4,2,68,76,89.5,8,61,3,2,2,/en/matches/a24eb69e/Arsenal-Benfica-February-25-2021-Europa-League
+18,2021-02-28,Sun,Premier League,Matchweek 26,Away,W 3–1,Arsenal,Leicester City,N,AM,49,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.1,2,1,23,27,85.2,7,14,2,1,1,/en/matches/88b309f1/Leicester-City-Arsenal-February-28-2021-Premier-League
+19,2021-03-06,Sat,Premier League,Matchweek 27,Away,D 1–1,Arsenal,Burnley,Y,AM,62,0,0,0,0,2,1,0,0,44,0,0,1,0.1,0.1,0.1,4,0,33,36,91.7,3,23,1,2,0,/en/matches/db9a5ac8/Burnley-Arsenal-March-6-2021-Premier-League
+20,2021-03-11,Thu,Europa Lg,Round of 16,Away,W 3–1,eng Arsenal,gr Olympiacos,Y,AM,81,1,0,0,0,4,1,0,0,76,2,2,0,0.2,0.2,0.3,10,1,57,65,87.7,10,57,4,2,2,/en/matches/e211e269/Olympiacos-Arsenal-March-11-2021-Europa-League
+21,2021-03-14,Sun,Premier League,Matchweek 28,Home,W 2–1,Arsenal,Tottenham,Y,"AM,FW",90,1,0,0,0,2,1,0,0,73,3,1,0,0.1,0.1,0.1,5,0,56,62,90.3,10,41,1,1,0,/en/matches/127b8258/North-London-Derby-Arsenal-Tottenham-Hotspur-March-14-2021-Premier-League
+22,2021-03-18,Thu,Europa Lg,Round of 16,Home,L 0–1,eng Arsenal,gr Olympiacos,N,AM,34,0,0,0,0,1,0,0,0,31,0,0,0,0.1,0.1,0.8,2,0,20,29,69.0,3,18,1,3,2,/en/matches/f78a1e8b/Arsenal-Olympiacos-March-18-2021-Europa-League
+23,2021-03-21,Sun,Premier League,Matchweek 29,Away,D 3–3,Arsenal,West Ham,Y,AM,90,0,0,0,0,3,1,0,0,88,0,0,0,0.2,0.2,0.2,10,1,73,85,85.9,15,65,5,4,4,/en/matches/c592a3d7/West-Ham-United-Arsenal-March-21-2021-Premier-League
+24,2021-03-24,Wed,WCQ,First round,Away,W 3–0,no Norway,gi Gibraltar,Y*,CM,45,0,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/a5076d60/Gibraltar-Norway-March-24-2021-WCQ----UEFA-M
+25,2021-03-27,Sat,WCQ,First round,Home,L 0–3,no Norway,tr Türkiye,Y*,AM,90,0,0,0,0,2,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/cc335320/Norway-Turkiye-March-27-2021-WCQ----UEFA-M
+26,2021-03-30,Tue,WCQ,First round,Away,W 1–0,no Norway,me Montenegro,Y*,FW,79,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/01bfeef6/Montenegro-Norway-March-30-2021-WCQ----UEFA-M
+27,2021-04-03,Sat,Premier League,Matchweek 30,Home,L 0–3,Arsenal,Liverpool,Y,AM,90,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,1,0,30,33,90.9,4,21,0,0,0,/en/matches/562d1981/Arsenal-Liverpool-April-3-2021-Premier-League
+28,2021-04-23,Fri,Premier League,Matchweek 33,Home,L 0–1,Arsenal,Everton,N,AM,17,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,14,14,100.0,1,7,0,0,0,/en/matches/30f36320/Arsenal-Everton-April-23-2021-Premier-League
+29,2021-04-29,Thu,Europa Lg,Semi-finals,Away,L 1–2,eng Arsenal,es Villarreal,Y,AM,62,0,0,0,0,0,0,0,0,45,1,1,0,0.0,0.0,0.1,3,0,38,41,92.7,8,28,0,0,0,/en/matches/5c6ed40a/Villarreal-Arsenal-April-29-2021-Europa-League
+30,2021-05-02,Sun,Premier League,Matchweek 34,Away,W 2–0,Arsenal,Newcastle Utd,Y,AM,84,0,0,0,0,1,0,0,0,66,1,0,0,0.1,0.1,0.3,8,1,55,62,88.7,6,50,2,1,1,/en/matches/af2c27de/Newcastle-United-Arsenal-May-2-2021-Premier-League
+31,2021-05-06,Thu,Europa Lg,Semi-finals,Home,D 0–0,eng Arsenal,es Villarreal,Y,CM,65,0,0,0,0,1,0,0,0,39,1,0,0,0.0,0.0,0.0,0,0,23,32,71.9,1,22,3,1,1,/en/matches/0aef865d/Arsenal-Villarreal-May-6-2021-Europa-League
+32,2021-05-12,Wed,Premier League,Matchweek 36,Away,W 1–0,Arsenal,Chelsea,Y,AM,90,0,0,0,0,2,0,0,0,51,0,0,0,0.1,0.1,0.1,2,0,39,45,86.7,1,38,1,2,1,/en/matches/51632a55/North-West-London-Derby-Chelsea-Arsenal-May-12-2021-Premier-League
+33,2021-05-19,Wed,Premier League,Matchweek 37,Away,W 3–1,Arsenal,Crystal Palace,N,AM,26,0,1,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.8,2,1,13,14,92.9,2,10,0,1,1,/en/matches/624e6758/Crystal-Palace-Arsenal-May-19-2021-Premier-League
+34,2021-05-23,Sun,Premier League,Matchweek 38,Home,W 2–0,Arsenal,Brighton,Y,AM,85,0,1,0,0,2,0,0,0,68,3,0,1,0.1,0.1,0.2,6,1,46,58,79.3,8,44,2,2,2,/en/matches/9f6c52f8/Arsenal-Brighton-and-Hove-Albion-May-23-2021-Premier-League
+35,2021-06-02,Wed,Friendlies (M),Friendlies (M),Home,W 1–0,no Norway,lu Luxembourg,Y*,CM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/9be1356e/Norway-Luxembourg-June-2-2021-Friendlies-M
+36,2021-06-06,Sun,Friendlies (M),Friendlies (M),Home,L 1–2,no Norway,gr Greece,Y*,AM,90,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/1449698e/Norway-Greece-June-6-2021-Friendlies-M

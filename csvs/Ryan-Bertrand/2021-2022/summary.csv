@@ -1,10 +1,12 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,2021-09-11,Sat,Matchweek 6,Home,D 2–2,Leicester City,Burnley,Y,LB,90,0,0,0,0,0,0,0,0,97,1,0,1,0.0,0.0,0.0,2,0,69,89,77.5,9,53,1,0,0,/en/matches/2d61f328/Leicester-City-Burnley-September-25-2021-Premier-League
-1,2021-09-11,Sun,Matchweek 7,Away,D 2–2,Leicester City,Crystal Palace,Y,LB,90,0,0,0,0,0,0,1,0,41,3,0,3,0.0,0.0,0.0,0,0,23,29,79.3,2,12,1,0,0,/en/matches/b06fd537/Crystal-Palace-Leicester-City-October-3-2021-Premier-League
-2,2021-09-11,Sat,Matchweek 8,Home,W 4–2,Leicester City,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/45502ded/Leicester-City-Manchester-United-October-16-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,2021-09-11,Sun,Matchweek 9,Away,W 2–1,Leicester City,Brentford,N,"On matchday squad, but did not play",/en/matches/b5c25937/Brentford-Leicester-City-October-24-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,2021-09-11,Sat,Matchweek 10,Home,L 0–2,Leicester City,Arsenal,N,"On matchday squad, but did not play",/en/matches/719b57c6/Leicester-City-Arsenal-October-30-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,2021-09-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2021-09-11,Sat,Matchweek 12,Home,L 0–3,Leicester City,Chelsea,N,"On matchday squad, but did not play",/en/matches/2fd486d6/Leicester-City-Chelsea-November-20-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,2021-09-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2021-09-11,Sun,Matchweek 16,Home,W 4–0,Leicester City,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/8805978d/Leicester-City-Newcastle-United-December-12-2021-Premier-League,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-07,Sat,Community Shield,FA Community Shield,Neutral,W 1–0,Leicester City,Manchester City,Y,LB,77,0,,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/6a1fc101/Leicester-City-Manchester-City-August-7-2021-FA-Community-Shield
+1,2021-09-11,Sat,Premier League,Matchweek 4,Home,L 0–1,Leicester City,Manchester City,Y,LB,90,0,0,0,0,0,0,0,0,39,4,0,4,0.0,0.0,0.0,0,0,21,24,87.5,3,12,0,0,0,/en/matches/8dd69c8d/Leicester-City-Manchester-City-September-11-2021-Premier-League
+2,2021-09-16,Thu,Europa Lg,Group stage,Home,D 2–2,eng Leicester City,it Napoli,Y,LB,90,0,0,0,0,0,0,0,0,62,0,0,2,0.0,0.0,0.1,1,0,39,54,72.2,2,33,2,0,0,/en/matches/ca7a900a/Leicester-City-Napoli-September-16-2021-Europa-League
+3,2021-09-19,Sun,Premier League,Matchweek 5,Away,L 1–2,Leicester City,Brighton,Y,LB,67,0,0,0,0,0,0,0,0,52,0,1,0,0.0,0.0,0.0,0,0,38,49,77.6,3,24,0,0,0,/en/matches/723f5105/Brighton-and-Hove-Albion-Leicester-City-September-19-2021-Premier-League
+4,2021-09-25,Sat,Premier League,Matchweek 6,Home,D 2–2,Leicester City,Burnley,Y,LB,90,0,0,0,0,0,0,0,0,97,1,0,1,0.0,0.0,0.0,2,0,69,89,77.5,9,53,1,0,0,/en/matches/2d61f328/Leicester-City-Burnley-September-25-2021-Premier-League
+5,2021-10-03,Sun,Premier League,Matchweek 7,Away,D 2–2,Leicester City,Crystal Palace,Y,LB,90,0,0,0,0,0,0,1,0,41,3,0,3,0.0,0.0,0.0,0,0,23,29,79.3,2,12,1,0,0,/en/matches/b06fd537/Crystal-Palace-Leicester-City-October-3-2021-Premier-League
+6,2021-10-20,Wed,Europa Lg,Group stage,Away,W 4–3,eng Leicester City,ru Spartak Moscow,N,WB,9,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,/en/matches/5fb74839/Spartak-Moscow-Leicester-City-October-20-2021-Europa-League
+7,2021-10-27,Wed,EFL Cup,Fourth round,Home,D 2 (4)–2 (2),Leicester City,Brighton,Y,CB,58,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/f11900cf/Leicester-City-Brighton-and-Hove-Albion-October-27-2021-EFL-Cup
+8,2021-11-04,Thu,Europa Lg,Group stage,Home,D 1–1,eng Leicester City,ru Spartak Moscow,Y,WB,57,0,0,0,0,0,0,0,0,54,0,0,1,0.0,0.0,0.0,2,1,36,46,78.3,3,28,2,2,0,/en/matches/d8832d11/Leicester-City-Spartak-Moscow-November-4-2021-Europa-League
+9,2021-12-09,Thu,Europa Lg,Group stage,Away,L 2–3,eng Leicester City,it Napoli,Y,LB,90,0,0,0,0,0,0,0,0,72,0,1,1,0.0,0.0,0.2,3,1,52,66,78.8,3,46,2,0,0,/en/matches/db3142d8/Napoli-Leicester-City-December-9-2021-Europa-League
+10,2021-12-22,Wed,EFL Cup,Quarter-finals,Away,D 3 (4)–3 (5),Leicester City,Liverpool,N,,31,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/7d868ad3/Liverpool-Leicester-City-December-22-2021-EFL-Cup

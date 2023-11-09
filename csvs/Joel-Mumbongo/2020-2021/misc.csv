@@ -1,10 +1,21 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Match Report
-0,2020-12-27,,,,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-12-27,Sun,Matchweek 21,Away,L 0–2,Burnley,Chelsea,N,FW,15,0,0,0,0,0,1,0,0,0,0,0,0,2,0,2,0.0,/en/matches/3372f3f3/Chelsea-Burnley-January-31-2021-Premier-League
-2,2020-12-27,Wed,Matchweek 22,Home,L 0–2,Burnley,Manchester City,N,FW,14,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,,/en/matches/a05d7ae7/Burnley-Manchester-City-February-3-2021-Premier-League
-3,2020-12-27,Sat,Matchweek 23,Home,D 1–1,Burnley,Brighton,N,"On matchday squad, but did not play",/en/matches/4400251e/Burnley-Brighton-and-Hove-Albion-February-6-2021-Premier-League,,,,,,,,,,,,,,,,,
-4,2020-12-27,Sat,Matchweek 24,Away,W 3–0,Burnley,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/34a4b546/Crystal-Palace-Burnley-February-13-2021-Premier-League,,,,,,,,,,,,,,,,,
-5,2020-12-27,Wed,Matchweek 17,Home,D 1–1,Burnley,Fulham,N,"On matchday squad, but did not play",/en/matches/6285d050/Burnley-Fulham-February-17-2021-Premier-League,,,,,,,,,,,,,,,,,
-6,2020-12-27,Sat,Matchweek 25,Home,D 0–0,Burnley,West Brom,N,FW,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,/en/matches/072e8501/Burnley-West-Bromwich-Albion-February-20-2021-Premier-League
-7,2020-12-27,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,2020-12-27,Sun,Matchweek 31,Home,L 1–2,Burnley,Newcastle Utd,N,RM,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,/en/matches/daebaaa1/Burnley-Newcastle-United-April-11-2021-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-11-09,Mon,PL2 — Div. 2,Matchweek 8,Home,D 2–2,Burnley,Aston Villa,N,,29,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/6c3d26b6/Burnley-U23-Aston-Villa-U23-November-9-2020-Premier-League-2----Division-2
+1,2020-11-23,Mon,PL2 — Div. 2,Matchweek 9,Home,W 2–1,Burnley,Fulham,Y,FW,63,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b7e23762/Burnley-U23-Fulham-U23-November-23-2020-Premier-League-2----Division-2
+2,2020-11-27,Fri,PL2 — Div. 2,Matchweek 10,Away,D 0–0,Burnley,Norwich City,Y,FW,90,0,0,0,1,,,1,0,,,,,,,,,,,,,,,,,,/en/matches/5fb2bd96/Norwich-City-U23-Burnley-U23-November-27-2020-Premier-League-2----Division-2
+3,2020-12-07,Mon,PL2 — Div. 2,Matchweek 4,Away,W 1–0,Burnley,Stoke City,Y,FW,89,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/c3fd1188/Stoke-City-U23-Burnley-U23-December-7-2020-Premier-League-2----Division-2
+4,2020-12-14,Mon,PL2 — Div. 2,Matchweek 11,Home,W 3–1,Burnley,Reading,Y,FW,90,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/f5f3273c/Burnley-U23-Reading-U23-December-14-2020-Premier-League-2----Division-2
+5,2021-01-09,Sat,FA Cup,Third round proper,Home,D 1 (4)–1 (3),Burnley,MK Dons,N,,38,0,1,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/a729f1f5/Burnley-Milton-Keynes-Dons-January-9-2021-FA-Cup
+6,2021-01-18,Mon,PL2 — Div. 2,Matchweek 14,Home,D 0–0,Burnley,Wolves,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/1e98663d/Burnley-U23-Wolverhampton-Wanderers-U23-January-18-2021-Premier-League-2----Division-2
+7,2021-01-24,Sun,FA Cup,Fourth round proper,Away,W 3–0,Burnley,Fulham,N,,2,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/05c9adfe/Fulham-Burnley-January-24-2021-FA-Cup
+8,2021-01-31,Sun,Premier League,Matchweek 21,Away,L 0–2,Burnley,Chelsea,N,FW,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,5,0,1,0,/en/matches/3372f3f3/Chelsea-Burnley-January-31-2021-Premier-League
+9,2021-02-03,Wed,Premier League,Matchweek 22,Home,L 0–2,Burnley,Manchester City,N,FW,14,0,0,0,0,0,0,1,0,1,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,/en/matches/a05d7ae7/Burnley-Manchester-City-February-3-2021-Premier-League
+10,2021-02-09,Tue,FA Cup,Fifth round proper,Home,L 0–2,Burnley,Bournemouth,N,,17,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/608db666/Burnley-Bournemouth-February-9-2021-FA-Cup
+11,2021-02-20,Sat,Premier League,Matchweek 25,Home,D 0–0,Burnley,West Brom,N,FW,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0,/en/matches/072e8501/Burnley-West-Bromwich-Albion-February-20-2021-Premier-League
+12,2021-03-01,Mon,PL2 — Div. 2,Matchweek 20,Home,W 3–1,Burnley,West Brom,Y,FW,90,2,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/c90f9e31/Burnley-U23-West-Bromwich-Albion-U23-March-1-2021-Premier-League-2----Division-2
+13,2021-03-08,Mon,PL2 — Div. 2,Matchweek 7,Away,L 1–2,Burnley,West Brom,Y,FW,74,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/67fdd942/West-Bromwich-Albion-U23-Burnley-U23-March-8-2021-Premier-League-2----Division-2
+14,2021-03-12,Fri,PL2 — Div. 2,Matchweek 21,Away,W 3–2,Burnley,Aston Villa,Y,FW,45,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/9de484e9/Aston-Villa-U23-Burnley-U23-March-12-2021-Premier-League-2----Division-2
+15,2021-03-19,Fri,PL2 — Div. 2,Matchweek 22,Away,W 4–1,Burnley,Fulham,N,,25,1,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/352ac4fa/Fulham-U23-Burnley-U23-March-19-2021-Premier-League-2----Division-2
+16,2021-03-29,Mon,PL2 — Div. 2,Matchweek 15,Away,L 0–3,Burnley,Sunderland,Y,FW,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/6590c516/Sunderland-U23-Burnley-U23-March-29-2021-Premier-League-2----Division-2
+17,2021-04-11,Sun,Premier League,Matchweek 31,Home,L 1–2,Burnley,Newcastle Utd,N,RM,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,/en/matches/daebaaa1/Burnley-Newcastle-United-April-11-2021-Premier-League
+18,2021-04-12,Mon,PL2 — Div. 2,Matchweek 23,Home,D 2–2,Burnley,Norwich City,Y,FW,59,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/302b0c5e/Burnley-U23-Norwich-City-U23-April-12-2021-Premier-League-2----Division-2
+19,2021-04-16,Fri,PL2 — Div. 2,Matchweek 24,Away,W 2–0,Burnley,Reading,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/54cdb4a4/Reading-U23-Burnley-U23-April-16-2021-Premier-League-2----Division-2

@@ -1,30 +1,44 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2019-08-09,Sat,Matchweek 3,Home,W 3–1,Liverpool,Arsenal,Y,CM,90,6,5,0,1,0,0,0,1,1,0,0,0,0,0,/en/matches/102b241e/Liverpool-Arsenal-August-24-2019-Premier-League
-1,2019-08-09,Sat,Matchweek 4,Away,W 3–0,Liverpool,Burnley,Y,CM,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/af072d61/Burnley-Liverpool-August-31-2019-Premier-League
-2,2019-08-09,Sat,Matchweek 5,Home,W 3–1,Liverpool,Newcastle Utd,Y,CM,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/cde24fee/Liverpool-Newcastle-United-September-14-2019-Premier-League
-3,2019-08-09,Sun,Matchweek 6,Away,W 2–1,Liverpool,Chelsea,Y,CM,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/02e3ae79/Chelsea-Liverpool-September-22-2019-Premier-League
-4,2019-08-09,Sat,Matchweek 7,Away,W 1–0,Liverpool,Sheffield Utd,Y,"CM,DM",90,4,4,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/1224c8ae/Sheffield-United-Liverpool-September-28-2019-Premier-League
-5,2019-08-09,Sat,Matchweek 8,Home,W 2–1,Liverpool,Leicester City,Y,CM,90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/aaed1c4e/Liverpool-Leicester-City-October-5-2019-Premier-League
-6,2019-08-09,Sun,Matchweek 9,Away,D 1–1,Liverpool,Manchester Utd,Y,"CM,DM",90,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/95c3f0c8/North-West-Derby-Manchester-United-Liverpool-October-20-2019-Premier-League
-7,2019-08-09,Sun,Matchweek 10,Home,W 2–1,Liverpool,Tottenham,Y,CM,90,5,5,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/16f28685/Liverpool-Tottenham-Hotspur-October-27-2019-Premier-League
-8,2019-08-09,Sat,Matchweek 11,Away,W 2–1,Liverpool,Aston Villa,N,"On matchday squad, but did not play",/en/matches/2206646c/Aston-Villa-Liverpool-November-2-2019-Premier-League,,,,,,,,,,,,,,,
-9,2019-08-09,Sun,Matchweek 12,Home,W 3–1,Liverpool,Manchester City,Y,CM,90,2,1,0,0,0,0,1,0,0,0,0,0,0,0,/en/matches/47880eb7/Liverpool-Manchester-City-November-10-2019-Premier-League
-10,2019-08-09,Sat,Matchweek 13,Away,W 2–1,Liverpool,Crystal Palace,Y,CM,90,3,3,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/0b1da656/Crystal-Palace-Liverpool-November-23-2019-Premier-League
-11,2019-08-09,,,,,,,,,,,,,,,,,,,,,,,,
-12,2019-08-09,Sun,Matchweek 23,Home,W 2–0,Liverpool,Manchester Utd,N,CM,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/d2a888b6/North-West-Derby-Liverpool-Manchester-United-January-19-2020-Premier-League
-13,2019-08-09,Thu,Matchweek 24,Away,W 2–1,Liverpool,Wolves,N,CM,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/efd768f0/Wolverhampton-Wanderers-Liverpool-January-23-2020-Premier-League
-14,2019-08-09,Wed,Matchweek 18,Away,W 2–0,Liverpool,West Ham,N,CM,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/7b057bc1/West-Ham-United-Liverpool-January-29-2020-Premier-League
-15,2019-08-09,Sat,Matchweek 25,Home,W 4–0,Liverpool,Southampton,Y,CM,90,4,4,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/ab9e9e23/Liverpool-Southampton-February-1-2020-Premier-League
-16,2019-08-09,Sat,Matchweek 26,Away,W 1–0,Liverpool,Norwich City,N,CM,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/9c238122/Norwich-City-Liverpool-February-15-2020-Premier-League
-17,2019-08-09,Mon,Matchweek 27,Home,W 3–2,Liverpool,West Ham,Y,CM,90,4,3,0,0,1,0,0,0,0,0,0,0,0,0,/en/matches/3aee1ba7/Liverpool-West-Ham-United-February-24-2020-Premier-League
-18,2019-08-09,Sat,Matchweek 28,Away,L 0–3,Liverpool,Watford,Y,"CM,DM",90,3,3,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/4df69c15/Watford-Liverpool-February-29-2020-Premier-League
-19,2019-08-09,Sat,Matchweek 29,Home,W 2–1,Liverpool,Bournemouth,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/a24ed8fc/Liverpool-Bournemouth-March-7-2020-Premier-League
-20,2019-08-09,Sun,Matchweek 30,Away,D 0–0,Liverpool,Everton,Y,CM,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/603174fb/Merseyside-Derby-Everton-Liverpool-June-21-2020-Premier-League
-21,2019-08-09,Wed,Matchweek 31,Home,W 4–0,Liverpool,Crystal Palace,Y,CM,90,4,3,0,0,0,1,0,1,1,0,0,0,0,0,/en/matches/c486cf76/Liverpool-Crystal-Palace-June-24-2020-Premier-League
-22,2019-08-09,Thu,Matchweek 32,Away,L 0–4,Liverpool,Manchester City,Y,"CB,CM",90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/5dffd237/Manchester-City-Liverpool-July-2-2020-Premier-League
-23,2019-08-09,Sun,Matchweek 33,Home,W 2–0,Liverpool,Aston Villa,Y,CM,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/c2481cad/Liverpool-Aston-Villa-July-5-2020-Premier-League
-24,2019-08-09,Wed,Matchweek 34,Away,W 3–1,Liverpool,Brighton,N,CM,30,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/3296482a/Brighton-and-Hove-Albion-Liverpool-July-8-2020-Premier-League
-25,2019-08-09,Sat,Matchweek 35,Home,D 1–1,Liverpool,Burnley,Y,CM,90,3,3,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/267d7e78/Liverpool-Burnley-July-11-2020-Premier-League
-26,2019-08-09,Wed,Matchweek 36,Away,L 1–2,Liverpool,Arsenal,Y,CM,90,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/12f95828/Arsenal-Liverpool-July-15-2020-Premier-League
-27,2019-08-09,Wed,Matchweek 37,Home,W 5–3,Liverpool,Chelsea,Y,CM,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/a80ba6fe/Liverpool-Chelsea-July-22-2020-Premier-League
-28,2019-08-09,Sun,Matchweek 38,Away,W 3–1,Liverpool,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/b6b1209d/Newcastle-United-Liverpool-July-26-2020-Premier-League,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-04,Sun,Community Shield,FA Community Shield,Neutral,D 1 (4)–1 (5),Liverpool,Manchester City,Y,CM,66,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/a0579b11/Liverpool-Manchester-City-August-4-2019-FA-Community-Shield
+1,2019-08-09,Fri,Premier League,Matchweek 1,Home,W 4–1,Liverpool,Norwich City,Y,CM,90,0,0,0,0,1,1,0,0,58,8,2,2,0.0,0.0,0.0,2,0,34,43,79.1,4,24,0,1,1,/en/matches/928467bd/Liverpool-Norwich-City-August-9-2019-Premier-League
+2,2019-08-14,Wed,Super Cup,UEFA Super Cup,Home,D 2 (5)–2 (4),eng Liverpool,eng Chelsea,Y,CM,120,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/4a69dd20/Liverpool-Chelsea-August-14-2019-UEFA-Super-Cup
+3,2019-08-17,Sat,Premier League,Matchweek 2,Away,W 2–1,Liverpool,Southampton,N,CM,17,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,5,8,62.5,0,6,0,0,0,/en/matches/b2a48847/Southampton-Liverpool-August-17-2019-Premier-League
+4,2019-08-24,Sat,Premier League,Matchweek 3,Home,W 3–1,Liverpool,Arsenal,Y,CM,90,0,1,0,0,0,0,1,0,73,2,0,1,0.0,0.0,0.4,6,1,66,71,93.0,8,58,1,1,1,/en/matches/102b241e/Liverpool-Arsenal-August-24-2019-Premier-League
+5,2019-08-31,Sat,Premier League,Matchweek 4,Away,W 3–0,Liverpool,Burnley,Y,CM,90,0,0,0,0,1,0,0,0,74,3,2,0,0.0,0.0,0.1,1,0,56,67,83.6,5,47,1,0,0,/en/matches/af072d61/Burnley-Liverpool-August-31-2019-Premier-League
+6,2019-09-10,Tue,Friendlies (M),Friendlies (M),Home,L 0–1,br Brazil,pe Peru,N,,27,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/780f9197/Brazil-Peru-September-10-2019-Friendlies-M
+7,2019-09-14,Sat,Premier League,Matchweek 5,Home,W 3–1,Liverpool,Newcastle Utd,Y,CM,90,0,0,0,0,0,0,0,0,90,0,1,0,0.0,0.0,0.0,1,0,79,87,90.8,8,72,1,0,0,/en/matches/cde24fee/Liverpool-Newcastle-United-September-14-2019-Premier-League
+8,2019-09-17,Tue,Champions Lg,Group stage,Away,L 0–2,eng Liverpool,it Napoli,Y,CM,90,0,0,0,0,2,0,0,0,75,6,1,0,0.1,0.1,0.0,1,0,62,65,95.4,8,61,2,2,2,/en/matches/83579d2e/Napoli-Liverpool-September-17-2019-Champions-League
+9,2019-09-22,Sun,Premier League,Matchweek 6,Away,W 2–1,Liverpool,Chelsea,Y,CM,90,0,0,0,0,0,0,1,0,54,0,0,1,0.0,0.0,0.1,1,0,42,49,85.7,8,30,1,2,2,/en/matches/02e3ae79/Chelsea-Liverpool-September-22-2019-Premier-League
+10,2019-09-28,Sat,Premier League,Matchweek 7,Away,W 1–0,Liverpool,Sheffield Utd,Y,"CM,DM",90,0,0,0,0,1,0,0,0,85,4,2,1,0.0,0.0,0.1,4,0,68,76,89.5,7,56,0,0,0,/en/matches/1224c8ae/Sheffield-United-Liverpool-September-28-2019-Premier-League
+11,2019-10-02,Wed,Champions Lg,Group stage,Home,W 4–3,eng Liverpool,at RB Salzburg,Y,"CM,DM,RM",90,0,0,0,0,0,0,1,0,73,2,2,1,0.0,0.0,0.3,2,1,55,68,80.9,5,28,0,1,1,/en/matches/ca11ab0f/Liverpool-Red-Bull-Salzburg-October-2-2019-Champions-League
+12,2019-10-05,Sat,Premier League,Matchweek 8,Home,W 2–1,Liverpool,Leicester City,Y,CM,90,0,0,0,0,0,0,1,0,80,3,2,1,0.0,0.0,0.0,2,0,56,67,83.6,6,48,0,3,2,/en/matches/aaed1c4e/Liverpool-Leicester-City-October-5-2019-Premier-League
+13,2019-10-13,Sun,Friendlies (M),Friendlies (M),Home,D 1–1,br Brazil,ng Nigeria,N,,11,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/5d76923c/Brazil-Nigeria-October-13-2019-Friendlies-M
+14,2019-10-20,Sun,Premier League,Matchweek 9,Away,D 1–1,Liverpool,Manchester Utd,Y,"CM,DM",90,0,0,0,0,0,0,1,0,77,1,1,1,0.0,0.0,0.1,2,0,59,71,83.1,6,49,3,0,0,/en/matches/95c3f0c8/North-West-Derby-Manchester-United-Liverpool-October-20-2019-Premier-League
+15,2019-10-23,Wed,Champions Lg,Group stage,Away,W 4–1,eng Liverpool,be Genk,Y,CM,90,0,1,0,0,1,1,0,0,80,3,2,2,0.0,0.0,0.0,5,1,66,71,93.0,8,48,2,1,1,/en/matches/aab4f0b8/Genk-Liverpool-October-23-2019-Champions-League
+16,2019-10-27,Sun,Premier League,Matchweek 10,Home,W 2–1,Liverpool,Tottenham,Y,CM,90,0,0,0,0,1,0,0,0,106,4,3,3,0.0,0.0,0.1,5,1,80,92,87.0,15,69,1,1,0,/en/matches/16f28685/Liverpool-Tottenham-Hotspur-October-27-2019-Premier-League
+17,2019-11-05,Tue,Champions Lg,Group stage,Home,W 2–1,eng Liverpool,be Genk,Y,CM,90,0,0,0,0,1,1,0,0,100,2,1,0,0.0,0.0,0.0,4,0,80,94,85.1,5,76,0,0,0,/en/matches/1deef029/Liverpool-Genk-November-5-2019-Champions-League
+18,2019-11-10,Sun,Premier League,Matchweek 12,Home,W 3–1,Liverpool,Manchester City,Y,CM,90,1,0,0,0,2,1,0,0,42,1,2,0,0.1,0.1,0.0,2,0,29,35,82.9,0,25,0,1,1,/en/matches/47880eb7/Liverpool-Manchester-City-November-10-2019-Premier-League
+19,2019-11-15,Fri,Friendlies (M),Friendlies (M),Home,L 0–1,br Brazil,ar Argentina,N,,37,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d562bb1e/Brazil-Argentina-November-15-2019-Friendlies-M
+20,2019-11-19,Tue,Friendlies (M),Friendlies (M),Neutral,W 3–0,br Brazil,kr Korea Republic,Y,DM,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/59ca2e24/Brazil-Korea-Republic-November-19-2019-Friendlies-M
+21,2019-11-23,Sat,Premier League,Matchweek 13,Away,W 2–1,Liverpool,Crystal Palace,Y,CM,90,0,0,0,0,0,0,1,0,77,4,1,0,0.0,0.0,0.0,3,0,56,69,81.2,4,56,1,0,0,/en/matches/0b1da656/Crystal-Palace-Liverpool-November-23-2019-Premier-League
+22,2019-11-27,Wed,Champions Lg,Group stage,Home,D 1–1,eng Liverpool,it Napoli,Y,CM,18,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,2,6,0,0,0,/en/matches/9e30ef9d/Liverpool-Napoli-November-27-2019-Champions-League
+23,2020-01-19,Sun,Premier League,Matchweek 23,Home,W 2–0,Liverpool,Manchester Utd,N,CM,8,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0,/en/matches/d2a888b6/North-West-Derby-Liverpool-Manchester-United-January-19-2020-Premier-League
+24,2020-01-23,Thu,Premier League,Matchweek 24,Away,W 2–1,Liverpool,Wolves,N,CM,21,0,0,0,0,0,0,0,0,25,0,1,1,0.0,0.0,0.0,0,0,16,21,76.2,0,18,0,0,0,/en/matches/efd768f0/Wolverhampton-Wanderers-Liverpool-January-23-2020-Premier-League
+25,2020-01-26,Sun,FA Cup,Fourth round,Away,D 2–2,Liverpool,Shrewsbury,Y,CM,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/064bfd18/Shrewsbury-Town-Liverpool-January-26-2020-FA-Cup
+26,2020-01-29,Wed,Premier League,Matchweek 18,Away,W 2–0,Liverpool,West Ham,N,CM,22,0,0,0,0,0,0,0,0,38,2,0,1,0.0,0.0,0.0,0,0,30,33,90.9,1,29,0,0,0,/en/matches/7b057bc1/West-Ham-United-Liverpool-January-29-2020-Premier-League
+27,2020-02-01,Sat,Premier League,Matchweek 25,Home,W 4–0,Liverpool,Southampton,Y,CM,90,0,0,0,0,1,0,0,0,73,4,1,1,0.0,0.0,0.1,4,1,46,64,71.9,1,42,0,0,0,/en/matches/ab9e9e23/Liverpool-Southampton-February-1-2020-Premier-League
+28,2020-02-15,Sat,Premier League,Matchweek 26,Away,W 1–0,Liverpool,Norwich City,N,CM,31,0,0,0,0,0,0,0,0,32,1,1,1,0.0,0.0,0.0,0,0,22,27,81.5,3,21,1,1,0,/en/matches/9c238122/Norwich-City-Liverpool-February-15-2020-Premier-League
+29,2020-02-18,Tue,Champions Lg,Round of 16,Away,L 0–1,eng Liverpool,es Atlético Madrid,Y,CM,90,0,0,0,0,2,0,0,0,92,3,1,0,0.0,0.0,0.0,3,0,70,84,83.3,9,53,1,0,0,/en/matches/f9a22073/Atletico-Madrid-Liverpool-February-18-2020-Champions-League
+30,2020-02-24,Mon,Premier League,Matchweek 27,Home,W 3–2,Liverpool,West Ham,Y,CM,90,0,0,0,0,1,0,0,0,84,3,1,0,0.1,0.1,0.1,4,0,67,78,85.9,7,47,2,0,0,/en/matches/3aee1ba7/Liverpool-West-Ham-United-February-24-2020-Premier-League
+31,2020-02-29,Sat,Premier League,Matchweek 28,Away,L 0–3,Liverpool,Watford,Y,"CM,DM",90,0,0,0,0,0,0,0,0,99,1,2,1,0.0,0.0,0.0,3,0,81,95,85.3,6,74,4,0,0,/en/matches/4df69c15/Watford-Liverpool-February-29-2020-Premier-League
+32,2020-03-03,Tue,FA Cup,Fifth round,Away,L 0–2,Liverpool,Chelsea,Y,CM,90,0,0,0,0,0,0,1,0,,,1,,,,,,,,,,,,,,,/en/matches/b44c6344/Chelsea-Liverpool-March-3-2020-FA-Cup
+33,2020-03-07,Sat,Premier League,Matchweek 29,Home,W 2–1,Liverpool,Bournemouth,Y,CM,90,0,0,0,0,0,0,0,0,67,0,1,0,0.0,0.0,0.0,0,0,57,62,91.9,6,53,0,0,0,/en/matches/a24ed8fc/Liverpool-Bournemouth-March-7-2020-Premier-League
+34,2020-03-11,Wed,Champions Lg,Round of 16,Home,L 2–3,eng Liverpool,es Atlético Madrid,N,DM,15,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,10,10,100.0,4,6,1,0,0,/en/matches/d23fe9df/Liverpool-Atletico-Madrid-March-11-2020-Champions-League
+35,2020-06-21,Sun,Premier League,Matchweek 30,Away,D 0–0,Liverpool,Everton,Y,CM,90,0,0,0,0,1,1,0,0,70,3,1,3,0.1,0.1,0.0,1,0,58,62,93.5,5,37,1,0,0,/en/matches/603174fb/Merseyside-Derby-Everton-Liverpool-June-21-2020-Premier-League
+36,2020-06-24,Wed,Premier League,Matchweek 31,Home,W 4–0,Liverpool,Crystal Palace,Y,CM,90,1,1,0,0,2,1,0,0,107,6,3,0,0.1,0.1,0.4,4,1,92,94,97.9,4,68,0,0,0,/en/matches/c486cf76/Liverpool-Crystal-Palace-June-24-2020-Premier-League
+37,2020-07-02,Thu,Premier League,Matchweek 32,Away,L 0–4,Liverpool,Manchester City,Y,"CB,CM",90,0,0,0,0,0,0,0,0,86,1,2,2,0.0,0.0,0.0,0,0,67,76,88.2,3,52,0,1,1,/en/matches/5dffd237/Manchester-City-Liverpool-July-2-2020-Premier-League
+38,2020-07-05,Sun,Premier League,Matchweek 33,Home,W 2–0,Liverpool,Aston Villa,Y,CM,60,0,0,0,0,0,0,0,0,47,0,0,1,0.0,0.0,0.0,0,0,41,44,93.2,7,25,0,0,0,/en/matches/c2481cad/Liverpool-Aston-Villa-July-5-2020-Premier-League
+39,2020-07-08,Wed,Premier League,Matchweek 34,Away,W 3–1,Liverpool,Brighton,N,CM,30,0,0,0,0,0,0,1,0,14,1,0,0,0.0,0.0,0.1,1,0,10,13,76.9,0,7,0,0,0,/en/matches/3296482a/Brighton-and-Hove-Albion-Liverpool-July-8-2020-Premier-League
+40,2020-07-11,Sat,Premier League,Matchweek 35,Home,D 1–1,Liverpool,Burnley,Y,CM,90,0,1,0,0,1,0,0,0,74,3,1,0,0.0,0.0,0.0,3,1,60,66,90.9,7,49,1,0,0,/en/matches/267d7e78/Liverpool-Burnley-July-11-2020-Premier-League
+41,2020-07-15,Wed,Premier League,Matchweek 36,Away,L 1–2,Liverpool,Arsenal,Y,CM,90,0,0,0,0,0,0,0,0,74,2,3,2,0.0,0.0,0.0,1,0,55,63,87.3,5,41,1,1,1,/en/matches/12f95828/Arsenal-Liverpool-July-15-2020-Premier-League
+42,2020-07-22,Wed,Premier League,Matchweek 37,Home,W 5–3,Liverpool,Chelsea,Y,CM,90,0,0,0,0,0,0,0,0,65,5,1,0,0.0,0.0,0.0,0,0,49,59,83.1,3,34,0,0,0,/en/matches/a80ba6fe/Liverpool-Chelsea-July-22-2020-Premier-League

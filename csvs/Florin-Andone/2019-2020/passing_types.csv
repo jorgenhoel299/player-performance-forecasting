@@ -1,2 +1,20 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
-0,2019-08-10,Sat,Matchweek 3,Home,L 0–2,Brighton,Southampton,Y,FW,29,4,3,1,0,0,0,0,0,1,0,0,0,2,0,0,/en/matches/baece203/Brighton-and-Hove-Albion-Southampton-August-24-2019-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-10,Sat,Premier League,Matchweek 1,Away,W 3–0,Brighton,Watford,N,FW,27,1,0,0,0,1,1,0,0,14,1,0,1,0.4,0.4,0.0,0,0,3,6,50.0,0,8,1,2,1,/en/matches/38111659/Watford-Brighton-and-Hove-Albion-August-10-2019-Premier-League
+1,2019-08-17,Sat,Premier League,Matchweek 2,Home,D 1–1,Brighton,West Ham,N,FW,17,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.1,0,0,2,2,100.0,0,5,0,1,0,/en/matches/894d0ca5/Brighton-and-Hove-Albion-West-Ham-United-August-17-2019-Premier-League
+2,2019-08-24,Sat,Premier League,Matchweek 3,Home,L 0–2,Brighton,Southampton,Y,FW,29,0,0,0,0,0,0,0,1,12,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,6,1,4,1,/en/matches/baece203/Brighton-and-Hove-Albion-Southampton-August-24-2019-Premier-League
+3,2019-09-05,Thu,UEFA Euro Qualifying,Group stage,Home,L 1–2,ro Romania,es Spain,N,,35,1,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/8cd04edf/Romania-Spain-September-5-2019-UEFA-Euro-Qualifying
+4,2019-09-08,Sun,UEFA Euro Qualifying,Group stage,Home,W 1–0,ro Romania,mt Malta,Y,FW,90,0,0,0,0,2,2,0,0,,,0,,,,,,,,,,,,,,,/en/matches/233f932a/Romania-Malta-September-8-2019-UEFA-Euro-Qualifying
+5,2019-09-22,Sun,Süper Lig,Matchweek 5,Away,D 1–1,Galatasaray,Yeni Mal'spor,Y,FW,83,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/e4d2898e/Yeni-Malatyaspor-Galatasaray-September-22-2019-Super-Lig
+6,2019-10-01,Tue,Champions Lg,Group stage,Home,L 0–1,tr Galatasaray,fr Paris S-G,N,FW,27,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,4,8,50.0,1,5,0,0,0,/en/matches/b53a6f14/Galatasaray-Paris-Saint-Germain-October-1-2019-Champions-League
+7,2019-10-05,Sat,Süper Lig,Matchweek 7,Away,D 0–0,Galatasaray,Gençlerbirliği,Y,FW,85,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/a447ac9e/Genclerbirligi-Galatasaray-October-5-2019-Super-Lig
+8,2019-10-12,Sat,UEFA Euro Qualifying,Group stage,Away,W 3–0,ro Romania,fo Faroe Islands,Y,FW,64,0,0,0,0,5,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/090dfebb/Faroe-Islands-Romania-October-12-2019-UEFA-Euro-Qualifying
+9,2019-10-15,Tue,UEFA Euro Qualifying,Group stage,Home,D 1–1,ro Romania,no Norway,N,,28,0,0,0,0,3,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/3ef52174/Romania-Norway-October-15-2019-UEFA-Euro-Qualifying
+10,2019-10-18,Fri,Süper Lig,Matchweek 8,Home,W 3–2,Galatasaray,Sivasspor,Y,FW,90,2,0,1,1,6,3,1,0,,,1,,,,,,,,,,,,,,,/en/matches/97c38c23/Galatasaray-Sivasspor-October-18-2019-Super-Lig
+11,2019-10-22,Tue,Champions Lg,Group stage,Home,L 0–1,tr Galatasaray,es Real Madrid,Y,FW,90,0,0,0,0,7,2,0,0,34,0,0,1,0.8,0.8,0.0,3,0,13,18,72.2,0,24,4,3,1,/en/matches/4caaf45c/Galatasaray-Real-Madrid-October-22-2019-Champions-League
+12,2019-10-27,Sun,Süper Lig,Matchweek 9,Away,L 0–1,Galatasaray,Beşiktaş,Y,FW,90,0,0,0,0,3,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/0cf12393/Besiktas-Galatasaray-October-27-2019-Super-Lig
+13,2019-11-01,Fri,Süper Lig,Matchweek 10,Home,W 2–0,Galatasaray,Rizespor,Y,FW,90,0,0,0,0,5,3,0,0,,,0,,,,,,,,,,,,,,,/en/matches/e3b3b186/Galatasaray-Rizespor-November-1-2019-Super-Lig
+14,2019-11-06,Wed,Champions Lg,Group stage,Away,L 0–6,tr Galatasaray,es Real Madrid,Y,FW,45,0,0,0,0,1,0,0,0,15,1,0,1,0.0,0.0,0.0,0,0,6,9,66.7,0,3,1,0,0,/en/matches/e0f6dac6/Real-Madrid-Galatasaray-November-6-2019-Champions-League
+15,2019-11-09,Sat,Süper Lig,Matchweek 11,Away,W 2–0,Galatasaray,Gaziantep FK,Y,FW,10,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/7d0d6c0f/Gaziantep-FK-Galatasaray-November-9-2019-Super-Lig
+16,2020-03-01,Sun,Süper Lig,Matchweek 24,Home,W 3–0,Galatasaray,Gençlerbirliği,N,,12,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/1a432aa6/Galatasaray-Genclerbirligi-March-1-2020-Super-Lig
+17,2020-03-15,Sun,Süper Lig,Matchweek 26,Home,D 0–0,Galatasaray,Beşiktaş,N,,1,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/648ac10e/Galatasaray-Besiktas-March-15-2020-Super-Lig
+18,2020-06-14,Sun,Süper Lig,Matchweek 27,Away,L 0–2,Galatasaray,Rizespor,N,,26,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/0ffc93dc/Rizespor-Galatasaray-June-14-2020-Super-Lig

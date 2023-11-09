@@ -1,1 +1,30 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Match Report
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-10-18,Sun,Premier League,Matchweek 5,Home,L 0–1,Leicester City,Aston Villa,N,FW,20,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.1,1,0,6,9,66.7,1,5,0,0,0,/en/matches/7751d8c1/Leicester-City-Aston-Villa-October-18-2020-Premier-League
+1,2020-11-23,Mon,PL2 — Div. 1,Matchweek 9,Home,W 2–1,Leicester City,West Ham,Y,FW,90,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/5778ea03/Leicester-City-U23-West-Ham-United-U23-November-23-2020-Premier-League-2----Division-1
+2,2020-12-18,Fri,PL2 — Div. 1,Matchweek 12,Away,L 1–2,Leicester City,Arsenal,Y,FW,82,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/11bf5011/Arsenal-U23-Leicester-City-U23-December-18-2020-Premier-League-2----Division-1
+3,2021-01-17,Sun,Ligue 1,Matchweek 20,Home,L 0–1,Lyon,Metz,N,RW,14,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.4,1,0,7,11,63.6,0,5,0,0,0,/en/matches/de561d96/Lyon-Metz-January-17-2021-Ligue-1
+4,2021-01-24,Sun,Ligue 1,Matchweek 21,Away,W 5–0,Lyon,Saint-Étienne,N,RW,6,0,0,0,0,1,1,0,0,6,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,2,0,0,0,/en/matches/f0d4e4fc/Saint-Etienne-Lyon-January-24-2021-Ligue-1
+5,2021-01-29,Fri,Ligue 1,Matchweek 22,Home,W 2–1,Lyon,Bordeaux,N,FW,19,0,0,0,0,1,0,0,0,9,0,0,0,0.4,0.4,0.0,0,0,8,8,100.0,2,6,0,0,0,/en/matches/308c218f/Lyon-Bordeaux-January-29-2021-Ligue-1
+6,2021-02-03,Wed,Ligue 1,Matchweek 23,Away,W 1–0,Lyon,Dijon,N,FW,16,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,8,8,100.0,3,8,1,0,0,/en/matches/bf694a73/Dijon-Lyon-February-3-2021-Ligue-1
+7,2021-02-06,Sat,Ligue 1,Matchweek 24,Home,W 3–0,Lyon,Strasbourg,N,"FW,RW",20,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,11,14,78.6,1,7,2,0,0,/en/matches/189c7e24/Lyon-Strasbourg-February-6-2021-Ligue-1
+8,2021-02-09,Tue,Coupe de France,Round of 64,Home,W 5–1,Lyon,Ajaccio,Y,FW,90,1,2,0,0,7,3,0,0,,,1,,,,,,,,,,,,,,,/en/matches/8d8f362f/Lyon-Ajaccio-February-9-2021-Coupe-de-France
+9,2021-02-13,Sat,Ligue 1,Matchweek 25,Home,L 1–2,Lyon,Montpellier,N,FW,19,0,0,0,0,5,2,0,0,22,0,0,0,1.3,1.3,0.1,1,0,14,16,87.5,1,14,0,1,1,/en/matches/385da91b/Lyon-Montpellier-February-13-2021-Ligue-1
+10,2021-02-19,Fri,Ligue 1,Matchweek 26,Away,W 3–2,Lyon,Brest,N,FW,3,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0,/en/matches/c5b56eba/Brest-Lyon-February-19-2021-Ligue-1
+11,2021-02-28,Sun,Ligue 1,Matchweek 27,Away,D 1–1,Lyon,Marseille,N,LM,4,0,0,0,0,0,0,0,0,4,1,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,/en/matches/46581524/Choc-des-Olympiques-Marseille-Lyon-February-28-2021-Ligue-1
+12,2021-03-03,Wed,Ligue 1,Matchweek 28,Home,W 1–0,Lyon,Rennes,Y,RW,57,0,0,0,0,1,0,0,0,30,0,1,0,0.1,0.1,0.0,1,0,19,22,86.4,5,17,4,3,1,/en/matches/423f56db/Lyon-Rennes-March-3-2021-Ligue-1
+13,2021-03-06,Sat,Coupe de France,Round of 32,Home,W 5–2,Lyon,Sochaux,Y,FW,90,0,1,0,0,2,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/8d662d35/Lyon-Sochaux-March-6-2021-Coupe-de-France
+14,2021-03-12,Fri,Ligue 1,Matchweek 29,Away,D 1–1,Lyon,Reims,N,FW,24,0,0,0,0,2,0,0,0,21,0,0,0,0.1,0.1,0.0,2,0,15,18,83.3,2,9,0,0,0,/en/matches/6f1ea543/Reims-Lyon-March-12-2021-Ligue-1
+15,2021-03-21,Sun,Ligue 1,Matchweek 30,Home,L 2–4,Lyon,Paris S-G,N,FW,35,1,0,0,0,3,2,0,0,17,0,0,0,0.3,0.3,0.0,1,0,11,14,78.6,0,11,0,1,1,/en/matches/bb18a4cc/Lyon-Paris-Saint-Germain-March-21-2021-Ligue-1
+16,2021-03-25,Thu,Africa Cup of Nations qualification,Group stage,Away,D 3–3,dz Algeria,zm Zambia,Y,AM,89,2,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/35825bae/Zambia-Algeria-March-25-2021-Africa-Cup-of-Nations-qualification
+17,2021-03-29,Mon,Africa Cup of Nations qualification,Group stage,Home,W 5–0,dz Algeria,bw Botswana,Y,FW,60,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/d28b0975/Algeria-Botswana-March-29-2021-Africa-Cup-of-Nations-qualification
+18,2021-04-03,Sat,Ligue 1,Matchweek 31,Away,D 1–1,Lyon,Lens,N,CM,20,0,0,0,0,0,0,0,1,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,0,0,/en/matches/52a508da/Lens-Lyon-April-3-2021-Ligue-1
+19,2021-04-11,Sun,Ligue 1,Matchweek 32,Home,W 3–0,Lyon,Angers,Y,FW,90,0,0,0,0,1,0,0,0,35,2,0,0,0.2,0.2,0.6,3,0,16,27,59.3,3,18,0,1,0,/en/matches/4d4dc0b9/Lyon-Angers-April-11-2021-Ligue-1
+20,2021-04-18,Sun,Ligue 1,Matchweek 33,Away,W 2–1,Lyon,Nantes,Y,FW,90,0,0,0,0,0,0,0,0,45,1,0,0,0.0,0.0,0.2,4,0,21,38,55.3,2,27,0,1,0,/en/matches/a2b60b56/Nantes-Lyon-April-18-2021-Ligue-1
+21,2021-04-21,Wed,Coupe de France,Quarter-finals,Home,L 0–2,Lyon,Monaco,N,,22,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c095483a/Lyon-Monaco-April-21-2021-Coupe-de-France
+22,2021-04-25,Sun,Ligue 1,Matchweek 34,Home,L 2–3,Lyon,Lille,Y,FW,72,1,0,0,0,2,1,0,0,28,1,0,2,0.7,0.7,0.0,0,0,14,19,73.7,1,15,1,1,1,/en/matches/b312c935/Lyon-Lille-April-25-2021-Ligue-1
+23,2021-05-08,Sat,Ligue 1,Matchweek 36,Home,W 4–1,Lyon,Lorient,N,FW,45,0,1,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.5,1,1,15,21,71.4,1,11,0,1,0,/en/matches/564cd242/Lyon-Lorient-May-8-2021-Ligue-1
+24,2021-05-16,Sun,Ligue 1,Matchweek 37,Away,W 5–2,Lyon,Nîmes,N,"AM,RW",15,1,0,0,0,1,1,0,0,12,1,0,1,0.5,0.5,0.0,0,0,6,8,75.0,0,6,0,0,0,/en/matches/cbcc34d4/Nimes-Lyon-May-16-2021-Ligue-1
+25,2021-05-23,Sun,Ligue 1,Matchweek 38,Home,L 2–3,Lyon,Nice,N,FW,30,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,1,3,33.3,0,6,0,0,0,/en/matches/cb4cd692/Lyon-Nice-May-23-2021-Ligue-1
+26,2021-06-03,Thu,Friendlies (M),Friendlies (M),Home,W 4–1,dz Algeria,mr Mauritania,Y,FW,58,0,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/a468ed30/Algeria-Mauritania-June-3-2021-Friendlies-M
+27,2021-06-06,Sun,Friendlies (M),Friendlies (M),Home,W 1–0,dz Algeria,ml Mali,N,,45,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/80d09fad/Algeria-Mali-June-6-2021-Friendlies-M
+28,2021-06-11,Fri,Friendlies (M),Friendlies (M),Away,W 2–0,dz Algeria,tn Tunisia,N,,32,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/8844e792/Tunisia-Algeria-June-11-2021-Friendlies-M

@@ -1,29 +1,29 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,Int,Tkl+Int,Clr,Err,Match Report
-0,2019-08-24,Sat,Matchweek 5,Away,W 5–2,Chelsea,Wolves,N,FW,14,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,/en/matches/0fa0a658/Wolverhampton-Wanderers-Chelsea-September-14-2019-Premier-League
-1,2019-08-24,Sun,Matchweek 6,Home,L 1–2,Chelsea,Liverpool,N,FW,14,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/02e3ae79/Chelsea-Liverpool-September-22-2019-Premier-League
-2,2019-08-24,Sat,Matchweek 7,Home,W 2–0,Chelsea,Brighton,N,FW,7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/1d4b5564/Chelsea-Brighton-and-Hove-Albion-September-28-2019-Premier-League
-3,2019-08-24,Sun,Matchweek 8,Away,W 4–1,Chelsea,Southampton,N,FW,7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/078b24d4/Southampton-Chelsea-October-6-2019-Premier-League
-4,2019-08-24,Sat,Matchweek 9,Home,W 1–0,Chelsea,Newcastle Utd,N,"On matchday squad, but did not play",/en/matches/c17538b0/Chelsea-Newcastle-United-October-19-2019-Premier-League,,,,,,,,,,,,,,,,,
-5,2019-08-24,Sat,Matchweek 10,Away,W 4–2,Chelsea,Burnley,N,"On matchday squad, but did not play",/en/matches/082dc9ef/Burnley-Chelsea-October-26-2019-Premier-League,,,,,,,,,,,,,,,,,
-6,2019-08-24,Sat,Matchweek 11,Away,W 2–1,Chelsea,Watford,N,FW,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/0b8b7f66/Watford-Chelsea-November-2-2019-Premier-League
-7,2019-08-24,Sat,Matchweek 12,Home,W 2–0,Chelsea,Crystal Palace,N,FW,18,1,0,0,1,0,0,0,,0,0,0,0,0,1,0,0,/en/matches/99680077/Chelsea-Crystal-Palace-November-9-2019-Premier-League
-8,2019-08-24,Sat,Matchweek 13,Away,L 1–2,Chelsea,Manchester City,N,FW,18,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/d16305c7/Manchester-City-Chelsea-November-23-2019-Premier-League
-9,2019-08-24,Sat,Matchweek 14,Home,L 0–1,Chelsea,West Ham,N,"On matchday squad, but did not play",/en/matches/aa1ff9cd/Chelsea-West-Ham-United-November-30-2019-Premier-League,,,,,,,,,,,,,,,,,
-10,2019-08-24,Wed,Matchweek 15,Home,W 2–1,Chelsea,Aston Villa,N,FW,8,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,/en/matches/3f316110/Chelsea-Aston-Villa-December-4-2019-Premier-League
-11,2019-08-24,Sat,Matchweek 16,Away,L 1–3,Chelsea,Everton,N,FW,9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/1b69dd66/Everton-Chelsea-December-7-2019-Premier-League
-12,2019-08-24,Sat,Matchweek 17,Home,L 0–1,Chelsea,Bournemouth,N,FW,13,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/b75094e0/Chelsea-Bournemouth-December-14-2019-Premier-League
-13,2019-08-24,Sun,Matchweek 18,Away,W 2–0,Chelsea,Tottenham,N,FW,11,1,1,1,0,0,0,2,0.0,2,1,1,0,0,1,0,0,/en/matches/a1a20337/Tottenham-Hotspur-Chelsea-December-22-2019-Premier-League
-14,2019-08-24,Thu,Matchweek 19,Home,L 0–2,Chelsea,Southampton,N,"On matchday squad, but did not play",/en/matches/d9a73d72/Chelsea-Southampton-December-26-2019-Premier-League,,,,,,,,,,,,,,,,,
-15,2019-08-24,Sun,Matchweek 20,Away,W 2–1,Chelsea,Arsenal,N,"On matchday squad, but did not play",/en/matches/850e18c6/North-West-London-Derby-Arsenal-Chelsea-December-29-2019-Premier-League,,,,,,,,,,,,,,,,,
-16,2019-08-24,Wed,Matchweek 21,Away,D 1–1,Chelsea,Brighton,N,"On matchday squad, but did not play",/en/matches/9b72407a/Brighton-and-Hove-Albion-Chelsea-January-1-2020-Premier-League,,,,,,,,,,,,,,,,,
-17,2019-08-24,Sat,Matchweek 22,Home,W 3–0,Chelsea,Burnley,N,"On matchday squad, but did not play",/en/matches/17a5a8ef/Chelsea-Burnley-January-11-2020-Premier-League,,,,,,,,,,,,,,,,,
-18,2019-08-24,Sat,Matchweek 23,Away,L 0–1,Chelsea,Newcastle Utd,N,FW,11,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/e5a20f1e/Newcastle-United-Chelsea-January-18-2020-Premier-League
-19,2019-08-24,Tue,Matchweek 24,Home,D 2–2,Chelsea,Arsenal,N,FW,12,1,0,1,0,0,0,0,,0,0,0,0,0,1,0,0,/en/matches/38d058ad/North-West-London-Derby-Chelsea-Arsenal-January-21-2020-Premier-League
-20,2019-08-24,Sat,Matchweek 25,Away,D 2–2,Chelsea,Leicester City,N,"On matchday squad, but did not play",/en/matches/270dc7ba/Leicester-City-Chelsea-February-1-2020-Premier-League,,,,,,,,,,,,,,,,,
-21,2019-08-24,Mon,Matchweek 26,Home,L 0–2,Chelsea,Manchester Utd,Y,FW,67,1,0,0,1,0,0,2,0.0,2,0,0,0,0,1,0,0,/en/matches/2619bcb9/Chelsea-Manchester-United-February-17-2020-Premier-League
-22,2019-08-24,,,,,,,,,,,,,,,,,,,,,,,,,,
-23,2019-08-24,Sat,Matchweek 28,Away,D 2–2,Chelsea,Bournemouth,N,FW,19,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,/en/matches/57d79762/Bournemouth-Chelsea-February-29-2020-Premier-League
-24,2019-08-24,Sun,Matchweek 29,Home,W 4–0,Chelsea,Everton,N,"On matchday squad, but did not play",/en/matches/c062bff0/Chelsea-Everton-March-8-2020-Premier-League,,,,,,,,,,,,,,,,,
-25,2019-08-24,,,,,,,,,,,,,,,,,,,,,,,,,,
-26,2019-08-24,Tue,Matchweek 34,Away,W 3–2,Chelsea,Crystal Palace,N,"On matchday squad, but did not play",/en/matches/61407f3d/Crystal-Palace-Chelsea-July-7-2020-Premier-League,,,,,,,,,,,,,,,,,
-27,2019-08-24,Sat,Matchweek 35,Away,L 0–3,Chelsea,Sheffield Utd,N,"On matchday squad, but did not play",/en/matches/3f83499d/Sheffield-United-Chelsea-July-11-2020-Premier-League,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-19,Mon,PL2 — Div. 1,Matchweek 2,Home,W 3–0,Chelsea,Liverpool,Y,FW,90,2,1,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/5041411d/Chelsea-U23-Liverpool-U23-August-19-2019-Premier-League-2----Division-1
+1,2019-08-31,Sat,Premier League,Matchweek 4,Home,D 2–2,Chelsea,Sheffield Utd,N,"FW,DM",8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,1,0,0,0,/en/matches/495db223/Chelsea-Sheffield-United-August-31-2019-Premier-League
+2,2019-09-06,Fri,UEFA Euro Qualifying,Group stage,Away,W 4–0,be Belgium,sm San Marino,Y,FW,90,2,0,1,1,5,4,0,0,,,0,,,,,,,,,,,,,,,/en/matches/cf7ab546/San-Marino-Belgium-September-6-2019-UEFA-Euro-Qualifying
+3,2019-09-14,Sat,Premier League,Matchweek 5,Away,W 5–2,Chelsea,Wolves,N,FW,14,0,1,0,0,4,1,0,0,15,0,0,0,1.0,1.0,0.1,2,1,10,10,100.0,0,11,2,2,1,/en/matches/0fa0a658/Wolverhampton-Wanderers-Chelsea-September-14-2019-Premier-League
+4,2019-09-22,Sun,Premier League,Matchweek 6,Home,L 1–2,Chelsea,Liverpool,N,FW,14,0,0,0,0,2,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,4,0,0,0,/en/matches/02e3ae79/Chelsea-Liverpool-September-22-2019-Premier-League
+5,2019-09-25,Wed,EFL Cup,Third round,Home,W 7–1,Chelsea,Grimsby Town,Y,FW,90,2,1,0,0,5,2,0,0,,,0,,,,,,,,,,,,,,,/en/matches/5586d94d/Chelsea-Grimsby-Town-September-25-2019-EFL-Cup
+6,2019-09-28,Sat,Premier League,Matchweek 7,Home,W 2–0,Chelsea,Brighton,N,FW,7,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,/en/matches/1d4b5564/Chelsea-Brighton-and-Hove-Albion-September-28-2019-Premier-League
+7,2019-10-06,Sun,Premier League,Matchweek 8,Away,W 4–1,Chelsea,Southampton,N,FW,7,1,0,0,0,1,1,0,0,4,0,0,0,0.4,0.4,0.0,0,0,2,3,66.7,0,2,0,0,0,/en/matches/078b24d4/Southampton-Chelsea-October-6-2019-Premier-League
+8,2019-10-13,Sun,UEFA Euro Qualifying,Group stage,Away,W 2–0,be Belgium,kz Kazakhstan,Y,FW,77,1,0,0,0,2,1,1,0,,,0,,,,,,,,,,,,,,,/en/matches/f968ed89/Kazakhstan-Belgium-October-13-2019-UEFA-Euro-Qualifying
+9,2019-10-23,Wed,Champions Lg,Group stage,Away,W 1–0,eng Chelsea,nl Ajax,N,FW,20,1,0,0,0,4,3,0,0,11,0,0,0,1.0,1.0,0.1,2,0,5,7,71.4,1,10,0,0,0,/en/matches/b2a13253/Ajax-Chelsea-October-23-2019-Champions-League
+10,2019-10-30,Wed,EFL Cup,Fourth round,Home,L 1–2,Chelsea,Manchester Utd,Y,FW,77,1,0,0,0,2,1,1,0,,,0,,,,,,,,,,,,,,,/en/matches/eb80841c/Chelsea-Manchester-United-October-30-2019-EFL-Cup
+11,2019-11-02,Sat,Premier League,Matchweek 11,Away,W 2–1,Chelsea,Watford,N,FW,3,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,4,2,0,0,/en/matches/0b8b7f66/Watford-Chelsea-November-2-2019-Premier-League
+12,2019-11-05,Tue,Champions Lg,Group stage,Home,D 4–4,eng Chelsea,nl Ajax,N,DM,4,0,0,0,0,2,1,0,0,5,0,0,0,0.5,0.5,0.0,0,0,1,1,100.0,0,4,0,0,0,/en/matches/d7ba36ab/Chelsea-Ajax-November-5-2019-Champions-League
+13,2019-11-09,Sat,Premier League,Matchweek 12,Home,W 2–0,Chelsea,Crystal Palace,N,FW,18,0,0,0,0,2,0,0,0,10,1,0,0,0.2,0.2,0.0,1,1,4,5,80.0,0,8,0,1,0,/en/matches/99680077/Chelsea-Crystal-Palace-November-9-2019-Premier-League
+14,2019-11-16,Sat,UEFA Euro Qualifying,Group stage,Away,W 4–1,be Belgium,ru Russia,N,,14,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/e34f609e/Russia-Belgium-November-16-2019-UEFA-Euro-Qualifying
+15,2019-11-23,Sat,Premier League,Matchweek 13,Away,L 1–2,Chelsea,Manchester City,N,FW,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0,/en/matches/d16305c7/Manchester-City-Chelsea-November-23-2019-Premier-League
+16,2019-11-27,Wed,Champions Lg,Group stage,Away,D 2–2,eng Chelsea,es Valencia,N,FW,45,0,0,0,0,2,1,0,0,13,0,0,0,0.1,0.1,0.0,2,1,3,6,50.0,0,7,1,1,1,/en/matches/0cec9d94/Valencia-Chelsea-November-27-2019-Champions-League
+17,2019-12-04,Wed,Premier League,Matchweek 15,Home,W 2–1,Chelsea,Aston Villa,N,FW,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,1,0,2,2,100.0,0,3,1,0,0,/en/matches/3f316110/Chelsea-Aston-Villa-December-4-2019-Premier-League
+18,2019-12-07,Sat,Premier League,Matchweek 16,Away,L 1–3,Chelsea,Everton,N,FW,9,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,4,0,0,0,/en/matches/1b69dd66/Everton-Chelsea-December-7-2019-Premier-League
+19,2019-12-10,Tue,Champions Lg,Group stage,Home,W 2–1,eng Chelsea,fr Lille,N,FW,19,0,0,0,0,2,0,0,0,16,0,0,0,0.2,0.2,0.1,0,0,6,10,60.0,0,6,0,0,0,/en/matches/d931b181/Chelsea-Lille-December-10-2019-Champions-League
+20,2019-12-14,Sat,Premier League,Matchweek 17,Home,L 0–1,Chelsea,Bournemouth,N,FW,13,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,3,6,50.0,0,2,0,0,0,/en/matches/b75094e0/Chelsea-Bournemouth-December-14-2019-Premier-League
+21,2019-12-22,Sun,Premier League,Matchweek 18,Away,W 2–0,Chelsea,Tottenham,N,FW,11,0,0,0,0,1,0,0,0,10,1,0,1,0.0,0.0,0.0,0,0,6,6,100.0,1,8,2,0,0,/en/matches/a1a20337/Tottenham-Hotspur-Chelsea-December-22-2019-Premier-League
+22,2020-01-05,Sun,FA Cup,Third round,Home,W 2–0,Chelsea,Nott'ham Forest,Y,FW,90,0,0,0,0,3,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/1984176c/Chelsea-Nottingham-Forest-January-5-2020-FA-Cup
+23,2020-01-18,Sat,Premier League,Matchweek 23,Away,L 0–1,Chelsea,Newcastle Utd,N,FW,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0,/en/matches/e5a20f1e/Newcastle-United-Chelsea-January-18-2020-Premier-League
+24,2020-01-21,Tue,Premier League,Matchweek 24,Home,D 2–2,Chelsea,Arsenal,N,FW,12,0,0,0,0,1,0,0,0,8,1,0,0,0.5,0.5,0.0,0,0,4,5,80.0,0,5,0,1,1,/en/matches/38d058ad/North-West-London-Derby-Chelsea-Arsenal-January-21-2020-Premier-League
+25,2020-01-25,Sat,FA Cup,Fourth round,Away,W 2–1,Chelsea,Hull City,Y,FW,90,1,0,0,0,3,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/1ae33332/Hull-City-Chelsea-January-25-2020-FA-Cup
+26,2020-02-17,Mon,Premier League,Matchweek 26,Home,L 0–2,Chelsea,Manchester Utd,Y,FW,67,0,0,0,0,2,0,0,0,28,1,0,0,0.2,0.2,0.0,1,0,14,15,93.3,0,14,1,4,2,/en/matches/2619bcb9/Chelsea-Manchester-United-February-17-2020-Premier-League
+27,2020-02-29,Sat,Premier League,Matchweek 28,Away,D 2–2,Chelsea,Bournemouth,N,FW,19,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0,/en/matches/57d79762/Bournemouth-Chelsea-February-29-2020-Premier-League

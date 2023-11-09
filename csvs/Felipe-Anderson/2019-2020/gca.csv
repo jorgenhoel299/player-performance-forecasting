@@ -1,32 +1,29 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,SCA,PassLive,PassDead,TO,Sh,Fld,Def,GCA,PassLive,PassDead,TO,Sh,Fld,Def,Match Report
-0,2019-08-10,Sat,Matchweek 3,Away,W 3–1,West Ham,Watford,Y,"LW,LM",77,7,4,0,1,2,0,0,2,1,0,1,0,0,0,/en/matches/89fbf2a3/Watford-West-Ham-United-August-24-2019-Premier-League
-1,2019-08-10,Sat,Matchweek 4,Home,W 2–0,West Ham,Norwich City,Y,"LM,LW",87,9,7,0,0,2,0,0,1,1,0,0,0,0,0,/en/matches/164148a8/West-Ham-United-Norwich-City-August-31-2019-Premier-League
-2,2019-08-10,Mon,Matchweek 5,Away,D 0–0,West Ham,Aston Villa,Y,LM,68,4,4,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/b26df467/Aston-Villa-West-Ham-United-September-16-2019-Premier-League
-3,2019-08-10,Sun,Matchweek 6,Home,W 2–0,West Ham,Manchester Utd,Y,LM,69,4,3,0,1,0,0,0,1,1,0,0,0,0,0,/en/matches/fe3e2bec/West-Ham-United-Manchester-United-September-22-2019-Premier-League
-4,2019-08-10,Sat,Matchweek 7,Away,D 2–2,West Ham,Bournemouth,Y,LM,90,6,5,0,0,0,0,1,2,2,0,0,0,0,0,/en/matches/704e536e/Bournemouth-West-Ham-United-September-28-2019-Premier-League
-5,2019-08-10,Sat,Matchweek 8,Home,L 1–2,West Ham,Crystal Palace,Y,LM,90,2,1,0,0,0,1,0,0,0,0,0,0,0,0,/en/matches/23fe51bc/West-Ham-United-Crystal-Palace-October-5-2019-Premier-League
-6,2019-08-10,Sat,Matchweek 9,Away,L 0–2,West Ham,Everton,Y,LM,45,1,0,0,0,0,1,0,0,0,0,0,0,0,0,/en/matches/0fa45675/Everton-West-Ham-United-October-19-2019-Premier-League
-7,2019-08-10,Sat,Matchweek 10,Home,D 1–1,West Ham,Sheffield Utd,Y,LM,65,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/43aa7711/West-Ham-United-Sheffield-United-October-26-2019-Premier-League
-8,2019-08-10,Sat,Matchweek 11,Home,L 2–3,West Ham,Newcastle Utd,Y,LM,90,8,6,1,1,0,0,0,0,0,0,0,0,0,0,/en/matches/ac4523c2/West-Ham-United-Newcastle-United-November-2-2019-Premier-League
-9,2019-08-10,Sat,Matchweek 12,Away,L 0–3,West Ham,Burnley,Y,LM,55,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/559f666e/Burnley-West-Ham-United-November-9-2019-Premier-League
-10,2019-08-10,Sat,Matchweek 13,Home,L 2–3,West Ham,Tottenham,Y,LM,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/a7dc884b/West-Ham-United-Tottenham-Hotspur-November-23-2019-Premier-League
-11,2019-08-10,Sat,Matchweek 14,Away,W 1–0,West Ham,Chelsea,Y,FW,70,2,2,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/aa1ff9cd/Chelsea-West-Ham-United-November-30-2019-Premier-League
-12,2019-08-10,Wed,Matchweek 15,Away,L 0–2,West Ham,Wolves,Y,"FW,CM",90,4,4,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/292d0f46/Wolverhampton-Wanderers-West-Ham-United-December-4-2019-Premier-League
-13,2019-08-10,Mon,Matchweek 16,Home,L 1–3,West Ham,Arsenal,Y,FW,69,2,2,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/a48c4638/West-Ham-United-Arsenal-December-9-2019-Premier-League
-14,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,
-15,2019-08-10,Thu,Matchweek 19,Away,L 1–2,West Ham,Crystal Palace,N,FW,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/048fa915/Crystal-Palace-West-Ham-United-December-26-2019-Premier-League
-16,2019-08-10,Sat,Matchweek 20,Home,L 1–2,West Ham,Leicester City,Y,"LW,LM",90,3,3,0,0,0,0,0,1,1,0,0,0,0,0,/en/matches/1f2bd890/West-Ham-United-Leicester-City-December-28-2019-Premier-League
-17,2019-08-10,Wed,Matchweek 21,Home,W 4–0,West Ham,Bournemouth,Y,FW,67,4,2,0,1,1,0,0,3,2,0,1,0,0,0,/en/matches/9ae01aab/West-Ham-United-Bournemouth-January-1-2020-Premier-League
-18,2019-08-10,Fri,Matchweek 22,Away,L 0–1,West Ham,Sheffield Utd,Y,AM,90,6,2,1,1,0,2,0,0,0,0,0,0,0,0,/en/matches/c5f47ccb/Sheffield-United-West-Ham-United-January-10-2020-Premier-League
-19,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,
-20,2019-08-10,Wed,Matchweek 26,Away,L 0–2,West Ham,Manchester City,N,"On matchday squad, but did not play",/en/matches/bc091e86/Manchester-City-West-Ham-United-February-19-2020-Premier-League,,,,,,,,,,,,,,,
-21,2019-08-10,Mon,Matchweek 27,Away,L 2–3,West Ham,Liverpool,Y,LW,64,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/3aee1ba7/Liverpool-West-Ham-United-February-24-2020-Premier-League
-22,2019-08-10,Sat,Matchweek 28,Home,W 3–1,West Ham,Southampton,N,LM,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/2cb790f2/West-Ham-United-Southampton-February-29-2020-Premier-League
-23,2019-08-10,Sat,Matchweek 29,Away,L 0–1,West Ham,Arsenal,N,LM,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/bf382825/Arsenal-West-Ham-United-March-7-2020-Premier-League
-24,2019-08-10,Sat,Matchweek 30,Home,L 0–2,West Ham,Wolves,Y,AM,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/6ddd148a/West-Ham-United-Wolverhampton-Wanderers-June-20-2020-Premier-League
-25,2019-08-10,Tue,Matchweek 31,Away,L 0–2,West Ham,Tottenham,N,"LW,AM",20,1,1,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/8fc12d99/Tottenham-Hotspur-West-Ham-United-June-23-2020-Premier-League
-26,2019-08-10,Wed,Matchweek 32,Home,W 3–2,West Ham,Chelsea,N,"On matchday squad, but did not play",/en/matches/5df18070/West-Ham-United-Chelsea-July-1-2020-Premier-League,,,,,,,,,,,,,,,
-27,2019-08-10,,,,,,,,,,,,,,,,,,,,,,,,
-28,2019-08-10,Fri,Matchweek 36,Home,W 3–1,West Ham,Watford,N,"On matchday squad, but did not play",/en/matches/249bbdaa/West-Ham-United-Watford-July-17-2020-Premier-League,,,,,,,,,,,,,,,
-29,2019-08-10,Wed,Matchweek 37,Away,D 1–1,West Ham,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/bf25e016/Manchester-United-West-Ham-United-July-22-2020-Premier-League,,,,,,,,,,,,,,,
-30,2019-08-10,Sun,Matchweek 38,Home,D 1–1,West Ham,Aston Villa,N,AM,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,/en/matches/a3f59c8e/West-Ham-United-Aston-Villa-July-26-2020-Premier-League
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2019-08-10,Sat,Premier League,Matchweek 1,Home,L 0–5,West Ham,Manchester City,Y,"RW,RM",65,0,0,0,0,0,0,1,0,28,0,0,0,0.0,0.0,0.0,0,0,18,26,69.2,4,22,1,2,1,/en/matches/71c8a43e/West-Ham-United-Manchester-City-August-10-2019-Premier-League
+1,2019-08-24,Sat,Premier League,Matchweek 3,Away,W 3–1,West Ham,Watford,Y,"LW,LM",77,0,1,0,0,4,1,0,0,65,1,0,1,0.2,0.2,1.3,7,2,41,52,78.8,4,48,4,3,3,/en/matches/89fbf2a3/Watford-West-Ham-United-August-24-2019-Premier-League
+2,2019-08-27,Tue,EFL Cup,Second round,Away,W 2–0,West Ham,Newport County,N,,83,0,1,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/9e898faf/Newport-County-West-Ham-United-August-27-2019-EFL-Cup
+3,2019-08-31,Sat,Premier League,Matchweek 4,Home,W 2–0,West Ham,Norwich City,Y,"LM,LW",87,0,0,0,0,3,1,0,0,82,3,1,1,0.1,0.1,0.2,9,1,59,72,81.9,10,61,11,8,7,/en/matches/164148a8/West-Ham-United-Norwich-City-August-31-2019-Premier-League
+4,2019-09-16,Mon,Premier League,Matchweek 5,Away,D 0–0,West Ham,Aston Villa,Y,LM,68,0,0,0,0,1,0,0,0,77,3,2,3,0.0,0.0,0.1,4,0,50,61,82.0,3,51,8,0,0,/en/matches/b26df467/Aston-Villa-West-Ham-United-September-16-2019-Premier-League
+5,2019-09-22,Sun,Premier League,Matchweek 6,Home,W 2–0,West Ham,Manchester Utd,Y,LM,69,0,1,0,0,1,1,0,0,65,5,2,0,0.1,0.1,0.1,4,1,41,60,68.3,4,48,3,2,1,/en/matches/fe3e2bec/West-Ham-United-Manchester-United-September-22-2019-Premier-League
+6,2019-09-25,Wed,EFL Cup,Third round,Away,L 0–4,West Ham,Oxford United,N,,25,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/171578bd/Oxford-United-West-Ham-United-September-25-2019-EFL-Cup
+7,2019-09-28,Sat,Premier League,Matchweek 7,Away,D 2–2,West Ham,Bournemouth,Y,LM,90,0,1,0,0,3,2,0,0,65,4,1,1,0.4,0.4,0.3,6,2,38,55,69.1,6,50,7,2,1,/en/matches/704e536e/Bournemouth-West-Ham-United-September-28-2019-Premier-League
+8,2019-10-05,Sat,Premier League,Matchweek 8,Home,L 1–2,West Ham,Crystal Palace,Y,LM,90,0,0,0,0,2,1,0,0,73,6,3,1,0.1,0.1,0.1,2,0,40,54,74.1,4,44,5,4,3,/en/matches/23fe51bc/West-Ham-United-Crystal-Palace-October-5-2019-Premier-League
+9,2019-10-19,Sat,Premier League,Matchweek 9,Away,L 0–2,West Ham,Everton,Y,LM,45,0,0,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.0,1,0,17,26,65.4,1,23,2,4,2,/en/matches/0fa45675/Everton-West-Ham-United-October-19-2019-Premier-League
+10,2019-10-26,Sat,Premier League,Matchweek 10,Home,D 1–1,West Ham,Sheffield Utd,Y,LM,65,0,0,0,0,2,1,0,0,51,2,0,1,0.6,0.6,0.0,2,0,35,43,81.4,7,33,4,3,3,/en/matches/43aa7711/West-Ham-United-Sheffield-United-October-26-2019-Premier-League
+11,2019-11-02,Sat,Premier League,Matchweek 11,Home,L 2–3,West Ham,Newcastle Utd,Y,LM,90,0,0,0,0,1,0,0,0,108,1,1,2,0.0,0.0,0.3,8,0,80,97,82.5,15,81,16,8,6,/en/matches/ac4523c2/West-Ham-United-Newcastle-United-November-2-2019-Premier-League
+12,2019-11-09,Sat,Premier League,Matchweek 12,Away,L 0–3,West Ham,Burnley,Y,LM,55,0,0,0,0,0,0,0,0,44,1,0,1,0.0,0.0,0.0,1,0,27,34,79.4,2,26,4,2,0,/en/matches/559f666e/Burnley-West-Ham-United-November-9-2019-Premier-League
+13,2019-11-23,Sat,Premier League,Matchweek 13,Home,L 2–3,West Ham,Tottenham,Y,LM,45,0,0,0,0,0,0,0,0,31,2,0,2,0.0,0.0,0.0,0,0,16,20,80.0,1,22,3,2,1,/en/matches/a7dc884b/West-Ham-United-Tottenham-Hotspur-November-23-2019-Premier-League
+14,2019-11-30,Sat,Premier League,Matchweek 14,Away,W 1–0,West Ham,Chelsea,Y,FW,70,0,0,0,0,0,0,0,0,53,4,2,1,0.0,0.0,0.0,2,1,31,41,75.6,5,17,4,1,1,/en/matches/aa1ff9cd/Chelsea-West-Ham-United-November-30-2019-Premier-League
+15,2019-12-04,Wed,Premier League,Matchweek 15,Away,L 0–2,West Ham,Wolves,Y,"FW,CM",90,0,0,0,0,0,0,0,0,77,3,4,1,0.0,0.0,0.2,4,0,56,65,86.2,5,42,5,7,7,/en/matches/292d0f46/Wolverhampton-Wanderers-West-Ham-United-December-4-2019-Premier-League
+16,2019-12-09,Mon,Premier League,Matchweek 16,Home,L 1–3,West Ham,Arsenal,Y,FW,69,0,0,0,0,1,0,0,0,44,0,0,0,0.0,0.0,0.1,2,0,28,33,84.8,4,31,5,4,2,/en/matches/a48c4638/West-Ham-United-Arsenal-December-9-2019-Premier-League
+17,2019-12-26,Thu,Premier League,Matchweek 19,Away,L 1–2,West Ham,Crystal Palace,N,FW,16,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,12,18,66.7,2,11,2,5,4,/en/matches/048fa915/Crystal-Palace-West-Ham-United-December-26-2019-Premier-League
+18,2019-12-28,Sat,Premier League,Matchweek 20,Home,L 1–2,West Ham,Leicester City,Y,"LW,LM",90,0,1,0,0,0,0,0,0,61,3,2,2,0.0,0.0,0.2,3,1,33,48,68.8,7,31,10,6,5,/en/matches/1f2bd890/West-Ham-United-Leicester-City-December-28-2019-Premier-League
+19,2020-01-01,Wed,Premier League,Matchweek 21,Home,W 4–0,West Ham,Bournemouth,Y,FW,67,1,0,0,0,2,1,0,0,42,1,2,0,0.5,0.5,0.0,4,3,19,27,70.4,2,26,3,7,3,/en/matches/9ae01aab/West-Ham-United-Bournemouth-January-1-2020-Premier-League
+20,2020-01-05,Sun,FA Cup,Third round,Away,W 2–0,West Ham,Gillingham,Y,FW,89,0,1,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/37ecbd37/Gillingham-West-Ham-United-January-5-2020-FA-Cup
+21,2020-01-10,Fri,Premier League,Matchweek 22,Away,L 0–1,West Ham,Sheffield Utd,Y,AM,90,0,0,0,0,1,0,0,0,58,1,0,0,0.3,0.3,0.1,6,0,37,46,80.4,9,37,5,10,7,/en/matches/c5f47ccb/Sheffield-United-West-Ham-United-January-10-2020-Premier-League
+22,2020-02-24,Mon,Premier League,Matchweek 27,Away,L 2–3,West Ham,Liverpool,Y,LW,64,0,0,0,0,1,0,0,0,34,2,1,1,0.0,0.0,0.0,1,0,15,22,68.2,2,21,3,10,5,/en/matches/3aee1ba7/Liverpool-West-Ham-United-February-24-2020-Premier-League
+23,2020-02-29,Sat,Premier League,Matchweek 28,Home,W 3–1,West Ham,Southampton,N,LM,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,/en/matches/2cb790f2/West-Ham-United-Southampton-February-29-2020-Premier-League
+24,2020-03-07,Sat,Premier League,Matchweek 29,Away,L 0–1,West Ham,Arsenal,N,LM,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,2,0,0,0,/en/matches/bf382825/Arsenal-West-Ham-United-March-7-2020-Premier-League
+25,2020-06-20,Sat,Premier League,Matchweek 30,Home,L 0–2,West Ham,Wolves,Y,AM,66,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,25,88.0,2,22,0,1,0,/en/matches/6ddd148a/West-Ham-United-Wolverhampton-Wanderers-June-20-2020-Premier-League
+26,2020-06-23,Tue,Premier League,Matchweek 31,Away,L 0–2,West Ham,Tottenham,N,"LW,AM",20,0,0,0,0,1,0,0,0,20,2,0,1,0.0,0.0,0.1,1,0,11,15,73.3,1,14,1,1,1,/en/matches/8fc12d99/Tottenham-Hotspur-West-Ham-United-June-23-2020-Premier-League
+27,2020-07-26,Sun,Premier League,Matchweek 38,Home,D 1–1,West Ham,Aston Villa,N,AM,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0,/en/matches/a3f59c8e/West-Ham-United-Aston-Villa-July-26-2020-Premier-League

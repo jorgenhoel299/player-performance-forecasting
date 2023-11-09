@@ -1,8 +1,3 @@
-,Date,Day,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Ast,xAG,xA,KP,1/3,PPA,CrsPA,PrgP,Match Report
-0,2020-06-17,Wed,Matchweek 31,Away,L 0–3,Sheffield Utd,Manchester Utd,N,"On matchday squad, but did not play",/en/matches/54cdce8b/Manchester-United-Sheffield-United-June-24-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-1,2020-06-17,Thu,Matchweek 32,Home,W 3–1,Sheffield Utd,Tottenham,N,"On matchday squad, but did not play",/en/matches/70507f3c/Sheffield-United-Tottenham-Hotspur-July-2-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-2,2020-06-17,Sun,Matchweek 33,Away,D 1–1,Sheffield Utd,Burnley,N,CM,16,2,2,100.0,35,5,1,1,100.0,1,1,100.0,0,0,,0,0.0,0.0,0,0,0,0,0,/en/matches/c2378113/Burnley-Sheffield-United-July-5-2020-Premier-League
-3,2020-06-17,Wed,Matchweek 34,Home,W 1–0,Sheffield Utd,Wolves,N,"On matchday squad, but did not play",/en/matches/f898c8ea/Sheffield-United-Wolverhampton-Wanderers-July-8-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-4,2020-06-17,Sat,Matchweek 35,Home,W 3–0,Sheffield Utd,Chelsea,N,"On matchday squad, but did not play",/en/matches/3f83499d/Sheffield-United-Chelsea-July-11-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
-5,2020-06-17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,2020-06-17,Sun,Matchweek 38,Away,L 1–3,Sheffield Utd,Southampton,N,"On matchday squad, but did not play",/en/matches/3e5b45b7/Southampton-Sheffield-United-July-26-2020-Premier-League,,,,,,,,,,,,,,,,,,,,,,,
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2020-01-05,Sun,FA Cup,Third round,Home,W 2–1,Sheffield Utd,Fylde,Y,CB,57,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/a082ea15/Sheffield-United-Fylde-January-5-2020-FA-Cup
+1,2020-07-05,Sun,Premier League,Matchweek 33,Away,D 1–1,Sheffield Utd,Burnley,N,CM,16,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0,/en/matches/c2378113/Burnley-Sheffield-United-July-5-2020-Premier-League
