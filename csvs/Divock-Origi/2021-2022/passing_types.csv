@@ -1,0 +1,22 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-09-15,Wed,Champions Lg,Group stage,Home,W 3–2,eng Liverpool,it Milan,Y,FW,62,0,1,0,0,3,0,0,0,23,3,0,0,0.2,0.1,0.8,2,1,8,12,66.7,1,15,2,2,1,/en/matches/ff3e4ae2/Liverpool-Milan-September-15-2021-Champions-League
+1,2021-09-18,Sat,Premier League,Matchweek 5,Home,W 3–0,Liverpool,Crystal Palace,N,LW,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0,/en/matches/59ef8c18/Liverpool-Crystal-Palace-September-18-2021-Premier-League
+2,2021-09-21,Tue,EFL Cup,Third round,Away,W 3–0,Liverpool,Norwich City,Y,FW,90,1,1,0,0,4,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/1d32b710/Norwich-City-Liverpool-September-21-2021-EFL-Cup
+3,2021-09-28,Tue,Champions Lg,Group stage,Away,W 5–1,eng Liverpool,pt Porto,N,RW,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0,/en/matches/1c876d93/Porto-Liverpool-September-28-2021-Champions-League
+4,2021-10-27,Wed,EFL Cup,Fourth round,Away,W 2–0,Liverpool,Preston,Y,FW,90,1,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/54dca3c9/Preston-North-End-Liverpool-October-27-2021-EFL-Cup
+5,2021-11-03,Wed,Champions Lg,Group stage,Home,W 2–0,eng Liverpool,es Atlético Madrid,N,FW,13,0,0,0,0,3,0,0,0,9,0,0,0,0.2,0.2,0.0,1,0,3,5,60.0,0,7,0,0,0,/en/matches/d1319048/Liverpool-Atletico-Madrid-November-3-2021-Champions-League
+6,2021-11-07,Sun,Premier League,Matchweek 11,Away,L 2–3,Liverpool,West Ham,N,FW,15,1,0,0,0,2,2,0,0,11,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,0,6,2,0,0,/en/matches/63538dc7/West-Ham-United-Liverpool-November-7-2021-Premier-League
+7,2021-11-13,Sat,WCQ,First round,Home,W 3–1,be Belgium,ee Estonia,N,,8,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/e0619ab6/Belgium-Estonia-November-13-2021-WCQ----UEFA-M
+8,2021-11-16,Tue,WCQ,First round,Away,D 1–1,be Belgium,wls Wales,Y,FW,58,0,0,0,0,2,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/c2aa4863/Wales-Belgium-November-16-2021-WCQ----UEFA-M
+9,2021-11-24,Wed,Champions Lg,Group stage,Home,W 2–0,eng Liverpool,pt Porto,N,LW,19,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,7,8,87.5,0,7,3,2,1,/en/matches/a8898813/Liverpool-Porto-November-24-2021-Champions-League
+10,2021-12-04,Sat,Premier League,Matchweek 15,Away,W 1–0,Liverpool,Wolves,N,FW,23,1,0,0,0,3,1,0,0,17,0,0,0,0.5,0.5,0.0,1,0,6,10,60.0,0,9,0,1,1,/en/matches/37d61ff3/Wolverhampton-Wanderers-Liverpool-December-4-2021-Premier-League
+11,2021-12-07,Tue,Champions Lg,Group stage,Away,W 2–1,eng Liverpool,it Milan,Y,FW,79,1,0,0,0,6,2,0,0,37,1,0,1,0.4,0.4,0.0,4,0,15,20,75.0,0,24,0,3,1,/en/matches/dd8d2903/Milan-Liverpool-December-7-2021-Champions-League
+12,2022-02-19,Sat,Premier League,Matchweek 26,Home,W 3–1,Liverpool,Norwich City,N,FW,29,0,0,0,0,2,0,0,0,9,0,0,1,0.1,0.1,0.0,0,0,3,3,100.0,0,6,0,1,0,/en/matches/700c9eaf/Liverpool-Norwich-City-February-19-2022-Premier-League
+13,2022-02-23,Wed,Premier League,Matchweek 19,Home,W 6–0,Liverpool,Leeds United,N,LW,6,0,0,0,0,1,1,0,0,2,0,0,0,0.0,0.0,0.0,1,1,1,1,100.0,0,1,0,0,0,/en/matches/6d0f3b48/Liverpool-Leeds-United-February-23-2022-Premier-League
+14,2022-02-27,Sun,EFL Cup,Final,Away,D 0 (11)–0 (10),Liverpool,Chelsea,N,,24,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/d3c5d3d5/Chelsea-Liverpool-February-27-2022-EFL-Cup
+15,2022-03-02,Wed,FA Cup,Fifth round proper,Home,W 2–1,Liverpool,Norwich City,Y,FW,83,0,1,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/8edc7255/Liverpool-Norwich-City-March-2-2022-FA-Cup
+16,2022-03-29,Tue,Friendlies (M),Friendlies (M),Neutral,W 3–0,be Belgium,bf Burkina Faso,N,,13,0,0,0,0,,,0,0,,,,,,,,,,,,,,,,,,/en/matches/b668568a/Belgium-Burkina-Faso-March-29-2022-Friendlies-M
+17,2022-04-13,Wed,Champions Lg,Quarter-finals,Home,D 3–3,eng Liverpool,pt Benfica,N,FW,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,2,0,0,0,/en/matches/f6dd5d9d/Liverpool-Benfica-April-13-2022-Champions-League
+18,2022-04-24,Sun,Premier League,Matchweek 34,Home,W 2–0,Liverpool,Everton,N,FW,31,1,0,0,0,2,1,0,0,15,0,1,0,0.8,0.8,0.0,1,1,9,10,90.0,2,11,1,1,0,/en/matches/69235d39/Merseyside-Derby-Liverpool-Everton-April-24-2022-Premier-League
+19,2022-04-27,Wed,Champions Lg,Semi-finals,Home,W 2–0,eng Liverpool,es Villarreal,N,FW,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,1,0,0,/en/matches/b2776c0c/Liverpool-Villarreal-April-27-2022-Champions-League
+20,2022-05-17,Tue,Premier League,Matchweek 37,Away,W 2–1,Liverpool,Southampton,N,FW,26,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,4,0,0,0,/en/matches/733409b2/Southampton-Liverpool-May-17-2022-Premier-League
