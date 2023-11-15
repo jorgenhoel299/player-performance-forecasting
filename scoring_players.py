@@ -9,7 +9,6 @@ import pandas as pd
 
 
 def scorer(row):
-
     playing_time = row.Min
     goals_scored = row.Gls
     assists = row.Ast
@@ -69,6 +68,7 @@ def scorer(row):
 def make_date(match_date):
     return date(int(match_date[0:4]), int(match_date[5:7]), int(match_date[8:10]))
 
+
 def exhaustion(df):
     print(df.shape)
     # adds a column with the number of matches where the player played more then 30 minutes
@@ -80,7 +80,7 @@ def exhaustion(df):
         if index == 0:
             continue
 
-        #print(index, row)
+        # print(index, row)
         match_date = make_date(df.Date[index])
         threshold_date = match_date - timedelta(days=8)
 
@@ -95,12 +95,16 @@ def exhaustion(df):
                 matches_played += 1
         else:
             for i in range(1, 4):
-                matches_played = matches_played + 1 if threshold_date <= make_date(df.iloc[index - i]['Date']) <= match_date else matches_played
+                matches_played = matches_played + 1 if threshold_date <= make_date(
+                    df.iloc[index - i]['Date']) <= match_date else matches_played
         print(matches_played)
         df.loc[index, ('nr_of_matches_8_days')] = matches_played
     return df
 
+
 def player_form(player):
+    if 'Form' in player.columns:
+        return player
     # ratio of matches won 5 last games
     player = results_as_floats(player)
     player['Form'] = player['Result_num'].shift(1).rolling(window=3).mean()
@@ -113,30 +117,32 @@ def bonus_points(player):
     return 5
 
 
-def opponent_team_form(players,match, goal_keepers):
-    # match: url to a given match
-    # players : all players in a match
-    # goal keepers
+def opponent_team_form(season, player):
     player['opponent_form'] = 0.5
     # find the form of the opposing goal keeper and use take that to be the form of the opposing team
-    for index, url in player['Match Report'].iteritems:
-        for gk in goal_keepers:
-            with open(gk + '.csv', 'r') as fp:
-                s = fp.read()
-            if url in s:
-                gk_summary = pd.read_csv(gk + '.csv')
-                gk_summary = player_form(gk_summary)
-                player.iloc[index]['opponent_form'] = gk_summary.loc[gk_summary['Match Report'] == url, 'Form'].iloc[0]
+    for match_round, ref in zip(player['Round'], player['Match Report']):
+        print(match_round, ref)
+        all_players = players_in_match(season, ref)
+        all_players =[pd.read_csv(pl) for pl in all_players]
+        form, i = 0, 0
+        for pl in all_players:
+            print('c', pl.loc[pl['Round'] == match_round]['Squad'].values[0], player.loc[player['Round'] == match_round]['Opponent'].values[0])
+            if pl.loc[pl['Round'] == match_round]['Squad'].values[0] != player.loc[player['Round'] == match_round]['Opponent'].values[0]:
+                continue
+            i+=1
+            form += pl.loc[pl['Round'] == match_round]['Form'].values[0]
+        player['opponent_form'][player['Round'] == match_round] = form / i
     return player
+
 
 def results_as_floats(player):
     player['Result_num'] = player['Result']
     player['Result_num'] = player['Result_num'].replace(to_replace='.*W.*', value=1,
-                                                                    regex=True)  # .astype(float)
+                                                        regex=True)  # .astype(float)
     player['Result_num'] = player['Result_num'].replace(to_replace='.*D.*', value=0.5,
-                                                                    regex=True)  # .astype(float)
+                                                        regex=True)  # .astype(float)
     player['Result_num'] = player['Result_num'].replace(to_replace='.*L.*', value=0,
-                                                                    regex=True)  # .astype(float)
+                                                        regex=True)  # .astype(float)
     player['Result_num'] = player['Result_num'].astype(float)
     return player
 
@@ -145,18 +151,23 @@ def players_in_match(season, match_ref):
     # Returns csvs of all players in a given match in a season
     # TODO: test
     all_players = []
-    for subdir, dirs, files in os.walk("csvs/Teemu-Pukki"):
+    for subdir, dirs, files in os.walk("csvs"):
+        if season not in subdir or 'html' in subdir:
+            continue
+
         for file in files:
-            print(os.path.join(subdir, file))
+            if 'summary' not in file:
+                continue
             df = pd.read_csv(os.path.join(subdir, file))
-            if '07311954' in df['Match Report'].values:
+            if match_ref in df['Match Report'].values:
                 all_players.append(os.path.join(subdir, file))
+
     return all_players
 
 
 def bonus_points_distributor(all_players):
     # Attributes bonus points to ech player in match. total sums to 6
     total_points = sum(all_players)
-    #partial_bnp = player/total_points * 6
+    # partial_bnp = player/total_points * 6
     return
-    #etc
+    # etc

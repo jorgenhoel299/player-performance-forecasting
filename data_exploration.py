@@ -1,5 +1,5 @@
 import pandas as pd
-from scoring_players import scorer, exhaustion, players_in_match, player_form
+from scoring_players import scorer, exhaustion, players_in_match, player_form,opponent_team_form
 from datetime import date
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
@@ -9,7 +9,7 @@ from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import LSTM
 import matplotlib.pyplot as pyplot
-
+import os
 
 # import sklearn
 def series_to_supervised(data, n_in=1, n_out=1, dropnan=True):
@@ -37,14 +37,24 @@ def series_to_supervised(data, n_in=1, n_out=1, dropnan=True):
 
 
 # players_in_match(1, 2)
-path = 'Patrick-van-Aanholt/2019-2020/summary.csv'
-player_stats = pd.read_csv(path)
-player_stats['Result'].replace('', np.nan, inplace=True)  # removing empty rows
-player_stats.dropna(subset=['Result'], inplace=True)
+path = 'csvs/Patrick-van-Aanholt/2019-2020/summary.csv'
+#all_players = [os.path.join(subdir, files[-1]) for subdir, dirs, files in os.walk('csvs') if 'summary.csv' in files]
+#print(all_players)
+# for player in all_players:
+#     form = player_form(pd.read_csv(player))
+#     form.to_csv(player)
 
+player_stats = pd.read_csv(path)
+
+print(opponent_team_form('2019-2020', player_stats.tail(5)))
+a=b
+print(player_stats.loc[player_stats['Round'] == 'Matchweek 1']['Squad'].values[0])
+a=b
 player_stats = player_stats.drop(player_stats[player_stats['Pos'] == 'On matchday squad, but did not play'].index)
 
 player_stats = player_form(player_stats)
+print(player_stats['Match Report'][0])
+print(len(players_in_match('2019-2020', player_stats['Match Report'][0])))
 print(player_stats.head(7))
 
 player_stats['FPL Score'] = player_stats.apply(scorer, axis=1)  # Adding new column with FPL score (no bonus point)
