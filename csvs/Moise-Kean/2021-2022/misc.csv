@@ -1,0 +1,48 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2021-08-21,Sat,Premier League,Matchweek 2,Away,D 2–2,Everton,Leeds United,N,FW,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0,/en/matches/b9064680/Leeds-United-Everton-August-21-2021-Premier-League
+1,2021-08-24,Tue,EFL Cup,Second round,Away,W 2–1,Everton,Huddersfield,Y,FW,58,0,0,0,0,2,1,0,1,,,0,,,,,,,,,,,,,,,/en/matches/46940c87/Huddersfield-Town-Everton-August-24-2021-EFL-Cup
+2,2021-09-08,Wed,WCQ,First round,Home,W 5–0,it Italy,lt Lithuania,Y,FW,72,2,0,0,0,2,2,0,0,,,2,,,,,,,,,,,,,,,/en/matches/d02e56b9/Italy-Lithuania-September-8-2021-WCQ----UEFA-M
+3,2021-09-11,Sat,Serie A,Matchweek 3,Away,L 1–2,Juventus,Napoli,N,FW,9,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,/en/matches/4e0811bf/Napoli-Juventus-September-11-2021-Serie-A
+4,2021-09-14,Tue,Champions Lg,Group stage,Away,W 3–0,it Juventus,se Malmö,N,FW,24,0,0,0,0,2,1,0,0,11,0,0,0,0.6,0.6,0.0,0,0,5,8,62.5,0,9,0,0,0,/en/matches/eeac9d1a/Malmo-Juventus-September-14-2021-Champions-League
+5,2021-09-19,Sun,Serie A,Matchweek 4,Home,D 1–1,Juventus,Milan,N,FW,25,0,0,0,0,1,0,0,0,8,0,0,0,0.2,0.2,0.0,0,0,4,4,100.0,0,5,0,2,1,/en/matches/e1ba445c/Juventus-Milan-September-19-2021-Serie-A
+6,2021-09-22,Wed,Serie A,Matchweek 5,Away,W 3–2,Juventus,Spezia,Y,FW,58,1,0,0,0,3,2,0,0,17,0,0,1,0.3,0.3,0.0,1,0,7,10,70.0,1,10,2,1,0,/en/matches/0cdf92e5/Spezia-Juventus-September-22-2021-Serie-A
+7,2021-09-26,Sun,Serie A,Matchweek 6,Home,W 3–2,Juventus,Sampdoria,N,FW,9,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,5,5,100.0,0,4,0,1,0,/en/matches/2944c7e2/Juventus-Sampdoria-September-26-2021-Serie-A
+8,2021-09-29,Wed,Champions Lg,Group stage,Home,W 1–0,it Juventus,eng Chelsea,N,"FW,LW",15,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,0,0,2,4,50.0,0,2,1,1,0,/en/matches/8d8d9475/Juventus-Chelsea-September-29-2021-Champions-League
+9,2021-10-02,Sat,Serie A,Matchweek 7,Away,W 1–0,Juventus,Torino,Y,FW,45,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,2,0,6,9,66.7,0,7,2,2,2,/en/matches/b891da74/Torino-Juventus-October-2-2021-Serie-A
+10,2021-10-06,Wed,UEFA Nations League,Semi-finals,Neutral,L 1–2,it Italy,es Spain,N,,33,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/5c6a2cfd/Italy-Spain-October-6-2021-UEFA-Nations-League
+11,2021-10-10,Sun,UEFA Nations League,Third-place match,Neutral,W 2–1,it Italy,be Belgium,N,,26,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c5eda832/Italy-Belgium-October-10-2021-UEFA-Nations-League
+12,2021-10-17,Sun,Serie A,Matchweek 8,Home,W 1–0,Juventus,Roma,Y,FW,70,1,0,0,0,2,1,0,0,21,0,0,1,0.8,0.8,0.0,1,0,10,15,66.7,0,10,2,1,1,/en/matches/cba24703/Juventus-Roma-October-17-2021-Serie-A
+13,2021-10-20,Wed,Champions Lg,Group stage,Away,W 1–0,it Juventus,ru Zenit,N,FW,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,3,0,1,0,/en/matches/e7f7549b/Zenit-Juventus-October-20-2021-Champions-League
+14,2021-11-20,Sat,Serie A,Matchweek 13,Away,W 2–0,Juventus,Lazio,N,FW,17,0,0,0,0,4,2,0,0,9,0,0,0,0.3,0.3,0.0,1,0,2,3,66.7,0,6,2,2,2,/en/matches/c79685ce/Lazio-Juventus-November-20-2021-Serie-A
+15,2021-11-23,Tue,Champions Lg,Group stage,Away,L 0–4,it Juventus,eng Chelsea,N,FW,24,0,0,0,0,1,0,0,0,6,1,1,0,0.0,0.0,0.0,1,0,3,3,100.0,1,1,1,0,0,/en/matches/8b15222a/Chelsea-Juventus-November-23-2021-Champions-League
+16,2021-11-27,Sat,Serie A,Matchweek 14,Home,L 0–1,Juventus,Atalanta,N,"LM,FW",27,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,5,0,1,0,/en/matches/1ed35e03/Juventus-Atalanta-November-27-2021-Serie-A
+17,2021-11-30,Tue,Serie A,Matchweek 15,Away,W 2–0,Juventus,Salernitana,Y,FW,65,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.1,0,0,14,18,77.8,1,13,2,4,1,/en/matches/a8be50d4/Salernitana-Juventus-November-30-2021-Serie-A
+18,2021-12-05,Sun,Serie A,Matchweek 16,Home,W 2–0,Juventus,Genoa,N,FW,19,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0,/en/matches/2c5c4cc0/Juventus-Genoa-December-5-2021-Serie-A
+19,2021-12-08,Wed,Champions Lg,Group stage,Home,W 1–0,it Juventus,se Malmö,Y,FW,89,1,0,0,0,5,3,0,0,33,1,0,0,1.7,1.7,0.1,3,0,19,25,76.0,0,18,2,0,0,/en/matches/084531d6/Juventus-Malmo-December-8-2021-Champions-League
+20,2021-12-11,Sat,Serie A,Matchweek 17,Away,D 1–1,Juventus,Venezia,N,"LW,AM",15,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0,/en/matches/6a984333/Venezia-Juventus-December-11-2021-Serie-A
+21,2021-12-18,Sat,Serie A,Matchweek 18,Away,W 2–0,Juventus,Bologna,Y,LW,70,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,1,0,10,12,83.3,1,16,2,2,0,/en/matches/b6bfc338/Bologna-Juventus-December-18-2021-Serie-A
+22,2021-12-21,Tue,Serie A,Matchweek 19,Home,W 2–0,Juventus,Cagliari,Y,LW,71,1,0,0,0,3,1,0,0,33,1,1,0,0.6,0.6,0.0,1,0,15,21,71.4,1,15,0,3,2,/en/matches/8c84bd7d/Juventus-Cagliari-December-21-2021-Serie-A
+23,2022-01-06,Thu,Serie A,Matchweek 20,Home,D 1–1,Juventus,Napoli,N,FW,16,0,0,0,0,1,0,0,0,5,0,0,0,0.2,0.2,0.0,0,0,2,2,100.0,0,2,0,1,0,/en/matches/0061f883/Juventus-Napoli-January-6-2022-Serie-A
+24,2022-01-09,Sun,Serie A,Matchweek 21,Away,W 4–3,Juventus,Roma,Y,FW,62,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,6,0,0,0,/en/matches/ed084613/Roma-Juventus-January-9-2022-Serie-A
+25,2022-01-12,Wed,Supercoppa,Supercoppa Italiana,Away,L 1–2,Juventus,Inter,N,,33,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/97378017/Derby-dItalia-Internazionale-Juventus-January-12-2022-Supercoppa-Italiana
+26,2022-01-15,Sat,Serie A,Matchweek 22,Home,W 2–0,Juventus,Udinese,Y,FW,63,0,1,0,0,1,0,0,0,19,2,0,0,0.1,0.1,0.0,0,0,12,17,70.6,0,11,1,1,0,/en/matches/b876929a/Juventus-Udinese-January-15-2022-Serie-A
+27,2022-01-23,Sun,Serie A,Matchweek 23,Away,D 0–0,Juventus,Milan,N,FW,17,0,0,0,0,0,0,1,0,5,0,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0,/en/matches/c439f074/Milan-Juventus-January-23-2022-Serie-A
+28,2022-02-06,Sun,Serie A,Matchweek 24,Home,W 2–0,Juventus,Hellas Verona,N,LW,8,0,0,0,0,1,0,0,0,2,0,0,0,0.1,0.1,0.0,1,0,1,1,100.0,0,2,1,1,1,/en/matches/702fbbeb/Juventus-Hellas-Verona-February-6-2022-Serie-A
+29,2022-02-13,Sun,Serie A,Matchweek 25,Away,D 1–1,Juventus,Atalanta,N,RM,10,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,3,0,2,0,/en/matches/0b0f2610/Atalanta-Juventus-February-13-2022-Serie-A
+30,2022-02-18,Fri,Serie A,Matchweek 26,Home,D 1–1,Juventus,Torino,N,FW,17,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,6,0,2,0,/en/matches/6641b37b/Juventus-Torino-February-18-2022-Serie-A
+31,2022-02-26,Sat,Serie A,Matchweek 27,Away,W 3–2,Juventus,Empoli,Y,FW,61,1,0,0,0,2,1,0,0,18,0,0,0,0.6,0.6,0.0,2,0,9,11,81.8,2,9,0,2,0,/en/matches/e52f3cd7/Empoli-Juventus-February-26-2022-Serie-A
+32,2022-03-02,Wed,Coppa Italia,Semi-finals,Away,W 1–0,Juventus,Fiorentina,Y,FW,58,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c9281c87/Fiorentina-Juventus-March-2-2022-Coppa-Italia
+33,2022-03-06,Sun,Serie A,Matchweek 28,Home,W 1–0,Juventus,Spezia,N,FW,6,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0,/en/matches/e9c66007/Juventus-Spezia-March-6-2022-Serie-A
+34,2022-03-12,Sat,Serie A,Matchweek 29,Away,W 3–1,Juventus,Sampdoria,Y,FW,64,0,0,0,0,1,1,0,0,15,0,0,0,0.2,0.2,0.0,2,2,4,7,57.1,0,12,1,6,4,/en/matches/b44e2bfb/Sampdoria-Juventus-March-12-2022-Serie-A
+35,2022-03-16,Wed,Champions Lg,Round of 16,Home,L 0–3,it Juventus,es Villarreal,N,FW,5,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,3,0,0,0,/en/matches/a918bfe1/Juventus-Villarreal-March-16-2022-Champions-League
+36,2022-03-20,Sun,Serie A,Matchweek 30,Home,W 2–0,Juventus,Salernitana,N,FW,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0,/en/matches/36a1b8e6/Juventus-Salernitana-March-20-2022-Serie-A
+37,2022-04-03,Sun,Serie A,Matchweek 31,Home,L 0–1,Juventus,Inter,N,"LW,FW",18,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0,/en/matches/adf797f9/Derby-dItalia-Juventus-Internazionale-April-3-2022-Serie-A
+38,2022-04-09,Sat,Serie A,Matchweek 32,Away,W 2–1,Juventus,Cagliari,N,"RM,FW",10,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,2,2,100.0,1,5,1,1,0,/en/matches/e794445c/Cagliari-Juventus-April-9-2022-Serie-A
+39,2022-04-16,Sat,Serie A,Matchweek 33,Home,D 1–1,Juventus,Bologna,N,LB,5,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0,/en/matches/d0b62a15/Juventus-Bologna-April-16-2022-Serie-A
+40,2022-04-20,Wed,Coppa Italia,Semi-finals,Home,W 2–0,Juventus,Fiorentina,N,,9,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/bc44d1ae/Juventus-Fiorentina-April-20-2022-Coppa-Italia
+41,2022-04-25,Mon,Serie A,Matchweek 34,Away,W 2–1,Juventus,Sassuolo,N,FW,24,1,0,0,0,1,1,1,0,14,1,0,0,0.1,0.1,0.0,0,0,6,6,100.0,0,8,0,2,0,/en/matches/ba21320e/Sassuolo-Juventus-April-25-2022-Serie-A
+42,2022-05-01,Sun,Serie A,Matchweek 35,Home,W 2–1,Juventus,Venezia,N,FW,22,0,0,0,0,0,0,0,0,11,0,0,1,0.0,0.0,0.0,0,0,7,8,87.5,0,8,1,2,1,/en/matches/79817286/Juventus-Venezia-May-1-2022-Serie-A
+43,2022-05-06,Fri,Serie A,Matchweek 36,Away,L 1–2,Juventus,Genoa,Y,LW,90,0,1,0,0,6,1,0,0,42,1,1,1,1.2,1.2,0.1,1,1,19,24,79.2,2,32,3,4,2,/en/matches/56c431f9/Genoa-Juventus-May-6-2022-Serie-A
+44,2022-05-11,Wed,Coppa Italia,Final,Home,L 2–4,Juventus,Inter,N,,21,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/46b5e063/Derby-dItalia-Juventus-Internazionale-May-11-2022-Coppa-Italia
+45,2022-05-16,Mon,Serie A,Matchweek 37,Home,D 2–2,Juventus,Lazio,N,"FW,LW",29,0,0,0,0,1,0,0,0,6,0,0,0,0.2,0.2,0.0,0,0,2,3,66.7,0,5,0,1,1,/en/matches/8e9a1625/Juventus-Lazio-May-16-2022-Serie-A
+46,2022-05-21,Sat,Serie A,Matchweek 38,Away,L 0–2,Juventus,Fiorentina,Y,"FW,LW",75,0,0,0,0,0,0,1,0,13,0,0,0,0.0,0.0,0.0,0,0,3,8,37.5,0,12,0,0,0,/en/matches/d5fd01a8/Fiorentina-Juventus-May-21-2022-Serie-A
