@@ -1,0 +1,45 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2022-06-02,Thu,UEFA Nations League,League B,Home,L 0–1,rs Serbia,no Norway,Y,DM,68,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/38f8cfa3/Serbia-Norway-June-2-2022-UEFA-Nations-League
+1,2022-06-05,Sun,UEFA Nations League,League B,Home,W 4–1,rs Serbia,si Slovenia,N,,20,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/ff0b081b/Serbia-Slovenia-June-5-2022-UEFA-Nations-League
+2,2022-06-09,Thu,UEFA Nations League,League B,Away,W 1–0,rs Serbia,se Sweden,N,,15,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/8ca438af/Sweden-Serbia-June-9-2022-UEFA-Nations-League
+3,2022-06-12,Sun,UEFA Nations League,League B,Away,D 2–2,rs Serbia,si Slovenia,Y,AM,55,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/f0468c70/Slovenia-Serbia-June-12-2022-UEFA-Nations-League
+4,2022-08-06,Sat,Coppa Italia,First round,Home,W 3–0,Torino,Palermo,Y*,CM,81,1,1,0,0,4,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/e20bdb73/Torino-Palermo-August-6-2022-Coppa-Italia
+5,2022-08-20,Sat,Serie A,Matchweek 2,Home,D 0–0,Torino,Lazio,N,CM,19,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,12,12,100.0,1,5,1,0,0,/en/matches/a1ed12f1/Torino-Lazio-August-20-2022-Serie-A
+6,2022-08-27,Sat,Serie A,Matchweek 3,Away,W 2–1,Torino,Cremonese,N,AM,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,1,0,0,0,/en/matches/ff16ac21/Cremonese-Torino-August-27-2022-Serie-A
+7,2022-09-01,Thu,Serie A,Matchweek 4,Away,L 1–3,Torino,Atalanta,Y,CM,90,0,0,0,0,0,0,0,0,81,2,0,0,0.0,0.0,0.0,2,0,65,72,90.3,3,38,1,0,0,/en/matches/a8d5d5fc/Atalanta-Torino-September-1-2022-Serie-A
+8,2022-09-05,Mon,Serie A,Matchweek 5,Home,W 1–0,Torino,Lecce,Y,CM,90,0,0,0,0,0,0,0,0,69,1,2,2,0.0,0.0,0.1,2,0,52,61,85.2,5,46,3,0,0,/en/matches/def4d163/Torino-Lecce-September-5-2022-Serie-A
+9,2022-09-10,Sat,Serie A,Matchweek 6,Away,L 0–1,Torino,Inter,Y,CM,90,0,0,0,0,0,0,1,0,45,1,2,2,0.0,0.0,0.0,0,0,27,33,81.8,2,21,2,0,0,/en/matches/c85b25b5/Internazionale-Torino-September-10-2022-Serie-A
+10,2022-09-17,Sat,Serie A,Matchweek 7,Home,L 0–1,Torino,Sassuolo,Y,CM,90,0,0,0,0,3,0,0,0,72,1,2,1,0.2,0.2,0.1,3,0,53,61,86.9,3,40,2,0,0,/en/matches/a7f11ac3/Torino-Sassuolo-September-17-2022-Serie-A
+11,2022-09-24,Sat,UEFA Nations League,League B,Home,W 4–1,rs Serbia,se Sweden,Y,CM,90,1,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/cd05f322/Serbia-Sweden-September-24-2022-UEFA-Nations-League
+12,2022-09-27,Tue,UEFA Nations League,League B,Away,W 2–0,rs Serbia,no Norway,Y,CM,90,0,0,0,0,0,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/cc3df009/Norway-Serbia-September-27-2022-UEFA-Nations-League
+13,2022-10-01,Sat,Serie A,Matchweek 8,Away,L 1–3,Torino,Napoli,Y,CM,90,0,0,0,0,0,0,1,0,72,4,0,3,0.0,0.0,0.0,4,0,57,63,90.5,6,34,3,1,0,/en/matches/5b1b5139/Napoli-Torino-October-1-2022-Serie-A
+14,2022-10-09,Sun,Serie A,Matchweek 9,Home,D 1–1,Torino,Empoli,Y,"CM,RM",90,1,0,0,0,3,2,0,0,79,1,0,1,0.2,0.2,0.3,8,1,62,70,88.6,6,44,2,1,0,/en/matches/880f23f3/Torino-Empoli-October-9-2022-Serie-A
+15,2022-10-15,Sat,Serie A,Matchweek 10,Home,L 0–1,Torino,Juventus,Y,CM,90,0,0,0,0,2,0,0,0,65,3,0,0,0.1,0.1,0.1,5,0,54,57,94.7,1,53,2,0,0,/en/matches/b183d7de/Torino-Juventus-October-15-2022-Serie-A
+16,2022-10-18,Tue,Coppa Italia,Second round,Home,W 4–0,Torino,Cittadella,Y,DM,90,0,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/aaa105bb/Torino-Cittadella-October-18-2022-Coppa-Italia
+17,2022-10-23,Sun,Serie A,Matchweek 11,Away,W 2–1,Torino,Udinese,Y,CM,90,0,0,0,0,2,0,0,0,45,2,1,3,0.1,0.1,0.4,3,0,28,32,87.5,2,26,1,1,0,/en/matches/e229f8ab/Udinese-Torino-October-23-2022-Serie-A
+18,2022-10-30,Sun,Serie A,Matchweek 12,Home,W 2–1,Torino,Milan,Y,CM,90,0,0,0,0,1,0,1,0,54,1,0,2,0.1,0.1,0.1,4,0,36,46,78.3,3,21,1,2,0,/en/matches/045a51a7/Torino-Milan-October-30-2022-Serie-A
+19,2022-11-06,Sun,Serie A,Matchweek 13,Away,L 1–2,Torino,Bologna,Y,CM,90,1,0,1,1,0,0,0,0,46,1,3,1,0.8,0.0,0.0,3,0,27,40,67.5,2,20,1,2,1,/en/matches/93bc56e9/Bologna-Torino-November-6-2022-Serie-A
+20,2022-11-24,Thu,World Cup,Group stage,Neutral,L 0–2,rs Serbia,br Brazil,Y,CM,65,0,0,0,0,0,0,1,0,37,2,0,1,0.0,0.0,0.0,0,0,27,29,93.1,1,24,2,1,0,/en/matches/457c3fcf/Brazil-Serbia-November-24-2022-FIFA-World-Cup
+21,2022-11-28,Mon,World Cup,Group stage,Neutral,D 3–3,rs Serbia,cm Cameroon,Y,CM,90,0,0,0,0,1,0,0,0,82,0,1,0,0.1,0.1,0.0,2,0,64,73,87.7,3,57,0,0,0,/en/matches/fbe95cd2/Cameroon-Serbia-November-28-2022-FIFA-World-Cup
+22,2022-12-02,Fri,World Cup,Group stage,Neutral,L 2–3,rs Serbia,ch Switzerland,Y,CM,90,0,0,0,0,0,0,1,0,63,0,0,1,0.0,0.0,0.0,0,0,52,60,86.7,5,47,1,0,0,/en/matches/cef4945f/Serbia-Switzerland-December-2-2022-FIFA-World-Cup
+23,2023-01-04,Wed,Serie A,Matchweek 16,Home,D 1–1,Torino,Hellas Verona,Y,CM,90,0,0,0,0,3,0,0,0,66,2,2,0,0.2,0.2,0.1,2,0,46,54,85.2,2,27,0,0,0,/en/matches/25fb9390/Torino-Hellas-Verona-January-4-2023-Serie-A
+24,2023-01-08,Sun,Serie A,Matchweek 17,Away,D 1–1,Torino,Salernitana,Y,CM,90,0,0,0,0,1,1,1,0,63,0,1,0,0.1,0.1,0.2,3,0,46,58,79.3,2,32,4,0,0,/en/matches/b6ec4538/Salernitana-Torino-January-8-2023-Serie-A
+25,2023-01-11,Wed,Coppa Italia,Round of 16,Away,W 1–0,Torino,Milan,Y,DM,120,0,0,0,0,3,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/028207cb/Milan-Torino-January-11-2023-Coppa-Italia
+26,2023-01-15,Sun,Serie A,Matchweek 18,Home,L 0–1,Torino,Spezia,Y,CM,45,0,0,0,0,0,0,0,0,37,1,0,1,0.0,0.0,0.0,0,0,29,34,85.3,3,17,1,0,0,/en/matches/6613b258/Torino-Spezia-January-15-2023-Serie-A
+27,2023-01-28,Sat,Serie A,Matchweek 20,Away,D 2–2,Torino,Empoli,N,CM,45,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.1,4,1,32,37,86.5,2,23,2,0,0,/en/matches/621ac50b/Empoli-Torino-January-28-2023-Serie-A
+28,2023-02-11,Sat,Premier League,Matchweek 23,Home,W 2–0,Fulham,Nott'ham Forest,N,AM,1,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,4,1,0,0,/en/matches/ee86dc99/Fulham-Nottingham-Forest-February-11-2023-Premier-League
+29,2023-02-24,Fri,Premier League,Matchweek 25,Home,D 1–1,Fulham,Wolves,N,DM,45,0,0,0,0,1,0,0,0,34,2,1,0,0.0,0.0,0.0,2,1,27,29,93.1,2,18,1,2,2,/en/matches/b452508e/Fulham-Wolverhampton-Wanderers-February-24-2023-Premier-League
+30,2023-02-28,Tue,FA Cup,Fifth round proper,Home,W 2–0,Fulham,Leeds United,Y,DM,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/894f2b33/Fulham-Leeds-United-February-28-2023-FA-Cup
+31,2023-03-06,Mon,Premier League,Matchweek 26,Away,L 2–3,Fulham,Brentford,Y,DM,74,0,0,0,0,1,0,1,0,47,0,0,0,0.0,0.0,0.0,0,0,41,44,93.2,2,32,0,0,0,/en/matches/3dce3a24/Brentford-Fulham-March-6-2023-Premier-League
+32,2023-03-12,Sun,Premier League,Matchweek 27,Home,L 0–3,Fulham,Arsenal,Y,DM,90,0,0,0,0,0,0,0,0,59,1,0,3,0.0,0.0,0.0,2,0,48,54,88.9,4,36,1,0,0,/en/matches/d238973c/Fulham-Arsenal-March-12-2023-Premier-League
+33,2023-03-24,Fri,Euro Qualifying,Group stage,Home,W 2–0,rs Serbia,lt Lithuania,Y,DM,71,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/9a3a9ee9/Serbia-Lithuania-March-24-2023-Euro-Qualifying
+34,2023-03-27,Mon,Euro Qualifying,Group stage,Away,W 2–0,rs Serbia,me Montenegro,N,,10,0,1,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/9b1f6871/Montenegro-Serbia-March-27-2023-Euro-Qualifying
+35,2023-04-01,Sat,Premier League,Matchweek 29,Away,L 1–2,Fulham,Bournemouth,N,AM,9,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,7,1,0,0,/en/matches/f64320c3/Bournemouth-Fulham-April-1-2023-Premier-League
+36,2023-04-15,Sat,Premier League,Matchweek 31,Away,W 3–1,Fulham,Everton,N,DM,6,0,0,0,0,1,1,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0,/en/matches/ecae749b/Everton-Fulham-April-15-2023-Premier-League
+37,2023-04-22,Sat,Premier League,Matchweek 32,Home,W 2–1,Fulham,Leeds United,N,DM,9,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,1,0,0,/en/matches/f2d8700d/Fulham-Leeds-United-April-22-2023-Premier-League
+38,2023-04-30,Sun,Premier League,Matchweek 34,Home,L 1–2,Fulham,Manchester City,N,DM,15,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,6,0,0,0,/en/matches/d4d0cb2a/Fulham-Manchester-City-April-30-2023-Premier-League
+39,2023-05-03,Wed,Premier League,Matchweek 28,Away,L 0–1,Fulham,Liverpool,Y,DM,70,0,0,0,0,0,0,0,0,29,2,3,0,0.0,0.0,0.0,1,0,15,21,71.4,1,14,0,1,0,/en/matches/24fb8eca/Liverpool-Fulham-May-3-2023-Premier-League
+40,2023-05-08,Mon,Premier League,Matchweek 35,Home,W 5–3,Fulham,Leicester City,N,DM,14,0,0,0,0,1,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,6,7,85.7,1,2,1,0,0,/en/matches/9a5efecc/Fulham-Leicester-City-May-8-2023-Premier-League
+41,2023-05-13,Sat,Premier League,Matchweek 36,Away,W 2–0,Fulham,Southampton,N,DM,14,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,10,12,83.3,0,7,0,1,1,/en/matches/e05f67be/Southampton-Fulham-May-13-2023-Premier-League
+42,2023-05-28,Sun,Premier League,Matchweek 38,Away,L 1–2,Fulham,Manchester Utd,Y,DM,65,0,0,0,0,1,0,0,0,24,0,1,1,0.0,0.0,0.0,0,0,18,19,94.7,2,14,2,1,1,/en/matches/64823dc9/Manchester-United-Fulham-May-28-2023-Premier-League
+43,2023-06-20,Tue,Euro Qualifying,Group stage,Away,D 1–1,rs Serbia,bg Bulgaria,Y,DM,57,0,0,0,0,1,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/45ad393f/Bulgaria-Serbia-June-20-2023-Euro-Qualifying

@@ -1,0 +1,32 @@
+,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
+0,2022-06-02,Thu,UEFA Nations League,League B,Home,D 2–2,il Israel,is Iceland,Y,FW,90,0,1,0,0,3,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/0bb73cbc/Israel-Iceland-June-2-2022-UEFA-Nations-League
+1,2022-06-10,Fri,UEFA Nations League,League B,Away,W 2–1,il Israel,al Albania,Y,FW,80,2,0,0,0,2,2,0,0,,,1,,,,,,,,,,,,,,,/en/matches/96fa7953/Albania-Israel-June-10-2022-UEFA-Nations-League
+2,2022-06-13,Mon,UEFA Nations League,League B,Away,D 2–2,il Israel,is Iceland,Y,FW,90,0,0,0,0,2,1,0,0,,,0,,,,,,,,,,,,,,,/en/matches/48d78632/Iceland-Israel-June-13-2022-UEFA-Nations-League
+3,2022-08-06,Sat,Premier League,Matchweek 1,Home,D 2–2,Fulham,Liverpool,N,"LW,RW",25,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,1,1,2,3,66.7,1,6,0,2,0,/en/matches/6713c1dc/Fulham-Liverpool-August-6-2022-Premier-League
+4,2023-01-07,Sat,FA Cup,Third round proper,Away,W 2–0,Fulham,Hull City,N,,15,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/8455c1f4/Hull-City-Fulham-January-7-2023-FA-Cup
+5,2023-01-12,Thu,Premier League,Matchweek 7,Home,W 2–1,Fulham,Chelsea,N,LW,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,3,0,0,0,/en/matches/2902a42d/Fulham-Chelsea-January-12-2023-Premier-League
+6,2023-01-23,Mon,Premier League,Matchweek 21,Home,L 0–1,Fulham,Tottenham,N,RW,11,0,0,0,0,1,1,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,4,0,0,0,/en/matches/098cd338/Fulham-Tottenham-Hotspur-January-23-2023-Premier-League
+7,2023-01-28,Sat,FA Cup,Fourth round proper,Home,D 1–1,Fulham,Sunderland,Y,AM,90,0,0,0,0,3,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/191b65be/Fulham-Sunderland-January-28-2023-FA-Cup
+8,2023-02-03,Fri,Premier League,Matchweek 22,Away,D 0–0,Fulham,Chelsea,N,LW,16,0,0,0,0,0,0,0,0,6,1,1,0,0.0,0.0,0.0,1,0,3,3,100.0,0,5,0,2,1,/en/matches/c3cf244b/Chelsea-Fulham-February-3-2023-Premier-League
+9,2023-02-08,Wed,FA Cup,Fourth round proper,Away,W 3–2,Fulham,Sunderland,Y,AM,79,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/d68f2383/Sunderland-Fulham-February-8-2023-FA-Cup
+10,2023-02-11,Sat,Premier League,Matchweek 23,Home,W 2–0,Fulham,Nott'ham Forest,N,LW,19,1,0,0,0,1,1,0,0,9,0,0,0,0.2,0.2,0.0,0,0,6,7,85.7,3,10,1,2,2,/en/matches/ee86dc99/Fulham-Nottingham-Forest-February-11-2023-Premier-League
+11,2023-02-18,Sat,Premier League,Matchweek 24,Away,W 1–0,Fulham,Brighton,N,LW,9,1,0,0,0,1,1,0,0,7,1,0,0,0.1,0.1,0.0,0,0,6,6,100.0,2,3,1,0,0,/en/matches/67a7aee6/Brighton-and-Hove-Albion-Fulham-February-18-2023-Premier-League
+12,2023-02-24,Fri,Premier League,Matchweek 25,Home,D 1–1,Fulham,Wolves,N,RW,45,1,0,0,0,1,1,0,0,26,1,1,0,0.0,0.0,0.0,1,0,16,20,80.0,2,19,3,2,1,/en/matches/b452508e/Fulham-Wolverhampton-Wanderers-February-24-2023-Premier-League
+13,2023-02-28,Tue,FA Cup,Fifth round proper,Home,W 2–0,Fulham,Leeds United,Y,AM,80,1,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/894f2b33/Fulham-Leeds-United-February-28-2023-FA-Cup
+14,2023-03-06,Mon,Premier League,Matchweek 26,Away,L 2–3,Fulham,Brentford,Y,LW,74,1,0,0,0,1,1,0,0,39,4,2,1,0.6,0.6,0.0,2,0,25,29,86.2,5,23,2,3,2,/en/matches/3dce3a24/Brentford-Fulham-March-6-2023-Premier-League
+15,2023-03-12,Sun,Premier League,Matchweek 27,Home,L 0–3,Fulham,Arsenal,Y,LW,74,0,0,0,0,1,0,0,0,31,5,0,0,0.0,0.0,0.1,1,0,21,24,87.5,0,18,0,4,3,/en/matches/d238973c/Fulham-Arsenal-March-12-2023-Premier-League
+16,2023-03-19,Sun,FA Cup,Quarter-finals,Away,L 1–3,Fulham,Manchester Utd,N,,2,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/a1c08a96/Manchester-United-Fulham-March-19-2023-FA-Cup
+17,2023-03-25,Sat,Euro Qualifying,Group stage,Home,D 1–1,il Israel,xk Kosovo,Y,FW,90,0,1,0,0,5,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/373d431a/Israel-Kosovo-March-25-2023-Euro-Qualifying
+18,2023-03-28,Tue,Euro Qualifying,Group stage,Away,L 0–3,il Israel,ch Switzerland,Y,LM,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/d1f1665d/Switzerland-Israel-March-28-2023-Euro-Qualifying
+19,2023-04-01,Sat,Premier League,Matchweek 29,Away,L 1–2,Fulham,Bournemouth,Y,LW,90,0,0,0,0,1,0,0,0,44,4,0,2,0.0,0.0,0.2,3,1,26,32,81.3,3,26,2,3,2,/en/matches/f64320c3/Bournemouth-Fulham-April-1-2023-Premier-League
+20,2023-04-08,Sat,Premier League,Matchweek 30,Home,L 0–1,Fulham,West Ham,N,LW,45,0,0,0,0,0,0,0,0,22,2,0,2,0.0,0.0,0.0,0,0,15,15,100.0,1,14,0,1,0,/en/matches/0ba42648/Fulham-West-Ham-United-April-8-2023-Premier-League
+21,2023-04-22,Sat,Premier League,Matchweek 32,Home,W 2–1,Fulham,Leeds United,N,RW,5,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,6,1,5,1,/en/matches/f2d8700d/Fulham-Leeds-United-April-22-2023-Premier-League
+22,2023-04-25,Tue,Premier League,Matchweek 33,Away,L 0–1,Fulham,Aston Villa,Y,LW,66,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,1,14,1,6,3,/en/matches/8b295a84/Aston-Villa-Fulham-April-25-2023-Premier-League
+23,2023-04-30,Sun,Premier League,Matchweek 34,Home,L 1–2,Fulham,Manchester City,N,LW,15,0,0,0,0,1,0,0,0,20,1,0,1,0.0,0.0,0.0,0,0,12,13,92.3,1,11,0,2,1,/en/matches/d4d0cb2a/Fulham-Manchester-City-April-30-2023-Premier-League
+24,2023-05-03,Wed,Premier League,Matchweek 28,Away,L 0–1,Fulham,Liverpool,N,FW,12,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,6,100.0,2,6,0,1,0,/en/matches/24fb8eca/Liverpool-Fulham-May-3-2023-Premier-League
+25,2023-05-08,Mon,Premier League,Matchweek 35,Home,W 5–3,Fulham,Leicester City,N,LW,9,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,4,1,1,1,/en/matches/9a5efecc/Fulham-Leicester-City-May-8-2023-Premier-League
+26,2023-05-13,Sat,Premier League,Matchweek 36,Away,W 2–0,Fulham,Southampton,N,LW,13,0,0,0,0,1,1,0,0,7,0,0,0,0.1,0.1,0.0,0,0,4,6,66.7,0,6,3,2,2,/en/matches/e05f67be/Southampton-Fulham-May-13-2023-Premier-League
+27,2023-05-20,Sat,Premier League,Matchweek 37,Home,D 2–2,Fulham,Crystal Palace,N,RW,11,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,1,0,/en/matches/844f2c37/Fulham-Crystal-Palace-May-20-2023-Premier-League
+28,2023-05-28,Sun,Premier League,Matchweek 38,Away,L 1–2,Fulham,Manchester Utd,N,"LW,RW",25,0,0,0,0,2,1,0,0,14,0,1,0,0.1,0.1,0.1,1,0,10,11,90.9,0,11,1,0,0,/en/matches/64823dc9/Manchester-United-Fulham-May-28-2023-Premier-League
+29,2023-06-16,Fri,Euro Qualifying,Group stage,Away,W 2–1,il Israel,by Belarus,Y,FW,90,0,0,0,0,6,2,0,0,,,0,,,,,,,,,,,,,,,/en/matches/68edd132/Belarus-Israel-June-16-2023-Euro-Qualifying
+30,2023-06-19,Mon,Euro Qualifying,Group stage,Home,W 2–1,il Israel,ad Andorra,Y,FW,90,1,0,0,0,4,3,0,0,,,0,,,,,,,,,,,,,,,/en/matches/fd82a49e/Israel-Andorra-June-19-2023-Euro-Qualifying
