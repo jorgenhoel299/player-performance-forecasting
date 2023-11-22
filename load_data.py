@@ -50,33 +50,37 @@ defenders = []
 midfielderrs = []
 attackers = []
 
-season = "2022-2023"
-print(season)
-for player in player_names:
-    if player not in already_parsed_player:
-        already_parsed_player.append(player)
-    else:
-        continue
-    season_path = os.path.join(folder_path, player, season)
-    if os.path.isdir(season_path):
-        files = [os.path.join(season_path, f) for f in os.listdir(season_path) if
-                 os.path.isfile(os.path.join(season_path, f))]
-        file = files[0]
-        df = pd.read_csv(file)
-        position = get_position(df, player)
-        if (position == " "):
-            continue
+seasons = ["2019-2020", "2020-2021","2021-2022", "2022-2023", "2023-2024"]
 
-        if position == "Defender":
-            defenders.append(player)
-        elif position == "Midfielder":
-            midfielderrs.append(player)
-        elif position == "Forward":
-            attackers.append(player)
-        elif position == "Goalkeeper":
-            goalkeepers.append(player)
-        # else:
-        #     print(df)
+for season in seasons:
+    for player in player_names:
+        if player not in already_parsed_player:
+            already_parsed_player.append(player)
+        else:
+            continue
+        season_path = os.path.join(folder_path, player, season)
+        if os.path.isdir(season_path):
+            files = [os.path.join(season_path, f) for f in os.listdir(season_path) if
+                     os.path.isfile(os.path.join(season_path, f))]
+            file = files[0]
+            df = pd.read_csv(file)
+            position = get_position(df, player)
+            if (position == " "):
+                continue
+
+            if position == "Defender":
+                defenders.append(player)
+            elif position == "Midfielder":
+                midfielderrs.append(player)
+            elif position == "Forward":
+                attackers.append(player)
+            elif position == "Goalkeeper":
+                goalkeepers.append(player)
+            # else:
+            #     print(df)
+
+if not os.path.isdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), "positions")):
+    os.makedirs(os.path.join(os.path.dirname(os.path.abspath(__file__)), "positions"))
 
 with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "positions//defenders.txt"), "w") as f:
     f.write("\n".join(defenders))
