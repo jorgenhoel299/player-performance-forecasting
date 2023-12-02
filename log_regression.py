@@ -29,5 +29,6 @@ class LogisticRegressionTest:
     def predict(self, X):
         linear_predictions = np.dot(X, self.weights) + self.bias
         y_pred = sigmoid(linear_predictions)
-        class_pred = [0 if y <= 0.5 else 1 for y in y_pred]
+        class_pred = [0 if y <= 0.67 else 1 for y in y_pred]
+        #class_pred = y_pred
         return class_pred
