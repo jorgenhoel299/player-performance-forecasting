@@ -51,13 +51,16 @@ for season in seasons:
         for i, date in enumerate(date_column):
             date = datetime.strptime(date, '%Y-%m-%d')
             if i == 0:
-                days_interval.append(0)
+                continue
             else:
                 days_interval.append((date - datetime.strptime(date_column[i - 1], '%Y-%m-%d')).days)
         for index, row in df.iterrows():
-            fpl_scores.append(scorer(row))
-            min_played.append(row["Min"])
-            start_column.append(1 if row["Start"] == "Y" else 0)
+            if index == 0:  # first game means no fpl score
+                continue
+            else:
+                fpl_scores.append(scorer(df.loc[index - 1]))
+                min_played.append(df.loc[index - 1]["Min"])
+                start_column.append(1 if row["Start"] == "Y" else 0)
 
 days_interval = np.array(days_interval)
 fpl_scores = np.array(fpl_scores)
@@ -85,14 +88,15 @@ y = y[~nan_rows]
 
 # bc = datasets.load_breast_cancer()
 # X, y = bc.data, bc.target
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=1234)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=1234)
 
-clf = LogisticRegressionTest(0.001, 5000)
+clf = LogisticRegressionTest(0.001, 1000)
 clf.fit(X_train, y_train)
 y_pred = clf.predict(X_test)
 def accuracy(y_pred, y_test):
     return np.sum(y_pred == y_test)/len(y_test)
 
-print(y_pred)
 print(X)
+print(accuracy(y_pred, y_test))
+
 
