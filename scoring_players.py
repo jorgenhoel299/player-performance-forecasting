@@ -8,26 +8,38 @@ from datetime import timedelta
 import pandas as pd
 
 
-def scorer(row):
+def scorer(row, position=""):
     playing_time = row.Min
     goals_scored = row.Gls
     assists = row.Ast
     penalties_missed = row.PKatt
-    goals_conceded = int(row.Result[4])
+    result = row.Result
+    goals_conceded = int(row.Result.split("–")[1][0])
     yellow_cards = row.CrdY
     red_cards = row.CrdR
     own_goal = 0  # TODO
 
-    if row.Pos[:2] in ['RB', 'CB', 'LB', 'RB,LB', 'LB,WB', 'RB,CB', 'WB']:
-        position = 'Defender'
-    elif row.Pos in ['CM', 'DM', 'AM', 'RM', 'LM']:
-        position = 'Midfielder'
-    elif row.Pos in ['FW', 'RW', 'LW']:
-        position = 'Forward'
-    elif row.Pos == 'GK':
-        position = 'Goalkeeper'
-    else:
-        raise ValueError('unknown position{}. consider adding to classify player.'.format(row.Pos))
+    # if position == "":
+    pos = row.Pos
+    if pd.isna(row["Pos"]):
+        return 0
+    for p in pos.split(","):
+        if p in ['RB', 'CB', 'LB', 'RB,LB', 'LB,WB', 'RB,CB', 'WB']:
+            position = 'Defender'
+            break
+        elif p in ['CM', 'DM', 'AM', 'RM', 'LM']:
+            position = 'Midfielder'
+            break
+        elif p in ['FW', 'RW', 'LW', 'AM,LW']:
+            position = 'Forward'
+            break
+        elif p == 'GK':
+            position = 'Goalkeeper'
+            break
+        else:
+            continue
+        # if pos == "":
+        #     raise ValueError("pos not defined:", pos)pos
 
     score = 0
     score += assists * 3
@@ -59,6 +71,7 @@ def scorer(row):
             score += 4
 
     if position == 'Goalkeeper':
+        return 1
         score += math.floor(shots_saved / 3)
         score += penalties_saved * 5
 
@@ -132,7 +145,7 @@ def opponent_team_form(season, player):
             if pl.loc[pl['Round'] == match_round]['Squad'].values[0] != player.loc[player['Round'] == match_round]['Opponent'].values[0]:
                 print('no')
                 continue
-            i+=1
+            i += 1
             form += pl.loc[pl['Round'] == match_round]['Form'].values[0]
         player['opponent_form'][player['Round'] == match_round] = form / i
     return player
