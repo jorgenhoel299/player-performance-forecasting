@@ -7,6 +7,8 @@ from scoring_players import scorer
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+from log_regression import LogisticRegressionTest
+from sklearn import datasets
 
 seasons = ['2023-2024', '2019-2020', '2020-2021', '2021-2022', '2022-2023']
 
@@ -30,13 +32,13 @@ fpl_scores = []
 min_played = []
 start_column = []
 
-with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "positions//defenders.txt"), "r") as f:
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "positions//midfielderrs.txt"), "r") as f:
     for line in f:
         defenders.append(line.strip())
 
 for season in seasons:
     for defender in defenders:
-        print(defender)
+
         if os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "csvs", defender, season,"summary.csv")):
             df = pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "csvs", defender, season,"summary.csv"))
         else:
@@ -55,7 +57,7 @@ for season in seasons:
         for index, row in df.iterrows():
             fpl_scores.append(scorer(row))
             min_played.append(row["Min"])
-            start_column.append(row["Start"])
+            start_column.append(1 if row["Start"] == "Y" else 0)
 
 days_interval = np.array(days_interval)
 fpl_scores = np.array(fpl_scores)
@@ -68,15 +70,29 @@ X = X[~nan_rows]
 
 y = start_column
 y = y[~nan_rows]
-print(len(X), len(y))
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
-model = LogisticRegression()
-model.fit(X_train, y_train)
-y_pred = model.predict(X_test)
-accuracy = accuracy_score(y_test, y_pred)
-confusion = confusion_matrix(y_test, y_pred)
-report = classification_report(y_test, y_pred)
+#---------------------------------------------------------
+# X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+# model = LogisticRegression()
+# model.fit(X_train, y_train)
+# y_pred = model.predict(X_test)
+# accuracy = accuracy_score(y_test, y_pred)
+# confusion = confusion_matrix(y_test, y_pred)
+# report = classification_report(y_test, y_pred)
 
-print("Accuracy:", accuracy)
-print("Confusion Matrix:\n", confusion)
-print("Classification Report:\n", report)
+# print("Accuracy:", accuracy)
+# print("Confusion Matrix:\n", confusion)
+# print("Classification Report:\n", report)
+
+# bc = datasets.load_breast_cancer()
+# X, y = bc.data, bc.target
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=1234)
+
+clf = LogisticRegressionTest(0.001, 5000)
+clf.fit(X_train, y_train)
+y_pred = clf.predict(X_test)
+def accuracy(y_pred, y_test):
+    return np.sum(y_pred == y_test)/len(y_test)
+
+print(y_pred)
+print(X)
+
