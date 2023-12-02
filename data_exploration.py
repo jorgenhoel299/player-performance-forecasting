@@ -38,12 +38,20 @@ def series_to_supervised(data, n_in=1, n_out=1, dropnan=True):
 
 # players_in_match(1, 2)
 path = 'csvs/Patrick-van-Aanholt/2019-2020/summary.csv'
-#all_players = [os.path.join(subdir, files[-1]) for subdir, dirs, files in os.walk('csvs') if 'summary.csv' in files]
-#print(all_players)
+all_players = [os.path.join(subdir, files[-1]) for subdir, dirs, files in os.walk('csvs') if 'summary.csv' in files]
+print(all_players)
 # for player in all_players:
 #     form = player_form(pd.read_csv(player))
 #     form.to_csv(player)
+all_players = [all_players[0]]
+print(all_players[0])
 
+for player in all_players:
+    season = player[0].split('\\summary.csv')[0][-9:]
+    opponent_form = opponent_team_form(season, pd.read_csv(player))
+    opponent_form.to_csv(player)
+
+a=b
 player_stats = pd.read_csv(path)
 
 print(opponent_team_form('2019-2020', player_stats.tail(5)))
