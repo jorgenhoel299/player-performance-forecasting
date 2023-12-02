@@ -31,22 +31,24 @@ days_interval = []
 fpl_scores = []
 min_played = []
 start_column = []
-
-with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "positions//midfielderrs.txt"), "r") as f:
+form = []
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "positions//goalkeepers.txt"), "r") as f:
     for line in f:
         defenders.append(line.strip())
 
 for season in seasons:
     for defender in defenders:
 
-        if os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "csvs", defender, season,"summary.csv")):
-            df = pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "csvs", defender, season,"summary.csv"))
+        if os.path.exists(
+                os.path.join(os.path.dirname(os.path.abspath(__file__)), "csvs", defender, season, "summary.csv")):
+            df = pd.read_csv(
+                os.path.join(os.path.dirname(os.path.abspath(__file__)), "csvs", defender, season, "summary.csv"))
         else:
             continue
         position = most_played_pos(df["Pos"])
         date_column = df["Date"]
-        #min_played.append(df["Min"].tolist())
-        #start_column = df["Start"]
+        # min_played.append(df["Min"].tolist())
+        # start_column = df["Start"]
 
         for i, date in enumerate(date_column):
             date = datetime.strptime(date, '%Y-%m-%d')
@@ -60,20 +62,22 @@ for season in seasons:
             else:
                 fpl_scores.append(scorer(df.loc[index - 1]))
                 min_played.append(df.loc[index - 1]["Min"])
-                start_column.append(1 if row["Start"] == "Y" else 0)
+                start_column.append(0 if row["Start"] == "N" else 1)
+                form.append(row["Form"])
 
 days_interval = np.array(days_interval)
+form = np.array(form)
 fpl_scores = np.array(fpl_scores)
 min_played = np.array(min_played)
 start_column = np.array(start_column)
-X = np.hstack((days_interval.reshape(-1, 1), fpl_scores.reshape(-1, 1), min_played.reshape(-1, 1)))
+X = np.hstack((days_interval.reshape(-1, 1), fpl_scores.reshape(-1, 1), min_played.reshape(-1, 1), form.reshape(-1, 1)))
 
 nan_rows = np.isnan(X).any(axis=1)
 X = X[~nan_rows]
 
 y = start_column
 y = y[~nan_rows]
-#---------------------------------------------------------
+# ---------------------------------------------------------
 # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 # model = LogisticRegression()
 # model.fit(X_train, y_train)
@@ -93,10 +97,8 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random
 clf = LogisticRegressionTest(0.001, 1000)
 clf.fit(X_train, y_train)
 y_pred = clf.predict(X_test)
+
 def accuracy(y_pred, y_test):
     return np.sum(y_pred == y_test)/len(y_test)
 
-print(X)
 print(accuracy(y_pred, y_test))
-
-
