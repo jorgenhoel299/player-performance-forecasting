@@ -1,4 +1,4 @@
-,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,2022-08-23,Tue,EFL Cup,Second round,Away,W 1–0,Everton,Fleetwood Town,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/2baf1ea7/Fleetwood-Town-Everton-August-23-2022-EFL-Cup
-1,2022-09-18,Sun,Premier League,Matchweek 8,Home,W 1–0,Everton,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,19,0,0,0,/en/matches/96e9dc0f/Everton-West-Ham-United-September-18-2022-Premier-League
-2,2022-11-08,Tue,EFL Cup,Third round,Away,L 1–4,Everton,Bournemouth,Y*,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/9900f678/Bournemouth-Everton-November-8-2022-EFL-Cup
+,Unnamed: 0,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att.1,Succ,Match Report,Result_num,Form
+0,0,2022-08-23,Tue,EFL Cup,Second round,Away,W 1–0,Everton,Fleetwood Town,Y,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/2baf1ea7/Fleetwood-Town-Everton-August-23-2022-EFL-Cup,1.0,0.5
+1,1,2022-09-18,Sun,Premier League,Matchweek 8,Home,W 1–0,Everton,West Ham,Y,GK,90,0,0,0,0,0,0,0,0,33.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,30.0,70.0,0.0,19.0,0.0,0.0,0.0,/en/matches/96e9dc0f/Everton-West-Ham-United-September-18-2022-Premier-League,1.0,0.5
+2,2,2022-11-08,Tue,EFL Cup,Third round,Away,L 1–4,Everton,Bournemouth,Y*,GK,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/9900f678/Bournemouth-Everton-November-8-2022-EFL-Cup,0.0,0.5

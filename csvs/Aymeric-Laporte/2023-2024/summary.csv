@@ -1,15 +1,15 @@
-,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att,Succ,Match Report
-0,2023-08-11,Fri,Premier League,Matchweek 1,Away,W 3–0,Manchester City,Burnley,N,CB,12,0,0,0,0,1,1,0,0,14,0,0,1,0.0,0.0,0.0,0,0,11,11,100.0,0,10,0,0,0,/en/matches/3a6836b4/Burnley-Manchester-City-August-11-2023-Premier-League
-1,2023-08-25,Fri,Pro League,Matchweek 3,Away,W 5–0,Al-Nassr,Al-Fateh,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/db58e39c/Al-Fateh-Al-Nassr-August-25-2023-Saudi-Professional-League
-2,2023-08-29,Tue,Pro League,Matchweek 4,Home,W 4–0,Al-Nassr,Al-Shabab,Y,CB,80,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/840da2e9/Al-Nassr-Al-Shabab-August-29-2023-Saudi-Professional-League
-3,2023-09-02,Sat,Pro League,Matchweek 5,Away,W 5–1,Al-Nassr,Al-Hazem,Y,CB,90,0,0,0,0,1,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/9ec0ad6f/Al-Hazem-Al-Nassr-September-2-2023-Saudi-Professional-League
-4,2023-09-08,Fri,Euro Qualifying,Group stage,Away,W 7–1,es Spain,ge Georgia,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/5993cfc5/Georgia-Spain-September-8-2023-Euro-Qualifying
-5,2023-09-12,Tue,Euro Qualifying,Group stage,Home,W 6–0,es Spain,cy Cyprus,Y,CB,90,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/4409f65b/Spain-Cyprus-September-12-2023-Euro-Qualifying
-6,2023-09-16,Sat,Pro League,Matchweek 6,Away,W 3–1,Al-Nassr,Al-Raed,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c05d54d8/Al-Raed-Al-Nassr-September-16-2023-Saudi-Professional-League
-7,2023-09-22,Fri,Pro League,Matchweek 7,Home,W 4–3,Al-Nassr,Al-Ahli,Y,CB,90,0,1,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/b6984f5e/Al-Nassr-Al-Ahli-September-22-2023-Saudi-Professional-League
-8,2023-09-29,Fri,Pro League,Matchweek 8,Away,W 2–1,Al-Nassr,Al-Ta'ee,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/b598cb22/Al-Taee-Al-Nassr-September-29-2023-Saudi-Professional-League
-9,2023-10-06,Fri,Pro League,Matchweek 9,Home,D 2–2,Al-Nassr,Abha,Y,CB,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/4185fa5d/Al-Nassr-Abha-October-6-2023-Saudi-Professional-League
-10,2023-10-12,Thu,Euro Qualifying,Group stage,Home,W 2–0,es Spain,sct Scotland,Y,CB,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/816e3943/Spain-Scotland-October-12-2023-Euro-Qualifying
-11,2023-10-15,Sun,Euro Qualifying,Group stage,Away,W 1–0,es Spain,no Norway,Y,CB,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/9d087fa7/Norway-Spain-October-15-2023-Euro-Qualifying
-12,2023-10-21,Sat,Pro League,Matchweek 10,Home,W 2–1,Al-Nassr,Damac,Y,CB,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c486a0a5/Al-Nassr-Damac-October-21-2023-Saudi-Professional-League
-13,2023-11-04,Sat,Pro League,Matchweek 12,Home,W 2–0,Al-Nassr,Al-Khaleej,Y,CB,90,1,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/b8767bab/Al-Nassr-Al-Khaleej-November-4-2023-Saudi-Professional-League
+,Unnamed: 0,Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Att.1,Succ,Match Report,Result_num,Form
+0,0,2023-08-11,Fri,Premier League,Matchweek 1,Away,W 3–0,Manchester City,Burnley,N,CB,12,0,0,0,0,1,1,0,0,14.0,0.0,0,1.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,100.0,0.0,10.0,0.0,0.0,0.0,/en/matches/3a6836b4/Burnley-Manchester-City-August-11-2023-Premier-League,1.0,0.5
+1,1,2023-08-25,Fri,Pro League,Matchweek 3,Away,W 5–0,Al-Nassr,Al-Fateh,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/db58e39c/Al-Fateh-Al-Nassr-August-25-2023-Saudi-Professional-League,1.0,0.5
+2,2,2023-08-29,Tue,Pro League,Matchweek 4,Home,W 4–0,Al-Nassr,Al-Shabab,Y,CB,80,0,0,0,0,0,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/840da2e9/Al-Nassr-Al-Shabab-August-29-2023-Saudi-Professional-League,1.0,0.5
+3,3,2023-09-02,Sat,Pro League,Matchweek 5,Away,W 5–1,Al-Nassr,Al-Hazem,Y,CB,90,0,0,0,0,1,0,0,0,,,2,,,,,,,,,,,,,,,/en/matches/9ec0ad6f/Al-Hazem-Al-Nassr-September-2-2023-Saudi-Professional-League,1.0,1.0
+4,4,2023-09-08,Fri,Euro Qualifying,Group stage,Away,W 7–1,es Spain,ge Georgia,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/5993cfc5/Georgia-Spain-September-8-2023-Euro-Qualifying,1.0,1.0
+5,5,2023-09-12,Tue,Euro Qualifying,Group stage,Home,W 6–0,es Spain,cy Cyprus,Y,CB,90,0,0,0,0,2,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/4409f65b/Spain-Cyprus-September-12-2023-Euro-Qualifying,1.0,1.0
+6,6,2023-09-16,Sat,Pro League,Matchweek 6,Away,W 3–1,Al-Nassr,Al-Raed,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c05d54d8/Al-Raed-Al-Nassr-September-16-2023-Saudi-Professional-League,1.0,1.0
+7,7,2023-09-22,Fri,Pro League,Matchweek 7,Home,W 4–3,Al-Nassr,Al-Ahli,Y,CB,90,0,1,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/b6984f5e/Al-Nassr-Al-Ahli-September-22-2023-Saudi-Professional-League,1.0,1.0
+8,8,2023-09-29,Fri,Pro League,Matchweek 8,Away,W 2–1,Al-Nassr,Al-Ta'ee,Y,CB,90,0,0,0,0,0,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/b598cb22/Al-Taee-Al-Nassr-September-29-2023-Saudi-Professional-League,1.0,1.0
+9,9,2023-10-06,Fri,Pro League,Matchweek 9,Home,D 2–2,Al-Nassr,Abha,Y,CB,90,0,0,0,0,1,0,0,0,,,1,,,,,,,,,,,,,,,/en/matches/4185fa5d/Al-Nassr-Abha-October-6-2023-Saudi-Professional-League,0.5,1.0
+10,10,2023-10-12,Thu,Euro Qualifying,Group stage,Home,W 2–0,es Spain,sct Scotland,Y,CB,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/816e3943/Spain-Scotland-October-12-2023-Euro-Qualifying,1.0,0.8333333333333334
+11,11,2023-10-15,Sun,Euro Qualifying,Group stage,Away,W 1–0,es Spain,no Norway,Y,CB,90,0,0,0,0,0,0,1,0,,,0,,,,,,,,,,,,,,,/en/matches/9d087fa7/Norway-Spain-October-15-2023-Euro-Qualifying,1.0,0.8333333333333334
+12,12,2023-10-21,Sat,Pro League,Matchweek 10,Home,W 2–1,Al-Nassr,Damac,Y,CB,90,0,0,0,0,1,0,0,0,,,0,,,,,,,,,,,,,,,/en/matches/c486a0a5/Al-Nassr-Damac-October-21-2023-Saudi-Professional-League,1.0,0.8333333333333334
+13,13,2023-11-04,Sat,Pro League,Matchweek 12,Home,W 2–0,Al-Nassr,Al-Khaleej,Y,CB,90,1,0,0,0,1,1,0,0,,,1,,,,,,,,,,,,,,,/en/matches/b8767bab/Al-Nassr-Al-Khaleej-November-4-2023-Saudi-Professional-League,1.0,1.0
