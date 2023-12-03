@@ -1,6 +1,4 @@
 import numpy as np
-from scipy.special import softmax
-import pandas as pd
 import matplotlib.pyplot as plt
 
 def sigmoid(x):
@@ -164,7 +162,7 @@ def lstm_cell_backward(da_next, dc_next, cache):
 
     # Retrieve information from "cache"
     (a_next, c_next, a_prev, c_prev, ft, it, cct, ot, xt, parameters) = cache
-    print(da_next.shape, a_next.T.shape)
+    # print(da_next.shape, a_next.T.shape)
     # Retrieve dimensions from xt's and a_next's shape
     n_x, m = xt.shape
     n_a, m = a_next.shape
@@ -200,11 +198,10 @@ def lstm_cell_backward(da_next, dc_next, cache):
     # Save gradients in dictionary
     gradients = {"dxt": dxt, "da_prev": da_prev, "dc_prev": dc_prev, "dWf": dWf, "dbf": dbf, "dWi": dWi, "dbi": dbi,
                  "dWc": dWc, "dbc": dbc, "dWo": dWo, "dbo": dbo}#, "dWy": dWy, "dby": dby}
-
     return gradients
 
 
-def lstm_backward(da, caches):
+def lstm_backward(da, caches, y_diff):
     """
     Implementing the backward pass for the RNN with LSTM-cell (over a whole sequence).
 
@@ -248,9 +245,13 @@ def lstm_backward(da, caches):
     dbc = np.zeros((n_a, 1))
     dbo = np.zeros((n_a, 1))
     # Initialize gradients for the output layer
-    # dWy = np.zeros_like(parameters["Wy"])
-    # dby = np.zeros_like(parameters["by"])
-
+    dWy = np.dot(np.transpose(y_diff, (0, 2, 1)), a0.T)
+    # print(dWy.shape)
+    dWy = np.sum(dWy, axis=1)
+    dWy = np.zeros(np.shape(dWy))
+    # print(dWy.shape)
+    dby = 0#np.sum(y_diff)
+    # print(dby.shape)
     # loop back over the whole sequence
     for t in reversed(range(T_x)):
         # Compute all gradients using lstm_cell_backward
@@ -274,7 +275,7 @@ def lstm_backward(da, caches):
 
     # Store the gradients in a python dictionary
     gradients = {"dx": dx, "da0": da0, "dWf": dWf, "dbf": dbf, "dWi": dWi, "dbi": dbi,
-                 "dWc": dWc, "dbc": dbc, "dWo": dWo, "dbo": dbo}#, "dWy": dWy, "dby": dby}
+                 "dWc": dWc, "dbc": dbc, "dWo": dWo, "dbo": dbo, "dWy": dWy, "dby": dby}
 
     return gradients
 
@@ -309,7 +310,6 @@ def initialize_parameters(n_x, n_a, n_y):
     # Output gate parameters
     Wo = np.random.randn(n_a, n_a + n_x)
     bo = np.zeros((n_a, 1))
-
     # Output layer parameters
     Wy = np.random.randn(n_y, n_a)
     by = np.zeros((n_y, 1))
@@ -369,89 +369,97 @@ def compute_cost_gradient(y_pred, y_true, caches):
     return da
 
 
-# Example training loop with performance plotting
-def train_lstm(X, Y, learning_rate, num_epochs):
-    n_x, m, T_x = X.shape
-    n_y = Y.shape[0]
-    n_a = 64  # Adjust the number of hidden units as needed
+# Training loop with performance plotting
+def train_lstm(X_train, Y_train, X_val, Y_val, learning_rate=0.1, num_epochs=15, depth=64):
+    n_x, m_train, T_x_train = X_train.shape
+    _, m_val, T_x_val = X_val.shape
+    n_y = Y_train.shape[0]
+    n_a = depth  # Adjust the number of hidden units as needed
 
     # Initialize parameters
     parameters = initialize_parameters(n_x, n_a, n_y)
 
-    # Lists to store the cost values
-    costs = []
+    # Lists to store the cost values for training and validation
+    train_costs = []
+    val_costs = []
 
     for epoch in range(num_epochs):
-        # Forward pass
-        a, y_pred, c, caches = lstm_forward(X, np.zeros((n_a, m)), parameters)
-        # Compute cost
-        cost = compute_cost(y_pred, Y)
-        costs.append(cost)
+        # Training set forward pass
+        a_train, y_train_pred, c_train, caches_train = lstm_forward(X_train, np.zeros((n_a, m_train)), parameters)
+        # Compute training cost
+        train_cost = compute_cost(y_train_pred, Y_train)
+        train_costs.append(train_cost)
 
-        # Backward pass
-        da = compute_cost_gradient(y_pred, Y, caches)
-        gradients = lstm_backward(da, caches)
+        # Validation set forward pass
+        a_val, y_val_pred, _, _ = lstm_forward(X_val, np.zeros((n_a, m_val)), parameters)
+        # Compute validation cost
+        val_cost = compute_cost(y_val_pred, Y_val)
+        val_costs.append(val_cost)
 
-        # Update parameters using gradient descent
+        # Backward pass on training set
+        da_train = compute_cost_gradient(y_train_pred, Y_train, caches_train)
+        gradients_train = lstm_backward(da_train, caches_train, y_train_pred-Y_train)
+
+        # Update parameters using gradient descent for training set
         for param in parameters:
-            if param is 'Wy' or param is 'by':
-                continue
-            parameters[param] -= learning_rate * gradients["d" + param]
+           # if param not in ['Wy', 'by']:
+            parameters[param] -= learning_rate * gradients_train["d" + param]
 
-        # Print cost every few epochs
+        # Print costs every few epochs
         if epoch % 1 == 0:
-            print(f"Cost after epoch {epoch}: {cost}")
+            print(f"Epoch {epoch}: Training Cost = {train_cost}, Validation Cost = {val_cost}")
 
-    # Plot the cost over epochs
-    plt.plot(range(num_epochs), costs)
+    # Plot the cost over epochs for both training and validation sets
+    plt.plot(range(num_epochs), train_costs, label='Training Cost')
+    plt.plot(range(num_epochs), val_costs, label='Validation Cost')
     plt.xlabel('Epochs')
     plt.ylabel('Cost')
-    plt.title('Training Cost Over Time')
+    plt.title('Training and Validation Costs Over Time')
+    plt.legend()
     plt.show()
 
     return parameters
 
+# # test it
+# from scoring_players import scorer, exhaustion, players_in_match, player_form, opponent_team_form
+#
+#
+#
+# path = 'csvs/Patrick-van-Aanholt/2019-2020/summary.csv'
+# path2 = 'csvs/Aaron-Cresswell/2019-2020/summary.csv'
+# player_stats, player2_stats = pd.read_csv(path), pd.read_csv(path2)
+# player_stats['FPL Score'] = player_stats.apply(scorer, axis=1)
+# player2_stats['FPL Score'] = player_stats.apply(scorer, axis=1)
+# relevant_columns = ['Round', 'Venue', 'FPL Score']
+# relevant = player_stats[player_stats.columns.intersection(relevant_columns)]
+# relevant2 = player2_stats[player2_stats.columns.intersection(relevant_columns)]
+# frames = [relevant, relevant2]
+# for i in range(len(frames)):
+#     frames[i]['Round'] = frames[i]['Round'].str[-1]
+#     frames[i]['Venue'] = frames[i]['Venue'].replace(r'Home', '1', regex=True)
+#     frames[i]['Venue'] = frames[i]['Venue'].replace(r'Away', '0', regex=True)
+#     frames[i]['Venue'] = frames[i]['Venue'].astype(float)
+#     frames[i] = frames[i][frames[i].Round != 'e']
+#     frames[i] = frames[i][frames[i].Round != 'd']
+#     frames[i]['Round'] = frames[i]['Round']
 
-# test it
-from scoring_players import scorer, exhaustion, players_in_match, player_form, opponent_team_form
-
-pd.options.mode.chained_assignment = None  # default='warn'
-
-path = 'csvs/Patrick-van-Aanholt/2019-2020/summary.csv'
-path2 = 'csvs/Aaron-Cresswell/2019-2020/summary.csv'
-player_stats, player2_stats = pd.read_csv(path), pd.read_csv(path2)
-player_stats['FPL Score'] = player_stats.apply(scorer, axis=1)
-player2_stats['FPL Score'] = player_stats.apply(scorer, axis=1)
-relevant_columns = ['Round', 'Venue', 'FPL Score']
-relevant = player_stats[player_stats.columns.intersection(relevant_columns)]
-relevant2 = player2_stats[player2_stats.columns.intersection(relevant_columns)]
-frames = [relevant, relevant2]
-for i in range(len(frames)):
-    frames[i]['Round'] = frames[i]['Round'].str[-1]
-    frames[i]['Venue'] = frames[i]['Venue'].replace(r'Home', '1', regex=True)
-    frames[i]['Venue'] = frames[i]['Venue'].replace(r'Away', '0', regex=True)
-    frames[i]['Venue'] = frames[i]['Venue'].astype(float)
-    frames[i] = frames[i][frames[i].Round != 'e']
-    frames[i] = frames[i][frames[i].Round != 'd']
-    frames[i]['Round'] = frames[i]['Round']
-
-mask = ~relevant['Round'].apply(lambda x: any(char.isalpha() for char in x))
-mask2 = ~relevant2['Round'].apply(lambda x: any(char.isalpha() for char in x))
-relevant = relevant[mask]
-relevant2 = relevant[mask2]
-X = relevant[relevant.columns.intersection(['Round', 'Venue'])].values
-y_1 = relevant['FPL Score'].values
-X_2 = relevant2[relevant2.columns.intersection(['Round', 'Venue'])].values
-y_2 = relevant2['FPL Score'].values
-
-rounds = min(len(y_1), len(y_2))
-X, y = X[:rounds, :], y_1[:rounds]
-X_2, y_2 = X_2[:rounds, :], y_2[:rounds]
-data = np.stack((X, X_2, X))
-data = np.transpose(data, (2, 0, 1)).astype(float)
-y = np.row_stack((y, y_2, y))[np.newaxis, :, :]
-print(data.shape)
-train_lstm(X=data, Y=y, learning_rate=0.1, num_epochs=10)
+# mask = ~relevant['Round'].apply(lambda x: any(char.isalpha() for char in x))
+# mask2 = ~relevant2['Round'].apply(lambda x: any(char.isalpha() for char in x))
+# relevant = relevant[mask]
+# relevant2 = relevant[mask2]
+# X = relevant[relevant.columns.intersection(['Round', 'Venue'])].values
+# y_1 = relevant['FPL Score'].values
+# X_2 = relevant2[relevant2.columns.intersection(['Round', 'Venue'])].values
+# y_2 = relevant2['FPL Score'].values
+#
+# rounds = min(len(y_1), len(y_2))
+# X, y = X[:rounds, :], y_1[:rounds]
+# X_2, y_2 = X_2[:rounds, :], y_2[:rounds]
+# data = np.stack((X, X_2, X))
+# data = np.transpose(data, (2, 0, 1)).astype(float)
+# y = np.row_stack((y, y_2, y))[np.newaxis, :, :]
+# print(data.shape, y.shape)
+# train_lstm(X=data, Y=y, learning_rate=0.1, num_epochs=10)
 
 # n_a = 4
 # m = data.shape[1]
