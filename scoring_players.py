@@ -185,3 +185,15 @@ def bonus_points_distributor(all_players):
     # partial_bnp = player/total_points * 6
     return
     # etc
+
+def most_played_pos(input_list):
+    frequency_dict = {}
+
+    for element in input_list:
+        if element in frequency_dict:
+            frequency_dict[element] += 1
+        else:
+            frequency_dict[element] = 1
+    most_frequent_element = max(frequency_dict, key=frequency_dict.get)
+
+    return most_frequent_element
