@@ -35,6 +35,59 @@ def series_to_supervised(data, n_in=1, n_out=1, dropnan=True):
         agg.dropna(inplace=True)
     return agg
 
+matches = os.listdir('matches')
+print(matches[0])
+
+
+for i, match in enumerate(matches):
+    with open('matches/'+match, 'r') as file:
+        # Read the content of the file line by line and create a list
+        players = file.readlines()
+    if len(players) == 0:
+        print(0)
+        continue
+    #print(players[0].replace('\\', '/'))
+    match_ref = match.replace('_', '/')
+    data = pd.read_csv(players[0].replace('\\', '/').strip())
+    #print(match_ref)
+    team_1 = data.loc[data['Match Report'] == match_ref, 'Squad'].values[0]
+    team_2 = data.loc[data['Match Report'] == match_ref, 'Opponent'].values[0]
+    #print(team_1, team_2)
+    team_1_form, team_2_form = 0, 0
+    n_1_players, n_2_players = 0, 0
+    for player in players:
+        data = pd.read_csv(player.replace('\\', '/').strip())
+        player_team = data.loc[data['Match Report'] == match_ref, 'Squad'].values[0]
+
+        if player_team == team_1:
+            n_1_players+=1
+            team_1_form+=data.loc[data['Match Report'] == match_ref, 'Form'].values[0]
+        elif player_team ==team_2:
+            n_2_players += 1
+            team_2_form += data.loc[data['Match Report'] == match_ref, 'Form'].values[0]
+    team_1_form = team_1_form/n_1_players
+    team_2_form = team_2_form/n_2_players
+    #print(team_1_form, team_2_form)
+    for player in players:
+        data = pd.read_csv(player.replace('\\', '/').strip())
+        player_team = data.loc[data['Match Report'] == match_ref, 'Squad'].values[0]
+        if player_team == team_1:
+            opponent_form = team_2_form
+        elif player_team == team_2:
+            opponent_form = team_1_form
+        else:
+            print('Player team:', player_team, 'teams:', team_1, ',', team_2)
+            raise ValueError()
+        if 'Opponent form' not in data:
+            data['Opponent form'] = 0.5
+            data.loc[data['Match Report'] == match_ref, 'Opponent form'] = opponent_form
+
+        else:
+            data.loc[data['Match Report'] == match_ref, 'Opponent form'] = opponent_form
+        print(player.replace('\\', '/').strip())
+        data.to_csv(player.replace('\\', '/').strip())
+        #print(data['Opponent form'].values)
+    print('Progress: match {0}/{1}'.format(i, len(matches)))
 
 # players_in_match(1, 2)
 path = 'csvs/Patrick-van-Aanholt/2019-2020/summary.csv'
@@ -43,13 +96,6 @@ print(all_players)
 # for player in all_players:
 #     form = player_form(pd.read_csv(player))
 #     form.to_csv(player)
-all_players = [all_players[0]]
-print(all_players[0])
-
-for player in all_players:
-    season = player[0].split('\\summary.csv')[0][-9:]
-    opponent_form = opponent_team_form(season, pd.read_csv(player))
-    opponent_form.to_csv(player)
 
 a=b
 player_stats = pd.read_csv(path)
