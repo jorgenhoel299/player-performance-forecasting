@@ -4,11 +4,19 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 from lstm2 import train_lstm
-from scoring_players import scorer, most_played_pos
+from scoring_players import scorer
 import datetime
 from sklearn.model_selection import train_test_split
 
-pd.options.mode.chained_assignment = None  # default='warn'
+# setting up for nice plots
+plt.rcParams['text.usetex'] = True
+plt.rcParams['pgf.rcfonts'] = False
+plt.rcParams['pgf.preamble'] = r'\usepackage{amsmath}'
+plt.switch_backend('pgf')
+plt.rcParams.update({'font.size': 12})
+plt.rcParams['pgf.texsystem'] = 'pdflatex'
+
+pd.options.mode.chained_assignment = None  # default='warn' # mute pandas warnings
 attackers = []
 days_interval = []
 fpl_scores = []
@@ -29,6 +37,7 @@ y = np.zeros((1, min_rounds))
 
 first = 1
 # preparing data and labels
+
 for j, season in enumerate(seasons):
     for i, attacker in enumerate(attackers):
 
@@ -41,7 +50,6 @@ for j, season in enumerate(seasons):
         if df_premier.shape[0] < min_rounds:
             continue
 
-        position = most_played_pos(df["Pos"])
         date_column = df["Date"]
         #min_played.append(df["Min"].tolist())
         #start_column = df["Start"]
@@ -76,6 +84,20 @@ all_indices = list(range(data.shape[1]))
 train_ind, test_ind = train_test_split(all_indices, test_size=0.2)
 x_train, x_test = data[:,train_ind,:], data[:,test_ind, :]
 y_train, y_test = y[:,train_ind,:], y[:,test_ind, :]
+num_epochs = 20
+fig, axs = plt.subplots(1, 3, figsize=(15, 5))
+for i, seed in enumerate([11, 22, 33]):
+    np.random.seed(seed)
+    parameters, train_cost, val_cost = train_lstm(X_train=x_train, Y_train=y_train, X_val=x_test, Y_val=y_test, learning_rate=0.1, num_epochs=num_epochs, depth=64, plot=False, random_seed=seed)
+    axs[i].plot(range(num_epochs), train_cost, label='Training Cost')
+    axs[i].plot(range(num_epochs), val_cost, label='Validation Cost')
+    axs[i].set_xlabel('Epochs')
+    axs[i].set_ylabel('Cost')
+    axs[i].set_title('Seed: {}'.format(seed))
+    axs[i].legend()
+plt.tight_layout()
+plt.savefig('seed_comparison_lstm.pdf', format='pdf', bbox_inches='tight')
+
 # print(x_train.shape, x_test.shape, y_train.shape, y_test.shape)
 
-train_lstm(X_train=x_train, Y_train=y_train, X_val=x_test, Y_val=y_test, learning_rate=0.1, num_epochs=20, depth=64)
+#train_lstm(X_train=x_train, Y_train=y_train, X_val=x_test, Y_val=y_test, learning_rate=0.1, num_epochs=20, depth=64)

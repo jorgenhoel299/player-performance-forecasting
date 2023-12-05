@@ -83,7 +83,6 @@ def make_date(match_date):
 
 
 def exhaustion(df):
-    print(df.shape)
     # adds a column with the number of matches where the player played more then 30 minutes
     # Checks 3 most recent matches, highest value possible is 3, lowest 0
     # TODO: test that it works propertly
@@ -110,7 +109,6 @@ def exhaustion(df):
             for i in range(1, 4):
                 matches_played = matches_played + 1 if threshold_date <= make_date(
                     df.iloc[index - i]['Date']) <= match_date else matches_played
-        print(matches_played)
         df.loc[index, ('nr_of_matches_8_days')] = matches_played
     return df
 

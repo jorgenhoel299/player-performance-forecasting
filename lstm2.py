@@ -281,7 +281,7 @@ def lstm_backward(da, caches, y_diff):
 
 
 # FROM GPT
-def initialize_parameters(n_x, n_a, n_y):
+def initialize_parameters(n_x, n_a, n_y, seed):
     """
     Initialize parameters for the LSTM model.
 
@@ -311,6 +311,8 @@ def initialize_parameters(n_x, n_a, n_y):
     Wo = np.random.randn(n_a, n_a + n_x)
     bo = np.zeros((n_a, 1))
     # Output layer parameters
+    if seed is not None:
+        np.random.seed(seed)
     Wy = np.random.randn(n_y, n_a)
     by = np.zeros((n_y, 1))
 
@@ -370,14 +372,14 @@ def compute_cost_gradient(y_pred, y_true, caches):
 
 
 # Training loop with performance plotting
-def train_lstm(X_train, Y_train, X_val, Y_val, learning_rate=0.1, num_epochs=15, depth=64):
+def train_lstm(X_train, Y_train, X_val, Y_val, learning_rate=0.1, num_epochs=15, depth=64, plot=False, random_seed=None):
     n_x, m_train, T_x_train = X_train.shape
     _, m_val, T_x_val = X_val.shape
     n_y = Y_train.shape[0]
     n_a = depth  # Adjust the number of hidden units as needed
 
     # Initialize parameters
-    parameters = initialize_parameters(n_x, n_a, n_y)
+    parameters = initialize_parameters(n_x, n_a, n_y, seed=random_seed)
 
     # Lists to store the cost values for training and validation
     train_costs = []
@@ -410,15 +412,16 @@ def train_lstm(X_train, Y_train, X_val, Y_val, learning_rate=0.1, num_epochs=15,
             print(f"Epoch {epoch}: Training Cost = {train_cost}, Validation Cost = {val_cost}")
 
     # Plot the cost over epochs for both training and validation sets
-    plt.plot(range(num_epochs), train_costs, label='Training Cost')
-    plt.plot(range(num_epochs), val_costs, label='Validation Cost')
-    plt.xlabel('Epochs')
-    plt.ylabel('Cost')
-    plt.title('Training and Validation Costs Over Time')
-    plt.legend()
-    plt.show()
+    if plot:
+        plt.plot(range(num_epochs), train_costs, label='Training Cost')
+        plt.plot(range(num_epochs), val_costs, label='Validation Cost')
+        plt.xlabel('Epochs')
+        plt.ylabel('Cost')
+        plt.title('Training and Validation Costs Over Time')
+        plt.legend()
+        plt.show()
 
-    return parameters
+    return parameters, train_costs, val_costs
 
 # # test it
 # from scoring_players import scorer, exhaustion, players_in_match, player_form, opponent_team_form
