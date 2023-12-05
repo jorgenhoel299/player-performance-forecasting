@@ -136,13 +136,14 @@ def opponent_team_form(season, player):
     for match_round, ref in zip(player['Round'], player['Match Report']):
         print(match_round, ref)
         all_players = players_in_match(season, ref)
+        print(len(all_players))
         all_players = [pd.read_csv(pl) for pl in all_players]
+        print(len(all_players))
         form, i = 0, 0
         for pl in all_players:
-            print('c', pl.loc[pl['Round'] == match_round]['Squad'].values[0],
-                  player.loc[player['Round'] == match_round]['Opponent'].values[0])
-            if pl.loc[pl['Round'] == match_round]['Squad'].values[0] != \
-                    player.loc[player['Round'] == match_round]['Opponent'].values[0]:
+            print('c', pl.loc[pl['Round'] == match_round]['Squad'].values[0], player.loc[player['Round'] == match_round]['Opponent'].values[0])
+            if pl.loc[pl['Round'] == match_round]['Squad'].values[0] != player.loc[player['Round'] == match_round]['Opponent'].values[0]:
+                print('no')
                 continue
             i += 1
             form += pl.loc[pl['Round'] == match_round]['Form'].values[0]
