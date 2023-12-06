@@ -5,3 +5,5 @@
 data*.txt
 __pycache__
 Patrick-van-Aanholt
+figures/
+tables/
