@@ -3,15 +3,15 @@ import pandas as pd
 import os
 from datetime import datetime
 from scoring_players import scorer
-
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 from log_regression import LogisticRegressionTest
-from sklearn import datasets
 
-seasons = ['2023-2024', '2019-2020', '2020-2021', '2021-2022', '2022-2023']
+import joblib
 
+
+seasons = ['2022-2023', '2023-2024']
+#seasons = ['2021-2022', '2022-2023'] '2023-2024', '2019-2020',
 
 def most_played_pos(input_list):
     frequency_dict = {}
@@ -32,7 +32,7 @@ fpl_scores = []
 min_played = []
 start_column = []
 form = []
-with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "positions//goalkeepers.txt"), "r") as f:
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "positions//attackers.txt"), "r") as f:
     for line in f:
         defenders.append(line.strip())
 
@@ -63,7 +63,8 @@ for season in seasons:
                 fpl_scores.append(scorer(df.loc[index - 1]))
                 min_played.append(df.loc[index - 1]["Min"])
                 start_column.append(0 if row["Start"] == "N" else 1)
-                form.append(row["Form"])
+                form.append(df.loc[index - 1]["Form"])
+
 
 days_interval = np.array(days_interval)
 form = np.array(form)
@@ -77,28 +78,35 @@ X = X[~nan_rows]
 
 y = start_column
 y = y[~nan_rows]
-# ---------------------------------------------------------
-# X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
-# model = LogisticRegression()
-# model.fit(X_train, y_train)
-# y_pred = model.predict(X_test)
-# accuracy = accuracy_score(y_test, y_pred)
-# confusion = confusion_matrix(y_test, y_pred)
-# report = classification_report(y_test, y_pred)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.30, random_state=1234)
 
-# print("Accuracy:", accuracy)
-# print("Confusion Matrix:\n", confusion)
-# print("Classification Report:\n", report)
-
-# bc = datasets.load_breast_cancer()
-# X, y = bc.data, bc.target
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=1234)
-
-clf = LogisticRegressionTest(0.001, 1000)
-clf.fit(X_train, y_train)
+clf = LogisticRegressionTest(0.02, 1000)
+clf = joblib.load(os.path.join(os.path.dirname(os.path.abspath(__file__)), "models", "LogisticRegression", "attackers.joblib"))
+# clf.fit(X_train, y_train)
 y_pred = clf.predict(X_test)
 
-def accuracy(y_pred, y_test):
-    return np.sum(y_pred == y_test)/len(y_test)
 
-print(accuracy(y_pred, y_test))
+
+
+accuracy = accuracy_score(y_test, y_pred)
+print("Accuracy:", accuracy)
+
+# Compute precision
+precision = precision_score(y_test, y_pred)
+print("Precision:", precision)
+
+# Compute recall
+recall = recall_score(y_test, y_pred)
+print("Recall:", recall)
+
+# Compute F1 score
+f1 = f1_score(y_test, y_pred)
+print("F1 Score:", f1)
+
+# Compute confusion matrix
+conf_matrix = confusion_matrix(y_test, y_pred)
+print("Confusion Matrix:")
+print(conf_matrix)
+
+# if(accuracy > 0.72):
+#     joblib.dump(clf, os.path.join(os.path.dirname(os.path.abspath(__file__)), "models", "LogisticRegression", "goalkeepers.joblib"))

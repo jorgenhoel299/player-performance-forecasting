@@ -5,8 +5,7 @@ from datetime import datetime
 from sklearn.model_selection import train_test_split
 from scoring_players import scorer
 import matplotlib.pyplot as plt
-import plotly.express as px
-from linear_regression import LinearRegression
+from linear_regression import LinearRegressionOwn
 from lsm import LSM
 
 seasons = ['2019-2020', '2020-2021', '2021-2022', '2022-2023', '2023-2024']
@@ -114,7 +113,7 @@ fig = plt.figure(figsize=(8,6))
 plt.scatter(dataX, dataY, color = "b", marker = "o", s = 30)
 plt.show()
 
-reg = LinearRegression(lr=0.001)
+reg = LinearRegressionOwn(lr=0.001)
 reg.fit(X_train,y_train)
 predictions = reg.predict(X_test)
 

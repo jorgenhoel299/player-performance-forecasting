@@ -1,25 +1,24 @@
 import numpy as np
 
 
+import numpy as np
+
 class LSM:
 
     def __init__(self):
-        self.slope = None
-        self.intercept = None
+        self.coefficients = None
 
     def fit(self, X, y):
-    # Get the number of samples and features
-        X_mean = np.mean(X)
-        y_mean = np.mean(y)
+        # Add a column of ones to X for the intercept term
+        X_with_intercept = np.column_stack((np.ones(X.shape[0]), X))
 
-        num = 0
-        den = 0
-        for i in range(len(X)):
-            num += (X[i] - X_mean)*(y[i] - y_mean)
-            den += (X[i] - X_mean)**2
-        self.slope = num/den
-        self.intercept = y_mean - (self.slope * X_mean)
+        # Calculate coefficients using the normal equation
+        self.coefficients = np.linalg.inv(X_with_intercept.T @ X_with_intercept) @ (X_with_intercept.T @ y)
 
     def predict(self, X):
-        y_pred = np.dot(X, self.slope) + self.intercept
+        # Add a column of ones to X for the intercept term
+        X_with_intercept = np.column_stack((np.ones(X.shape[0]), X))
+
+        # Predict using the coefficients
+        y_pred = X_with_intercept @ self.coefficients
         return y_pred
