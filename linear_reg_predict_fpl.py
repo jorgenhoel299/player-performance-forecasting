@@ -1,3 +1,4 @@
+import joblib
 import numpy as np
 import pandas as pd
 import os
@@ -66,7 +67,7 @@ start_column = []
 form = []
 opponent_form = []
 fpl_scores = []
-with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "positions//attackers.txt"), "r") as f:
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "positions//defenders.txt.txt"), "r") as f:
     for line in f:
         defenders.append(line.strip())
 
@@ -119,7 +120,6 @@ opponent_form = np.array(opponent_form)
 X = np.hstack((
     days_interval.reshape(-1, 1),
     min_played.reshape(-1, 1),
-#    start_column.reshape(-1, 1),
     form.reshape(-1, 1),
     opponent_form.reshape(-1, 1)
 ))
@@ -143,13 +143,11 @@ nan_in_y = np.isnan(y).any()
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=1234)
 
-#plot_stuff(days_interval, min_played, start_column, form, opponent_form, y)
-
 
 reg = LinearRegressionOwn(lr=0.001)
 reg.fit(X_train,y_train)
 predictions = reg.predict(X_test)
-
+# joblib.dump(reg, os.path.join(os.path.dirname(os.path.abspath(__file__)), "models", "LinearRegressionGD", "goalkeepers.joblib"))
 def mse(y_test, predictions):
     return np.mean((y_test-predictions)**2)
 
@@ -157,10 +155,6 @@ def mean_absolute_error(y_test, predictions):
     n = len(y_test)
     mae = np.sum(np.abs(y_test - predictions)) / n
     return mae
-
-# mse = mse(y_test, predictions)
-# print(mse)
-# print(mean_absolute_error(y_test, predictions))
 
 
 sklearn_reg = LinearRegression()
@@ -174,18 +168,18 @@ sklearn_predictions = sklearn_reg.predict(X_test)
 lsm_reg = LSM()
 lsm_reg.fit(X_train, y_train)
 lsm_pred = lsm_reg.predict(X_test)
-
+joblib.dump(lsm_reg, os.path.join(os.path.dirname(os.path.abspath(__file__)), "models", "LinearRegressionLSM", "defenders.joblib"))
 # Calculate MAE for both models
-custom_mae = mean_absolute_error(y_test, custom_predictions)
-sklearn_mae = mean_absolute_error(y_test, sklearn_predictions)
-lsm_mae = mean_absolute_error(y_test, lsm_pred)
-
-custom_mse = mse(y_test, custom_predictions)
-sklearn_mse = mse(y_test, sklearn_predictions)
-lsm_mse = mse(y_test, lsm_pred)
-print("Gradiend descent Linear Regression MAE:", custom_mae)
-print("LSM Regression MAE:", lsm_mae)
-print("Scikit-learn Linear Regression MAE:", sklearn_mae)
-print("Gradiend descent Linear Regression MSE:", custom_mse)
-print("LSM Regression MSE:", lsm_mse)
-print("Scikit-learn Linear Regression MSE:", sklearn_mse)
+# custom_mae = mean_absolute_error(y_test, custom_predictions)
+# sklearn_mae = mean_absolute_error(y_test, sklearn_predictions)
+# lsm_mae = mean_absolute_error(y_test, lsm_pred)
+#
+# custom_mse = mse(y_test, custom_predictions)
+# sklearn_mse = mse(y_test, sklearn_predictions)
+# lsm_mse = mse(y_test, lsm_pred)
+# print("Gradiend descent Linear Regression MAE:", custom_mae)
+# print("LSM Regression MAE:", lsm_mae)
+# print("Scikit-learn Linear Regression MAE:", sklearn_mae)
+# print("Gradiend descent Linear Regression MSE:", custom_mse)
+# print("LSM Regression MSE:", lsm_mse)
+# print("Scikit-learn Linear Regression MSE:", sklearn_mse)

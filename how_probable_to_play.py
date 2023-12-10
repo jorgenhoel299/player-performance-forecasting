@@ -80,7 +80,7 @@ y = start_column
 y = y[~nan_rows]
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.30, random_state=1234)
 
-clf = LogisticRegressionTest(0.02, 1000)
+#clf = LogisticRegressionTest(0.02, 1000)
 clf = joblib.load(os.path.join(os.path.dirname(os.path.abspath(__file__)), "models", "LogisticRegression", "attackers.joblib"))
 # clf.fit(X_train, y_train)
 y_pred = clf.predict(X_test)
