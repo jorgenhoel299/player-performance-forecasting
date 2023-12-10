@@ -190,10 +190,12 @@ def players_in_match(season, match_ref):
     for subdir, dirs, files in os.walk("csvs"):
         if season not in subdir or 'html' in subdir:
             continue
+
         for file in files:
             if 'summary' not in file:
                 continue
             df = pd.read_csv(os.path.join(subdir, file))
             if match_ref in df['Match Report'].values:
                 all_players.append(os.path.join(subdir, file))
+
     return all_players

@@ -3,7 +3,6 @@ import numpy as np
 def sigmoid(x):
     return 1 / (1 + np.exp(-x))
 
-
 class LogisticRegressionTest:
     def __init__(self, learning_rate=0.001, n_iterations=1000):
         self.learning_rate = learning_rate
@@ -20,14 +19,15 @@ class LogisticRegressionTest:
             linear_predictions = np.dot(X, self.weights) + self.bias
             predictions = sigmoid(linear_predictions)
 
-            gradient = (1 / n_samples) * np.dot(X.T, (predictions - y))
+            gradient_weigts = (1 / n_samples) * np.dot(X.T, (predictions - y))
             gradient_bias = (1 / n_samples) * np.sum(predictions - y)
 
-            self.weights = self.weights - self.learning_rate * gradient
+            self.weights = self.weights - self.learning_rate * gradient_weigts
             self.bias = self.bias - self.learning_rate * gradient_bias
 
     def predict(self, X):
         linear_predictions = np.dot(X, self.weights) + self.bias
         y_pred = sigmoid(linear_predictions)
-        #class_pred = [0 if y <= 0.5 else 1 for y in y_pred]
-        return y_pred
+        class_pred = [0 if y <= 0.67 else 1 for y in y_pred]
+        #class_pred = y_pred
+        return class_pred

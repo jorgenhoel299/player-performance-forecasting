@@ -11,12 +11,29 @@ def get_directories_in_path(path):
     return directories
 
 
+def most_played_pos(input_list):
+    frequency_dict = {}
+    for element in input_list:
+        if element in frequency_dict:
+            frequency_dict[element] += 1
+        else:
+            frequency_dict[element] = 1
+    most_frequent_element = max(
+        (key for key, value in frequency_dict.items() if pd.notna(key)),
+        key=frequency_dict.get,
+        default=None
+    )
+
+    return most_frequent_element
+
+
 def get_position(df, player):
-    pos = ""
-    for i in range(len(df)):
-        if (not pd.isna(df.iloc[i]["Pos"])) and len(df.iloc[i].Pos) < 6:
-            pos = df.iloc[i].Pos
-            break
+    pos = most_played_pos(df["Pos"])
+
+    # for i in range(len(df)):
+    #     if (not pd.isna(df.iloc[i]["Pos"])) and len(df.iloc[i].Pos) < 6:
+    #         pos = df.iloc[i].Pos
+    #         break
 
     if "," in pos:
         pos = pos.split(",")[0]
@@ -50,21 +67,24 @@ defenders = []
 midfielderrs = []
 attackers = []
 
-seasons = ["2019-2020", "2020-2021","2021-2022", "2022-2023", "2023-2024"]
+seasons = ["2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024"]
 
 for season in seasons:
     for player in player_names:
-        if player not in already_parsed_player:
-            already_parsed_player.append(player)
-        else:
+        if player in already_parsed_player:
             continue
+        # print(player)
         season_path = os.path.join(folder_path, player, season)
         if os.path.isdir(season_path):
             files = [os.path.join(season_path, f) for f in os.listdir(season_path) if
                      os.path.isfile(os.path.join(season_path, f))]
             file = files[0]
             df = pd.read_csv(file)
+
             position = get_position(df, player)
+            # print(player)
+            if "Takehiro-Tomiyasu" in player:
+                print(position)
             if (position == " "):
                 continue
 
@@ -76,6 +96,7 @@ for season in seasons:
                 attackers.append(player)
             elif position == "Goalkeeper":
                 goalkeepers.append(player)
+            already_parsed_player.append(player)
             # else:
             #     print(df)
 
