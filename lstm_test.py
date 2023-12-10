@@ -1,11 +1,9 @@
 import numpy as np
-from scipy.special import softmax
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
 from lstm2 import train_lstm
 from scoring_players import scorer
-import datetime
 from sklearn.model_selection import train_test_split
 
 # setting up for nice plots
@@ -23,7 +21,7 @@ fpl_scores = []
 min_played = []
 start_column = []
 
-
+# We train the model on attacking players first
 with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "positions//attackers.txt"), "r") as f:
     for line in f:
         attackers.append(line.strip())
@@ -36,8 +34,8 @@ relevant_columns = ['Round', 'Venue', 'FPL Score']
 y = np.zeros((1, min_rounds))
 
 first = 1
-# preparing data and labels
 
+# preparing data and labels
 for j, season in enumerate(seasons):
     for i, attacker in enumerate(attackers):
 
@@ -51,8 +49,6 @@ for j, season in enumerate(seasons):
             continue
 
         date_column = df["Date"]
-        #min_played.append(df["Min"].tolist())
-        #start_column = df["Start"]
         df_premier['FPL Score'] = df_premier.apply(scorer, axis=1)
 
         relevant_data = df_premier[df_premier.columns.intersection(relevant_columns)].head(min_rounds)
@@ -97,7 +93,3 @@ for i, seed in enumerate([11, 22, 33]):
     axs[i].legend()
 plt.tight_layout()
 plt.savefig('seed_comparison_lstm.pdf', format='pdf', bbox_inches='tight')
-
-# print(x_train.shape, x_test.shape, y_train.shape, y_test.shape)
-
-#train_lstm(X_train=x_train, Y_train=y_train, X_val=x_test, Y_val=y_test, learning_rate=0.1, num_epochs=20, depth=64)

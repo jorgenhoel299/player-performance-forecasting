@@ -10,20 +10,10 @@ def lstm_cell_forward(xt, a_prev, c_prev, parameters):
     Implement a single forward step of the LSTM-cell as described in Figure (4)
 
     Arguments:
-    xt -- your input data at timestep "t", numpy array of shape (n_x, m).
+    xt -- input data at timestep "t", numpy array of shape (n_x, m).
     a_prev -- Hidden state at timestep "t-1", numpy array of shape (n_a, m)
     c_prev -- Memory state at timestep "t-1", numpy array of shape (n_a, m)
-    parameters -- python dictionary containing:
-                        Wf -- Weight matrix of the forget gate, numpy array of shape (n_a, n_a + n_x)
-                        bf -- Bias of the forget gate, numpy array of shape (n_a, 1)
-                        Wi -- Weight matrix of the update gate, numpy array of shape (n_a, n_a + n_x)
-                        bi -- Bias of the update gate, numpy array of shape (n_a, 1)
-                        Wc -- Weight matrix of the first "tanh", numpy array of shape (n_a, n_a + n_x)
-                        bc --  Bias of the first "tanh", numpy array of shape (n_a, 1)
-                        Wo -- Weight matrix of the output gate, numpy array of shape (n_a, n_a + n_x)
-                        bo --  Bias of the output gate, numpy array of shape (n_a, 1)
-                        Wy -- Weight matrix relating the hidden-state to the output, numpy array of shape (n_y, n_a)
-                        by -- Bias relating the hidden-state to the output, numpy array of shape (n_y, 1)
+    parameters -- python dictionary with weights and biases
 
     Returns:
     a_next -- next hidden state, of shape (n_a, m)
@@ -73,22 +63,12 @@ def lstm_cell_forward(xt, a_prev, c_prev, parameters):
 
 def lstm_forward(x, a0, parameters):
     """
-    Implement the forward propagation of the recurrent neural network using an LSTM-cell described in Figure (4).
+    Implement the forward propagation of the recurrent neural network.
 
     Arguments:
     x -- Input data for every time-step, of shape (n_x, m, T_x).
     a0 -- Initial hidden state, of shape (n_a, m)
-   parameters -- python dictionary containing:
-                        Wf -- Weight matrix of the forget gate, numpy array of shape (n_a, n_a + n_x)
-                        bf -- Bias of the forget gate, numpy array of shape (n_a, 1)
-                        Wi -- Weight matrix of the update gate, numpy array of shape (n_a, n_a + n_x)
-                        bi -- Bias of the update gate, numpy array of shape (n_a, 1)
-                        Wc -- Weight matrix of the first "tanh", numpy array of shape (n_a, n_a + n_x)
-                        bc -- Bias of the first "tanh", numpy array of shape (n_a, 1)
-                        Wo -- Weight matrix of the output gate, numpy array of shape (n_a, n_a + n_x)
-                        bo -- Bias of the output gate, numpy array of shape (n_a, 1)
-                        Wy -- Weight matrix relating the hidden-state to the output, numpy array of shape (n_y, n_a)
-                        by -- Bias relating the hidden-state to the output, numpy array of shape (n_y, 1)
+   parameters -- python dictionary with weights and biases
 
     Returns:
     a -- Hidden states for every time-step, numpy array of shape (n_a, m, T_x)
@@ -100,8 +80,7 @@ def lstm_forward(x, a0, parameters):
     # Initialize "caches", which will track the list of all the caches
     caches = []
 
-    Wy = parameters[
-        'Wy']  # saving parameters['Wy'] in a local variable in case students use Wy instead of parameters['Wy']
+    Wy = parameters['Wy']
     # Retrieve dimensions from shapes of x and parameters['Wy'] (≈2 lines)
     n_x, m, T_x = np.shape(x)
     n_y, n_a = np.shape(Wy)
@@ -146,23 +125,11 @@ def lstm_cell_backward(da_next, dc_next, cache):
     cache -- cache storing information from the forward pass
 
     Returns:
-    gradients -- python dictionary containing:
-                        dxt -- Gradient of input data at time-step t, of shape (n_x, m)
-                        da_prev -- Gradient w.r.t. the previous hidden state, numpy array of shape (n_a, m)
-                        dc_prev -- Gradient w.r.t. the previous memory state, of shape (n_a, m, T_x)
-                        dWf -- Gradient w.r.t. the weight matrix of the forget gate, numpy array of shape (n_a, n_a + n_x)
-                        dWi -- Gradient w.r.t. the weight matrix of the update gate, numpy array of shape (n_a, n_a + n_x)
-                        dWc -- Gradient w.r.t. the weight matrix of the memory gate, numpy array of shape (n_a, n_a + n_x)
-                        dWo -- Gradient w.r.t. the weight matrix of the output gate, numpy array of shape (n_a, n_a + n_x)
-                        dbf -- Gradient w.r.t. biases of the forget gate, of shape (n_a, 1)
-                        dbi -- Gradient w.r.t. biases of the update gate, of shape (n_a, 1)
-                        dbc -- Gradient w.r.t. biases of the memory gate, of shape (n_a, 1)
-                        dbo -- Gradient w.r.t. biases of the output gate, of shape (n_a, 1)
+    gradients -- python dictionary containing gradients
     """
 
     # Retrieve information from "cache"
     (a_next, c_next, a_prev, c_prev, ft, it, cct, ot, xt, parameters) = cache
-    # print(da_next.shape, a_next.T.shape)
     # Retrieve dimensions from xt's and a_next's shape
     n_x, m = xt.shape
     n_a, m = a_next.shape
@@ -184,10 +151,6 @@ def lstm_cell_backward(da_next, dc_next, cache):
     dbc = np.sum(dcct, axis=1, keepdims=True)
     dbo = np.sum(dot, axis=1, keepdims=True)
 
-    # Gradients for the output layer
-    # dWy = np.dot(da_next, a_next.T)
-    # dby = np.sum(da_next, axis=1, keepdims=True)
-
     # Compute derivatives w.r.t previous hidden state, previous memory state and input..
     da_prev = np.dot(parameters['Wf'][:, :n_a].T, dft) + np.dot(parameters['Wi'][:, :n_a].T, dit) + np.dot(
         parameters['Wc'][:, :n_a].T, dcct) + np.dot(parameters['Wo'][:, :n_a].T, dot)
@@ -197,7 +160,7 @@ def lstm_cell_backward(da_next, dc_next, cache):
 
     # Save gradients in dictionary
     gradients = {"dxt": dxt, "da_prev": da_prev, "dc_prev": dc_prev, "dWf": dWf, "dbf": dbf, "dWi": dWi, "dbi": dbi,
-                 "dWc": dWc, "dbc": dbc, "dWo": dWo, "dbo": dbo}#, "dWy": dWy, "dby": dby}
+                 "dWc": dWc, "dbc": dbc, "dWo": dWo, "dbo": dbo}
     return gradients
 
 
@@ -210,17 +173,7 @@ def lstm_backward(da, caches, y_diff):
     caches -- cache storing information from the forward pass (lstm_forward)
 
     Returns:
-    gradients -- python dictionary containing:
-                        dx -- Gradient of inputs, of shape (n_x, m, T_x)
-                        da0 -- Gradient w.r.t. the previous hidden state, numpy array of shape (n_a, m)
-                        dWf -- Gradient w.r.t. the weight matrix of the forget gate, numpy array of shape (n_a, n_a + n_x)
-                        dWi -- Gradient w.r.t. the weight matrix of the update gate, numpy array of shape (n_a, n_a + n_x)
-                        dWc -- Gradient w.r.t. the weight matrix of the memory gate, numpy array of shape (n_a, n_a + n_x)
-                        dWo -- Gradient w.r.t. the weight matrix of the save gate, numpy array of shape (n_a, n_a + n_x)
-                        dbf -- Gradient w.r.t. biases of the forget gate, of shape (n_a, 1)
-                        dbi -- Gradient w.r.t. biases of the update gate, of shape (n_a, 1)
-                        dbc -- Gradient w.r.t. biases of the memory gate, of shape (n_a, 1)
-                        dbo -- Gradient w.r.t. biases of the save gate, of shape (n_a, 1)
+    gradients -- python dictionary containing gradients
     """
 
     # Retrieve values from the first cache (t=1) of caches.
@@ -244,7 +197,7 @@ def lstm_backward(da, caches, y_diff):
     dbi = np.zeros((n_a, 1))
     dbc = np.zeros((n_a, 1))
     dbo = np.zeros((n_a, 1))
-    # Initialize gradients for the output layer
+    # Gradients for the output layer
     dWy = np.dot(np.transpose(y_diff, (0, 2, 1)), a0.T)
     # print(dWy.shape)
     dWy = np.sum(dWy, axis=1)
@@ -372,11 +325,11 @@ def compute_cost_gradient(y_pred, y_true, caches):
 
 
 # Training loop with performance plotting
-def train_lstm(X_train, Y_train, X_val, Y_val, learning_rate=0.1, num_epochs=15, depth=64, plot=False, random_seed=None):
+def train_lstm(X_train, Y_train, X_val, Y_val, learning_rate=0.1, num_epochs=15, cells=64, plot=False, random_seed=None):
     n_x, m_train, T_x_train = X_train.shape
     _, m_val, T_x_val = X_val.shape
     n_y = Y_train.shape[0]
-    n_a = depth  # Adjust the number of hidden units as needed
+    n_a = cells  # Adjust the number of hidden units as needed
 
     # Initialize parameters
     parameters = initialize_parameters(n_x, n_a, n_y, seed=random_seed)
@@ -422,60 +375,3 @@ def train_lstm(X_train, Y_train, X_val, Y_val, learning_rate=0.1, num_epochs=15,
         plt.show()
 
     return parameters, train_costs, val_costs
-
-# # test it
-# from scoring_players import scorer, exhaustion, players_in_match, player_form, opponent_team_form
-#
-#
-#
-# path = 'csvs/Patrick-van-Aanholt/2019-2020/summary.csv'
-# path2 = 'csvs/Aaron-Cresswell/2019-2020/summary.csv'
-# player_stats, player2_stats = pd.read_csv(path), pd.read_csv(path2)
-# player_stats['FPL Score'] = player_stats.apply(scorer, axis=1)
-# player2_stats['FPL Score'] = player_stats.apply(scorer, axis=1)
-# relevant_columns = ['Round', 'Venue', 'FPL Score']
-# relevant = player_stats[player_stats.columns.intersection(relevant_columns)]
-# relevant2 = player2_stats[player2_stats.columns.intersection(relevant_columns)]
-# frames = [relevant, relevant2]
-# for i in range(len(frames)):
-#     frames[i]['Round'] = frames[i]['Round'].str[-1]
-#     frames[i]['Venue'] = frames[i]['Venue'].replace(r'Home', '1', regex=True)
-#     frames[i]['Venue'] = frames[i]['Venue'].replace(r'Away', '0', regex=True)
-#     frames[i]['Venue'] = frames[i]['Venue'].astype(float)
-#     frames[i] = frames[i][frames[i].Round != 'e']
-#     frames[i] = frames[i][frames[i].Round != 'd']
-#     frames[i]['Round'] = frames[i]['Round']
-
-# mask = ~relevant['Round'].apply(lambda x: any(char.isalpha() for char in x))
-# mask2 = ~relevant2['Round'].apply(lambda x: any(char.isalpha() for char in x))
-# relevant = relevant[mask]
-# relevant2 = relevant[mask2]
-# X = relevant[relevant.columns.intersection(['Round', 'Venue'])].values
-# y_1 = relevant['FPL Score'].values
-# X_2 = relevant2[relevant2.columns.intersection(['Round', 'Venue'])].values
-# y_2 = relevant2['FPL Score'].values
-#
-# rounds = min(len(y_1), len(y_2))
-# X, y = X[:rounds, :], y_1[:rounds]
-# X_2, y_2 = X_2[:rounds, :], y_2[:rounds]
-# data = np.stack((X, X_2, X))
-# data = np.transpose(data, (2, 0, 1)).astype(float)
-# y = np.row_stack((y, y_2, y))[np.newaxis, :, :]
-# print(data.shape, y.shape)
-# train_lstm(X=data, Y=y, learning_rate=0.1, num_epochs=10)
-
-# n_a = 4
-# m = data.shape[1]
-# a0 = np.zeros((n_a, m))
-#
-# params = initialize_parameters(data.shape[0], n_a, 1)  # n_y = 1 for regression
-#
-# a, y_hat, c, caches = lstm_forward(data, a0, params)
-# print(y_hat.shape[-1])  # .insert(y_hat.shape[-1], 2))
-# # for i, cache in enumerate(caches[0]):
-# #     print(i+1)
-# #     print(cache.shape)
-# da = compute_cost_gradient(y_hat, y, caches)
-# print(da.shape)
-#
-# gradients = lstm_backward(da, caches)

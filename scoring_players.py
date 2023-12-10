@@ -123,31 +123,53 @@ def player_form(player):
     return player
 
 
-def bonus_points(player):
-    # TODO make a more sophisticated way to calculate bnp
-    return 5
 
 
-def opponent_team_form(season, player):
-    player['opponent_form'] = 0.5
-    # find the form of all players on opposing team and take that the average to be the form of the opposing team
-    for match_round, ref in zip(player['Round'], player['Match Report']):
-        print(match_round, ref)
-        all_players = players_in_match(season, ref)
-        print(len(all_players))
-        all_players = [pd.read_csv(pl) for pl in all_players]
-        print(len(all_players))
-        form, i = 0, 0
-        for pl in all_players:
-            print('c', pl.loc[pl['Round'] == match_round]['Squad'].values[0], player.loc[player['Round'] == match_round]['Opponent'].values[0])
-            if pl.loc[pl['Round'] == match_round]['Squad'].values[0] != player.loc[player['Round'] == match_round]['Opponent'].values[0]:
-                print('no')
-                continue
-            i += 1
-            form += pl.loc[pl['Round'] == match_round]['Form'].values[0]
-        player['opponent_form'][player['Round'] == match_round] = form / i
-    return player
+def opponent_form():
+    matches = os.listdir('matches')
+    for i, match in enumerate(matches):
+        with open('matches/'+match, 'r') as file:
+            # Read the content of the file line by line and create a list
+            players = file.readlines()
+        if len(players) == 0:
+            continue
+        match_ref = match.replace('_', '/')
+        data = pd.read_csv(players[0].replace('\\', '/').strip())
+        team_1 = data.loc[data['Match Report'] == match_ref, 'Squad'].values[0]
+        team_2 = data.loc[data['Match Report'] == match_ref, 'Opponent'].values[0]
+        team_1_form, team_2_form = 0, 0
+        n_1_players, n_2_players = 0, 0
+        for player in players:
+            data = pd.read_csv(player.replace('\\', '/').strip())
+            player_team = data.loc[data['Match Report'] == match_ref, 'Squad'].values[0]
 
+            if player_team == team_1:
+                n_1_players+=1
+                team_1_form+=data.loc[data['Match Report'] == match_ref, 'Form'].values[0]
+            elif player_team ==team_2:
+                n_2_players += 1
+                team_2_form += data.loc[data['Match Report'] == match_ref, 'Form'].values[0]
+        team_1_form = team_1_form/n_1_players
+        team_2_form = team_2_form/n_2_players
+        for player in players:
+            data = pd.read_csv(player.replace('\\', '/').strip())
+            player_team = data.loc[data['Match Report'] == match_ref, 'Squad'].values[0]
+            if player_team == team_1:
+                opponent_form = team_2_form
+            elif player_team == team_2:
+                opponent_form = team_1_form
+            else:
+                print('Player team:', player_team, 'teams:', team_1, ',', team_2)
+                raise ValueError()
+            if 'Opponent form' not in data:
+                data['Opponent form'] = 0.5
+                data.loc[data['Match Report'] == match_ref, 'Opponent form'] = opponent_form
+
+            else:
+                data.loc[data['Match Report'] == match_ref, 'Opponent form'] = opponent_form
+            print(player.replace('\\', '/').strip())
+            data.to_csv(player.replace('\\', '/').strip())
+        print('Progress: match {0}/{1}'.format(i, len(matches)))
 
 def results_as_floats(player):
     player['Result_num'] = player['Result']
@@ -175,11 +197,3 @@ def players_in_match(season, match_ref):
             if match_ref in df['Match Report'].values:
                 all_players.append(os.path.join(subdir, file))
     return all_players
-
-
-def bonus_points_distributor(all_players):
-    # Attributes bonus points to ech player in match. total sums to 6
-    total_points = sum(all_players)
-    # partial_bnp = player/total_points * 6
-    return
-    # etc

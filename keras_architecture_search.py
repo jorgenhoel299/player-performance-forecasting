@@ -23,7 +23,7 @@ with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "positions//a
         attackers.append(line.strip())
 
 seasons = ['2019-2020', '2020-2021', '2021-2022', '2022-2023']
-min_rounds = 5
+min_rounds = 20
 
 relevant_columns = ['Venue', 'nr_of_matches_8_days', 'Form', 'Opponent form', 'FPL Score']
 data = np.zeros((len(relevant_columns)-1, 1, min_rounds))
@@ -38,7 +38,6 @@ for j, season in enumerate(seasons):
             df = pd.read_csv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "csvs", attacker, season,"summary.csv"))
         else:
             continue
-        print(df.columns)
         df = exhaustion(df)
         df_premier = df[df['Comp'] == 'Premier League']  # filtering out non-PL games
         if df_premier.shape[0] < min_rounds:
@@ -58,8 +57,7 @@ for j, season in enumerate(seasons):
         #mask = ~relevant_data['Round'].apply(lambda x: any(char.isalpha() for char in x))
         # removing rounds that ends in character, as they are not the Premier League
 
-        #relevant_data = relevant_data[mask]
-        print(relevant_data.columns)
+        #relevant_data = relevant_data[mask
         player_season_data = relevant_data[relevant_data.columns.intersection(relevant_columns[:-1])].values.astype(float).T
 
         if first == 1:
@@ -67,7 +65,6 @@ for j, season in enumerate(seasons):
             y[0, :] += relevant_data['FPL Score'].values
             first = 0
         else:
-            print(data.shape, player_season_data.shape)
             data = np.concatenate([data, player_season_data[:, np.newaxis, :]], axis=1)
             y = np.vstack((y, relevant_data['FPL Score'].values))
 
@@ -88,24 +85,24 @@ min_loss = pd.DataFrame(columns=['cells_first_layer', 'train_loss'])
 for n_cells_1 in [1]+[i for i in range(int(1), int(64) + 1) if i % 4 == 0]:
     print(n_cells_1)
     model = Sequential()
-    model.add(LSTM(n_cells_1, activation='relu', input_shape=(data.shape[1], data.shape[2])))
+    model.add(LSTM(n_cells_1, activation='tanh', input_shape=(data.shape[1], data.shape[2])))
     model.add(Dense(1))  # Output layer for regression
-    model.compile(optimizer='adam', loss='mse', metrics=['mae'])
+    model.compile(optimizer='sgd', loss='mse', metrics=['mae'])
     history = model.fit(x_train, y_train, epochs=15, batch_size=32, validation_split=0.2)
     loss, mae = model.evaluate(x_test, y_test)
     min_val_loss_epoch = np.argmin(history.history['val_loss'])
     new_row = {'cells_first_layer': n_cells_1, 'train_loss': round(mae, 3)}
     min_loss = min_loss._append(new_row, ignore_index=True)
 
-min_loss.to_csv('tables/1_layer_5.csv')
-
+min_loss.to_csv('tables/1_layer_20.csv')
+a=b
 #2 layer
 min_loss = pd.DataFrame(columns=['cells_first_layer', 'cells_second_layer' , 'train_loss'])
 for n_cells_1 in [1]+[i for i in range(int(1), int(64) + 1) if i % 8 == 0]:
     for n_cells_2 in [1]+[i for i in range(int(1), int(64) + 1) if i % 8 == 0]:
 
         model = Sequential()
-        model.add(LSTM(n_cells_1, return_sequences=True, activation='relu', input_shape=(data.shape[1], data.shape[2])))
+        model.add(LSTM(n_cells_1, return_sequences=True, activation='tanh', input_shape=(data.shape[1], data.shape[2])))
         model.add(LSTM(units=n_cells_2))
         model.add(Dense(1))  # Output layer for regression
         model.compile(optimizer='adam', loss='mse', metrics=['mae'])
@@ -123,7 +120,7 @@ for n_cells_1 in [1]+[i for i in range(int(1), int(64) + 1) if i % 16 == 0]:
         for n_cells_3 in [1] + [i for i in range(int(1), int(64) + 1) if i % 16 == 0]:
 
             model = Sequential()
-            model.add(LSTM(n_cells_1, return_sequences=True, activation='relu', input_shape=(data.shape[1], data.shape[2])))
+            model.add(LSTM(n_cells_1, return_sequences=True, activation='tanh', input_shape=(data.shape[1], data.shape[2])))
             model.add(LSTM(units=n_cells_2, return_sequences=True))
             model.add(LSTM(units=n_cells_3))
             model.add(Dense(1))  # Output layer for regression
