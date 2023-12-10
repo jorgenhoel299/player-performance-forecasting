@@ -130,7 +130,7 @@ def bonus_points(player):
 
 def opponent_team_form(season, player):
     player['opponent_form'] = 0.5
-    # find the form of all players on opposing team and take that the average to be the form of the opposing team
+    # find the form of the opposing goal keeper and use take that to be the form of the opposing team
     for match_round, ref in zip(player['Round'], player['Match Report']):
         print(match_round, ref)
         all_players = players_in_match(season, ref)
@@ -168,12 +168,14 @@ def players_in_match(season, match_ref):
     for subdir, dirs, files in os.walk("csvs"):
         if season not in subdir or 'html' in subdir:
             continue
+
         for file in files:
             if 'summary' not in file:
                 continue
             df = pd.read_csv(os.path.join(subdir, file))
             if match_ref in df['Match Report'].values:
                 all_players.append(os.path.join(subdir, file))
+
     return all_players
 
 
